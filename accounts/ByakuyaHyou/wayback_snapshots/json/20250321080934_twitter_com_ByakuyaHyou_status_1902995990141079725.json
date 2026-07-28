@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902995990141079725",
+    "created_at": "2025-03-21T08:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T09:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902995990141079725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1612840032825675777",
+          "start": 3,
+          "username": "liyutingshang"
+        },
+        {
+          "end": 30,
+          "id": "1652398510275166210",
+          "start": 19,
+          "username": "mrfzxi1956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902995990141079725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902988847157543179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liyutingshang: @mrfzxi1956 下次该和我do了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1902995990141079725",
+        "created_at": "2025-03-21T08:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902995990141079725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1612840032825675777",
+              "start": 3,
+              "username": "liyutingshang"
+            },
+            {
+              "end": 30,
+              "id": "1652398510275166210",
+              "start": 19,
+              "username": "mrfzxi1956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902995990141079725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902988847157543179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyutingshang: @mrfzxi1956 下次该和我do了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612840032825675777",
+        "conversation_id": "1902988339189518490",
+        "created_at": "2025-03-21T07:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T08:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902988847157543179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652398510275166210",
+              "start": 0,
+              "username": "mrfzxi1956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902988847157543179",
+        "in_reply_to_user_id": "1652398510275166210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902988339189518490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrfzxi1956 下次该和我do了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 105,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1097
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T15:53:32.000Z",
+        "description": "一个爱涩涩的男生，完全不可爱，一个足控，变态",
+        "id": "1612840032825675777",
+        "location": "成都",
+        "name": "小离雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642918081889718275/Lb4tJhqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 285,
+          "like_count": 16381,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 11746
+        },
+        "username": "liyutingshang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T19:45:03.000Z",
+        "description": "这里是夕宝♥萌新文援♥复活版本（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛15/半小时35，一小时65，可树洞聊天，不抵押，不收语言，只收微信的赞赏码)qq🚪牌号：3875887471",
+        "id": "1652398510275166210",
+        "location": "Kowloon City District",
+        "name": "夕宝（复活版本）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901963522243985408/oMvO2ay4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 40,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "mrfzxi1956",
+        "verified": false
+      }
+    ]
+  }
+}

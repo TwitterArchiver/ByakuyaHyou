@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1850492635422855589",
+    "created_at": "2024-10-27T10:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T11:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850492635422855589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840389044649308160",
+          "start": 3,
+          "username": "Serala_45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850492635422855589",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849746888956039202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serala_45: 噫～真他妈是条贱母狗～🖤❤️明明在法庭上装的那么庄重圣洁～背地里实际上是一条掰尻欠操的发情母狗🖤❤️……\n噫齁齁齁齁～❤️是...母狗，母狗就是欠操❤️，黑爹～🖤❤️黑爹的大鸡吧～♠️啊啊啊啊啊啊啊❤️！母狗要去了啊啊啊啊～❤️噫齁齁齁齁，母狗就是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1850492635422855589].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1850492635422855589",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1850492635422855589"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849746886137442304"
+          ]
+        },
+        "author_id": "1840389044649308160",
+        "conversation_id": "1849746888956039202",
+        "created_at": "2024-10-25T09:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849746888956039202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "BBC"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "肉便器"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AisC3Rmxnp",
+              "end": 178,
+              "expanded_url": "https://x.com/Serala_45/status/1849746888956039202/photo/1",
+              "media_key": "3_1849746886137442304",
+              "start": 155,
+              "url": "https://t.co/AisC3Rmxnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849746888956039202",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 6135,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "噫～真他妈是条贱母狗～🖤❤️明明在法庭上装的那么庄重圣洁～背地里实际上是一条掰尻欠操的发情母狗🖤❤️……\n噫齁齁齁齁～❤️是...母狗，母狗就是欠操❤️，黑爹～🖤❤️黑爹的大鸡吧～♠️啊啊啊啊啊啊啊❤️！母狗要去了啊啊啊啊～❤️噫齁齁齁齁，母狗就是反差钱肏的反差母狗❤️，祈求黑爹使用♠️\n#BBC #肉便器 https://t.co/AisC3Rmxnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 88,
+          "like_count": 687,
+          "listed_count": 0,
+          "tweet_count": 865
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T13:52:22.000Z",
+        "description": "吾乃，昔拉💜Seral🖤～是一名高贵的恶魔少女～💕喜欢收集眷属～🖤，操控傻屄🖤，让那些不知死活的傻屄们跪倒在我的脚底下～🖤欢迎各位不知死活的小家伙们来找我～💗变成我可爱的眷属💜",
+        "id": "1840389044649308160",
+        "location": "傻屄坐垫上～🖤",
+        "name": "昔拉💜Seral🖤",
+        "pinned_tweet_id": "1847544216475640176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840694220916764672/fiE77ek-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 151,
+          "like_count": 298,
+          "listed_count": 8,
+          "tweet_count": 317
+        },
+        "username": "Serala_45",
+        "verified": false
+      }
+    ]
+  }
+}

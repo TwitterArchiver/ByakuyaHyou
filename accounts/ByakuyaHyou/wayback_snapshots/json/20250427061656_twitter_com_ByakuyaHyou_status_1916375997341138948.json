@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916357091964686337"
+      ],
+      "media_source_tweet_id": [
+        "1916357095454347359"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916375997341138948",
+    "created_at": "2025-04-27T06:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T07:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916375997341138948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "文爱"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "文媛"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7jnKm2FTd",
+          "end": 138,
+          "expanded_url": "https://x.com/dnggu156261/status/1916357095454347359/photo/1",
+          "media_key": "3_1916357091964686337",
+          "start": 115,
+          "url": "https://t.co/Y7jnKm2FTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916375997341138948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916357095454347359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 主人您好，我是新来的保姆荧妹，对不起哦，我是不接那种事的，主人您这样是不对的哦\n嗯~哈啊~主人的大肉棒~嗯啊~要坏掉了~哈啊~不要~好大好爽~咕~哈啊~肏死荧妹吧~嗯啊~\n#文爱 #文媛 #剧情 https://t.co/Y7jnKm2FTd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916375997341138948].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916375997341138948",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916375997341138948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1916357091964686337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphEnzFbEAEy18C.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916357091964686337"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1916357095454347359",
+        "created_at": "2025-04-27T05:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916357095454347359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "文爱"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "文媛"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7jnKm2FTd",
+              "end": 121,
+              "expanded_url": "https://x.com/dnggu156261/status/1916357095454347359/photo/1",
+              "media_key": "3_1916357091964686337",
+              "start": 98,
+              "url": "https://t.co/Y7jnKm2FTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916357095454347359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 195,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "主人您好，我是新来的保姆荧妹，对不起哦，我是不接那种事的，主人您这样是不对的哦\n嗯~哈啊~主人的大肉棒~嗯啊~要坏掉了~哈啊~不要~好大好爽~咕~哈啊~肏死荧妹吧~嗯啊~\n#文爱 #文媛 #剧情 https://t.co/Y7jnKm2FTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1130,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1338
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 128,
+          "like_count": 5664,
+          "listed_count": 18,
+          "media_count": 88,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

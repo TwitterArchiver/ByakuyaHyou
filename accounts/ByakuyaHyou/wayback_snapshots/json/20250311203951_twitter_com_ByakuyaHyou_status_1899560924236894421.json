@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899560924236894421",
+    "created_at": "2025-03-11T20:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T21:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899560924236894421"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "文爱"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "文媛"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "剧情"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "败北"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899560924236894421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899364422092472658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 好不容易从夜神之国救回来的卡奇娜，由于深渊的侵蚀，夜晚偷偷自慰，最后成为了深渊使徒胯下的母狗\n“哈啊…感谢主人的赏赐…什么战争…哪有主人的赏赐好…他们怎么不懂呢…嗯啊…要去了…啊啊啊…请全部射给贱狗吧…”\n#文爱 #文媛 #剧情 #败北\nhtt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899560924236894421].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899560924236894421",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899560924236894421"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_1899364418691211264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glvl4CMbIAA7scB.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899364418691211264"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1899364422092472658",
+        "created_at": "2025-03-11T07:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899364422092472658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "文爱"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "文媛"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "剧情"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "败北"
+            }
+          ],
+          "urls": [
+            {
+              "description": "明明脑补的时候很瑟，写出来后感觉根本没达到预期",
+              "display_url": "pixiv.net/novel/show.php…",
+              "end": 142,
+              "expanded_url": "https://www.pixiv.net/novel/show.php?id=24245079",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1899364432611790848/mMGsLg86?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1899364432611790848/mMGsLg86?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 119,
+              "status": 200,
+              "title": "[R-18] 最后的巡夜者战争",
+              "unwound_url": "https://www.pixiv.net/novel/show.php?id=24245079",
+              "url": "https://t.co/5WIJSBHcK1"
+            },
+            {
+              "display_url": "pic.x.com/vxaC2xicFp",
+              "end": 166,
+              "expanded_url": "https://x.com/dnggu156261/status/1899364422092472658/photo/1",
+              "media_key": "3_1899364418691211264",
+              "start": 143,
+              "url": "https://t.co/vxaC2xicFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899364422092472658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2751,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "following",
+        "text": "好不容易从夜神之国救回来的卡奇娜，由于深渊的侵蚀，夜晚偷偷自慰，最后成为了深渊使徒胯下的母狗\n“哈啊…感谢主人的赏赐…什么战争…哪有主人的赏赐好…他们怎么不懂呢…嗯啊…要去了…啊啊啊…请全部射给贱狗吧…”\n#文爱 #文媛 #剧情 #败北\nhttps://t.co/5WIJSBHcK1 https://t.co/vxaC2xicFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 97,
+          "like_count": 823,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1005
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，TG请QQ预约哦，欢迎扩列，互推麻烦私信一下，文爱搭子可以看看我，姐妹 @guq1128649   杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "guq1128649"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推私发哦）",
+        "pinned_tweet_id": "1881712428624601327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 117,
+          "like_count": 4964,
+          "listed_count": 16,
+          "media_count": 75,
+          "tweet_count": 5155
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

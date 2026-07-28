@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834864798158426112"
+      ],
+      "media_source_tweet_id": [
+        "1834864961400738251"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835165809897095550",
+    "created_at": "2024-09-15T03:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T04:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835165809897095550"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "男m"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "女s"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "任务指令"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788912347462901760",
+          "start": 3,
+          "username": "JapMrs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmk6wgdcwt",
+          "end": 85,
+          "expanded_url": "https://twitter.com/JapMrs/status/1834864961400738251/photo/1",
+          "media_key": "3_1834864798158426112",
+          "start": 62,
+          "url": "https://t.co/DMK6Wgdcwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835165809897095550",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834864961400738251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JapMrs: 收狗 可认主可做任务 不听话的死妈贱狗别来找我 想被玩的滚过来 有🚪  #男m #女s #任务指令 https://t.co/DMK6Wgdcwt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835165809897095550].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835165809897095550",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835165809897095550"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1834864798158426112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXa_z_kaEAAmuMW.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834864798158426112"
+          ]
+        },
+        "author_id": "1788912347462901760",
+        "conversation_id": "1834864961400738251",
+        "created_at": "2024-09-14T08:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T09:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834864961400738251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男m"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "女s"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "任务指令"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmk6wgdcwt",
+              "end": 73,
+              "expanded_url": "https://twitter.com/JapMrs/status/1834864961400738251/photo/1",
+              "media_key": "3_1834864798158426112",
+              "start": 50,
+              "url": "https://t.co/DMK6Wgdcwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834864961400738251",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8040,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "收狗 可认主可做任务 不听话的死妈贱狗别来找我 想被玩的滚过来 有🚪  #男m #女s #任务指令 https://t.co/DMK6Wgdcwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 80,
+          "like_count": 493,
+          "listed_count": 0,
+          "tweet_count": 601
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T12:42:12.000Z",
+        "description": "收各种无脑大傻逼 不听话的贱逼别来烦我 有🚪 QQ 195348387",
+        "id": "1788912347462901760",
+        "name": "茹dom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828630788054884353/AbUfBkbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6198,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 5,
+          "tweet_count": 1
+        },
+        "username": "JapMrs",
+        "verified": false
+      }
+    ]
+  }
+}

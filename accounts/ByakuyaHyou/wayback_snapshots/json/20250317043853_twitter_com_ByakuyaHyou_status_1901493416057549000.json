@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1901493416057549000",
+    "created_at": "2025-03-17T04:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T05:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901493416057549000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669539094853210112",
+          "start": 3,
+          "username": "36Dxiaomihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901493416057549000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900739810786242838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @36Dxiaomihu: 【兔子小姐的每日臭脚羞辱】\n你这种低贱的垃圾只配在人家脚下跪着充当人形脚垫♡～\n人家每次脱下来的鞋子就用你的鼻子来进行除臭清理，让鞋子里的热气不断刺激你的大脑♡\n人家和其他人在亲热的时候你这只公狗抬头只能看见人家的臭脚～随后被一脚碾在地上，只能…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901493416057549000].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901493416057549000",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901493416057549000"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_1900739702438957056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDIsFZbEAAFhTS.png",
+        "width": 475
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900739793153388549",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDIxXVbcAUBHo5.jpg",
+        "width": 1652
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900739793182748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDIxXcbcAAVi2L.jpg",
+        "width": 1409
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900739793358909440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDIxYGbcAAoaC_.jpg",
+        "width": 1687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900739702438957056",
+            "3_1900739793153388549",
+            "3_1900739793182748672",
+            "3_1900739793358909440"
+          ]
+        },
+        "author_id": "1669539094853210112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900739810786242838",
+        "created_at": "2025-03-15T02:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T03:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900739810786242838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmnKQPSY5k",
+              "end": 161,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1900739810786242838/photo/1",
+              "media_key": "3_1900739702438957056",
+              "start": 138,
+              "url": "https://t.co/wmnKQPSY5k"
+            },
+            {
+              "display_url": "pic.x.com/wmnKQPSY5k",
+              "end": 161,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1900739810786242838/photo/1",
+              "media_key": "3_1900739793153388549",
+              "start": 138,
+              "url": "https://t.co/wmnKQPSY5k"
+            },
+            {
+              "display_url": "pic.x.com/wmnKQPSY5k",
+              "end": 161,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1900739810786242838/photo/1",
+              "media_key": "3_1900739793182748672",
+              "start": 138,
+              "url": "https://t.co/wmnKQPSY5k"
+            },
+            {
+              "display_url": "pic.x.com/wmnKQPSY5k",
+              "end": 161,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1900739810786242838/photo/1",
+              "media_key": "3_1900739793358909440",
+              "start": 138,
+              "url": "https://t.co/wmnKQPSY5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900739810786242838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 7952,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "following",
+        "text": "【兔子小姐的每日臭脚羞辱】\n你这种低贱的垃圾只配在人家脚下跪着充当人形脚垫♡～\n人家每次脱下来的鞋子就用你的鼻子来进行除臭清理，让鞋子里的热气不断刺激你的大脑♡\n人家和其他人在亲热的时候你这只公狗抬头只能看见人家的臭脚～随后被一脚碾在地上，只能和人家的脚底亲吻w—图上完整版 https://t.co/wmnKQPSY5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 98,
+          "like_count": 868,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1048
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T02:55:26.000Z",
+        "description": "欢迎小可爱们私信互推和扩列哦♡\n欢迎小狗们来兔兔的脚下上供发情♡\n让人家用脚把你这个垃圾贱种的肉棒踩坏♡\n把你的低级的贱种基因在兔兔的足下碾碎♡\n给人家臭脚除臭♡让气味进入你的大脑里♡\n成为人家的脚垫奴隶~一边上供一边被踩喷~\n臭脚踩脸♡气味洗脑♡羞辱蹂躏♡\n兔兔的门牌Q：2757227747 门费：20r",
+        "id": "1669539094853210112",
+        "name": "兔子小姐🔞",
+        "pinned_tweet_id": "1900739810786242838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820375164997292032/op9-8-hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 764,
+          "like_count": 1282,
+          "listed_count": 14,
+          "media_count": 52,
+          "tweet_count": 244
+        },
+        "username": "36Dxiaomihu",
+        "verified": false
+      }
+    ]
+  }
+}

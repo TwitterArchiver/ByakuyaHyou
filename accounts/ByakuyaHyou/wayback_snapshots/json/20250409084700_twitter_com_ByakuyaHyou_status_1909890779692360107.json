@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909890779692360107",
+    "created_at": "2025-04-09T08:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909890779692360107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909890779692360107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901199829897973939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 空荡荡的教室只有你一人\n发呆？还是做点什么？\n从桌下钻出的少女打断了你的思路\n柔顺的粉发搭在肩上，遮住了一双明亮的眼睛，嘴里叼着自己的衣角，两边嘴角已经淌下了不少津液，像只祈求主人奖励的小动物\n“这很奇怪嘛～倒不如说～如果你喜欢，我可以为你一个…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909890779692360107].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909890779692360107",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909890779692360107"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1901199821085810689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJrKg7bIAEBElk.jpg",
+        "width": 695
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901199821085810689"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1901199829897973939",
+        "created_at": "2025-03-16T09:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T10:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901199829897973939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gY5aIN02P",
+              "end": 167,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1901199829897973939/photo/1",
+              "media_key": "3_1901199821085810689",
+              "start": 144,
+              "url": "https://t.co/2gY5aIN02P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901199829897973939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1458,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "空荡荡的教室只有你一人\n发呆？还是做点什么？\n从桌下钻出的少女打断了你的思路\n柔顺的粉发搭在肩上，遮住了一双明亮的眼睛，嘴里叼着自己的衣角，两边嘴角已经淌下了不少津液，像只祈求主人奖励的小动物\n“这很奇怪嘛～倒不如说～如果你喜欢，我可以为你一个人这样哦，毕竟……我喜欢你好久啦”\n#文爱 https://t.co/2gY5aIN02P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 115,
+          "like_count": 1056,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1235
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

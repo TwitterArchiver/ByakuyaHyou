@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063186552742965249"
+      ],
+      "media_source_tweet_id": [
+        "2063186559579681180"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2063191321981100242",
+    "created_at": "2026-06-06T09:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063191321981100242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787714778116272128",
+          "start": 3,
+          "username": "Senti_Maur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpN7Qe4cmb",
+          "end": 130,
+          "expanded_url": "https://x.com/Senti_Maur/status/2063186559579681180/photo/1",
+          "media_key": "3_2063186552742965249",
+          "start": 107,
+          "url": "https://t.co/ZpN7Qe4cmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063191321981100242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063186559579681180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Senti_Maur: 我是一个喜欢读结构主义  后结构主义的小女孩，喜欢哲系言辞。身高173 体重53kg 在X这里分享我的日常生活我很开心 希望你们也能获得到自己的快乐，欢迎大家来找我聊天（😈）哦😇😇 https://t.co/ZpN7Qe4cmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063186552742965249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHpPQ2bcAEZeog.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063186552742965249"
+          ],
+          "media_source_tweet_id": [
+            "2063186559579681180"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2063191321981100242",
+        "created_at": "2026-06-06T09:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063191321981100242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787714778116272128",
+              "start": 3,
+              "username": "Senti_Maur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpN7Qe4cmb",
+              "end": 130,
+              "expanded_url": "https://x.com/Senti_Maur/status/2063186559579681180/photo/1",
+              "media_key": "3_2063186552742965249",
+              "start": 107,
+              "url": "https://t.co/ZpN7Qe4cmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063191321981100242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063186559579681180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Senti_Maur: 我是一个喜欢读结构主义  后结构主义的小女孩，喜欢哲系言辞。身高173 体重53kg 在X这里分享我的日常生活我很开心 希望你们也能获得到自己的快乐，欢迎大家来找我聊天（😈）哦😇😇 https://t.co/ZpN7Qe4cmb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063186552742965249"
+          ]
+        },
+        "author_id": "1787714778116272128",
+        "conversation_id": "2063186559579681180",
+        "created_at": "2026-06-06T09:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063186559579681180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpN7Qe4cmb",
+              "end": 114,
+              "expanded_url": "https://x.com/Senti_Maur/status/2063186559579681180/photo/1",
+              "media_key": "3_2063186552742965249",
+              "start": 91,
+              "url": "https://t.co/ZpN7Qe4cmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063186559579681180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个喜欢读结构主义  后结构主义的小女孩，喜欢哲系言辞。身高173 体重53kg 在X这里分享我的日常生活我很开心 希望你们也能获得到自己的快乐，欢迎大家来找我聊天（😈）哦😇😇 https://t.co/ZpN7Qe4cmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 699,
+          "like_count": 1540,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1622
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "｜可爱软萌17岁女高中生一枚 在这里分享可爱日常💖. 喜欢我就来找我聊天吧~｜🚪88有图包｜接爸爸活｜价格表私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sentimenta1es",
+                "end": 23,
+                "expanded_url": "https://t.me/sentimenta1es",
+                "start": 0,
+                "url": "https://t.co/TEIUdrEs9d"
+              }
+            ]
+          }
+        },
+        "id": "1787714778116272128",
+        "location": "Real",
+        "name": "Mirruflex",
+        "pinned_tweet_id": "2060717328116117952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060419726753554432/7E7LD1-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 389,
+          "like_count": 5991,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/TEIUdrEs9d",
+        "username": "Senti_Maur",
+        "verified": true
+      }
+    ]
+  }
+}

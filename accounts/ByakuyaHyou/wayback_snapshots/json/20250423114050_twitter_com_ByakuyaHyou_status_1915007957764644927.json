@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914809161029967872"
+      ],
+      "media_source_tweet_id": [
+        "1914809166268653812"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915007957764644927",
+    "created_at": "2025-04-23T11:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915007957764644927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1095570490230333440",
+          "start": 3,
+          "username": "KAGASACHAN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6qzSjyMTS",
+          "end": 115,
+          "expanded_url": "https://x.com/KAGASACHAN/status/1914809166268653812/photo/1",
+          "media_key": "3_1914809161029967872",
+          "start": 92,
+          "url": "https://t.co/G6qzSjyMTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915007957764644927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914809166268653812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAGASACHAN: 听奥术魔刃半夜被热醒了，起小帐篷\n睡醒了爬起来刷视频\n结果听陶喆的歌听了一个多小时，又爬回床上了\n嗯，不知不觉就快到起床的时间了\n早安，你好，晚安也好 https://t.co/G6qzSjyMTS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915007957764644927].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915007957764644927",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915007957764644927"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1914809161029967872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpLEyW_a4AAOXqG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914809161029967872"
+          ]
+        },
+        "author_id": "1095570490230333440",
+        "conversation_id": "1914809166268653812",
+        "created_at": "2025-04-22T22:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T23:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914809166268653812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6qzSjyMTS",
+              "end": 99,
+              "expanded_url": "https://x.com/KAGASACHAN/status/1914809166268653812/photo/1",
+              "media_key": "3_1914809161029967872",
+              "start": 76,
+              "url": "https://t.co/G6qzSjyMTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914809166268653812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听奥术魔刃半夜被热醒了，起小帐篷\n睡醒了爬起来刷视频\n结果听陶喆的歌听了一个多小时，又爬回床上了\n嗯，不知不觉就快到起床的时间了\n早安，你好，晚安也好 https://t.co/G6qzSjyMTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1094,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1300
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-13T06:28:54.000Z",
+        "description": "你好呀w这里是伞伞w\n别名为终雨澪栖\n欢迎贴贴w  喜欢可爱的猫猫w\n大一生/童话系/雨云系/喜欢云朵和光线\n不切实际的实用主义者\n失落和喜悦来来往往\n作为观察者路过你们的身边",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+WPWhiaLQrtI4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+WPWhiaLQrtI4N2Y1",
+                "start": 0,
+                "url": "https://t.co/yiB2KgL6Pk"
+              }
+            ]
+          }
+        },
+        "id": "1095570490230333440",
+        "location": "Shiyuame Reisei",
+        "name": "TATARA",
+        "pinned_tweet_id": "1869426875384377775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719756212261228544/ZYgqoGsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 924,
+          "like_count": 17545,
+          "listed_count": 4,
+          "media_count": 1192,
+          "tweet_count": 4455
+        },
+        "url": "https://t.co/yiB2KgL6Pk",
+        "username": "KAGASACHAN",
+        "verified": false
+      }
+    ]
+  }
+}

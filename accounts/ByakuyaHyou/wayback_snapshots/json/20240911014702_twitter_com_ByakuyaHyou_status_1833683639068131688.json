@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833683639068131688",
+    "created_at": "2024-09-11T01:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T02:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833683639068131688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "伪娘"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "娼年"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "媚黑"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833683639068131688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833641869735301586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 噫噫噫🖤～十分舒服呢，被黑爹当成肉便器专属的性玩具照顾🖤废物阴蒂被黑爹锁着，拿着电击小玩具奖励着🖤翻着舒服的白眼，露出幸福的阿黑颜🖤穿着色情的服装陪着黑爹逛街，在黑爹的照顾下～彻底屈服在黑爹的大鸡吧🖤\n#伪娘 #娼年 #媚黑 #调教 https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833683639068131688].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833683639068131688",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833683639068131688"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833641865893318656"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1833641869735301586",
+        "created_at": "2024-09-10T23:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T00:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833641869735301586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "伪娘"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "娼年"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "媚黑"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ptbqgw8f9",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1833641869735301586/photo/1",
+              "media_key": "3_1833641865893318656",
+              "start": 117,
+              "url": "https://t.co/3PTBqgw8F9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833641869735301586",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 220,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "噫噫噫🖤～十分舒服呢，被黑爹当成肉便器专属的性玩具照顾🖤废物阴蒂被黑爹锁着，拿着电击小玩具奖励着🖤翻着舒服的白眼，露出幸福的阿黑颜🖤穿着色情的服装陪着黑爹逛街，在黑爹的照顾下～彻底屈服在黑爹的大鸡吧🖤\n#伪娘 #娼年 #媚黑 #调教 https://t.co/3PTBqgw8F9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 81,
+          "like_count": 459,
+          "listed_count": 0,
+          "tweet_count": 554
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "这里是胧酱（也可以叫我胧月❤），是一个可S可M的男娘文媛❤️喜欢剧情❤️指挥🖤调教🖤辱骂🖤榨精🖤上供🖤，什么内容胧酱都会去尽力满足的❤️营业时间为下午到晚上，凌晨想玩的自己滚出提前发消息🖤\n门牌:QQ3988413447，电报https://t.co/HXktQ7jLOK   \n💜主人💜 @sbgznc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 145,
+                "username": "sbgznc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 136,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 113,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          }
+        },
+        "id": "1817852320375250944",
+        "location": "淫荡的压在你身上❤️",
+        "name": "💙胧酱💙（互推）🖤",
+        "pinned_tweet_id": "1832984472461189128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832088963479179265/Gwb2GyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 145,
+          "like_count": 241,
+          "listed_count": 1,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/HXktQ7jLOK",
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

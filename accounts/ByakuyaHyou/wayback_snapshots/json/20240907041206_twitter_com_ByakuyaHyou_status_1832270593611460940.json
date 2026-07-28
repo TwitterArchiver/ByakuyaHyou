@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832270593611460940",
+    "created_at": "2024-09-07T04:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T05:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832270593611460940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832270593611460940",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832201940748661191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 傻逼母畜被夜莹主人彻底掌控了哦齁齁❤️❤️❤️废物男娘的早泄阴蒂夜莹主人用平板锁上了❤️只有两厘米的阴蒂只配被平板锁死❤️每天在屁股上塞上肛塞❤️将自己的一切都交由夜莹主人掌控齁哦哦哦哦❤️努力展现自己被榨取的价值然后被夜莹主人榨干一切齁？！…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832270593611460940].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832270593611460940",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832270593611460940"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832201937552330752"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1832201940748661191",
+        "created_at": "2024-09-06T23:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T00:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832201940748661191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "母畜"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "坐便器"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "废物锁奴"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "无脑上供"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 135,
+              "id": "1223318474807705600",
+              "start": 128,
+              "username": "sbgznc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgz4sqsagi",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1832201940748661191/photo/1",
+              "media_key": "3_1832201937552330752",
+              "start": 158,
+              "url": "https://t.co/Kgz4SqsaGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832201940748661191",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 281,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼母畜被夜莹主人彻底掌控了哦齁齁❤️❤️❤️废物男娘的早泄阴蒂夜莹主人用平板锁上了❤️只有两厘米的阴蒂只配被平板锁死❤️每天在屁股上塞上肛塞❤️将自己的一切都交由夜莹主人掌控齁哦哦哦哦❤️努力展现自己被榨取的价值然后被夜莹主人榨干一切齁？！❤️❤️❤️\n@sbgznc \n#母畜 #坐便器 #废物锁奴 #无脑上供 https://t.co/Kgz4SqsaGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 84,
+          "like_count": 437,
+          "listed_count": 0,
+          "tweet_count": 519
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "门牌号:QQ3988413447，电报https://t.co/HXktQ7jLOK   你好呀，咱是胧酱~一个喜欢各种色色玩法的，小色鬼~（文媛设定女，本体为男娘~），属性是Switch，求支喵~，不涉三喵~（营业时间为下午和晚上♡，深夜凌晨跟提前跟胧酱说一声就行♡）\n💜主人💜 @sbgznc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 141,
+                "username": "sbgznc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 42,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 19,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          }
+        },
+        "id": "1817852320375250944",
+        "location": "月月月月",
+        "name": "💙胧酱💙（互推）💜（夜莹大人的榨金坐便器）",
+        "pinned_tweet_id": "1831260592113672382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832088963479179265/Gwb2GyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 129,
+          "like_count": 173,
+          "listed_count": 0,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/HXktQ7jLOK",
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

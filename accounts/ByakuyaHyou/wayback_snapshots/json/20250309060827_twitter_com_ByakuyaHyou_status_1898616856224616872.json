@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898616856224616872",
+    "created_at": "2025-03-09T06:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898616856224616872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898616856224616872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898588350690603444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 在粗暴种付位打桩灌精的姿势下只能看到一名女性两条圆润饱满~腴而不肥的修长美腿~被大鸡巴黑爹轻易地压在了胯下呢~完全就是一副任人宰割的母猪骚妈模\n样呢🖤\n巨根咕叽咕叽撑满身上欲求不满母畜骚妈肉穴🖤\n而你~只能看到美足在忍耐快感时蜷\n缩着脚趾~发出骚浪淫荡的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898616856224616872].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898616856224616872",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898616856224616872"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60688,
+        "height": 480,
+        "media_key": "7_1898588316624367616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898588316624367616/pu/img/P2NKzacaj8A3S53A.jpg",
+        "public_metrics": {
+          "view_count": 90
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898588316624367616/pu/vid/avc1/270x480/QKl7OUOH2knt_Qha.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898588316624367616/pu/pl/Uh5ePCKJpdJSS623.m3u8?tag=12"
+          }
+        ],
+        "width": 270
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1898588319069650944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkkBFzaQAA3ybi.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898588316624367616",
+            "3_1898588319069650944"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898588350690603444",
+        "created_at": "2025-03-09T04:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898588350690603444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "媚黑女王"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文爱"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "恋足"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "臭袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XyWHKSV5c",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1898588350690603444/video/1",
+              "media_key": "7_1898588316624367616",
+              "start": 149,
+              "url": "https://t.co/0XyWHKSV5c"
+            },
+            {
+              "display_url": "pic.x.com/0XyWHKSV5c",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1898588350690603444/video/1",
+              "media_key": "3_1898588319069650944",
+              "start": 149,
+              "url": "https://t.co/0XyWHKSV5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898588350690603444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 176,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在粗暴种付位打桩灌精的姿势下只能看到一名女性两条圆润饱满~腴而不肥的修长美腿~被大鸡巴黑爹轻易地压在了胯下呢~完全就是一副任人宰割的母猪骚妈模\n样呢🖤\n巨根咕叽咕叽撑满身上欲求不满母畜骚妈肉穴🖤\n而你~只能看到美足在忍耐快感时蜷\n缩着脚趾~发出骚浪淫荡的喘息🖤\n#媚黑女王 #文爱 #恋足 #臭袜 https://t.co/0XyWHKSV5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 97,
+          "like_count": 793,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 984
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥pixiv上有自己的作品，可以看看哦♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 141,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 442
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

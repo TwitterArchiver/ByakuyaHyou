@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1933197863355646243",
+    "created_at": "2025-06-12T16:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T17:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933197863355646243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1667776538228690944",
+          "start": 3,
+          "username": "Jiewithfulluv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933197863355646243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932856828708467018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiewithfulluv2: 吸满雌汁半嵌入腚沟的内裤、堪堪遮住奶头、费劲夹起的未发育贫乳、踮脚拱屄连带头上猪耳扇动：比起故作成熟的打扮，直白的布料果然更适合小鬼。\n稚嫩脸上不甘被渴望裹挟倒激起男人的恶趣味，被拉拉项圈戏谑道\n“腿开大点、再说句挑衅的话呀？”\n\n却因为…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933197863355646243].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933197863355646243",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933197863355646243"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_1932856820995145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLjCbkbQAAljrD.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932856820995145728"
+          ]
+        },
+        "author_id": "1667776538228690944",
+        "conversation_id": "1932856828708467018",
+        "created_at": "2025-06-11T17:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T18:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932856828708467018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mjna2bCk32",
+              "end": 169,
+              "expanded_url": "https://x.com/Jiewithfulluv2/status/1932856828708467018/photo/1",
+              "media_key": "3_1932856820995145728",
+              "start": 146,
+              "url": "https://t.co/Mjna2bCk32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932856828708467018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 402,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "吸满雌汁半嵌入腚沟的内裤、堪堪遮住奶头、费劲夹起的未发育贫乳、踮脚拱屄连带头上猪耳扇动：比起故作成熟的打扮，直白的布料果然更适合小鬼。\n稚嫩脸上不甘被渴望裹挟倒激起男人的恶趣味，被拉拉项圈戏谑道\n“腿开大点、再说句挑衅的话呀？”\n\n却因为被钩出猪鼻只能哈气发出可笑雌吼\n“齁哦♡”\n#雌小鬼 https://t.co/Mjna2bCk32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 119,
+          "like_count": 1251,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1458
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:11:40.000Z",
+        "description": "这里是一具新躯体 /常态雌小鬼/m/痴臭反差/恋父慕强/体型差/肛交/客人请按门牌: 1352179627/电报:https://t.co/5SehIY20PA来拜访（请有点礼貌并且记得带上气味浓郁的腋下、口腔或是裆部）请品尝咱后多多关心吧 ps:互推的宝宝欢迎欢迎^ ^",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Jiewithfuluv",
+                "end": 80,
+                "expanded_url": "http://t.me/Jiewithfuluv",
+                "start": 57,
+                "url": "https://t.co/5SehIY20PA"
+              }
+            ]
+          }
+        },
+        "id": "1667776538228690944",
+        "location": "台湾",
+        "name": "文援🌰本间婕（雌小鬼ver.",
+        "pinned_tweet_id": "1932856828708467018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667778506917543937/HgPqnVOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 53,
+          "like_count": 434,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 106
+        },
+        "username": "Jiewithfulluv2",
+        "verified": false
+      }
+    ]
+  }
+}

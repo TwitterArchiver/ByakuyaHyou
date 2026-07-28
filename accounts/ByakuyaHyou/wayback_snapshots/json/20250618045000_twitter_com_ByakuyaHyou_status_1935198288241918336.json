@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1935198288241918336",
+    "created_at": "2025-06-18T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935198288241918336"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "语调"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "女s"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "atm"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "粗口"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "ntr"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935198288241918336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934698934624231876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 阿拉～像你这种贱狗狗～妈妈只需要说，贱狗狗自己爬过来～然后像个傻逼一样直接吐～狗狗就屁颠屁颠忍不住吧自己的工资上贡给妈妈～🖤真是废物呢～🖤就算不需要说话～只需要踩一下狗狗就直接忍不住吐了呢噗嗤～\n#语调 #女s #atm #粗口 #ntr #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1934698931797237760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlubZEaIAAF56s.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1935198288241918336",
+        "created_at": "2025-06-18T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935198288241918336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "语调"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "女s"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "atm"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "粗口"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "ntr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935198288241918336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934698934624231876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 阿拉～像你这种贱狗狗～妈妈只需要说，贱狗狗自己爬过来～然后像个傻逼一样直接吐～狗狗就屁颠屁颠忍不住吧自己的工资上贡给妈妈～🖤真是废物呢～🖤就算不需要说话～只需要踩一下狗狗就直接忍不住吐了呢噗嗤～\n#语调 #女s #atm #粗口 #ntr #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934698931797237760"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1934698934624231876",
+        "created_at": "2025-06-16T19:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934698934624231876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "语调"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "女s"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "atm"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "粗口"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "ntr"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "绿帽"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "上贡"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "四爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "扶她"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "辱骂"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHSyHMzw43",
+              "end": 172,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1934698934624231876/photo/1",
+              "media_key": "3_1934698931797237760",
+              "start": 149,
+              "url": "https://t.co/hHSyHMzw43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934698934624231876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5218,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "阿拉～像你这种贱狗狗～妈妈只需要说，贱狗狗自己爬过来～然后像个傻逼一样直接吐～狗狗就屁颠屁颠忍不住吧自己的工资上贡给妈妈～🖤真是废物呢～🖤就算不需要说话～只需要踩一下狗狗就直接忍不住吐了呢噗嗤～\n#语调 #女s #atm #粗口 #ntr #绿帽 #上贡 #四爱 #扶她 #萝莉s #辱骂 #羞辱 https://t.co/hHSyHMzw43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1262,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1468
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 12,
+          "like_count": 3925,
+          "listed_count": 10,
+          "media_count": 116,
+          "tweet_count": 4783
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

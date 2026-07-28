@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899349747749556582",
+    "created_at": "2025-03-11T06:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T07:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899349747749556582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1786654120105189376",
+          "start": 3,
+          "username": "yangyang101051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899349747749556582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898761600544522310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyang101051: （身为高贵的女王，俯视着跪在地上卑微的废物们）看看你们这群下贱的东西，每天除了乞讨还会做什么？连最基本的礼仪都不懂，真是可悲（怜悯瞅着一群废物瑟瑟发抖，却依然不敢有任何怨言的低贱模样沉浸在高高在上的快感之中）想要亲妈祖宗的足底？嗯🖤？自己…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899349747749556582].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899349747749556582",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899349747749556582"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80933,
+        "height": 1280,
+        "media_key": "13_1898761502636834816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898761502636834816/img/ERTr1MbFMKVvxiuG.jpg",
+        "public_metrics": {
+          "view_count": 935
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898761502636834816/vid/avc1/320x568/svIFGBsgvo8X33vr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898761502636834816/vid/avc1/480x852/e78bRpuCW05G8j1t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898761502636834816/vid/avc1/720x1280/u_vqP5-epcWxSYIS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898761502636834816/pl/rzPzri8yLHIgxpkL.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898761502636834816"
+          ]
+        },
+        "author_id": "1786654120105189376",
+        "conversation_id": "1898761600544522310",
+        "created_at": "2025-03-09T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898761600544522310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jpf0v5LaZa",
+              "end": 148,
+              "expanded_url": "https://x.com/yangyang101051/status/1898761600544522310/video/1",
+              "media_key": "13_1898761502636834816",
+              "start": 125,
+              "url": "https://t.co/Jpf0v5LaZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898761600544522310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3531,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "（身为高贵的女王，俯视着跪在地上卑微的废物们）看看你们这群下贱的东西，每天除了乞讨还会做什么？连最基本的礼仪都不懂，真是可悲（怜悯瞅着一群废物瑟瑟发抖，却依然不敢有任何怨言的低贱模样沉浸在高高在上的快感之中）想要亲妈祖宗的足底？嗯🖤？自己爬过来啊🖤 https://t.co/Jpf0v5LaZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 97,
+          "like_count": 819,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1004
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:08:38.000Z",
+        "description": "喜欢对废物贱狗的鸡巴进行折磨，没办法贱狗的鸡巴太没用了，真应该永远锁起来。主人喜欢寸止，强制榨精，辱骂羞辱。玩死你那2cm勃起不足3cm的东西。门牌号：2063460870 文35r/30min 语音66/10min视频120/10min 另出原味 https://t.co/cPHAyIL08h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ranrannvwangda…",
+                "end": 148,
+                "expanded_url": "https://t.me/ranrannvwangdaren",
+                "start": 125,
+                "url": "https://t.co/cPHAyIL08h"
+              }
+            ]
+          }
+        },
+        "id": "1786654120105189376",
+        "location": "Chūgoku, Hiroshima",
+        "name": "文音媛冉冉s（互推.私信）",
+        "pinned_tweet_id": "1895512271767621724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895474258064629760/3h4-uLSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 160,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 148
+        },
+        "username": "yangyang101051",
+        "verified": false
+      }
+    ]
+  }
+}

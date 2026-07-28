@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823026272265719808"
+      ],
+      "media_source_tweet_id": [
+        "1823026531641467101"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826855563554394146",
+    "created_at": "2024-08-23T05:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T06:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826855563554394146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        },
+        {
+          "end": 34,
+          "id": "1812730253313470464",
+          "start": 22,
+          "username": "fuxuan31473"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmaaqda9uo",
+          "end": 90,
+          "expanded_url": "https://twitter.com/dnggu156261/status/1823026531641467101/photo/1",
+          "media_key": "3_1823026272265719808",
+          "start": 67,
+          "url": "https://t.co/PmAaQDa9uo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826855563554394146",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823026531641467101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 被太卜大人@fuxuan31473 驯服了，现在是太卜大人的玩物，是只属于太卜大人的下贱的废物母狗 https://t.co/PmAaQDa9uo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826855563554394146].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826855563554394146",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826855563554394146"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_1823026272265719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUywvF6aUAAjPsy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823026272265719808"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1823026531641467101",
+        "created_at": "2024-08-12T15:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823026531641467101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1812730253313470464",
+              "start": 5,
+              "username": "fuxuan31473"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmaaqda9uo",
+              "end": 73,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1823026531641467101/photo/1",
+              "media_key": "3_1823026272265719808",
+              "start": 50,
+              "url": "https://t.co/PmAaQDa9uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823026531641467101",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2944,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "被太卜大人@fuxuan31473 驯服了，现在是太卜大人的玩物，是只属于太卜大人的下贱的废物母狗 https://t.co/PmAaQDa9uo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 67,
+          "like_count": 255,
+          "listed_count": 0,
+          "tweet_count": 292
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "各种委托都样样精通的旅行者，旅行者总要有名字的，就叫冬瓜吧，可s可m，具体业务看置顶哦，接单号3102301701，不涉三，白天晚上皆可，30r0.5h，60r1h，主人 @fuxuan31473  姐妹 @guq1128649  有触手的姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "fuxuan31473"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "guq1128649"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "xcwnaxida"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "尘歌壶",
+        "name": "旅行者冬瓜（互推）",
+        "pinned_tweet_id": "1823239040210174343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814333574860144640/IvPmJtG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 123,
+          "like_count": 1741,
+          "listed_count": 10,
+          "tweet_count": 1930
+        },
+        "username": "dnggu156261",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T06:05:57.000Z",
+        "description": "这里是文媛姬～符玄~♡是的就是内个呆呆傻傻容易被骗的符玄哟♡所以说～不要以为我呆就想要来欺负人家呢，欺负人家的人最后可都是被榨到一干二净才走掉的哟♡如果有自信的话那么就来吧♡  门牌号：366722102",
+        "id": "1812730253313470464",
+        "name": "符玄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812730418963025920/dEvx53q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "tweet_count": 68
+        },
+        "username": "fuxuan31473",
+        "verified": false
+      }
+    ]
+  }
+}

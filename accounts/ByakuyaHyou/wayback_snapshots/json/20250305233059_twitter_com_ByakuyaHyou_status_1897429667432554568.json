@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897429667432554568",
+    "created_at": "2025-03-05T23:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T00:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897429667432554568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897429667432554568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896802783057396101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 蹲摇摆着臀肉为鸡巴大人口交❤️\n特地挑选了排卵日呢..性瘾婊子💝强制禁欲后交配⭐登场~爆嗦鸡巴下限突破雌媚毕露💜\n再次见到鸡巴大人..非常荣幸能为您服务齁💞\n无...无套？❣️您是知道母狗不会拒绝嘛啊啊啊下限原来越低惹咿咿💜\n光是嘴屄性交都流一地…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897429667432554568].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897429667432554568",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897429667432554568"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_1896802774610034688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlLMEuWbQAA7LRI.jpg",
+        "width": 1457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896802774610034688"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1896802783057396101",
+        "created_at": "2025-03-04T05:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896802783057396101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "母猪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaOw4X1bTE",
+              "end": 173,
+              "expanded_url": "https://x.com/amianjiang/status/1896802783057396101/photo/1",
+              "media_key": "3_1896802774610034688",
+              "start": 150,
+              "url": "https://t.co/EaOw4X1bTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896802783057396101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1124,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "蹲摇摆着臀肉为鸡巴大人口交❤️\n特地挑选了排卵日呢..性瘾婊子💝强制禁欲后交配⭐登场~爆嗦鸡巴下限突破雌媚毕露💜\n再次见到鸡巴大人..非常荣幸能为您服务齁💞\n无...无套？❣️您是知道母狗不会拒绝嘛啊啊啊下限原来越低惹咿咿💜\n光是嘴屄性交都流一地惹..小穴已经准备好了..\n请鸡巴大人进入💗\n#母猪 https://t.co/EaOw4X1bTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 91,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 925
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 32,
+          "like_count": 404,
+          "listed_count": 10,
+          "media_count": 162,
+          "tweet_count": 438
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

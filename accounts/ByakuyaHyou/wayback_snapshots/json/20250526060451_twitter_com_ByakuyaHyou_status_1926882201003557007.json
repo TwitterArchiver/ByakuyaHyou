@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1926882201003557007",
+    "created_at": "2025-05-26T06:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T07:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926882201003557007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794705238500499457",
+          "start": 3,
+          "username": "xurun2504272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926882201003557007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926775403932234049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xurun2504272: 最近的调教完全不用“♡”“🖤”之类的符号甚至连标点符号都不想用，因为加了这些东西的话…\n打个比方好了\n“废物”“废物♡”后者明显更偏情趣甚至连语气感觉都不一样不是吗，可我大部分时候是真心骂您而并不是情趣，为了说明这点专门写条推好了\n希望从我嘴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_1926775314966847488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr1H8MKXIAAaijw.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1926882201003557007",
+        "created_at": "2025-05-26T06:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926882201003557007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794705238500499457",
+              "start": 3,
+              "username": "xurun2504272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926882201003557007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926775403932234049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xurun2504272: 最近的调教完全不用“♡”“🖤”之类的符号甚至连标点符号都不想用，因为加了这些东西的话…\n打个比方好了\n“废物”“废物♡”后者明显更偏情趣甚至连语气感觉都不一样不是吗，可我大部分时候是真心骂您而并不是情趣，为了说明这点专门写条推好了\n希望从我嘴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926775314966847488"
+          ]
+        },
+        "author_id": "1794705238500499457",
+        "conversation_id": "1926775403932234049",
+        "created_at": "2025-05-25T23:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T00:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926775403932234049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnJChuk4jx",
+              "end": 165,
+              "expanded_url": "https://x.com/xurun2504272/status/1926775403932234049/photo/1",
+              "media_key": "3_1926775314966847488",
+              "start": 142,
+              "url": "https://t.co/CnJChuk4jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926775403932234049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 457,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近的调教完全不用“♡”“🖤”之类的符号甚至连标点符号都不想用，因为加了这些东西的话…\n打个比方好了\n“废物”“废物♡”后者明显更偏情趣甚至连语气感觉都不一样不是吗，可我大部分时候是真心骂您而并不是情趣，为了说明这点专门写条推好了\n希望从我嘴里吐出的话能引起您心里除了欲望之外的情绪 https://t.co/CnJChuk4jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1442
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T12:21:04.000Z",
+        "description": "虚拟角色\n🚪3980385046\n发癫里账号@xurun250427",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "xurun250427"
+              }
+            ]
+          }
+        },
+        "id": "1794705238500499457",
+        "location": "流浪",
+        "name": "雪阮",
+        "pinned_tweet_id": "1879787983177757178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901854171805917184/Fdqc4PsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 225,
+          "like_count": 86,
+          "listed_count": 6,
+          "media_count": 90,
+          "tweet_count": 1068
+        },
+        "username": "xurun2504272",
+        "verified": false
+      }
+    ]
+  }
+}

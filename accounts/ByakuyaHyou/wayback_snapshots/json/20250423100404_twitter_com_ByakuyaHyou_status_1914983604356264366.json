@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914983604356264366",
+    "created_at": "2025-04-23T10:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T11:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914983604356264366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914983604356264366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858332525174874398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 『嗯啊...♡好舒服...~♡母狗依依被 被主人使用着...♡！呜喵...♡~！』\n稚嫩双手撑在透明玻璃窗上，粉嫩乳球被挤压变形，软臀被人抓在手心猛猛厚乳发泄信誉，扭着屁屁配合着人坐在胯上♡ 窗外投来不少视线，幼女脸上却没有丝毫羞涩 满脸潮红幸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914983604356264366].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914983604356264366",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914983604356264366"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_1858332521488109568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcoflRna0AAJx3I.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858332521488109568"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1858332525174874398",
+        "created_at": "2024-11-18T02:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T03:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858332525174874398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文媛"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文爱"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "催眠"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "泄欲"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "反差"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "主仆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ6TAaasDK",
+              "end": 175,
+              "expanded_url": "https://x.com/q3233788635/status/1858332525174874398/photo/1",
+              "media_key": "3_1858332521488109568",
+              "start": 152,
+              "url": "https://t.co/jJ6TAaasDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858332525174874398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 9075,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "『嗯啊...♡好舒服...~♡母狗依依被 被主人使用着...♡！呜喵...♡~！』\n稚嫩双手撑在透明玻璃窗上，粉嫩乳球被挤压变形，软臀被人抓在手心猛猛厚乳发泄信誉，扭着屁屁配合着人坐在胯上♡ 窗外投来不少视线，幼女脸上却没有丝毫羞涩 满脸潮红幸福的媚笑♡\n#文媛 #文爱 #催眠 #泄欲 #反差 #主仆 https://t.co/jJ6TAaasDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 115,
+          "like_count": 1090,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1294
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 462,
+          "like_count": 3135,
+          "listed_count": 9,
+          "media_count": 69,
+          "tweet_count": 2821
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

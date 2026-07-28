@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828054066293059584"
+      ],
+      "media_source_tweet_id": [
+        "1828054077789655445"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828060538670108784",
+    "created_at": "2024-08-26T13:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T14:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828060538670108784"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "女s"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "男m"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "调教男m"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "上贡"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "贱狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1726115915870392320",
+          "start": 3,
+          "username": "ElkePetrin48662"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14oq4t4p8w",
+          "end": 101,
+          "expanded_url": "https://twitter.com/ElkePetrin48662/status/1828054077789655445/photo/1",
+          "media_key": "3_1828054066293059584",
+          "start": 78,
+          "url": "https://t.co/14oq4t4P8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828060538670108784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828054077789655445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElkePetrin48662: 欠骂的贱狗跪过来挨骂被主人当皮球一样掌控玩到丧智！  #女s #男m #调教男m #ATM奴 #上贡   #贱狗 https://t.co/14oq4t4P8w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828060538670108784].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828060538670108784",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828060538670108784"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_1828054066293059584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV6NfOObMAADYZa.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828054066293059584"
+          ]
+        },
+        "author_id": "1726115915870392320",
+        "conversation_id": "1828054077789655445",
+        "created_at": "2024-08-26T12:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T13:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828054077789655445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女s"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "男m"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "调教男m"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "上贡"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "贱狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14oq4t4p8w",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ElkePetrin48662/status/1828054077789655445/photo/1",
+              "media_key": "3_1828054066293059584",
+              "start": 57,
+              "url": "https://t.co/14oq4t4P8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828054077789655445",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "欠骂的贱狗跪过来挨骂被主人当皮球一样掌控玩到丧智！  #女s #男m #调教男m #ATM奴 #上贡   #贱狗 https://t.co/14oq4t4P8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 68,
+          "like_count": 298,
+          "listed_count": 0,
+          "tweet_count": 341
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T05:51:24.000Z",
+        "description": "",
+        "id": "1726115915870392320",
+        "name": "甜馨s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828049567033815041/TpVQvm14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ElkePetrin48662",
+        "verified": false
+      }
+    ]
+  }
+}

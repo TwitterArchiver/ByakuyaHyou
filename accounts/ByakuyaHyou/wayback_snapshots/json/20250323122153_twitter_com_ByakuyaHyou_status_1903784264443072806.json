@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903774240186433536"
+      ],
+      "media_source_tweet_id": [
+        "1903774248168198494"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1903784264443072806",
+    "created_at": "2025-03-23T12:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903784264443072806"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "文援"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "足控"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "上贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VcR2aN2ww5",
+          "end": 136,
+          "expanded_url": "https://x.com/KendallRat17471/status/1903774248168198494/photo/1",
+          "media_key": "3_1903774240186433536",
+          "start": 113,
+          "url": "https://t.co/VcR2aN2ww5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903784264443072806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903774248168198494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 把人家喊到办公室来就只是为了吸一口人家臭脚吗？贱王八公狗～狗眼睛都快盯直了呢～♡光是看着祖宗脚心...狗屌就忍不住勃起了呢～媚脚贱畜生♡自己把狗脸贴上来吸吧♡ #文援 #足控 #上贡 https://t.co/VcR2aN2ww5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903784264443072806].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903784264443072806",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903784264443072806"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1903774240186433536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmuQlbbaAAA-Rkg.jpg",
+        "width": 1352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903774240186433536"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1903774248168198494",
+        "created_at": "2025-03-23T11:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903774248168198494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "文援"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "足控"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcR2aN2ww5",
+              "end": 115,
+              "expanded_url": "https://x.com/KendallRat17471/status/1903774248168198494/photo/1",
+              "media_key": "3_1903774240186433536",
+              "start": 92,
+              "url": "https://t.co/VcR2aN2ww5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903774248168198494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "把人家喊到办公室来就只是为了吸一口人家臭脚吗？贱王八公狗～狗眼睛都快盯直了呢～♡光是看着祖宗脚心...狗屌就忍不住勃起了呢～媚脚贱畜生♡自己把狗脸贴上来吸吧♡ #文援 #足控 #上贡 https://t.co/VcR2aN2ww5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 106,
+          "like_count": 938,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1110
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是文援姬北北，擅长调教羞辱角色扮演♡可出原～大号暂封，门牌q3384273525（风险的话可以二维码添加）营业时间8点到凌晨2点~",
+        "id": "1735851723044839424",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1901644108763988426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 1555,
+          "like_count": 43,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 676
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

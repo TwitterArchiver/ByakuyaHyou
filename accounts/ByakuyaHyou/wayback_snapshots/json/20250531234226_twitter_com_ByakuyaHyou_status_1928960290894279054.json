@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928960290894279054",
+    "created_at": "2025-05-31T23:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928960290894279054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928960290894279054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928697222423584966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记11\n完成了送仙典仪后，旅行者急匆匆的赶到黄金屋，然而公子达达利亚却早已在这里等待多时，没有找到神之心的达达利亚误以为是荧妹提前拿走了\n\n不要…我真的没有拿神之心…嗯啊…求你放过我吧…我真的只是刚刚赶到…不要…啊啊啊…要去了…快停…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928960290894279054].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928960290894279054",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928960290894279054"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1928697218233675777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQb5rwaMAEO30-.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928697218233675777"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1928697222423584966",
+        "created_at": "2025-05-31T06:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928697222423584966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文爱"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文媛"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "败北"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pf0ECbF9Hz",
+              "end": 164,
+              "expanded_url": "https://x.com/dnggu156261/status/1928697222423584966/photo/1",
+              "media_key": "3_1928697218233675777",
+              "start": 141,
+              "url": "https://t.co/pf0ECbF9Hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928697222423584966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3242,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记11\n完成了送仙典仪后，旅行者急匆匆的赶到黄金屋，然而公子达达利亚却早已在这里等待多时，没有找到神之心的达达利亚误以为是荧妹提前拿走了\n\n不要…我真的没有拿神之心…嗯啊…求你放过我吧…我真的只是刚刚赶到…不要…啊啊啊…要去了…快停下…\n＃文爱 ＃文媛 ＃败北 ＃剧情 https://t.co/pf0ECbF9Hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 119,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1450
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，接单号3860669556，30r0.5h，不涉三，原铁绝都可以试试，其他角色也可以，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923330987477581824/4qwAQZQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 140,
+          "like_count": 6134,
+          "listed_count": 20,
+          "media_count": 87,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

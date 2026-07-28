@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910322716408000512",
+        "13_1910322716399579137"
+      ],
+      "media_source_tweet_id": [
+        "1910322790647169206",
+        "1910322790647169206"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1910351085371629983",
+    "created_at": "2025-04-10T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910351085371629983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "女s"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "男m"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "775189005319143425",
+          "start": 3,
+          "username": "SMhatre1997"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hn9AlXbkqe",
+          "end": 96,
+          "expanded_url": "https://x.com/SMhatre1997/status/1910322790647169206/video/1",
+          "media_key": "3_1910322716408000512",
+          "start": 73,
+          "url": "https://t.co/hn9AlXbkqe"
+        },
+        {
+          "display_url": "pic.x.com/hn9AlXbkqe",
+          "end": 96,
+          "expanded_url": "https://x.com/SMhatre1997/status/1910322790647169206/video/1",
+          "media_key": "13_1910322716399579137",
+          "start": 73,
+          "url": "https://t.co/hn9AlXbkqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910351085371629983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910322790647169206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SMhatre1997: 你也就只配吃我的剩菜剩饭🤭像你这种畜生吃用我尿浸泡的东西都是赏你...死妈马桶 还不滚进来膜拜 #女s #男m https://t.co/hn9AlXbkqe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910351085371629983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910351085371629983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910351085371629983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1910322716408000512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoLUY6XbsAAsj_Y.jpg",
+        "width": 1044
+      },
+      {
+        "duration_ms": 11633,
+        "height": 1280,
+        "media_key": "13_1910322716399579137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910322716399579137/img/1JlQgxBnyCnE8CLs.jpg",
+        "public_metrics": {
+          "view_count": 190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910322716399579137/vid/avc1/320x568/9bfg5BcKxLfOz4Nw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910322716399579137/vid/avc1/480x852/zJ2hnNAqm1_tLrhR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910322716399579137/vid/avc1/720x1280/F6eQ7jTgupm4HL-K.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910322716399579137/pl/j7JQGRyZT_ovab-Q.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910322716408000512",
+            "13_1910322716399579137"
+          ]
+        },
+        "author_id": "775189005319143425",
+        "conversation_id": "1910322790647169206",
+        "created_at": "2025-04-10T13:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T14:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910322790647169206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "女s"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "男m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hn9AlXbkqe",
+              "end": 79,
+              "expanded_url": "https://x.com/SMhatre1997/status/1910322790647169206/video/1",
+              "media_key": "3_1910322716408000512",
+              "start": 56,
+              "url": "https://t.co/hn9AlXbkqe"
+            },
+            {
+              "display_url": "pic.x.com/hn9AlXbkqe",
+              "end": 79,
+              "expanded_url": "https://x.com/SMhatre1997/status/1910322790647169206/video/1",
+              "media_key": "13_1910322716399579137",
+              "start": 56,
+              "url": "https://t.co/hn9AlXbkqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910322790647169206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1027,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你也就只配吃我的剩菜剩饭🤭像你这种畜生吃用我尿浸泡的东西都是赏你...死妈马桶 还不滚进来膜拜 #女s #男m https://t.co/hn9AlXbkqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 114,
+          "like_count": 1060,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1243
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-12T04:27:16.000Z",
+        "description": "",
+        "id": "775189005319143425",
+        "name": "桃🍑s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804518492638789632/F5ZgoUkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 154,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "SMhatre1997",
+        "verified": false
+      }
+    ]
+  }
+}

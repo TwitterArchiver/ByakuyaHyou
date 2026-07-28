@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1903665906435371192",
+    "created_at": "2025-03-23T04:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T05:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903665906435371192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903665906435371192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903660967063703990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 果然还是这个更加适合你呀~已经可以吃下去这么大的了哟♫好好看着💋\n前面的出口已经开始滴出透明的液体了~掰开屁眼展示给女爹很爽是吗💓\n雌根撵着前列腺顶到彻底变形🖤把你的屁眼都操到外翻扩张坏掉🖤你的鸡巴只能在前面臣服甩动喷出败北精子呢💗\n下次会用更大…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903665906435371192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903665906435371192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903665906435371192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903660957286719489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmspjfva4AEzxTV.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903660957286719489"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1903660967063703990",
+        "created_at": "2025-03-23T04:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T05:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903660967063703990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "四爱"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "扶她"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "雌堕"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "羞辱调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwjUDumIAs",
+              "end": 170,
+              "expanded_url": "https://x.com/amianjiang/status/1903660967063703990/photo/1",
+              "media_key": "3_1903660957286719489",
+              "start": 147,
+              "url": "https://t.co/VwjUDumIAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903660967063703990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "果然还是这个更加适合你呀~已经可以吃下去这么大的了哟♫好好看着💋\n前面的出口已经开始滴出透明的液体了~掰开屁眼展示给女爹很爽是吗💓\n雌根撵着前列腺顶到彻底变形🖤把你的屁眼都操到外翻扩张坏掉🖤你的鸡巴只能在前面臣服甩动喷出败北精子呢💗\n下次会用更大一号的哦🖤\n#四爱 #扶她 #雌堕 #羞辱调教 https://t.co/VwjUDumIAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 106,
+          "like_count": 935,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1108
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 33,
+          "like_count": 431,
+          "listed_count": 13,
+          "media_count": 180,
+          "tweet_count": 462
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939301713405415860",
+    "created_at": "2025-06-29T12:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939301713405415860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939301713405415860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935301734920040844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 昏黄的日光透过窗帘的缝隙照射在卧室的地板上，少女半裸的身体在光照下泛着诱人的光泽。她的长发如瀑布般倾泻而下，遮住了大半个脸庞，却依然能看出那张精致的小脸上挂着的淡淡笑容，修长的手指划过细嫩的美乳，留下几道浅浅的痕迹\n“主人～今天，我想成为您的猎…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939301713405415860].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939301713405415860",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939301713405415860"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1935301731266740231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuSq8FaQAcXB0P.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935301731266740231"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1935301734920040844",
+        "created_at": "2025-06-18T11:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935301734920040844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1Sluot6S4",
+              "end": 154,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1935301734920040844/photo/1",
+              "media_key": "3_1935301731266740231",
+              "start": 131,
+              "url": "https://t.co/T1Sluot6S4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935301734920040844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 649,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "昏黄的日光透过窗帘的缝隙照射在卧室的地板上，少女半裸的身体在光照下泛着诱人的光泽。她的长发如瀑布般倾泻而下，遮住了大半个脸庞，却依然能看出那张精致的小脸上挂着的淡淡笑容，修长的手指划过细嫩的美乳，留下几道浅浅的痕迹\n“主人～今天，我想成为您的猎物......” https://t.co/T1Sluot6S4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1491
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

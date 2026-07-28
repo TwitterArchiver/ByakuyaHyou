@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940696815466316026",
+    "created_at": "2025-07-03T08:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940696815466316026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940696815466316026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913029542463390059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 杂鱼～来玩游戏啦～赢了的话～就让你～\n\n欸……还没说完就扑倒……杂鱼，就是杂鱼，一碰我就射❤️\n\n呜，怎么……怎么还没有结束……臭杂鱼，快从本小姐身体里出去\n\n好……好舒服呜～杂鱼大人请满足我……想要，还想要呜\n\n噫！射了射了……好多呜……杂鱼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940696815466316026].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940696815466316026",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940696815466316026"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1913029535274246144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoxyOgbaIAAdutf.jpg",
+        "width": 709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913029535274246144"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1913029542463390059",
+        "created_at": "2025-04-18T00:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913029542463390059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/707gV9OEjj",
+              "end": 161,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1913029542463390059/photo/1",
+              "media_key": "3_1913029535274246144",
+              "start": 138,
+              "url": "https://t.co/707gV9OEjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913029542463390059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2045,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼～来玩游戏啦～赢了的话～就让你～\n\n欸……还没说完就扑倒……杂鱼，就是杂鱼，一碰我就射❤️\n\n呜，怎么……怎么还没有结束……臭杂鱼，快从本小姐身体里出去\n\n好……好舒服呜～杂鱼大人请满足我……想要，还想要呜\n\n噫！射了射了……好多呜……杂鱼大人～主人～舒服了嘛～还想要呜 https://t.co/707gV9OEjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1500
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

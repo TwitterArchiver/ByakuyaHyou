@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899999747567739332",
+    "created_at": "2025-03-13T01:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T02:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899999747567739332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "扶她"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "巨根"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899999747567739332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899839250268586077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 哼，小东西，你那点可怜的本事也敢跟我比❤️ \n\n看看你那软趴趴的小弟弟，射得跟蚊子撒尿似的，连我的脚边都够不着。而我？随便一甩，精液都能淹了你这废物❤️\n\n跪好了，舔干净我的巨根，别在这丢人现眼了，你永远只能仰望我，乖乖当我的小骚货吧❤️\n#扶她 #巨根…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899999747567739332].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899999747567739332",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899999747567739332"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1899839245818204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2VunFXEAAWhAP.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1899839247491768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2VutUXoAA6U0Z.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899839245818204160",
+            "3_1899839247491768320"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1899839250268586077",
+        "created_at": "2025-03-12T15:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899839250268586077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "扶她"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "巨根"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "精液"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文爱"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "调教"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFPyfrzxYE",
+              "end": 167,
+              "expanded_url": "https://x.com/mrfzxi/status/1899839250268586077/photo/1",
+              "media_key": "3_1899839245818204160",
+              "start": 144,
+              "url": "https://t.co/HFPyfrzxYE"
+            },
+            {
+              "display_url": "pic.x.com/HFPyfrzxYE",
+              "end": 167,
+              "expanded_url": "https://x.com/mrfzxi/status/1899839250268586077/photo/1",
+              "media_key": "3_1899839247491768320",
+              "start": 144,
+              "url": "https://t.co/HFPyfrzxYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899839250268586077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4346,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "哼，小东西，你那点可怜的本事也敢跟我比❤️ \n\n看看你那软趴趴的小弟弟，射得跟蚊子撒尿似的，连我的脚边都够不着。而我？随便一甩，精液都能淹了你这废物❤️\n\n跪好了，舔干净我的巨根，别在这丢人现眼了，你永远只能仰望我，乖乖当我的小骚货吧❤️\n#扶她 #巨根 #精液 #文爱 #调教 #羞辱 https://t.co/HFPyfrzxYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 96,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1014
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，可树洞聊天，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥好弟弟@warfarin_bf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "ByakuyaHyou"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "warfarin_bf"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1899806369383055814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 201,
+          "like_count": 268,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 588
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

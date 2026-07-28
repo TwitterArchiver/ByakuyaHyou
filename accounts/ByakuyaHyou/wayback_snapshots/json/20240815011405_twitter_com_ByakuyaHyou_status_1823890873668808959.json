@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823887970203787264"
+      ],
+      "media_source_tweet_id": [
+        "1823887991045284170"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1823890873668808959",
+    "created_at": "2024-08-15T01:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T02:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823890873668808959"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "AIart"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "AIグラビア"
+        },
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "AI美女"
+        },
+        {
+          "end": 70,
+          "start": 60,
+          "tag": "AIArtwork"
+        },
+        {
+          "end": 78,
+          "start": 71,
+          "tag": "aigirl"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679494149190320128",
+          "start": 3,
+          "username": "XYAngel320"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iourejuijb",
+          "end": 102,
+          "expanded_url": "https://twitter.com/XYAngel320/status/1823887991045284170/photo/1",
+          "media_key": "3_1823887970203787264",
+          "start": 79,
+          "url": "https://t.co/iOuREJUiJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823890873668808959",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823887991045284170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XYAngel320: save me please\n#AIart #AIイラスト #AIグラビア #AI美女 #AIArtwork #aigirl https://t.co/iOuREJUiJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1823887970203787264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU_Acg4a4AA7Un3.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823887970203787264"
+          ],
+          "media_source_tweet_id": [
+            "1823887991045284170"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1823890873668808959",
+        "created_at": "2024-08-15T01:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T02:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823890873668808959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "AIart"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "AIグラビア"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "AI美女"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "AIArtwork"
+            },
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "aigirl"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679494149190320128",
+              "start": 3,
+              "username": "XYAngel320"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iourejuijb",
+              "end": 102,
+              "expanded_url": "https://twitter.com/XYAngel320/status/1823887991045284170/photo/1",
+              "media_key": "3_1823887970203787264",
+              "start": 79,
+              "url": "https://t.co/iOuREJUiJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823890873668808959",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823887991045284170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XYAngel320: save me please\n#AIart #AIイラスト #AIグラビア #AI美女 #AIArtwork #aigirl https://t.co/iOuREJUiJb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823887970203787264"
+          ]
+        },
+        "author_id": "1679494149190320128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1823887991045284170",
+        "created_at": "2024-08-15T01:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T02:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823887991045284170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "AIart"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "AIグラビア"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "AI美女"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "AIArtwork"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "aigirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iourejuijb",
+              "end": 86,
+              "expanded_url": "https://twitter.com/XYAngel320/status/1823887991045284170/photo/1",
+              "media_key": "3_1823887970203787264",
+              "start": 63,
+              "url": "https://t.co/iOuREJUiJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823887991045284170",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "save me please\n#AIart #AIイラスト #AIグラビア #AI美女 #AIArtwork #aigirl https://t.co/iOuREJUiJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 21,
+          "like_count": 33,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T14:13:19.000Z",
+        "description": "From CN.Studying Stable Diffusion.I will appreciate a lot if you can retweet or love my pics.💕my pixiv:真那Angel https://t.co/PYo5l0Qt5N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19648704",
+                "end": 134,
+                "expanded_url": "https://www.pixiv.net/users/19648704",
+                "start": 111,
+                "url": "https://t.co/PYo5l0Qt5N"
+              }
+            ]
+          }
+        },
+        "id": "1679494149190320128",
+        "location": "China",
+        "name": "XYAngel",
+        "pinned_tweet_id": "1792446032091263298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729069196225773568/gFdSJcce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 522,
+          "like_count": 976,
+          "listed_count": 4,
+          "tweet_count": 610
+        },
+        "username": "XYAngel320",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1931362655337668945",
+    "created_at": "2025-06-07T14:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931362655337668945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931362655337668945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930908319591632898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「糟… 糟糕… 绑得太紧了…」\n\n在家的日常，少女觉得只是单纯的自慰有些浪费，从衣柜里拿出久违的绳子跟玩具打算玩自缚~♡\n\n小穴里跳蛋嗡嗡作响，给少女带来快感外两腿也被自己捆紧夹不起来，于是迎来了自己的第一次强制高潮♡\n\n之后，被捆绑的紫灵才意…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931362655337668945].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931362655337668945",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931362655337668945"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_1930908316135497728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsv24hUaoAAAxwR.jpg",
+        "width": 2248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930908316135497728"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1930908319591632898",
+        "created_at": "2025-06-06T08:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930908319591632898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文媛"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "捆绑"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "主视角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liVbDC4fpQ",
+              "end": 168,
+              "expanded_url": "https://x.com/ZiYing12494/status/1930908319591632898/photo/1",
+              "media_key": "3_1930908316135497728",
+              "start": 145,
+              "url": "https://t.co/liVbDC4fpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930908319591632898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3262,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "「糟… 糟糕… 绑得太紧了…」\n\n在家的日常，少女觉得只是单纯的自慰有些浪费，从衣柜里拿出久违的绳子跟玩具打算玩自缚~♡\n\n小穴里跳蛋嗡嗡作响，给少女带来快感外两腿也被自己捆紧夹不起来，于是迎来了自己的第一次强制高潮♡\n\n之后，被捆绑的紫灵才意识到事情的严重性…\n#文媛 #捆绑 #主视角 https://t.co/liVbDC4fpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 119,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1444
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 77,
+          "like_count": 780,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 568
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

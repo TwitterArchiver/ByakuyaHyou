@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047625551075303641",
+    "created_at": "2026-04-24T23:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047814804103168505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1439228056766337028",
+          "start": 0,
+          "username": "YangClinton2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047814804103168505",
+    "in_reply_to_user_id": "1439228056766337028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047625551075303641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangClinton2 肏死你喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 960,
+        "media_key": "13_2047625428928786432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047625428928786432/img/IrcmhNVnbcN3Epq8.jpg",
+        "public_metrics": {
+          "view_count": 4842
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047625428928786432/vid/avc1/320x426/mDBKUEY2z936U0MN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047625428928786432/vid/avc1/480x640/s7aqQUGjWGSv8JU1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047625428928786432/vid/avc1/720x960/4UDbdKTL5dRVSTqx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047625428928786432/pl/d2udnw9cGU5FhX72.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047625551075303641",
+        "created_at": "2026-04-24T23:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047814804103168505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1439228056766337028",
+              "start": 0,
+              "username": "YangClinton2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047814804103168505",
+        "in_reply_to_user_id": "1439228056766337028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047625551075303641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangClinton2 肏死你喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047625428928786432"
+          ]
+        },
+        "author_id": "1439228056766337028",
+        "conversation_id": "2047625551075303641",
+        "created_at": "2026-04-24T10:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047625551075303641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QBk3LADHR",
+              "end": 42,
+              "expanded_url": "https://x.com/YangClinton2/status/2047625551075303641/video/1",
+              "media_key": "13_2047625428928786432",
+              "start": 19,
+              "url": "https://t.co/9QBk3LADHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047625551075303641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 5190,
+          "like_count": 870,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "掀开裙子就出来了呢😋 #男娘 #女装 https://t.co/9QBk3LADHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 235,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1510
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T14:01:35.000Z",
+        "description": "I can’t tell you anything",
+        "id": "1439228056766337028",
+        "location": "Singapore",
+        "name": "Bocchi Jam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934476183821021184/1K8HhG4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 104,
+          "like_count": 291,
+          "listed_count": 19,
+          "media_count": 125,
+          "tweet_count": 151
+        },
+        "username": "YangClinton2",
+        "verified": false
+      }
+    ]
+  }
+}

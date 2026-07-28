@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897870582110470307",
+    "created_at": "2025-03-07T04:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T05:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897870582110470307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1786654120105189376",
+          "start": 3,
+          "username": "yangyang101051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897870582110470307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897699384999153780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyang101051: 又到了蠢狗们发情的时间了～脑子又在意淫着原味丝袜和鞋底自慰了吧？但这种事情是不被允许的呢～蠢狗们只有得到自慰许可才有资格撸管射精哦～♡来吧～为了喷出浓精愿意把一切都献给冉冉吧？把精液..金钱什么的一并上交～♡自愿被偶像大人完全支配射精权、…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897870582110470307].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897870582110470307",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897870582110470307"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57566,
+        "height": 1280,
+        "media_key": "13_1897699293949276160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897699293949276160/img/4S1KqgAZ9T5KN3Ll.jpg",
+        "public_metrics": {
+          "view_count": 130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897699293949276160/vid/avc1/320x568/7rT2B2LeRNKht6DH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897699293949276160/vid/avc1/480x852/J1z2YseKfJxPT_-M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897699293949276160/vid/avc1/720x1280/rj0Fas2aN6JH34bz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897699293949276160/pl/cUh8jgisbPw7spg6.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897699293949276160"
+          ]
+        },
+        "author_id": "1786654120105189376",
+        "conversation_id": "1897699384999153780",
+        "created_at": "2025-03-06T17:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T18:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897699384999153780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hX9yseheJa",
+              "end": 165,
+              "expanded_url": "https://x.com/yangyang101051/status/1897699384999153780/video/1",
+              "media_key": "13_1897699293949276160",
+              "start": 142,
+              "url": "https://t.co/hX9yseheJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897699384999153780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "又到了蠢狗们发情的时间了～脑子又在意淫着原味丝袜和鞋底自慰了吧？但这种事情是不被允许的呢～蠢狗们只有得到自慰许可才有资格撸管射精哦～♡来吧～为了喷出浓精愿意把一切都献给冉冉吧？把精液..金钱什么的一并上交～♡自愿被偶像大人完全支配射精权、消费权～这样就能永远和冉冉活在幸福的世界了～ https://t.co/hX9yseheJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 93,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 954
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:08:38.000Z",
+        "description": "喜欢对废物贱狗的鸡巴进行折磨，没办法贱狗的鸡巴太没用了，真应该永远锁起来。主人喜欢寸止，强制榨精，辱骂羞辱。玩死你那2cm勃起不足3cm的东西。门牌号：2063460870 文35r/30min 语音66/10min视频120/10min 另出原味 https://t.co/cPHAyIL08h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ranrannvwangda…",
+                "end": 148,
+                "expanded_url": "https://t.me/ranrannvwangdaren",
+                "start": 125,
+                "url": "https://t.co/cPHAyIL08h"
+              }
+            ]
+          }
+        },
+        "id": "1786654120105189376",
+        "location": "Chūgoku, Hiroshima",
+        "name": "文音媛冉冉s（互推.私信）",
+        "pinned_tweet_id": "1895512271767621724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895474258064629760/3h4-uLSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 131,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 72
+        },
+        "username": "yangyang101051",
+        "verified": false
+      }
+    ]
+  }
+}

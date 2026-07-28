@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1823195433755459770",
+    "created_at": "2024-08-13T03:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T04:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823195433755459770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823195433755459770",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822808878406660251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 新人文媛探头~工作时间在线~其余时间不定哦~\n可以用文笔来征服这边哒~ 最高可享1折哒~ \n其他项目也可以来讨论~\n门牌：1927861810~ 只接收口令红包哒~  文字功底有跑团4年经验哒~涩涩文爱方面也是可以哒~ 可以语音~其余方面不涉三…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823195433755459770].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823195433755459770",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823195433755459770"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822808151407915008",
+            "3_1822808300171542528"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1822808878406660251",
+        "created_at": "2024-08-12T01:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T02:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822808878406660251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "文爱"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "文媛"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "跑团"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpd30ew1ps",
+              "end": 185,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822808878406660251/photo/1",
+              "media_key": "3_1822808151407915008",
+              "start": 162,
+              "url": "https://t.co/Wpd30ew1PS"
+            },
+            {
+              "display_url": "pic.x.com/wpd30ew1ps",
+              "end": 185,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822808878406660251/photo/1",
+              "media_key": "3_1822808300171542528",
+              "start": 162,
+              "url": "https://t.co/Wpd30ew1PS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822808878406660251",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "新人文媛探头~工作时间在线~其余时间不定哦~\n可以用文笔来征服这边哒~ 最高可享1折哒~ \n其他项目也可以来讨论~\n门牌：1927861810~ 只接收口令红包哒~  文字功底有跑团4年经验哒~涩涩文爱方面也是可以哒~ 可以语音~其余方面不涉三哦~ 欢迎与你的相识~\n（第n次修改，希望不要出错呜）\n#文爱 #文媛 #跑团 https://t.co/Wpd30ew1PS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱哦~\n新晋文媛一枚哦\n各类xp都可以接受哒~接受度高~\n百合也非常喜欢的说~\n期待与你的相遇哒~\n本体是可爱的史莱姆团团哦~可以变成各种样子哒~\n门牌号：1927861810\n文媛60r/h，语音涩涩80/h，可以随时来聊天啦，也欢迎打赏的说~\n电子女友有包周包月业务哒~可以随时询问哦",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

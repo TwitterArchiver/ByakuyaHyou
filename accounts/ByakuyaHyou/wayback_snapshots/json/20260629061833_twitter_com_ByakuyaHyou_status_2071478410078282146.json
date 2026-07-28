@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2071340589401116724",
+    "created_at": "2026-06-29T06:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071478410078282146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1689968344332709888",
+          "start": 0,
+          "username": "shoulinv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071478410078282146",
+    "in_reply_to_user_id": "1689968344332709888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071469899512500341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoulinv 你也好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T06:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071478410078282146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1689968344332709888",
+              "start": 0,
+              "username": "shoulinv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071478410078282146",
+        "in_reply_to_user_id": "1689968344332709888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071469899512500341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoulinv 你也好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689968344332709888",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T05:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071469899512500341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071469899512500341",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071340589401116724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1050,
+          "like_count": 1712,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T11:53:56.000Z",
+        "description": "含糖，重度焦虑患者，非常社恐，欢迎找我聊天，🚪9.9（纯过滤，口令红包）恋人@liuhua512🐧1775721063",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "liuhua512"
+              }
+            ]
+          }
+        },
+        "id": "1689968344332709888",
+        "name": "守妾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759010552331091968/a0qyV338_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 496,
+          "like_count": 153,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "shoulinv",
+        "verified": false
+      }
+    ]
+  }
+}

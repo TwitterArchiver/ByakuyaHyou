@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841170772674691585",
+    "created_at": "2024-10-01T17:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170772674691585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170772674691585",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840779567235219966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 没想到吧？平日里正经的乖乖女居然是媚黑的反色母狗🖤\n纹上媚黑纹身就注定了成为黑爹大鸡吧下骚浪贱货的结局，用手机拍下这一切，让你好好注视着坚挺粗壮的黑鸡吧摆出✌️的反差婊🖤\n对着照片撸的废物蝈蝻，再把浸满爱液的戒指还给你好不好🖤 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841170772674691585].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841170772674691585",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841170772674691585"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840779559400243200"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1840779567235219966",
+        "created_at": "2024-09-30T15:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T16:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840779567235219966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVcS6VaZXF",
+              "end": 137,
+              "expanded_url": "https://x.com/xxx1172303/status/1840779567235219966/photo/1",
+              "media_key": "3_1840779559400243200",
+              "start": 114,
+              "url": "https://t.co/VVcS6VaZXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840779567235219966",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3798,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "没想到吧？平日里正经的乖乖女居然是媚黑的反色母狗🖤\n纹上媚黑纹身就注定了成为黑爹大鸡吧下骚浪贱货的结局，用手机拍下这一切，让你好好注视着坚挺粗壮的黑鸡吧摆出✌️的反差婊🖤\n对着照片撸的废物蝈蝻，再把浸满爱液的戒指还给你好不好🖤 https://t.co/VVcS6VaZXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 592,
+          "listed_count": 0,
+          "tweet_count": 741
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、音频、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 53,
+          "like_count": 296,
+          "listed_count": 7,
+          "tweet_count": 379
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

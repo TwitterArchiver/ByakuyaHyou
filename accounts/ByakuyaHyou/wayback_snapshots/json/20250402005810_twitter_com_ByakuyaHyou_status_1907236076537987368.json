@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907236076537987368",
+    "created_at": "2025-04-02T00:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T01:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907236076537987368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803981725686730753",
+          "start": 3,
+          "username": "Go5Io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907236076537987368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907235549968240944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Go5Io: 像你这样死也不降的女将，本宫自有一套对付你们的手法呢，可不要像其他人一样刚上刑就害怕的尿出来摇头乞降啊\n\n在你脑袋上写下铭文，嘴巴塞入口球。找来下半身的铁棺卡住腿不能动弹，肉穴贴上本宫秘制的符咒，使其永远无法感觉快感。接下来是上半身铁棺连着头和奶头固定，即…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907236076537987368].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907236076537987368",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907236076537987368"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1907235546948337664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnfcn_7agAAGoGW.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907235546948337664"
+          ]
+        },
+        "author_id": "1803981725686730753",
+        "conversation_id": "1907235549968240944",
+        "created_at": "2025-04-02T00:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T01:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907235549968240944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hkYbgFZ54",
+              "end": 166,
+              "expanded_url": "https://x.com/Go5Io/status/1907235549968240944/photo/1",
+              "media_key": "3_1907235546948337664",
+              "start": 143,
+              "url": "https://t.co/7hkYbgFZ54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907235549968240944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "像你这样死也不降的女将，本宫自有一套对付你们的手法呢，可不要像其他人一样刚上刑就害怕的尿出来摇头乞降啊\n\n在你脑袋上写下铭文，嘴巴塞入口球。找来下半身的铁棺卡住腿不能动弹，肉穴贴上本宫秘制的符咒，使其永远无法感觉快感。接下来是上半身铁棺连着头和奶头固定，即使后悔也来不及摇头了\n#文援 https://t.co/7hkYbgFZ54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 108,
+          "like_count": 1007,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1178
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T02:42:21.000Z",
+        "description": "美熟正道盟主、阴阳仙后。前任皓月宫大宫主(现在的二宫主)。\n\n武功是皓月宫的嫡传心法，冰雪宝鉴。被她练到极致纯化升华成冰月神鉴，江湖中的武林神话。\n\n私信没回表示不感兴趣，感兴趣的会掉落门牌号。\n\n目前收集废物雌畜中，觉得自己无药可救欢迎私信培育女权思想。\n\n🚪20 60r/h",
+        "id": "1803981725686730753",
+        "name": "倾雪圣母",
+        "pinned_tweet_id": "1887298255702401438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803986135112388608/Eg-aYd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 20,
+          "media_count": 132,
+          "tweet_count": 737
+        },
+        "username": "Go5Io",
+        "verified": false
+      }
+    ]
+  }
+}

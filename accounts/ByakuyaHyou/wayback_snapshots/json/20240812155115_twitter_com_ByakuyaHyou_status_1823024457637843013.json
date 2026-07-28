@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1823024457637843013",
+    "created_at": "2024-08-12T15:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T16:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823024457637843013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823024457637843013",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823024074555371794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 啊…主人…晓雨不行了…要憋不住了…一边快速揉捏自己的阴蒂一边憋尿什么的…实在是太刺激了…唔哈…要喷出来了💦求求主人看看我…手指在发胀的乳房上不断揉捏，乳尖在衣服上摩擦的快感渐渐堆叠…唔嗯…好痒❤️嘶…晓雨以后一定管好自己淫荡的小骚穴，不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823024457637843013].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823024457637843013",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823024457637843013"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823024064262537216"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1823024074555371794",
+        "created_at": "2024-08-12T15:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823024074555371794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文爱"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "失禁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogo9qbbdpv",
+              "end": 165,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1823024074555371794/photo/1",
+              "media_key": "3_1823024064262537216",
+              "start": 142,
+              "url": "https://t.co/OGo9qBbDpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823024074555371794",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊…主人…晓雨不行了…要憋不住了…一边快速揉捏自己的阴蒂一边憋尿什么的…实在是太刺激了…唔哈…要喷出来了💦求求主人看看我…手指在发胀的乳房上不断揉捏，乳尖在衣服上摩擦的快感渐渐堆叠…唔嗯…好痒❤️嘶…晓雨以后一定管好自己淫荡的小骚穴，不会再随便尿出来了呜呜呜…#文援 #文爱 #失禁 https://t.co/OGo9qBbDpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "喜欢文爱的女大学生一枚哦～❤️\n新晋文媛一枚哦\n各类xp都可以接受哒~接受度高~\n期待与你的相遇哒~\n本体是可爱的史莱姆团团哦~可以变成各种样子哒~\n门牌号：1927861810",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（新人求互推哒~阿里嘎多~）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，m、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、3p等题材开发中…文爱50/h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "name": "晓雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

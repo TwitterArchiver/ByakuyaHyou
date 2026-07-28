@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2071340589401116724",
+    "created_at": "2026-06-29T04:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071447744129249288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1187973251198111744",
+          "start": 0,
+          "username": "ussr1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071447744129249288",
+    "in_reply_to_user_id": "1187973251198111744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071438656968315193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ussr1911 咱只有175（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T04:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071447744129249288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1187973251198111744",
+              "start": 0,
+              "username": "ussr1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071447744129249288",
+        "in_reply_to_user_id": "1187973251198111744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071438656968315193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ussr1911 咱只有175（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187973251198111744",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T03:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071438656968315193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071438656968315193",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071340589401116724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 是高大威猛185的大姐姐吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1047,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1662
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-26T06:04:48.000Z",
+        "description": "变节特工，无任何意识形态，\n励志成为一个优秀的游戏制作人，\n一个萌新女装爱好者\n极端反性交易，只要不支持性交易皆是朋友\n不b人除了电子老鸨和赌博广告。\nMay the truth last forever and the fire of faith never die.",
+        "id": "1187973251198111744",
+        "location": "芬兰",
+        "name": "柏修斯（Ciallo～）",
+        "pinned_tweet_id": "1613965261383815168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613952369418723329/X7VxTljt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 2180,
+          "like_count": 2197,
+          "listed_count": 3,
+          "media_count": 492,
+          "tweet_count": 6533
+        },
+        "url": "",
+        "username": "ussr1911",
+        "verified": false
+      }
+    ]
+  }
+}

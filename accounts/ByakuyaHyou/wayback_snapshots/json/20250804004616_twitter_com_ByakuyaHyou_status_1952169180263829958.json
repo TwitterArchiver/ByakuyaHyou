@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1952169180263829958",
+    "created_at": "2025-08-04T00:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T01:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952169180263829958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952169180263829958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951926561747214477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 乖~就这样跪好~🖤\n既然选择了做狗可就不能再站着了呢~以后都只能以这样的角度仰视主人哦~🖤\n一边呼吸着主人的足香发情，一边被洗脑成只知道崇拜主人的废物~🖤\n让身体里都充满主人的气息，一丝理智都不需要留下，把一切都献给主人~\n贱狗~要一辈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1951926558916288512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxai3RPbIAAKhJH.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1952169180263829958",
+        "created_at": "2025-08-04T00:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T01:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952169180263829958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832618003478773760",
+              "start": 3,
+              "username": "kekejiangw44613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952169180263829958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951926561747214477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekejiangw44613: 乖~就这样跪好~🖤\n既然选择了做狗可就不能再站着了呢~以后都只能以这样的角度仰视主人哦~🖤\n一边呼吸着主人的足香发情，一边被洗脑成只知道崇拜主人的废物~🖤\n让身体里都充满主人的气息，一丝理智都不需要留下，把一切都献给主人~\n贱狗~要一辈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951926558916288512"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1951926561747214477",
+        "created_at": "2025-08-03T08:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951926561747214477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文爱"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "榨金"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "足控"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "贡奴"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRPDJZ8h7H",
+              "end": 172,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1951926561747214477/photo/1",
+              "media_key": "3_1951926558916288512",
+              "start": 149,
+              "url": "https://t.co/mRPDJZ8h7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951926561747214477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1061,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "乖~就这样跪好~🖤\n既然选择了做狗可就不能再站着了呢~以后都只能以这样的角度仰视主人哦~🖤\n一边呼吸着主人的足香发情，一边被洗脑成只知道崇拜主人的废物~🖤\n让身体里都充满主人的气息，一丝理智都不需要留下，把一切都献给主人~\n贱狗~要一辈子都记住主人的味道呢\n#文爱 #榨金 #足控 #贡奴 #文援 https://t.co/mRPDJZ8h7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 153,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1520
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪339376965电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤 压榨...止寸...调教...忍不住的贡狗欢迎来上贡呢废物🖤（收长期atm奴 贡奴）欢迎文援来扩列哦（文爱35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 35,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 12,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可🖤（互推私）",
+        "pinned_tweet_id": "1935998767586853084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885004780101332992/dI3Ntg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 33,
+          "like_count": 26,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 1020
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

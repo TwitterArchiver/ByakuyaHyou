@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905205630190948352"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905205694175031314",
+    "created_at": "2025-03-27T10:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T11:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905205694175031314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "文媛"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "文爱"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "音媛"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "语爱"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "ntr"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "绿帽"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wCFq7kdvtR",
+          "end": 160,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1905205694175031314/video/1",
+          "media_key": "7_1905205630190948352",
+          "start": 137,
+          "url": "https://t.co/wCFq7kdvtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905205694175031314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵～感觉休息的差不多～\n但是寒潮过来了～好像又什么动力了(目移)，果然喵……阴天时候睡觉…但是还要上班呜\n不知道发点什么～就用最近与客人试音的音频(ntr警告喵）水一期帖子喵～\n注意保暖喵……阿嚏\n想依奈了可以随时来加我哦\n#文媛 #文爱 #音媛 #语爱 #ntr #绿帽 https://t.co/wCFq7kdvtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75023,
+        "height": 1280,
+        "media_key": "7_1905205630190948352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905205630190948352/pu/img/IlWO9ap2NdObMr2k.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905205630190948352/pu/vid/avc1/320x618/D5_wNoDwScaTzzBG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905205630190948352/pu/vid/avc1/480x928/jjAQAIumLBBbyoc-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905205630190948352/pu/vid/avc1/662x1280/-YezQ6ql1Gwz659G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905205630190948352/pu/pl/qdTvRZZ8xlhNbyDV.m3u8?tag=12"
+          }
+        ],
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905205630190948352"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1905205694175031314",
+        "created_at": "2025-03-27T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905205694175031314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "文媛"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "文爱"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "音媛"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "语爱"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "ntr"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCFq7kdvtR",
+              "end": 160,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1905205694175031314/video/1",
+              "media_key": "7_1905205630190948352",
+              "start": 137,
+              "url": "https://t.co/wCFq7kdvtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905205694175031314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵～感觉休息的差不多～\n但是寒潮过来了～好像又什么动力了(目移)，果然喵……阴天时候睡觉…但是还要上班呜\n不知道发点什么～就用最近与客人试音的音频(ntr警告喵）水一期帖子喵～\n注意保暖喵……阿嚏\n想依奈了可以随时来加我哦\n#文媛 #文爱 #音媛 #语爱 #ntr #绿帽 https://t.co/wCFq7kdvtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 957,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1132
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

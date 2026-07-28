@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905883127035359550",
+    "created_at": "2025-03-29T07:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905883127035359550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803981725686730753",
+          "start": 3,
+          "username": "Go5Io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905883127035359550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905782446874120407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Go5Io: 眼睛一直在看本宫的龟头呢你这淫荡的小东西，嘴巴已经主动张开，舌头都开始对着空气画圈了啊？就这么想要侍奉本宫么，你这骚货雌堕母畜💜\n\n放心好了，你只要给本宫伺候的舒舒服服，本宫会用这根圣根使劲对准你的菊穴好好爱抚，把你捅的不成样子，让你磕头感恩戴德的喷出精液…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905883127035359550].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905883127035359550",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905883127035359550"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1905782443157893120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnKzCOeaMAAmvbZ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905782443157893120"
+          ]
+        },
+        "author_id": "1803981725686730753",
+        "conversation_id": "1905782446874120407",
+        "created_at": "2025-03-29T00:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905782446874120407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文援"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1n4t6reP1F",
+              "end": 166,
+              "expanded_url": "https://x.com/Go5Io/status/1905782446874120407/photo/1",
+              "media_key": "3_1905782443157893120",
+              "start": 143,
+              "url": "https://t.co/1n4t6reP1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905782446874120407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 745,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛一直在看本宫的龟头呢你这淫荡的小东西，嘴巴已经主动张开，舌头都开始对着空气画圈了啊？就这么想要侍奉本宫么，你这骚货雌堕母畜💜\n\n放心好了，你只要给本宫伺候的舒舒服服，本宫会用这根圣根使劲对准你的菊穴好好爱抚，把你捅的不成样子，让你磕头感恩戴德的喷出精液💜\n\n#文援 #文爱 #剧情 https://t.co/1n4t6reP1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 976,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1149
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T02:42:21.000Z",
+        "description": "美熟正道盟主、阴阳仙后。前任皓月宫大宫主(现在的二宫主)。\n\n武功是皓月宫的嫡传心法，冰雪宝鉴。被她练到极致纯化升华成冰月神鉴，江湖中的武林神话。\n\n私信没回表示不感兴趣，感兴趣的会掉落门牌号。\n\n目前收集废物雌畜中，觉得自己无药可救欢迎私信培育女权思想。",
+        "id": "1803981725686730753",
+        "name": "倾雪圣母",
+        "pinned_tweet_id": "1887298255702401438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803986135112388608/Eg-aYd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 34,
+          "like_count": 353,
+          "listed_count": 20,
+          "media_count": 130,
+          "tweet_count": 724
+        },
+        "username": "Go5Io",
+        "verified": false
+      }
+    ]
+  }
+}

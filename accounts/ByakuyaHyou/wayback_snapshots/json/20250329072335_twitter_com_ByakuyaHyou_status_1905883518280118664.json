@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905821025146949916",
+    "created_at": "2025-03-29T07:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905883518280118664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751691510255607808",
+          "start": 0,
+          "username": "Entarosifier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905883518280118664",
+    "in_reply_to_user_id": "1751691510255607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905857241116282967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entarosifier 阿巴巴～咱才没有啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1905821025146949916",
+        "created_at": "2025-03-29T07:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905883518280118664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751691510255607808",
+              "start": 0,
+              "username": "Entarosifier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905883518280118664",
+        "in_reply_to_user_id": "1751691510255607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905857241116282967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entarosifier 阿巴巴～咱才没有啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751691510255607808",
+        "conversation_id": "1905821025146949916",
+        "created_at": "2025-03-29T05:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T06:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905857241116282967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905857241116282967",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905821025146949916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 尼好强大——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 980,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1153
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T19:39:43.000Z",
+        "description": "这里是白野爱｜人设是软腻可爱的小天使｜偶尔写点黄色废料的不务正业R18推主｜性情偏受  xp清淡 风格偏软与推文大致一致｜纯爱党且不涉三｜暂不扩列",
+        "id": "1751691510255607808",
+        "name": "白野爱🤍",
+        "pinned_tweet_id": "1859275835964068125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884922011312390144/GvBLriVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 197,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 56
+        },
+        "username": "Entarosifier",
+        "verified": false
+      }
+    ]
+  }
+}

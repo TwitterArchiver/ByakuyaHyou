@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824287782459805699"
+      ],
+      "media_source_tweet_id": [
+        "1824287784980582887"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824300876321919373",
+    "created_at": "2024-08-16T04:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T05:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824300876321919373"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "文爱"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "口交"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z2f5cwoeog",
+          "end": 124,
+          "expanded_url": "https://twitter.com/ZiYing12494/status/1824287784980582887/photo/1",
+          "media_key": "3_1824287782459805699",
+          "start": 101,
+          "url": "https://t.co/z2F5cWoEog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824300876321919373",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824287784980582887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「真假…一大早骚扰我起床就是为了让我给你口交？」\n「怎么看着比昨天大了…和我同居性欲这么旺盛吗？」\n「咕唔… 嗯… 好困…之后可一定要放我去睡觉喔？」\n#文爱 #口交 https://t.co/z2F5cWoEog"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824300876321919373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824300876321919373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824300876321919373"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_1824287782459805699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVEsEpmaEAMd66l.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824287782459805699"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1824287784980582887",
+        "created_at": "2024-08-16T03:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T04:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824287784980582887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "文爱"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "口交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2f5cwoeog",
+              "end": 107,
+              "expanded_url": "https://twitter.com/ZiYing12494/status/1824287784980582887/photo/1",
+              "media_key": "3_1824287782459805699",
+              "start": 84,
+              "url": "https://t.co/z2F5cWoEog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824287784980582887",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「真假…一大早骚扰我起床就是为了让我给你口交？」\n「怎么看着比昨天大了…和我同居性欲这么旺盛吗？」\n「咕唔… 嗯… 好困…之后可一定要放我去睡觉喔？」\n#文爱 #口交 https://t.co/z2F5cWoEog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1824093422547771604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 26,
+          "like_count": 164,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2042450813784899598",
+    "created_at": "2026-04-24T23:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047813039932772639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963780659996196864",
+          "start": 0,
+          "username": "eryueeryueqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047813039932772639",
+    "in_reply_to_user_id": "1963780659996196864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042450813784899598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eryueeryueqi 很可爱我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101515,
+        "height": 1280,
+        "media_key": "7_2042450639742255106",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042450639742255106/pu/img/htYrqzDKiWWtAifG.jpg",
+        "public_metrics": {
+          "view_count": 2028
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042450639742255106/pu/vid/avc1/320x568/r2_P_akSOSqqx2Zo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042450639742255106/pu/vid/avc1/480x852/1cdocLbXTD9cFK7O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042450639742255106/pu/vid/avc1/720x1280/4doWYzDpPg4_igLu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042450639742255106/pu/pl/8q6PiRH06NieXRSf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2042450813784899598",
+        "created_at": "2026-04-24T23:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047813039932772639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963780659996196864",
+              "start": 0,
+              "username": "eryueeryueqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047813039932772639",
+        "in_reply_to_user_id": "1963780659996196864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042450813784899598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eryueeryueqi 很可爱我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042450639742255106"
+          ]
+        },
+        "author_id": "1963780659996196864",
+        "conversation_id": "2042450813784899598",
+        "created_at": "2026-04-10T03:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042450813784899598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HEgXwdVDT",
+              "end": 49,
+              "expanded_url": "https://x.com/eryueeryueqi/status/2042450813784899598/video/1",
+              "media_key": "7_2042450639742255106",
+              "start": 26,
+              "url": "https://t.co/0HEgXwdVDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042450813784899598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 5370,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "电梯，下到一楼然后回来 #男娘   \n前置好糊，， https://t.co/0HEgXwdVDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 234,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1508
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T01:46:23.000Z",
+        "description": "无糖南梁  04/165/55 ，苏州，看色图去媒体，同好贴贴",
+        "id": "1963780659996196864",
+        "location": "0",
+        "name": "二月七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261000795934720/GhOdbf_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 156,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 55
+        },
+        "username": "eryueeryueqi",
+        "verified": false
+      }
+    ]
+  }
+}

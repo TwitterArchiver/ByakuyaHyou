@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1843536044815450112",
+        "3_1843536235694043137"
+      ],
+      "media_source_tweet_id": [
+        "1843536238877516103",
+        "1843536238877516103"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1844081466080362816",
+    "created_at": "2024-10-09T18:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T19:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844081466080362816"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "男m"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "女s"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "任务指令"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1641369078706085888",
+          "start": 3,
+          "username": "consortium_Ms1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RabuCnGG6F",
+          "end": 118,
+          "expanded_url": "https://x.com/consortium_Ms1/status/1843536238877516103/video/1",
+          "media_key": "7_1843536044815450112",
+          "start": 95,
+          "url": "https://t.co/RabuCnGG6F"
+        },
+        {
+          "display_url": "pic.x.com/RabuCnGG6F",
+          "end": 118,
+          "expanded_url": "https://x.com/consortium_Ms1/status/1843536238877516103/video/1",
+          "media_key": "3_1843536235694043137",
+          "start": 95,
+          "url": "https://t.co/RabuCnGG6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844081466080362816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843536238877516103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @consortium_Ms1: 傻逼贱狗看到我的脏白袜就要无脑发情了吧 被我骂 给我上贡就是你的命 把你没用的小肉蛆收起来 谁让你肉蛆又小又无能呢？垃圾 #男m #女s #任务指令 https://t.co/RabuCnGG6F"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1844081466080362816].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1844081466080362816",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1844081466080362816"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22700,
+        "height": 720,
+        "media_key": "7_1843536044815450112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1843536044815450112/pu/img/B9P7AmG5F8QRuoC1.jpg",
+        "public_metrics": {
+          "view_count": 2373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843536044815450112/pu/vid/avc1/360x270/yMthw8LUzy4EXJDz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843536044815450112/pu/vid/avc1/480x360/cwL_QnDA9I3FCpvW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843536044815450112/pu/vid/avc1/960x720/j-X43KvXRwBDzk5x.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1843536044815450112/pu/pl/QWvSdsLy2aFlvjsh.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1843536235694043137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZWOcFsasAElHh0.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843536044815450112",
+            "3_1843536235694043137"
+          ]
+        },
+        "author_id": "1641369078706085888",
+        "conversation_id": "1843536238877516103",
+        "created_at": "2024-10-08T06:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T07:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843536238877516103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "男m"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "女s"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "任务指令"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RabuCnGG6F",
+              "end": 98,
+              "expanded_url": "https://x.com/consortium_Ms1/status/1843536238877516103/video/1",
+              "media_key": "7_1843536044815450112",
+              "start": 75,
+              "url": "https://t.co/RabuCnGG6F"
+            },
+            {
+              "display_url": "pic.x.com/RabuCnGG6F",
+              "end": 98,
+              "expanded_url": "https://x.com/consortium_Ms1/status/1843536238877516103/video/1",
+              "media_key": "3_1843536235694043137",
+              "start": 75,
+              "url": "https://t.co/RabuCnGG6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843536238877516103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17427,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼贱狗看到我的脏白袜就要无脑发情了吧 被我骂 给我上贡就是你的命 把你没用的小肉蛆收起来 谁让你肉蛆又小又无能呢？垃圾 #男m #女s #任务指令 https://t.co/RabuCnGG6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 86,
+          "like_count": 633,
+          "listed_count": 0,
+          "tweet_count": 789
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T09:17:42.000Z",
+        "description": "傻逼无脑贱狗来 门槛🚪38  Q760058921",
+        "id": "1641369078706085888",
+        "name": "霏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843532102840745984/aKrii2yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "consortium_Ms1",
+        "verified": false
+      }
+    ]
+  }
+}

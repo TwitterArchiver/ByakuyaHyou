@@ -1,0 +1,88 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1850492584055255353",
+    "created_at": "2024-10-27T10:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T11:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850492584055255353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821147834844114944",
+          "start": 3,
+          "username": "xiaoxiao804"
+        }
+      ]
+    },
+    "id": "1850492584055255353",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850170626545492403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @xiaoxiao804: 小鸡巴绿狗老公与男爹大肉棒差距有够大的诶🖤怎么盯着妈妈曼妙身躯发情勃起的时候还偷瞄男爹巨根呢🖤托着你的废物狗蛋同时握住男爹大鸡巴撸动🖤面色潮红眼里只剩下爱欲🖤完全没有绿奴老公位置了哦🖤也就你这种阳痿早泄绿狗会喜欢被这样玩弄了🖤准备看着妈妈享用男…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 87,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 898
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:34:24.000Z",
+        "description": "SM情侣主🖤 接文援、网调🖤收狗狗、锁奴、绿帽奴、足奴🖤🐧3996867072🖤被封重生版～",
+        "id": "1821147834844114944",
+        "name": "潇潇（互推）",
+        "pinned_tweet_id": "1854163455999369559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821147934525943810/CppZ6LdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 42,
+          "like_count": 192,
+          "listed_count": 10,
+          "media_count": 43,
+          "tweet_count": 1490
+        },
+        "username": "xiaoxiao804",
+        "verified": false
+      }
+    ]
+  }
+}

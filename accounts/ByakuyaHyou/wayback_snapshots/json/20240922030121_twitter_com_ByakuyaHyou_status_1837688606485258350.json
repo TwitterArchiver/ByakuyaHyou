@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837688606485258350",
+    "created_at": "2024-09-22T03:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T04:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837688606485258350"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "文爱"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837688606485258350",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837684376320332239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: 调整好啦，抱歉哦这两天被某个傻屄搞的心情不好，都没有好好玩你们这些下贱雌畜呢🖤\n乖乖带着姐妹一起给小伊大人舔鸡巴无脑上供吧🖤，废物婊子们 毕竟只是看到鸡巴就一起跪地雌伏的傻屄母畜们呢🖤，用你们的肉舌猪脸好好迎接小伊主人的赏赐吧🖤\n#文爱 #剧情 #文…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837688606485258350].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837688606485258350",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837688606485258350"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837684365813600257"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1837684376320332239",
+        "created_at": "2024-09-22T02:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T03:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837684376320332239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文爱"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "剧情"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1js1cwosfj",
+              "end": 150,
+              "expanded_url": "https://twitter.com/xhai5200/status/1837684376320332239/photo/1",
+              "media_key": "3_1837684365813600257",
+              "start": 127,
+              "url": "https://t.co/1Js1cwoSfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837684376320332239",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "调整好啦，抱歉哦这两天被某个傻屄搞的心情不好，都没有好好玩你们这些下贱雌畜呢🖤\n乖乖带着姐妹一起给小伊大人舔鸡巴无脑上供吧🖤，废物婊子们 毕竟只是看到鸡巴就一起跪地雌伏的傻屄母畜们呢🖤，用你们的肉舌猪脸好好迎接小伊主人的赏赐吧🖤\n#文爱 #剧情 #文媛 https://t.co/1Js1cwoSfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 80,
+          "like_count": 545,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "黑心小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受小伊无情爆扣了呢♡~，毕竟你只是头傻屄母人呢，通常晚上在线哦～最喜欢的肉棒套子姐姐@gululu521  电报https://t.co/TmPuXMG0vb，企鹅门牌3986205058（收母猪 ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "gululu521"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 124,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 101,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "傻屄母人的脑袋上🖤",
+        "name": "小伊🖤（求互推）（限流摆烂版）",
+        "pinned_tweet_id": "1833506489711136799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833510727191302148/P1jFV7HX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 238,
+          "like_count": 505,
+          "listed_count": 5,
+          "tweet_count": 303
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

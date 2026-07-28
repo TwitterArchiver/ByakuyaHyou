@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826198798127051210",
+    "created_at": "2024-08-21T10:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T11:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826198798127051210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1823934672948355075",
+          "start": 3,
+          "username": "m86054151758971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826198798127051210",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824332199061262490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m86054151758971: 光闻到姐姐的气味就已经发情啦就这么想要做姐姐的贱狗呀？展示你的卑微嘛？真是骨子里都认为自己就是一条贱狗把自己的一切都贡献给主人当玩具。\n那就用贞操锁锁上吧，毕竟这小肉芽一样的肉棒是属于主人的哦❤️\n“戴着锁被主人剥夺掉撸精权射精权，只能…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826198798127051210].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826198798127051210",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826198798127051210"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824332196402139136"
+          ]
+        },
+        "author_id": "1823934672948355075",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1824332199061262490",
+        "created_at": "2024-08-16T06:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T07:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824332199061262490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncqrp3z3a8",
+              "end": 166,
+              "expanded_url": "https://twitter.com/m86054151758971/status/1824332199061262490/photo/1",
+              "media_key": "3_1824332196402139136",
+              "start": 143,
+              "url": "https://t.co/nCQRp3z3a8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824332199061262490",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "光闻到姐姐的气味就已经发情啦就这么想要做姐姐的贱狗呀？展示你的卑微嘛？真是骨子里都认为自己就是一条贱狗把自己的一切都贡献给主人当玩具。\n那就用贞操锁锁上吧，毕竟这小肉芽一样的肉棒是属于主人的哦❤️\n“戴着锁被主人剥夺掉撸精权射精权，只能用自己那个后面的雌穴来讨好姐姐的雌根让自己高潮” https://t.co/nCQRp3z3a8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 60,
+          "like_count": 162,
+          "listed_count": 0,
+          "tweet_count": 190
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T04:08:16.000Z",
+        "description": "是文援姬～慕哦❤️也是一个卑微的文援姬啦，欢迎前辈来找慕聊天。基本上没有什么人气的说QAQ，也欢迎小家伙来找姐姐闲聊的哦。不过～姐姐可能会在闲聊的过程中～去玩弄小家伙哦❤️\n贱货贡奴和ATM奴乖乖的给姐姐吐钱吧🖤\n慕会用自己的文笔来征服每一位来找慕的小可爱呢\n慕的企鹅号：3993705909 PS：不涉三，纯文呢。",
+        "id": "1823934672948355075",
+        "name": "慕慕酱（文援姬）",
+        "pinned_tweet_id": "1825583690048753962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823934758201778179/KJiTS4NU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 19,
+          "like_count": 78,
+          "listed_count": 1,
+          "tweet_count": 88
+        },
+        "username": "m86054151758971",
+        "verified": false
+      }
+    ]
+  }
+}

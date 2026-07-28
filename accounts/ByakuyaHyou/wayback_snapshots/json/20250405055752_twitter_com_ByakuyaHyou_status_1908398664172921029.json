@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908398664172921029",
+    "created_at": "2025-04-05T05:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908398664172921029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668855095348563973",
+          "start": 3,
+          "username": "yueyueSAMAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908398664172921029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908183625616777569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyueSAMAx: 钱包空空的贡奴可耻的一点点上交自己赖以为生的饭钱 \n压缩着自己的生存费用获取可笑的快感\n吐了十次居然还不到10元？最后居然把赞赏码吐到失效了呢...\n还好抓到了罪魁祸首，看在月月心情还不错的份上不去彻底公布身份信息，只是公布一张私密照片\n想来骂…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908183618322837504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns65BBaMAAaX2S.jpg",
+        "width": 753
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908183620373901312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns65Iqa8AAzObH.jpg",
+        "width": 659
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908183621032370176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns65LHaYAA3btS.jpg",
+        "width": 548
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1908183621850275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns65OKaoAACxca.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1908398664172921029",
+        "created_at": "2025-04-05T05:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908398664172921029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668855095348563973",
+              "start": 3,
+              "username": "yueyueSAMAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908398664172921029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908183625616777569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyueSAMAx: 钱包空空的贡奴可耻的一点点上交自己赖以为生的饭钱 \n压缩着自己的生存费用获取可笑的快感\n吐了十次居然还不到10元？最后居然把赞赏码吐到失效了呢...\n还好抓到了罪魁祸首，看在月月心情还不错的份上不去彻底公布身份信息，只是公布一张私密照片\n想来骂…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908183618322837504",
+            "3_1908183620373901312",
+            "3_1908183621032370176",
+            "3_1908183621850275840"
+          ]
+        },
+        "author_id": "1668855095348563973",
+        "conversation_id": "1908183625616777569",
+        "created_at": "2025-04-04T15:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T16:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908183625616777569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "贡奴"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "ATM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLMB27IWix",
+              "end": 172,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1908183625616777569/photo/1",
+              "media_key": "3_1908183618322837504",
+              "start": 149,
+              "url": "https://t.co/XLMB27IWix"
+            },
+            {
+              "display_url": "pic.x.com/XLMB27IWix",
+              "end": 172,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1908183625616777569/photo/1",
+              "media_key": "3_1908183620373901312",
+              "start": 149,
+              "url": "https://t.co/XLMB27IWix"
+            },
+            {
+              "display_url": "pic.x.com/XLMB27IWix",
+              "end": 172,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1908183625616777569/photo/1",
+              "media_key": "3_1908183621032370176",
+              "start": 149,
+              "url": "https://t.co/XLMB27IWix"
+            },
+            {
+              "display_url": "pic.x.com/XLMB27IWix",
+              "end": 172,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1908183625616777569/photo/1",
+              "media_key": "3_1908183621850275840",
+              "start": 149,
+              "url": "https://t.co/XLMB27IWix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908183625616777569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1184,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "钱包空空的贡奴可耻的一点点上交自己赖以为生的饭钱 \n压缩着自己的生存费用获取可笑的快感\n吐了十次居然还不到10元？最后居然把赞赏码吐到失效了呢...\n还好抓到了罪魁祸首，看在月月心情还不错的份上不去彻底公布身份信息，只是公布一张私密照片\n想来骂这只贱畜的也可以关注私聊要推号哦？\n#贡奴 #ATM https://t.co/XLMB27IWix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 112,
+          "like_count": 1025,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1198
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T05:37:39.000Z",
+        "description": "高压胁迫🖤黑心压榨丨吸血毁号🖤任务调教最最最最最喜欢吸白给笨蛋小狗的血了…🚪🐧QQ1705684064✈️https://t.co/9vgbcoM4Vh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 76,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 53,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 23,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 0,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          }
+        },
+        "id": "1668855095348563973",
+        "location": "做文游中……是小男娘…",
+        "name": "☁️月月sama🖤（互推）",
+        "pinned_tweet_id": "1849650772453331205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905994824081358848/5KwRm6t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 48,
+          "like_count": 52,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/9vgbcoM4Vh",
+        "username": "yueyueSAMAx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897266740905828652",
+    "created_at": "2025-03-05T13:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897282254076043641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863831061991682048",
+          "start": 0,
+          "username": "anan040219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897282254076043641",
+    "in_reply_to_user_id": "1863831061991682048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897266740905828652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anan040219 生日快乐喵～新的一年天天开心哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1897266727509221378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRyCVla4AI7JqC.jpg",
+        "width": 756
+      },
+      {
+        "height": 1129,
+        "media_key": "3_1897266727605735424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRyCV8bkAAvJhT.jpg",
+        "width": 750
+      },
+      {
+        "height": 960,
+        "media_key": "3_1897266727605645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRyCV8aMAA5Rk9.jpg",
+        "width": 608
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897266727601496065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRyCV7a4AEPHz6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897266740905828652",
+        "created_at": "2025-03-05T13:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897282254076043641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863831061991682048",
+              "start": 0,
+              "username": "anan040219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897282254076043641",
+        "in_reply_to_user_id": "1863831061991682048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897266740905828652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anan040219 生日快乐喵～新的一年天天开心哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897266727509221378",
+            "3_1897266727605735424",
+            "3_1897266727605645312",
+            "3_1897266727601496065"
+          ]
+        },
+        "author_id": "1863831061991682048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1897266740905828652",
+        "created_at": "2025-03-05T12:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897266740905828652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soKF0N7JNK",
+              "end": 183,
+              "expanded_url": "https://x.com/anan040219/status/1897266740905828652/photo/1",
+              "media_key": "3_1897266727509221378",
+              "start": 160,
+              "url": "https://t.co/soKF0N7JNK"
+            },
+            {
+              "display_url": "pic.x.com/soKF0N7JNK",
+              "end": 183,
+              "expanded_url": "https://x.com/anan040219/status/1897266740905828652/photo/1",
+              "media_key": "3_1897266727605735424",
+              "start": 160,
+              "url": "https://t.co/soKF0N7JNK"
+            },
+            {
+              "display_url": "pic.x.com/soKF0N7JNK",
+              "end": 183,
+              "expanded_url": "https://x.com/anan040219/status/1897266740905828652/photo/1",
+              "media_key": "3_1897266727605645312",
+              "start": 160,
+              "url": "https://t.co/soKF0N7JNK"
+            },
+            {
+              "display_url": "pic.x.com/soKF0N7JNK",
+              "end": 183,
+              "expanded_url": "https://x.com/anan040219/status/1897266740905828652/photo/1",
+              "media_key": "3_1897266727601496065",
+              "start": 160,
+              "url": "https://t.co/soKF0N7JNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897266740905828652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 299,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "歡慶安安生日🎉\n只要在本篇貼文底下祝福安安 \n轉推本貼文 按愛心  追隨就可以抽獎！\n時間到安安生日3/9 的晚上11:59\n\n以下是獎項🏆\n309RMB*1 \n文愛免費包月資格*1\n30.9RMB*3\n文愛一小時抵用卷*5\n參加獎：文愛抵扣10元卷\n\n只留生日快樂是不會計算的喔！\n愛大家！希望大家未來都健健康康的！ https://t.co/soKF0N7JNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 91,
+          "like_count": 731,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 916
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T06:22:41.000Z",
+        "description": "來自台灣的文援～（不支持台灣銀行轉帳，付款）QQ號： 156654647不建政，會分享自我生活～以及各種好吃台灣美食，偶爾也會有色色推！♡歡迎各位來消費～",
+        "id": "1863831061991682048",
+        "location": "Taiwan",
+        "name": "呆萌灣娘安安",
+        "pinned_tweet_id": "1893201594092831084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864003531784830976/2SZevw0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 40,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 105
+        },
+        "username": "anan040219",
+        "verified": true
+      }
+    ]
+  }
+}

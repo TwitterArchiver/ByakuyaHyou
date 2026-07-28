@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914722157000843691",
+    "created_at": "2025-04-24T04:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915257481917612432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1095570490230333440",
+          "start": 0,
+          "username": "KAGASACHAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915257481917612432",
+    "in_reply_to_user_id": "1095570490230333440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914722157000843691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KAGASACHAN 喵～来抱抱啦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1914722153712508929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJ1p3ea4AE2_pt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1914722157000843691",
+        "created_at": "2025-04-24T04:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915257481917612432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1095570490230333440",
+              "start": 0,
+              "username": "KAGASACHAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915257481917612432",
+        "in_reply_to_user_id": "1095570490230333440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914722157000843691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAGASACHAN 喵～来抱抱啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914722153712508929"
+          ]
+        },
+        "author_id": "1095570490230333440",
+        "conversation_id": "1914722157000843691",
+        "created_at": "2025-04-22T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914722157000843691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjxEdRCejI",
+              "end": 65,
+              "expanded_url": "https://x.com/KAGASACHAN/status/1914722157000843691/photo/1",
+              "media_key": "3_1914722153712508929",
+              "start": 42,
+              "url": "https://t.co/wjxEdRCejI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914722157000843691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何缓解一上床准备睡觉就缺爱的症状\n每次睡前都是那种\n这个世界上没有人在乎我的状态 https://t.co/wjxEdRCejI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1312
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-13T06:28:54.000Z",
+        "description": "你好呀w这里是伞伞w\n别名为终雨澪栖\n欢迎贴贴w  喜欢可爱的猫猫w\n大一生/童话系/雨云系/喜欢云朵和光线\n不切实际的实用主义者\n失落和喜悦来来往往\n作为观察者路过你们的身边",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+WPWhiaLQrtI4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+WPWhiaLQrtI4N2Y1",
+                "start": 0,
+                "url": "https://t.co/yiB2KgL6Pk"
+              }
+            ]
+          }
+        },
+        "id": "1095570490230333440",
+        "location": "Shiyuame Reisei",
+        "name": "TATARA",
+        "pinned_tweet_id": "1869426875384377775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719756212261228544/ZYgqoGsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 924,
+          "like_count": 17543,
+          "listed_count": 4,
+          "media_count": 1192,
+          "tweet_count": 4456
+        },
+        "url": "https://t.co/yiB2KgL6Pk",
+        "username": "KAGASACHAN",
+        "verified": false
+      }
+    ]
+  }
+}

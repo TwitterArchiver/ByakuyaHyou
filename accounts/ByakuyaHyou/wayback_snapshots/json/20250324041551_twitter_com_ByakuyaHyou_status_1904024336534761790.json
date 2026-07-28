@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1904024336534761790",
+    "created_at": "2025-03-24T04:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T05:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904024336534761790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904024336534761790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904006112934051952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 虽然很久没有「校准」~但是果然只要稍微诱导一下你的鸡巴就会变得听话起来了呢♫\n重新启动之后弄出了好大的动静❤️正在轻车熟路地按照舒服的方式「运行」~不要露出那种欲求不满的可爱表情哟~\n简直就像在承认「最喜欢被当做败北自毁癖白痴强迫在被弄坏的时候高…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2072,
+        "media_key": "3_1904006098841169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmxjdYOa8AAhn7d.jpg",
+        "width": 1416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1904024336534761790",
+        "created_at": "2025-03-24T04:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904024336534761790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669288784939106304",
+              "start": 3,
+              "username": "amianjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904024336534761790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904006112934051952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amianjiang: 虽然很久没有「校准」~但是果然只要稍微诱导一下你的鸡巴就会变得听话起来了呢♫\n重新启动之后弄出了好大的动静❤️正在轻车熟路地按照舒服的方式「运行」~不要露出那种欲求不满的可爱表情哟~\n简直就像在承认「最喜欢被当做败北自毁癖白痴强迫在被弄坏的时候高…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904006098841169920"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1904006112934051952",
+        "created_at": "2025-03-24T03:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904006112934051952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "催眠洗脑"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "精神控制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/buYmTpyvqt",
+              "end": 169,
+              "expanded_url": "https://x.com/amianjiang/status/1904006112934051952/photo/1",
+              "media_key": "3_1904006098841169920",
+              "start": 146,
+              "url": "https://t.co/buYmTpyvqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904006112934051952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很久没有「校准」~但是果然只要稍微诱导一下你的鸡巴就会变得听话起来了呢♫\n重新启动之后弄出了好大的动静❤️正在轻车熟路地按照舒服的方式「运行」~不要露出那种欲求不满的可爱表情哟~\n简直就像在承认「最喜欢被当做败北自毁癖白痴强迫在被弄坏的时候高潮了」嘛❤️\n对吧➹\n#催眠洗脑 #精神控制 https://t.co/buYmTpyvqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 105,
+          "like_count": 944,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1115
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 33,
+          "like_count": 433,
+          "listed_count": 14,
+          "media_count": 181,
+          "tweet_count": 466
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

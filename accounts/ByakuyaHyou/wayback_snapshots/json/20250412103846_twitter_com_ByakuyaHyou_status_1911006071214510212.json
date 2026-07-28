@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911006071214510212",
+    "created_at": "2025-04-12T10:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T11:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911006071214510212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "报销奴"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "贡奴"
+        },
+        {
+          "end": 133,
+          "start": 126,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "贡畜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911006071214510212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902321214661783798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 小额报销群，贱畜看别人玩得这么开心，还在观望吗？进来了就放松下来好好玩，不用思考，思考也是很伤脑筋的，消耗能量；一直压抑自己会憋出病来，并且一直压抑只会适得其反，造成不可估量后果，偶尔释放才能让欲望得到控制 #报销奴 #贡奴 #ATM打钱奴 #贡畜 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902321175176654848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZnB6cbsAAcpr6.jpg",
+        "width": 462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1902321201370034178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZnDcBa8AIKvO0.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1911006071214510212",
+        "created_at": "2025-04-12T10:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T11:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911006071214510212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "报销奴"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "贡奴"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "贡畜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842135432953278464",
+              "start": 3,
+              "username": "yues666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911006071214510212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902321214661783798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yues666: 小额报销群，贱畜看别人玩得这么开心，还在观望吗？进来了就放松下来好好玩，不用思考，思考也是很伤脑筋的，消耗能量；一直压抑自己会憋出病来，并且一直压抑只会适得其反，造成不可估量后果，偶尔释放才能让欲望得到控制 #报销奴 #贡奴 #ATM打钱奴 #贡畜 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902321175176654848",
+            "3_1902321201370034178"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1902321214661783798",
+        "created_at": "2025-03-19T11:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902321214661783798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "报销奴"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "贡奴"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "贡畜"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "贡猪"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "代付奴"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "提款机"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "贡系奴隶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXxxmuKp4Y",
+              "end": 168,
+              "expanded_url": "https://x.com/yues666/status/1902321214661783798/photo/1",
+              "media_key": "3_1902321175176654848",
+              "start": 145,
+              "url": "https://t.co/FXxxmuKp4Y"
+            },
+            {
+              "display_url": "pic.x.com/FXxxmuKp4Y",
+              "end": 168,
+              "expanded_url": "https://x.com/yues666/status/1902321214661783798/photo/1",
+              "media_key": "3_1902321201370034178",
+              "start": 145,
+              "url": "https://t.co/FXxxmuKp4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902321214661783798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小额报销群，贱畜看别人玩得这么开心，还在观望吗？进来了就放松下来好好玩，不用思考，思考也是很伤脑筋的，消耗能量；一直压抑自己会憋出病来，并且一直压抑只会适得其反，造成不可估量后果，偶尔释放才能让欲望得到控制 #报销奴 #贡奴 #ATM打钱奴 #贡畜 #贡猪 #代付奴 #提款机 #贡系奴隶 https://t.co/FXxxmuKp4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 114,
+          "like_count": 1062,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1250
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！内容皆原创，君权神授，而教皇也不过是神的崇拜者，圣女只是能与神对话的神的奴隶，唯拥有斩龙弑神魔法的强大妖精及精灵可以与神对抗。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 132,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 109,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 12,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 183
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

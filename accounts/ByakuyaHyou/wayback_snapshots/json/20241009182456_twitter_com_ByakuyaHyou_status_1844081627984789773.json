@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1844081627984789773",
+    "created_at": "2024-10-09T18:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T19:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844081627984789773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844081627984789773",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843822991555371048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 还记得你的老婆现在被几个男人射进去了？全身的安全套都可以做成裙子了。真是多谢你给我们找了这么嫩的尤物，大家感谢你还来不及呢。但你不能参与进去哦~还没上贡足够的解锁费哦~还犹豫什么，等着被锁废么？废物东西~啊，安全套用完了，内射进去不介意…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1844081627984789773].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1844081627984789773",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1844081627984789773"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843822989001027584"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1843822991555371048",
+        "created_at": "2024-10-09T01:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T02:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843822991555371048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "ntr"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOXb5G9YSN",
+              "end": 170,
+              "expanded_url": "https://x.com/bmEwUNVRXcP5w53/status/1843822991555371048/photo/1",
+              "media_key": "3_1843822989001027584",
+              "start": 147,
+              "url": "https://t.co/AOXb5G9YSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843822991555371048",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1410,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你的老婆现在被几个男人射进去了？全身的安全套都可以做成裙子了。真是多谢你给我们找了这么嫩的尤物，大家感谢你还来不及呢。但你不能参与进去哦~还没上贡足够的解锁费哦~还犹豫什么，等着被锁废么？废物东西~啊，安全套用完了，内射进去不介意吧，还是说你来买呢？\n#文援 #ntr #贞操锁 #上贡 https://t.co/AOXb5G9YSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 86,
+          "like_count": 635,
+          "listed_count": 0,
+          "tweet_count": 793
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2094108443 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla（互推）",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 117,
+          "like_count": 295,
+          "listed_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

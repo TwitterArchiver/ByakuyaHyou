@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1947996818450821350",
+    "created_at": "2025-07-25T06:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T07:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948624656451166524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890463481566228481",
+          "start": 0,
+          "username": "Theresa_RUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948624656451166524",
+    "in_reply_to_user_id": "1890463481566228481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947996818450821350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theresa_RUS 我不觉得媚日是什么好的行为😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1947996787643686912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiswecaoAAFz_T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1947996818450821350",
+        "created_at": "2025-07-25T06:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T07:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948624656451166524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890463481566228481",
+              "start": 0,
+              "username": "Theresa_RUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948624656451166524",
+        "in_reply_to_user_id": "1890463481566228481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947996818450821350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theresa_RUS 我不觉得媚日是什么好的行为😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947996787643686912"
+          ]
+        },
+        "author_id": "1890463481566228481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1947996818450821350",
+        "created_at": "2025-07-23T12:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T13:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947996818450821350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "cd"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "伪娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "ts"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "Arknights"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "男の娘"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "cos"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "特蕾西娅"
+            },
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "Theresa"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "テレジア"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "媚日"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "慰安"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "媚外"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQ9z8ReDhJ",
+              "end": 127,
+              "expanded_url": "https://x.com/Theresa_RUS/status/1947996818450821350/photo/1",
+              "media_key": "3_1947996787643686912",
+              "start": 104,
+              "url": "https://t.co/xQ9z8ReDhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947996818450821350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2770,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "诶，媚日人妖特蕾西娅女士\n\n#男娘 #cd #伪娘 #ts #明日方舟 #Arknights   \n#アークナイツ #男の娘 #cos \n#特蕾西娅 #Theresa \n#テレジア  #媚日 #慰安 #媚外 https://t.co/xQ9z8ReDhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 143,
+          "like_count": 1358,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1533
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T18:10:07.000Z",
+        "description": "想私聊请先给至少十个赞＋十个转发",
+        "id": "1890463481566228481",
+        "name": "人妖特蕾西娅/普瑞赛斯小姐",
+        "pinned_tweet_id": "1924133228551741677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933229016703778816/dVHVQwbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 53,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 154
+        },
+        "username": "Theresa_RUS",
+        "verified": false
+      }
+    ]
+  }
+}

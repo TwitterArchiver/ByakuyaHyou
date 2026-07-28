@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837830477019074707",
+    "created_at": "2024-09-22T12:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T13:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837830477019074707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837830477019074707",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837702256537620868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「早安小懒猪！♡」\n\n你抓着被睡得杂乱的头发,刚走出房门就被少女扑上来。你下意识地搂紧少女的腰间,霎时间鼻子里充满着属于少女的芳香和荷尔蒙的气味。紫灵的胸部直接地贴在你的胸襟,薄薄的衬衫包裹着乳肉外还透着些许粉红。你搂着飞扑而来的少女深吻着缠绵…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837830477019074707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837830477019074707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837830477019074707"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837702227492007936"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1837702256537620868",
+        "created_at": "2024-09-22T03:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T04:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837702256537620868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exkzkdoqyl",
+              "end": 168,
+              "expanded_url": "https://twitter.com/ZiYing12494/status/1837702256537620868/photo/1",
+              "media_key": "3_1837702227492007936",
+              "start": 145,
+              "url": "https://t.co/eXKzKDoqyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837702256537620868",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "「早安小懒猪！♡」\n\n你抓着被睡得杂乱的头发,刚走出房门就被少女扑上来。你下意识地搂紧少女的腰间,霎时间鼻子里充满着属于少女的芳香和荷尔蒙的气味。紫灵的胸部直接地贴在你的胸襟,薄薄的衬衫包裹着乳肉外还透着些许粉红。你搂着飞扑而来的少女深吻着缠绵了足足有20分钟才分开\n\n「今天…陪陪我?」 https://t.co/eXKzKDoqyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 81,
+          "like_count": 548,
+          "listed_count": 0,
+          "tweet_count": 673
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 46,
+          "like_count": 300,
+          "listed_count": 0,
+          "tweet_count": 177
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

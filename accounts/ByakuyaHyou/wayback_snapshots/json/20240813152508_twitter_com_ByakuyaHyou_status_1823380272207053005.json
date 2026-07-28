@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1823380272207053005",
+    "created_at": "2024-08-13T15:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T16:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823380272207053005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823380272207053005",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823379845952553278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 唔…穿着性感的内衣，捆住手脚，摆放成最羞耻的样子，只可以看着硬挺的鸡巴一下下挺动，就像往日抽插晓雨的嫩穴一样，而后，精液尽数喷射在晓雨脚心…可是…小穴还在一阵阵收缩…在流水…好想用双手抱住屁股，再把小穴掰开，邀请主人的大肉棒插进来❤️“…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823380272207053005].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823380272207053005",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823380272207053005"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823379835710054400"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1823379845952553278",
+        "created_at": "2024-08-13T15:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T16:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823379845952553278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "捆绑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wg3f874lzn",
+              "end": 167,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1823379845952553278/photo/1",
+              "media_key": "3_1823379835710054400",
+              "start": 144,
+              "url": "https://t.co/Wg3f874lZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823379845952553278",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唔…穿着性感的内衣，捆住手脚，摆放成最羞耻的样子，只可以看着硬挺的鸡巴一下下挺动，就像往日抽插晓雨的嫩穴一样，而后，精液尽数喷射在晓雨脚心…可是…小穴还在一阵阵收缩…在流水…好想用双手抱住屁股，再把小穴掰开，邀请主人的大肉棒插进来❤️“主人～今天可以用精液喂饱晓雨吗？”#文援  #捆绑 https://t.co/Wg3f874lZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费，喜欢可以打赏啦)\n电子女友包周包月业务等更多详细内容可以随时询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 16,
+          "like_count": 23,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，m、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、3p等题材开发中…文爱50/h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "name": "晓雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909577431742398465"
+      ],
+      "media_source_tweet_id": [
+        "1909577444346220641"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1969917330508706278",
+    "created_at": "2025-09-22T00:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969917330508706278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1909265297498165248",
+          "start": 3,
+          "username": "vivi18680361906"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dR3Zv8gx70",
+          "end": 53,
+          "expanded_url": "https://x.com/vivi18680361906/status/1909577444346220641/photo/1",
+          "media_key": "3_1909577431742398465",
+          "start": 30,
+          "url": "https://t.co/dR3Zv8gx70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969917330508706278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909577444346220641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vivi18680361906: 憧憬成为魔法少男 https://t.co/dR3Zv8gx70"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909577431742398465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAujoobwAEp92W.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909577431742398465"
+          ],
+          "media_source_tweet_id": [
+            "1909577444346220641"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1969917330508706278",
+        "created_at": "2025-09-22T00:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969917330508706278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1909265297498165248",
+              "start": 3,
+              "username": "vivi18680361906"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dR3Zv8gx70",
+              "end": 53,
+              "expanded_url": "https://x.com/vivi18680361906/status/1909577444346220641/photo/1",
+              "media_key": "3_1909577431742398465",
+              "start": 30,
+              "url": "https://t.co/dR3Zv8gx70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969917330508706278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909577444346220641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vivi18680361906: 憧憬成为魔法少男 https://t.co/dR3Zv8gx70"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909577431742398465"
+          ]
+        },
+        "author_id": "1909265297498165248",
+        "conversation_id": "1909577444346220641",
+        "created_at": "2025-04-08T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909577444346220641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dR3Zv8gx70",
+              "end": 32,
+              "expanded_url": "https://x.com/vivi18680361906/status/1909577444346220641/photo/1",
+              "media_key": "3_1909577431742398465",
+              "start": 9,
+              "url": "https://t.co/dR3Zv8gx70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909577444346220641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "憧憬成为魔法少男 https://t.co/dR3Zv8gx70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 186,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1527
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:21:44.000Z",
+        "description": "是个超～～～寂寞的男娘\n想被大家调戏♡，被大家当性奴♡，被大家用下流的目光打量♡\n求求大家来看看人家♡～",
+        "id": "1909265297498165248",
+        "name": "vivi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968606472281145344/IYe3GSCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 9
+        },
+        "username": "vivi18680361906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759022774399195",
+    "created_at": "2024-10-03T08:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759022774399195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759022774399195",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839880886676009335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 说着不想被■■...但是这样敏感~杂鱼的小💜肉棒...听到人家轻飘飘不经意说出来的文字~一不小心控制着■■想到「■■」怎么办🎶~\n不行的哟🖤要好好「■■」才对~不过似乎用更恶劣的方式篡改■■更适合您🎵\n对了~为了防止各位■■过早■■..…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759022774399195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759022774399195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759022774399195"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839880865595437057"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1839880886676009335",
+        "created_at": "2024-09-28T04:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T05:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839880886676009335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkVS9WPcBu",
+              "end": 172,
+              "expanded_url": "https://x.com/wymng2643248919/status/1839880886676009335/photo/1",
+              "media_key": "3_1839880865595437057",
+              "start": 149,
+              "url": "https://t.co/bkVS9WPcBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839880886676009335",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1388,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "说着不想被■■...但是这样敏感~杂鱼的小💜肉棒...听到人家轻飘飘不经意说出来的文字~一不小心控制着■■想到「■■」怎么办🎶~\n不行的哟🖤要好好「■■」才对~不过似乎用更恶劣的方式篡改■■更适合您🎵\n对了~为了防止各位■■过早■■..文本会特殊处理喔~想要被■■的大家~请自觉来敲门喔💗\n#洗脑 https://t.co/bkVS9WPcBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 605,
+          "listed_count": 0,
+          "tweet_count": 756
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~属性是Switch喔❤️无论是作为主人羞辱洗脑🖤发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 而且是完全一对一接单绝对保证服务质量和态度的喔💗该来排精了喔💜目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "id": "1669288784939106304",
+        "name": "阿眠呐~",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 21,
+          "like_count": 155,
+          "listed_count": 7,
+          "tweet_count": 173
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

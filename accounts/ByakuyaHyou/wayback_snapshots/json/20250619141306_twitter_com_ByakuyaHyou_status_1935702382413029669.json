@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1935702382413029669",
+    "created_at": "2025-06-19T14:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935702382413029669"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "贡猪"
+        },
+        {
+          "end": 129,
+          "start": 124,
+          "tag": "败北凌辱"
+        },
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "匿名贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ],
+      "urls": [
+        {
+          "description": "此游戏适合真正的贡畜，表面上有很多奴和奴下奴的伪S贡畜或立志想要成为贡畜的小额贡奴，没过门槛的有贡瘾的奴。进入游戏严禁私自触摸任何敏感部位和寸止高潮。",
+          "display_url": "forms.office.com/Pages/Response…",
+          "end": 119,
+          "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WK8VhlUQUhHUFNHRTJVVjBZVlU4TzREMDRGT0UzNS4u",
+          "images": [
+            {
+              "height": 1440,
+              "url": "https://pbs.twimg.com/news_img/1935325548882067456/Ybw_BmSo?format=jpg&name=orig",
+              "width": 1440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1935325548882067456/Ybw_BmSo?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 96,
+          "status": 200,
+          "title": "Fill | 小额贡奴互动游戏",
+          "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WK8VhlUQUhHUFNHRTJVVjBZVlU4TzREMDRGT0UzNS4u",
+          "url": "https://t.co/GXmebAe6E1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935702382413029669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932777797002670524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 小额贡畜和那些有上贡倾向又不想暴露自己的装模作样的伪S有福啦！月月做了一款小额贡⃤畜⃤互⃤动⃤游⃤戏⃤，点击即能游玩，不需要VPN，不会获取玩家信息，完全保护贡畜隐私https://t.co/GXmebAe6E1 #贡猪 #败北凌辱 #匿名贡 #ATM…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935702382413029669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935702382413029669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935702382413029669"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932777764639449088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKbIvsboAA8Pvl.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932777764639449088"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932777797002670524",
+        "created_at": "2025-06-11T12:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932777797002670524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "贡猪"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "匿名贡"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "洗脑压榨"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "胁迫控制"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "贡号"
+            }
+          ],
+          "urls": [
+            {
+              "description": "此游戏适合真正的贡畜，表面上有很多奴和奴下奴的伪S贡畜或立志想要成为贡畜的小额贡奴，没过门槛的有贡瘾的奴。进入游戏严禁私自触摸任何敏感部位和寸止高潮。",
+              "display_url": "forms.office.com/Pages/Response…",
+              "end": 106,
+              "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WK8VhlUQUhHUFNHRTJVVjBZVlU4TzREMDRGT0UzNS4u",
+              "images": [
+                {
+                  "height": 1440,
+                  "url": "https://pbs.twimg.com/news_img/1935325548882067456/Ybw_BmSo?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1935325548882067456/Ybw_BmSo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "Fill | 小额贡奴互动游戏",
+              "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WK8VhlUQUhHUFNHRTJVVjBZVlU4TzREMDRGT0UzNS4u",
+              "url": "https://t.co/GXmebAe6E1"
+            },
+            {
+              "display_url": "pic.x.com/8VIcAsjWq9",
+              "end": 190,
+              "expanded_url": "https://x.com/yues666/status/1932777797002670524/photo/1",
+              "media_key": "3_1932777764639449088",
+              "start": 167,
+              "url": "https://t.co/8VIcAsjWq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932777797002670524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2916,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小额贡畜和那些有上贡倾向又不想暴露自己的装模作样的伪S有福啦！月月做了一款小额贡⃤畜⃤互⃤动⃤游⃤戏⃤，点击即能游玩，不需要VPN，不会获取玩家信息，完全保护贡畜隐私https://t.co/GXmebAe6E1 #贡猪 #败北凌辱 #匿名贡 #ATM奴 #无脑上供 #洗脑压榨 #压榨奴 #胁迫控制 #女性崇拜 #貢ぎマゾ #贡号 https://t.co/8VIcAsjWq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 120,
+          "like_count": 1265,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1473
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 12,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 332
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

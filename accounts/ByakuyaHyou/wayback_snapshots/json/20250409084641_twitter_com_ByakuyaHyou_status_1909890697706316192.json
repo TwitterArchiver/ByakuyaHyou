@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909890697706316192",
+    "created_at": "2025-04-09T08:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909890697706316192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909890697706316192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909866318960148718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “呜齁齁~💕 这位老师...人家是来 给班里的运动员加油的...💕 才不是给你这满脑子鸡巴的下头老师当套子的...💕💕”\n\n蓝白色拉拉队员服尽显少女活力，极短裙摆连翘臀都难以掩抑，弯着细腰吐出嫩舌💕，小手挥舞花球 穴肉一圈圈缩紧给体内巨根注入活…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909890697706316192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909890697706316192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909890697706316192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1909866315936088065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoE1S6HawAE8RJ5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909866315936088065"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1909866318960148718",
+        "created_at": "2025-04-09T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909866318960148718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "啦啦队员"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "运动会"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "师生"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "文媛"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNv4Z8usua",
+              "end": 177,
+              "expanded_url": "https://x.com/q3233788635/status/1909866318960148718/photo/1",
+              "media_key": "3_1909866315936088065",
+              "start": 154,
+              "url": "https://t.co/hNv4Z8usua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909866318960148718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 324,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“呜齁齁~💕 这位老师...人家是来 给班里的运动员加油的...💕 才不是给你这满脑子鸡巴的下头老师当套子的...💕💕”\n\n蓝白色拉拉队员服尽显少女活力，极短裙摆连翘臀都难以掩抑，弯着细腰吐出嫩舌💕，小手挥舞花球 穴肉一圈圈缩紧给体内巨根注入活力💕💕\n\n#啦啦队员 #运动会 #师生 #文爱 #文媛 #文援 https://t.co/hNv4Z8usua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 115,
+          "like_count": 1056,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1235
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 459,
+          "like_count": 3104,
+          "listed_count": 11,
+          "media_count": 64,
+          "tweet_count": 2557
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

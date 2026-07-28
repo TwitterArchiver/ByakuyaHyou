@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907314773106020381",
+    "created_at": "2025-04-02T06:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907314773106020381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894653060313747458",
+          "start": 3,
+          "username": "xibao19886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907314773106020381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907308357687574923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xibao19886: 给我磕头下跪好好感恩~💕你的女王大人愿意把高贵的圣水淋在你智商只有豌豆大小的脑袋上吧~\n被人骑在头上羞辱竖着根4厘米不到的豆芽能够干什么呢~🖤\n下贱可悲的短屌贱种就连喝尿也不能喝碗里的只能喝落在地板被细菌污染的脏水~🖤\n舔干净地上的水我可以大发慈…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907314773106020381].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907314773106020381",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907314773106020381"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1907308354948739072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnge1-3asAANch0.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907308354948739072"
+          ]
+        },
+        "author_id": "1894653060313747458",
+        "conversation_id": "1907308357687574923",
+        "created_at": "2025-04-02T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907308357687574923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBak4z2UuP",
+              "end": 165,
+              "expanded_url": "https://x.com/xibao19886/status/1907308357687574923/photo/1",
+              "media_key": "3_1907308354948739072",
+              "start": 142,
+              "url": "https://t.co/ZBak4z2UuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907308357687574923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "给我磕头下跪好好感恩~💕你的女王大人愿意把高贵的圣水淋在你智商只有豌豆大小的脑袋上吧~\n被人骑在头上羞辱竖着根4厘米不到的豆芽能够干什么呢~🖤\n下贱可悲的短屌贱种就连喝尿也不能喝碗里的只能喝落在地板被细菌污染的脏水~🖤\n舔干净地上的水我可以大发慈悲的让你亲吻我的脚趾头哦~🖤\n#文爱 https://t.co/ZBak4z2UuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 110,
+          "like_count": 1011,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1182
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T07:38:04.000Z",
+        "description": "夕宝已经无所谓了，一个被推特制裁很多次的文援，门槛15，半小时35，一小时65，不诈骗，不语言，不视频，门牌：3875887471",
+        "id": "1894653060313747458",
+        "name": "夕宝【春苑阁】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906602621722660864/ePbxdf2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "username": "xibao19886",
+        "verified": false
+      }
+    ]
+  }
+}

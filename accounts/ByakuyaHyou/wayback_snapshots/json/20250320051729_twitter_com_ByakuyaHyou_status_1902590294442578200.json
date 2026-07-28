@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902590294442578200",
+    "created_at": "2025-03-20T05:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T06:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902590294442578200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669539094853210112",
+          "start": 3,
+          "username": "36Dxiaomihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902590294442578200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902555515735228443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @36Dxiaomihu: 从今天开始每天都要吸着人家被足汗浸透的鞋子和袜子♡\n在人家的淫香中度过每分每秒~\n记住人家的足臭让这个味道成为你的性癖才行~\n只要闻到人家的足臭就变得兴奋发情♡因人家的足臭让你全身脱力跪在脚边发情流汁♡\n我会让你成为最底层的狗狗~\n让足臭充满大…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902590294442578200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902590294442578200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902590294442578200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_1902553227993952256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc6FKjaMAAW6X5.jpg",
+        "width": 1009
+      },
+      {
+        "height": 1221,
+        "media_key": "3_1902553228002344960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc6FKlaQAAnFWP.jpg",
+        "width": 862
+      },
+      {
+        "height": 621,
+        "media_key": "3_1902553228165967873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc6FLMa8AEvhVQ.jpg",
+        "width": 386
+      },
+      {
+        "height": 443,
+        "media_key": "3_1902553235698966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc6FnQbYAAx_pJ.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902553227993952256",
+            "3_1902553228002344960",
+            "3_1902553228165967873",
+            "3_1902553235698966528"
+          ]
+        },
+        "author_id": "1669539094853210112",
+        "conversation_id": "1902555515735228443",
+        "created_at": "2025-03-20T02:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T03:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902555515735228443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cS9P6cgvBW",
+              "end": 168,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1902555515735228443/photo/1",
+              "media_key": "3_1902553227993952256",
+              "start": 145,
+              "url": "https://t.co/cS9P6cgvBW"
+            },
+            {
+              "display_url": "pic.x.com/cS9P6cgvBW",
+              "end": 168,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1902555515735228443/photo/1",
+              "media_key": "3_1902553228002344960",
+              "start": 145,
+              "url": "https://t.co/cS9P6cgvBW"
+            },
+            {
+              "display_url": "pic.x.com/cS9P6cgvBW",
+              "end": 168,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1902555515735228443/photo/1",
+              "media_key": "3_1902553228165967873",
+              "start": 145,
+              "url": "https://t.co/cS9P6cgvBW"
+            },
+            {
+              "display_url": "pic.x.com/cS9P6cgvBW",
+              "end": 168,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1902555515735228443/photo/1",
+              "media_key": "3_1902553235698966528",
+              "start": 145,
+              "url": "https://t.co/cS9P6cgvBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902555515735228443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 838,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "从今天开始每天都要吸着人家被足汗浸透的鞋子和袜子♡\n在人家的淫香中度过每分每秒~\n记住人家的足臭让这个味道成为你的性癖才行~\n只要闻到人家的足臭就变得兴奋发情♡因人家的足臭让你全身脱力跪在脚边发情流汁♡\n我会让你成为最底层的狗狗~\n让足臭充满大脑把低级基因榨出~\n变成人家一辈子的擦脚布♡ https://t.co/cS9P6cgvBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 105,
+          "like_count": 899,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1076
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T02:55:26.000Z",
+        "description": "欢迎小可爱们私信互推和扩列哦♡\n欢迎小狗们来兔兔的脚下上供发情♡\n让人家用脚把你这个垃圾贱种的肉棒踩坏♡\n把你的低级的贱种基因在兔兔的足下碾碎♡\n给人家臭脚除臭♡让气味进入你的大脑里♡\n成为人家的脚垫奴隶~一边上供一边被踩喷~\n臭脚踩脸♡气味洗脑♡羞辱蹂躏♡\n兔兔的门牌Q：2757227747 门费：20r",
+        "id": "1669539094853210112",
+        "name": "兔子小姐🔞",
+        "pinned_tweet_id": "1902555515735228443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820375164997292032/op9-8-hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 765,
+          "like_count": 1292,
+          "listed_count": 14,
+          "media_count": 54,
+          "tweet_count": 273
+        },
+        "username": "36Dxiaomihu",
+        "verified": false
+      }
+    ]
+  }
+}

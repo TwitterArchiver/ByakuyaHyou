@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832629297338839261",
+    "created_at": "2024-09-08T03:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T04:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832629297338839261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832629297338839261",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832381282321613247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 晓雨学着小狗的样子跪趴在床上，嘴里叼着内裤发出一阵闷哼…感受着主人的大手在臀瓣上轻抚，手指隔着黑丝揉捏圆润白皙的屁股～身下的小穴微微张开一道窄缝，晓雨母狗难耐地摇晃身子，吸引主人的目光～✨\r连裤袜被脱下的瞬间，小穴水淋淋的收缩着…啊哈……"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832629297338839261].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832629297338839261",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832629297338839261"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832381272678899712"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1832381282321613247",
+        "created_at": "2024-09-07T11:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T12:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832381282321613247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文援"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfpy4aq4mc",
+              "end": 165,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1832381282321613247/photo/1",
+              "media_key": "3_1832381272678899712",
+              "start": 142,
+              "url": "https://t.co/lfpY4aQ4MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832381282321613247",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2219,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "晓雨学着小狗的样子跪趴在床上，嘴里叼着内裤发出一阵闷哼…感受着主人的大手在臀瓣上轻抚，手指隔着黑丝揉捏圆润白皙的屁股～身下的小穴微微张开一道窄缝，晓雨母狗难耐地摇晃身子，吸引主人的目光～✨\r连裤袜被脱下的瞬间，小穴水淋淋的收缩着…啊哈…晓雨的每一个洞都想被主人填满♥️#文援 #母狗 https://t.co/lfpY4aQ4MC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 80,
+          "like_count": 441,
+          "listed_count": 0,
+          "tweet_count": 527
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱50/h，30/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 66,
+          "like_count": 245,
+          "listed_count": 2,
+          "tweet_count": 261
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

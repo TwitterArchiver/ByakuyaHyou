@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047728300508807328",
+    "created_at": "2026-04-25T03:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047876055097356635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1645307507324362752",
+          "start": 0,
+          "username": "WheatGhost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047876055097356635",
+    "in_reply_to_user_id": "1645307507324362752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047728300508807328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WheatGhost 我喜欢你肏死你喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2047728285354704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGr-BrUWQAAnbBv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047728300508807328",
+        "created_at": "2026-04-25T03:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047876055097356635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645307507324362752",
+              "start": 0,
+              "username": "WheatGhost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047876055097356635",
+        "in_reply_to_user_id": "1645307507324362752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047728300508807328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WheatGhost 我喜欢你肏死你喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047728285354704896"
+          ]
+        },
+        "author_id": "1645307507324362752",
+        "conversation_id": "2047728300508807328",
+        "created_at": "2026-04-24T17:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047728300508807328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YcOQPrYPp",
+              "end": 44,
+              "expanded_url": "https://x.com/WheatGhost/status/2047728300508807328/photo/1",
+              "media_key": "3_2047728285354704896",
+              "start": 21,
+              "url": "https://t.co/6YcOQPrYPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047728300508807328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦哦耶耶😤\n#男娘 #可爱的男孩子 https://t.co/6YcOQPrYPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 236,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1518
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T06:07:44.000Z",
+        "description": "🥰",
+        "id": "1645307507324362752",
+        "location": "联合国安理会",
+        "name": "小麦幽灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935665166743453696/LgiNWeNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 210,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "username": "WheatGhost",
+        "verified": false
+      }
+    ]
+  }
+}

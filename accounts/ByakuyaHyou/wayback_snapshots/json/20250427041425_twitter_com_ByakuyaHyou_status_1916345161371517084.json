@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916345161371517084",
+    "created_at": "2025-04-27T04:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916345161371517084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916345161371517084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915718092090708473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @RngPirdOe434191: 晨光透过纱帘洒在床上，将两具交缠的肉体镀上一层金色。晓雨肥软的肉臀被撞得不停晃动，臀浪在阳光下泛着淫靡的光泽：“啊...啊...要死了..主人的...太大了...”\r晓雨母狗的宫颈像小嘴般不断开合，贪婪地吮吸着龟头，淫水顺着大腿往下流，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916345161371517084].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916345161371517084",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916345161371517084"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_1915718081881743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpX_chBaoAA-BX2.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915718081881743360"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1915718092090708473",
+        "created_at": "2025-04-25T10:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T11:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915718092090708473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPKFDbi8db",
+              "end": 170,
+              "expanded_url": "https://x.com/RngPirdOe434191/status/1915718092090708473/photo/1",
+              "media_key": "3_1915718081881743360",
+              "start": 147,
+              "url": "https://t.co/TPKFDbi8db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915718092090708473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "晨光透过纱帘洒在床上，将两具交缠的肉体镀上一层金色。晓雨肥软的肉臀被撞得不停晃动，臀浪在阳光下泛着淫靡的光泽：“啊...啊...要死了..主人的...太大了...”\r晓雨母狗的宫颈像小嘴般不断开合，贪婪地吮吸着龟头，淫水顺着大腿往下流，把床单浸出一片深色：“噫！...又顶到...子宫了！！”\r突然被主人掐住脖子打桩，晓雨翻着白眼达到高潮，骚穴剧烈收缩着喷出大量爱液：“噢！...噢噢！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2544,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "following",
+        "text": "晨光透过纱帘洒在床上，将两具交缠的肉体镀上一层金色。晓雨肥软的肉臀被撞得不停晃动，臀浪在阳光下泛着淫靡的光泽：“啊...啊...要死了..主人的...太大了...”\r晓雨母狗的宫颈像小嘴般不断开合，贪婪地吮吸着龟头，淫水顺着大腿往下流，把床单浸出一片深色：“噫！...又顶到...子宫了！！” https://t.co/TPKFDbi8db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1128,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1336
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱60/h，35/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～电报小飞机：https://t.co/PZw0eBHcVT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dawn_drizzle",
+                "end": 124,
+                "expanded_url": "https://t.me/dawn_drizzle",
+                "start": 101,
+                "url": "https://t.co/PZw0eBHcVT"
+              }
+            ]
+          }
+        },
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1897920362190717002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 153,
+          "like_count": 602,
+          "listed_count": 20,
+          "media_count": 107,
+          "tweet_count": 1789
+        },
+        "username": "RngPirdOe434191",
+        "verified": true
+      }
+    ]
+  }
+}

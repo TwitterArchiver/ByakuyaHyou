@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905883156542091490",
+    "created_at": "2025-03-29T07:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905883156542091490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905883156542091490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905551839191331205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @RngPirdOe434191: 嗷嗷嗷——谢谢主人！！母狗的屁眼已经能把比自己手臂还粗的假鸡巴都吞下去了……好爽……啊啊啊不行…要高潮了…骚穴一直在收缩…忍不住要喷了，求求主人用大肉棒插进母狗饥渴的骚穴里…想要主人的精液…填满…呜呜母狗爽的双腿一直在发抖，小腹都在抽搐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905883156542091490].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905883156542091490",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905883156542091490"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_1905551827749466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHhSpIacAA4EW0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905551827749466112"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1905551839191331205",
+        "created_at": "2025-03-28T09:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905551839191331205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6u8XlWs23",
+              "end": 161,
+              "expanded_url": "https://x.com/RngPirdOe434191/status/1905551839191331205/photo/1",
+              "media_key": "3_1905551827749466112",
+              "start": 138,
+              "url": "https://t.co/W6u8XlWs23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905551839191331205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2777,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "following",
+        "text": "嗷嗷嗷——谢谢主人！！母狗的屁眼已经能把比自己手臂还粗的假鸡巴都吞下去了……好爽……啊啊啊不行…要高潮了…骚穴一直在收缩…忍不住要喷了，求求主人用大肉棒插进母狗饥渴的骚穴里…想要主人的精液…填满…呜呜母狗爽的双腿一直在发抖，小腹都在抽搐了啊啊啊…！晓雨永远是主人的母狗姓奴！ https://t.co/W6u8XlWs23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 978,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1151
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱60/h，35/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～电报小飞机：https://t.co/PZw0eBHcVT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dawn_drizzle",
+                "end": 124,
+                "expanded_url": "https://t.me/dawn_drizzle",
+                "start": 101,
+                "url": "https://t.co/PZw0eBHcVT"
+              }
+            ]
+          }
+        },
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1897920362190717002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 150,
+          "like_count": 717,
+          "listed_count": 18,
+          "media_count": 93,
+          "tweet_count": 1682
+        },
+        "username": "RngPirdOe434191",
+        "verified": true
+      }
+    ]
+  }
+}

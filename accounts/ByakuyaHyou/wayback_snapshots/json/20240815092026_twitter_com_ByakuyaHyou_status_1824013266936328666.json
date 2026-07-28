@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823728875450589190"
+      ],
+      "media_source_tweet_id": [
+        "1823728878768284036"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824013266936328666",
+    "created_at": "2024-08-15T09:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T10:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824013266936328666"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "文媛"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "舔脚"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uch5qxtxbj",
+          "end": 120,
+          "expanded_url": "https://twitter.com/chessy80978858/status/1823728878768284036/photo/1",
+          "media_key": "3_1823728875450589190",
+          "start": 97,
+          "url": "https://t.co/ucH5QxTXbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824013266936328666",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823728878768284036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: “你跪下来干什么？嗯？你要舔我的脚？！.啧...真恶心 ...看不起你一点呢 你这无药可救的劣质足控变态~丢人现眼！舔完快滚！”\n#文媛 #舔脚 #足控 https://t.co/ucH5QxTXbj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824013266936328666].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824013266936328666",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824013266936328666"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1823728875450589190",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU8vv-va4AYS3Z6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823728875450589190"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "conversation_id": "1823728878768284036",
+        "created_at": "2024-08-14T14:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823728878768284036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "文媛"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "舔脚"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uch5qxtxbj",
+              "end": 100,
+              "expanded_url": "https://twitter.com/chessy80978858/status/1823728878768284036/photo/1",
+              "media_key": "3_1823728875450589190",
+              "start": 77,
+              "url": "https://t.co/ucH5QxTXbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823728878768284036",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2732,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "“你跪下来干什么？嗯？你要舔我的脚？！.啧...真恶心 ...看不起你一点呢 你这无药可救的劣质足控变态~丢人现眼！舔完快滚！”\n#文媛 #舔脚 #足控 https://t.co/ucH5QxTXbj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 23,
+          "like_count": 37,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮 喜欢小贱狗们心甘情愿献出一切的魅魔女皇🖤 擅长调教杂鱼小雏男 吸干各位劣质狗狗的钱包~ 价格60/1h 不涉三 可预约 出文记录 具体请敲门 门牌Q1430295633欢迎敲门 姐姐老婆@Sakura9OwO私人魅魔@Lily_520_Lily",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Sakura9OwO"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Lily_520_Lily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chessy80978858",
+                "end": 23,
+                "expanded_url": "http://t.me/chessy80978858",
+                "start": 0,
+                "url": "https://t.co/GOFdUIJm02"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "location": "踩在你心里~",
+        "name": "简妮喜欢支配♡（互推）",
+        "pinned_tweet_id": "1822256634124505198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794701523735441408/xw5Dw3fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 130,
+          "like_count": 1613,
+          "listed_count": 19,
+          "tweet_count": 3012
+        },
+        "url": "https://t.co/GOFdUIJm02",
+        "username": "chessy80978858",
+        "verified": false
+      }
+    ]
+  }
+}

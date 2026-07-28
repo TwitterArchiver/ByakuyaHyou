@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1939301496098533687",
+    "created_at": "2025-06-29T12:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939301496098533687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939301496098533687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939230952665866391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「那个陷阱准备好了吗？ 好 半小时后准备动手」\n\n邪恶组织喽啰之间，在阴暗的森林窃窃私语准备什么，然后就是等待魔法少女的到来…\n\n「呜呜! 呜～♡」\n陷阱计划成功了，将多次阻挠组织的魔法少女囚禁起来调教，魔力被完全封锁断除了所有逃生可能，让少女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1939230949675540487",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GumIRjTaoAcKhDC.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1939301496098533687",
+        "created_at": "2025-06-29T12:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939301496098533687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818321272440565760",
+              "start": 3,
+              "username": "ZiYing12494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939301496098533687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939230952665866391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZiYing12494: 「那个陷阱准备好了吗？ 好 半小时后准备动手」\n\n邪恶组织喽啰之间，在阴暗的森林窃窃私语准备什么，然后就是等待魔法少女的到来…\n\n「呜呜! 呜～♡」\n陷阱计划成功了，将多次阻挠组织的魔法少女囚禁起来调教，魔力被完全封锁断除了所有逃生可能，让少女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939230949675540487"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1939230952665866391",
+        "created_at": "2025-06-29T07:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939230952665866391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "魔法少女"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "强制高潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJZtKL0cvX",
+              "end": 170,
+              "expanded_url": "https://x.com/ZiYing12494/status/1939230952665866391/photo/1",
+              "media_key": "3_1939230949675540487",
+              "start": 147,
+              "url": "https://t.co/wJZtKL0cvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939230952665866391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "魔法少女"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "强制高潮"
+              },
+              {
+                "end": 150,
+                "start": 147,
+                "tag": "败北"
+              }
+            ]
+          },
+          "text": "「那个陷阱准备好了吗？ 好 半小时后准备动手」\n\n邪恶组织喽啰之间，在阴暗的森林窃窃私语准备什么，然后就是等待魔法少女的到来…\n\n「呜呜! 呜～♡」\n陷阱计划成功了，将多次阻挠组织的魔法少女囚禁起来调教，魔力被完全封锁断除了所有逃生可能，让少女只能无助地呻吟和强制高潮\n#魔法少女 #强制高潮 #败北"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 226,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「那个陷阱准备好了吗？ 好 半小时后准备动手」\n\n邪恶组织喽啰之间，在阴暗的森林窃窃私语准备什么，然后就是等待魔法少女的到来…\n\n「呜呜! 呜～♡」\n陷阱计划成功了，将多次阻挠组织的魔法少女囚禁起来调教，魔力被完全封锁断除了所有逃生可能，让少女只能无助地呻吟和强制高潮\n#魔法少女 #强制高潮 https://t.co/wJZtKL0cvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1285,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1489
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 79,
+          "like_count": 838,
+          "listed_count": 6,
+          "media_count": 139,
+          "tweet_count": 548
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

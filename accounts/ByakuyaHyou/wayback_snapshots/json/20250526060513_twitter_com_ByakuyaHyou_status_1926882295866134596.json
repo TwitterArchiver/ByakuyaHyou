@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1926882295866134596",
+    "created_at": "2025-05-26T06:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T07:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926882295866134596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926882295866134596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926181913535918580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「什么… 什么嘛…怎么可能忍耐10分钟那么久…噫! 不要欺负乳头…♡」\n\n少女被紧缚着靠在男人怀里，尤其说是赌约，反而是男人单方面给怀里的少女下的要求.。成功忍耐便会有奖励，反之则是严格的色情惩罚♡从男人不断玩弄乳头的行为来看，只少女似乎剩下惩…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926882295866134596].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926882295866134596",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926882295866134596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1926181907823284224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrssPWSXUAAyVdq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926181907823284224"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1926181913535918580",
+        "created_at": "2025-05-24T07:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926181913535918580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgBQopoqpp",
+              "end": 168,
+              "expanded_url": "https://x.com/ZiYing12494/status/1926181913535918580/photo/1",
+              "media_key": "3_1926181907823284224",
+              "start": 145,
+              "url": "https://t.co/bgBQopoqpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926181913535918580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              },
+              {
+                "end": 152,
+                "start": 149,
+                "tag": "捆绑"
+              }
+            ]
+          },
+          "text": "「什么… 什么嘛…怎么可能忍耐10分钟那么久…噫! 不要欺负乳头…♡」\n\n少女被紧缚着靠在男人怀里，尤其说是赌约，反而是男人单方面给怀里的少女下的要求.。成功忍耐便会有奖励，反之则是严格的色情惩罚♡从男人不断玩弄乳头的行为来看，只少女似乎剩下惩罚这条路能走了呢♡\n\n「去…去了!去了…♡」\n#文爱 #捆绑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3502,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "「什么… 什么嘛…怎么可能忍耐10分钟那么久…噫! 不要欺负乳头…♡」\n\n少女被紧缚着靠在男人怀里，尤其说是赌约，反而是男人单方面给怀里的少女下的要求.。成功忍耐便会有奖励，反之则是严格的色情惩罚♡从男人不断玩弄乳头的行为来看，只少女似乎剩下惩罚这条路能走了呢♡\n\n「去…去了!去了…♡」 https://t.co/bgBQopoqpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1234,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1443
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 77,
+          "like_count": 773,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 501
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

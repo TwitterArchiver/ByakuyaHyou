@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836339208241451010"
+      ],
+      "media_source_tweet_id": [
+        "1836339214616871359"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836373003845931093",
+    "created_at": "2024-09-18T11:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T12:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836373003845931093"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "女s"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "男m"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "榨金"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "报销奴"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "舔脚"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "舔狗"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "黑丝控"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "女尊男卑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640248618580946945",
+          "start": 3,
+          "username": "funk_19973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qyq0a2lvk",
+          "end": 105,
+          "expanded_url": "https://twitter.com/funk_19973/status/1836339214616871359/photo/1",
+          "media_key": "3_1836339208241451010",
+          "start": 82,
+          "url": "https://t.co/4qyq0a2lvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836373003845931093",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836339214616871359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @funk_19973: 想被粗口调教的贱狗点赞❤️滚过来！#女s #男m #上贡奴 #ATM打钱奴 #榨金 #报销奴 #舔脚 #舔狗 #黑丝控 #女尊男卑 https://t.co/4qyq0a2lvK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836373003845931093].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836373003845931093",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836373003845931093"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1371,
+        "media_key": "3_1836339208241451010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXv8x9JakAIFYma.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836339208241451010"
+          ]
+        },
+        "author_id": "1640248618580946945",
+        "conversation_id": "1836339214616871359",
+        "created_at": "2024-09-18T09:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T10:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836339214616871359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "女s"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男m"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "榨金"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "报销奴"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "舔脚"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "舔狗"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "黑丝控"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "女尊男卑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qyq0a2lvk",
+              "end": 89,
+              "expanded_url": "https://twitter.com/funk_19973/status/1836339214616871359/photo/1",
+              "media_key": "3_1836339208241451010",
+              "start": 66,
+              "url": "https://t.co/4qyq0a2lvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836339214616871359",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 987,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "想被粗口调教的贱狗点赞❤️滚过来！#女s #男m #上贡奴 #ATM打钱奴 #榨金 #报销奴 #舔脚 #舔狗 #黑丝控 #女尊男卑 https://t.co/4qyq0a2lvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 81,
+          "like_count": 526,
+          "listed_count": 0,
+          "tweet_count": 635
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T07:05:23.000Z",
+        "description": "🚪28大号@xnuch6347976561",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "xnuch6347976561"
+              }
+            ]
+          }
+        },
+        "id": "1640248618580946945",
+        "location": "Daytona Beach",
+        "name": "妤祖宗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836336554899574788/SWIRqC0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "funk_19973",
+        "verified": false
+      }
+    ]
+  }
+}

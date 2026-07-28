@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1942562411724300467",
+    "created_at": "2026-05-19T21:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T22:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056847019441025290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939825292744470528",
+          "start": 0,
+          "username": "oXKEGgucEw56883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056847019441025290",
+    "in_reply_to_user_id": "1939825292744470528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942562411724300467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oXKEGgucEw56883 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1942561628756529152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVdglxWUAAQYdg.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1942561628534550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVdgk8bMAAQQ5h.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1942561628689461248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVdglhW8AALb4c.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1942562411724300467",
+        "created_at": "2026-05-19T21:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056847019441025290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939825292744470528",
+              "start": 0,
+              "username": "oXKEGgucEw56883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056847019441025290",
+        "in_reply_to_user_id": "1939825292744470528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942562411724300467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oXKEGgucEw56883 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942561628756529152",
+            "3_1942561628534550528",
+            "3_1942561628689461248"
+          ]
+        },
+        "author_id": "1939825292744470528",
+        "conversation_id": "1942562411724300467",
+        "created_at": "2025-07-08T12:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942562411724300467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "伪娘"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "男娘"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8hEZ0V3J5",
+              "end": 84,
+              "expanded_url": "https://x.com/oXKEGgucEw56883/status/1942562411724300467/photo/1",
+              "media_key": "3_1942561628756529152",
+              "start": 61,
+              "url": "https://t.co/L8hEZ0V3J5"
+            },
+            {
+              "display_url": "pic.x.com/L8hEZ0V3J5",
+              "end": 84,
+              "expanded_url": "https://x.com/oXKEGgucEw56883/status/1942562411724300467/photo/1",
+              "media_key": "3_1942561628534550528",
+              "start": 61,
+              "url": "https://t.co/L8hEZ0V3J5"
+            },
+            {
+              "display_url": "pic.x.com/L8hEZ0V3J5",
+              "end": 84,
+              "expanded_url": "https://x.com/oXKEGgucEw56883/status/1942562411724300467/photo/1",
+              "media_key": "3_1942561628689461248",
+              "start": 61,
+              "url": "https://t.co/L8hEZ0V3J5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942562411724300467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔 想了很久，还是打算开始女装腻 有什么建议呢？（ 在寝室拍的 有些东西不太方便 见谅） #伪娘 #男娘 #可爱的男孩子 https://t.co/L8hEZ0V3J5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～",
+        "name": "普瑞赛斯",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 356,
+          "like_count": 1409,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1571
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T23:16:13.000Z",
+        "description": "唔？女装进化ing",
+        "id": "1939825292744470528",
+        "location": "zhejiang",
+        "name": "江清澈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952417111936270337/pafa6iyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 39,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "oXKEGgucEw56883",
+        "verified": false
+      }
+    ]
+  }
+}

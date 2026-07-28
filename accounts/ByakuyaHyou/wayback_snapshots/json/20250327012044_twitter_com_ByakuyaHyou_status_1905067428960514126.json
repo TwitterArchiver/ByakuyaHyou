@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905067428960514126",
+    "created_at": "2025-03-27T01:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T02:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905067428960514126"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "文援姬"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "音援姬"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "粗口"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "寸止"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "语调"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "萝莉s"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "温柔"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "ntr"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "女s"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905067428960514126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904224857627525279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 噗嗤～果然贱狗就是贱狗～几天不见回来突然来一句要妈妈我当母狗？看看你这傻逼贱狗样子笑死～噌噌噌还不是直接被妈妈我呢～狠狠的调教玩弄欺负着～真是没用的牲畜啊～\n#文援姬 #音援姬 #粗口 #寸止 #语调 #萝莉s #温柔 #ntr #女s #绿…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19669,
+        "height": 1280,
+        "media_key": "7_1904224837134168064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904224837134168064/pu/img/x0MFUgjJBnw9dI9K.jpg",
+        "public_metrics": {
+          "view_count": 1150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904224837134168064/pu/vid/avc1/320x710/xW6kfYrdt14DKue3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904224837134168064/pu/vid/avc1/480x1066/sSA2j1-0-lLF2GnC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904224837134168064/pu/vid/avc1/576x1280/WYDLWWkBcF9pt6sY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904224837134168064/pu/pl/0NI4GOmaZgblpCnt.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 900,
+        "media_key": "3_1904224855450664960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0qasGbQAAD9Sp.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1905067428960514126",
+        "created_at": "2025-03-27T01:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T02:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905067428960514126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "文援姬"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "音援姬"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "粗口"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "寸止"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "语调"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "温柔"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "ntr"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "女s"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905067428960514126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904224857627525279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 噗嗤～果然贱狗就是贱狗～几天不见回来突然来一句要妈妈我当母狗？看看你这傻逼贱狗样子笑死～噌噌噌还不是直接被妈妈我呢～狠狠的调教玩弄欺负着～真是没用的牲畜啊～\n#文援姬 #音援姬 #粗口 #寸止 #语调 #萝莉s #温柔 #ntr #女s #绿…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904224837134168064",
+            "3_1904224855450664960"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904224857627525279",
+        "created_at": "2025-03-24T17:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T18:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904224857627525279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "文援姬"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "音援姬"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "粗口"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "寸止"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "语调"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "温柔"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "ntr"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "女s"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "绿帽奴"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "性幻想"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "榨金"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "黑心"
+            },
+            {
+              "end": 139,
+              "start": 137,
+              "tag": "m"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "反差"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "atm"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "萝莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8AjjIFk6T",
+              "end": 182,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1904224857627525279/video/1",
+              "media_key": "7_1904224837134168064",
+              "start": 159,
+              "url": "https://t.co/H8AjjIFk6T"
+            },
+            {
+              "display_url": "pic.x.com/H8AjjIFk6T",
+              "end": 182,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1904224857627525279/video/1",
+              "media_key": "3_1904224855450664960",
+              "start": 159,
+              "url": "https://t.co/H8AjjIFk6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904224857627525279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3958,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "噗嗤～果然贱狗就是贱狗～几天不见回来突然来一句要妈妈我当母狗？看看你这傻逼贱狗样子笑死～噌噌噌还不是直接被妈妈我呢～狠狠的调教玩弄欺负着～真是没用的牲畜啊～\n#文援姬 #音援姬 #粗口 #寸止 #语调 #萝莉s #温柔 #ntr #女s #绿帽奴 #性幻想 #榨金 #黑心 #m #ATM奴 #反差 #atm #萝莉 https://t.co/H8AjjIFk6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 105,
+          "like_count": 953,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1126
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 13,
+          "like_count": 3138,
+          "listed_count": 7,
+          "media_count": 104,
+          "tweet_count": 3927
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

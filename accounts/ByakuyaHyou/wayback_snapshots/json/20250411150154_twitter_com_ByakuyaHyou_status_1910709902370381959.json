@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1910709902370381959",
+    "created_at": "2025-04-11T15:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T16:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910709902370381959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847296642254503937",
+          "start": 3,
+          "username": "qiang_jiang778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910709902370381959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910689864518885471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiang_jiang778: “大家好——！这是我第一次登上舞台！”\n经纪人挑来的短裙确实轻便，不过，不会想到观众根本不在意才华。\n——\n“在座各位还有要出价的吗？”经纪人放大了屏幕，集中在偶尔露出胖次的下半身。人们查看着，竞价着，眼前的少女不过是一个物品，无论如何都…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910689861507702784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQiTkcbYAA4KlB.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1910709902370381959",
+        "created_at": "2025-04-11T15:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T16:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910709902370381959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847296642254503937",
+              "start": 3,
+              "username": "qiang_jiang778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910709902370381959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910689864518885471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiang_jiang778: “大家好——！这是我第一次登上舞台！”\n经纪人挑来的短裙确实轻便，不过，不会想到观众根本不在意才华。\n——\n“在座各位还有要出价的吗？”经纪人放大了屏幕，集中在偶尔露出胖次的下半身。人们查看着，竞价着，眼前的少女不过是一个物品，无论如何都…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910689861507702784"
+          ]
+        },
+        "author_id": "1847296642254503937",
+        "conversation_id": "1910689864518885471",
+        "created_at": "2025-04-11T13:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T14:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910689864518885471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "文援姬"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            },
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "文爱剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySxhOwdxiu",
+              "end": 173,
+              "expanded_url": "https://x.com/qiang_jiang778/status/1910689864518885471/photo/1",
+              "media_key": "3_1910689861507702784",
+              "start": 150,
+              "url": "https://t.co/ySxhOwdxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910689864518885471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“大家好——！这是我第一次登上舞台！”\n经纪人挑来的短裙确实轻便，不过，不会想到观众根本不在意才华。\n——\n“在座各位还有要出价的吗？”经纪人放大了屏幕，集中在偶尔露出胖次的下半身。人们查看着，竞价着，眼前的少女不过是一个物品，无论如何都逃不掉的结局。\n\n#文援 \n#文援姬 \n#文爱 \n#文爱剧情 https://t.co/ySxhOwdxiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 114,
+          "like_count": 1062,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1249
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T15:20:25.000Z",
+        "description": "×被欲望吞噬，陷入沼泽×\n×假装不在意，忍不住表达欲望×\n\n初次见面，这里是枪酱。\n也许会在夜晚的时候和您相见，但请不要打扰我的白天。\n渴望，又或是其他什么，尽管的将是填满♡\n因为在这个夜晚下我是独属于您的。\n这双手，我最喜欢了。",
+        "id": "1847296642254503937",
+        "name": "–枪酱♡文援进行中–",
+        "pinned_tweet_id": "1896539431563297202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862512941628579840/ToAaFjSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 52,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 150
+        },
+        "username": "qiang_jiang778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1917365538323587234",
+    "created_at": "2025-04-29T23:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T00:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917365538323587234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917365538323587234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917244026962710578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “快 放窝下来... 你这混蛋...♡”\n幼足悬空来回蹬踹挣扎，白丝雪糕再怎么蹬直也够不到地♡\n\n“不要... 一直这样插的话，会坏掉的...呜嘤...♡”\n噗叽交合声连同喷洒的淫水到处都是，肉乎小腿不停绷紧痉挛♡\n\n“！不可以...还没戴套…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917365538323587234].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917365538323587234",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917365538323587234"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1917244023892586496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptrSB_bsAAbWAu.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917244023892586496"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1917244026962710578",
+        "created_at": "2025-04-29T15:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917244026962710578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "萝莉"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "强制插入"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "举高高"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "白丝"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "小皮鞋"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sq6dmN5FQq",
+              "end": 189,
+              "expanded_url": "https://x.com/q3233788635/status/1917244026962710578/photo/1",
+              "media_key": "3_1917244023892586496",
+              "start": 166,
+              "url": "https://t.co/Sq6dmN5FQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917244026962710578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1872,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "“快 放窝下来... 你这混蛋...♡”\n幼足悬空来回蹬踹挣扎，白丝雪糕再怎么蹬直也够不到地♡\n\n“不要... 一直这样插的话，会坏掉的...呜嘤...♡”\n噗叽交合声连同喷洒的淫水到处都是，肉乎小腿不停绷紧痉挛♡\n\n“！不可以...还没戴套 你这坏人...去了咿...♡♡”#萝莉 #强制插入 #举高高 #白丝 #小皮鞋 #文爱 https://t.co/Sq6dmN5FQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 117,
+          "like_count": 1158,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1365
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 461,
+          "like_count": 3184,
+          "listed_count": 10,
+          "media_count": 73,
+          "tweet_count": 3013
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

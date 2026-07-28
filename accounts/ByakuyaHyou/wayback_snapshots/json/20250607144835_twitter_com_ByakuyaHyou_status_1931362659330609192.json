@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1931362659330609192",
+    "created_at": "2025-06-07T14:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931362659330609192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931362659330609192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930388987405054327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “呃嗯...好粗暴🤍 sensei 你这样擅自用学生身体泄欲，会遭天谴的...🤍”\n\n大早上没吃饭就被sensei拉到卧室，晨勃肉棒没有一点润滑直接捅入嫩穴\n\n互相赤裸身体，狠狠抓着两只手腕当作方向盘借力后入\n\n“嘶...疼死了 禽兽..子宫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931362659330609192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931362659330609192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931362659330609192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1930388984628391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsoejcsaMAAwmPp.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930388984628391936"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1930388987405054327",
+        "created_at": "2025-06-04T22:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T23:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930388987405054327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 138,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 157,
+              "start": 151,
+              "tag": "Plana"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "晨勃"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "泄欲"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "文媛"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkI3Ow7UrT",
+              "end": 197,
+              "expanded_url": "https://x.com/q3233788635/status/1930388987405054327/photo/1",
+              "media_key": "3_1930388984628391936",
+              "start": 174,
+              "url": "https://t.co/LkI3Ow7UrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930388987405054327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9507,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "“呃嗯...好粗暴🤍 sensei 你这样擅自用学生身体泄欲，会遭天谴的...🤍”\n\n大早上没吃饭就被sensei拉到卧室，晨勃肉棒没有一点润滑直接捅入嫩穴\n\n互相赤裸身体，狠狠抓着两只手腕当作方向盘借力后入\n\n“嘶...疼死了 禽兽..子宫 子宫被顶到了🤍🤍 嗯呜呜~🤍” #BlueArchive #Plana #晨勃 #泄欲 #文媛 #文爱 https://t.co/LkI3Ow7UrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 119,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1444
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 459,
+          "like_count": 3324,
+          "listed_count": 13,
+          "media_count": 87,
+          "tweet_count": 3783
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

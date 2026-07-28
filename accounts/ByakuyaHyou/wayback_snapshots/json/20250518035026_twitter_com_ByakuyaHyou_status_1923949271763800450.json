@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1923949271763800450",
+    "created_at": "2025-05-18T03:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T04:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923949271763800450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923949271763800450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923630360467996835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者恶堕日记01\n在经历了数次的败北后，荧妹还是被丘丘人的肉棒征服了，加入了深渊教团，恶堕后的荧妹愈发看不起男人下面那根废物肉棒\n那些废物怎么比得上丘丘人大人呢…嗯唔…我一定会让…所有人…都臣服在深渊教团的肉棒下…她们…一定也会爱上丘丘人大人…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923949271763800450].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923949271763800450",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923949271763800450"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1923630348274921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrIbnCQWcAAbnZT.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923630356873273344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrIbniSW4AA5Zmv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923630348274921472",
+            "3_1923630356873273344"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1923630360467996835",
+        "created_at": "2025-05-17T06:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T07:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923630360467996835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文媛"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "恶堕"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "败北"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8uyyqDXWd",
+              "end": 171,
+              "expanded_url": "https://x.com/dnggu156261/status/1923630360467996835/photo/1",
+              "media_key": "3_1923630348274921472",
+              "start": 148,
+              "url": "https://t.co/f8uyyqDXWd"
+            },
+            {
+              "display_url": "pic.x.com/f8uyyqDXWd",
+              "end": 171,
+              "expanded_url": "https://x.com/dnggu156261/status/1923630360467996835/photo/1",
+              "media_key": "3_1923630356873273344",
+              "start": 148,
+              "url": "https://t.co/f8uyyqDXWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923630360467996835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4211,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者恶堕日记01\n在经历了数次的败北后，荧妹还是被丘丘人的肉棒征服了，加入了深渊教团，恶堕后的荧妹愈发看不起男人下面那根废物肉棒\n那些废物怎么比得上丘丘人大人呢…嗯唔…我一定会让…所有人…都臣服在深渊教团的肉棒下…她们…一定也会爱上丘丘人大人的…哈啊…\n#文爱 #文媛 #恶堕 #败北 #剧情 https://t.co/f8uyyqDXWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 120,
+          "like_count": 1212,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1424
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，接单号3860669556，30r0.5h，不涉三，原铁绝都可以试试，其他角色也可以，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923330987477581824/4qwAQZQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4405,
+          "following_count": 135,
+          "like_count": 5947,
+          "listed_count": 19,
+          "media_count": 84,
+          "tweet_count": 6158
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047712347494797713",
+    "created_at": "2026-04-24T23:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047815035741991002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844642649011302400",
+          "start": 0,
+          "username": "Rainsnows_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047815035741991002",
+    "in_reply_to_user_id": "1844642649011302400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047712347494797713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainsnows_ 很可爱我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047712344202215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrvhx5bAAAgujc.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047712347494797713",
+        "created_at": "2026-04-24T23:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047815035741991002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844642649011302400",
+              "start": 0,
+              "username": "Rainsnows_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047815035741991002",
+        "in_reply_to_user_id": "1844642649011302400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047712347494797713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainsnows_ 很可爱我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047712344202215424"
+          ]
+        },
+        "author_id": "1844642649011302400",
+        "conversation_id": "2047712347494797713",
+        "created_at": "2026-04-24T16:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047712347494797713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "男娘"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "女装・男の娘"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "女装少年"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "女装男子"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b7qKjPUj5",
+              "end": 99,
+              "expanded_url": "https://x.com/Rainsnows_/status/2047712347494797713/photo/1",
+              "media_key": "3_2047712344202215424",
+              "start": 76,
+              "url": "https://t.co/6b7qKjPUj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047712347494797713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越直播越没信心诶…可能我不适合吧，可能我很没用吧。\n往下一翻刷到别人的就有流量，直接绝望了。\n\n#男娘 #女装・男の娘 #女装少年 #女装男子 #伪娘 https://t.co/6b7qKjPUj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 235,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1511
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T07:34:29.000Z",
+        "description": "北宫 霙  姑且算是没什么存在感吧。\n18   168cm 45.5kg\n\n                  漫画やアニメを描いたり、日本語を習得する、お金を稼いだりするのが夢です…      \n   …店員になった……                              没时间学日语了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/75649754",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/75649754",
+                "start": 0,
+                "url": "https://t.co/HNO4U3RAwC"
+              }
+            ]
+          }
+        },
+        "id": "1844642649011302400",
+        "location": "中国",
+        "name": "霙~",
+        "pinned_tweet_id": "1845967788520972635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844642762437820416/XuW-vGsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 13,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1729
+        },
+        "url": "https://t.co/HNO4U3RAwC",
+        "username": "Rainsnows_",
+        "verified": false
+      }
+    ]
+  }
+}

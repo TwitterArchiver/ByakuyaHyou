@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911362926646079965",
+    "created_at": "2025-04-13T10:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T11:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911362926646079965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911362926646079965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911265239506800859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 旅行者败北日记第三季07\n刚到璃月的荧妹被怀疑是刺杀帝君的凶手，慌不择路的逃掉了，刻晴刚追上荧妹，就被荧妹用迷药迷晕了过去\n可恶…我可是璃月七星…大胆…快放开我…不是有你好果子吃…凝光大人不会放过你的…\n我都说了我不是凶手，你怎么不信呢，就先这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911265236138532864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoYtmx-XIAACFGe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1911362926646079965",
+        "created_at": "2025-04-13T10:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T11:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911362926646079965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1737361690306686976",
+              "start": 3,
+              "username": "dnggu156261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911362926646079965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911265239506800859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dnggu156261: 旅行者败北日记第三季07\n刚到璃月的荧妹被怀疑是刺杀帝君的凶手，慌不择路的逃掉了，刻晴刚追上荧妹，就被荧妹用迷药迷晕了过去\n可恶…我可是璃月七星…大胆…快放开我…不是有你好果子吃…凝光大人不会放过你的…\n我都说了我不是凶手，你怎么不信呢，就先这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911265236138532864"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1911265239506800859",
+        "created_at": "2025-04-13T03:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T04:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911265239506800859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文爱"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文媛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "百合"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "败北"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cpB8s6CHn",
+              "end": 170,
+              "expanded_url": "https://x.com/dnggu156261/status/1911265239506800859/photo/1",
+              "media_key": "3_1911265236138532864",
+              "start": 147,
+              "url": "https://t.co/7cpB8s6CHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911265239506800859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1823,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "following",
+        "text": "旅行者败北日记第三季07\n刚到璃月的荧妹被怀疑是刺杀帝君的凶手，慌不择路的逃掉了，刻晴刚追上荧妹，就被荧妹用迷药迷晕了过去\n可恶…我可是璃月七星…大胆…快放开我…不是有你好果子吃…凝光大人不会放过你的…\n我都说了我不是凶手，你怎么不信呢，就先这样绑着吧\n#文爱 #文媛 #百合 #败北 #剧情 https://t.co/7cpB8s6CHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 113,
+          "like_count": 1064,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1253
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4209,
+          "following_count": 127,
+          "like_count": 5476,
+          "listed_count": 18,
+          "media_count": 85,
+          "tweet_count": 5683
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

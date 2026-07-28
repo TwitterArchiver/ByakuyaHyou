@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1900936107183010288",
+    "created_at": "2025-03-15T15:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T16:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900936107183010288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803981725686730753",
+          "start": 3,
+          "username": "Go5Io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900936107183010288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900930265343750371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Go5Io: 看什么呢你这小东西，没见过厕所里面撸管吗？还是说看到本宫这幅样子已经忍不住想要爬过来含住龟头清理残精之后摇着屁股祈求扶她肉棒插进菊穴了？🖤\n  \n只是说出来就忍不住夹住双腿颤抖了啊？是不是下面的可怜小肉棒已经翘起来了？痒的话本宫也可以帮你锁住一劳永逸呢🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900936107183010288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900936107183010288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900936107183010288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1900930262089035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmF2AHabcAAGvbg.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900930262089035776"
+          ]
+        },
+        "author_id": "1803981725686730753",
+        "conversation_id": "1900930265343750371",
+        "created_at": "2025-03-15T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900930265343750371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文爱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "扶她"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxBxpYA0wX",
+              "end": 168,
+              "expanded_url": "https://x.com/Go5Io/status/1900930265343750371/photo/1",
+              "media_key": "3_1900930262089035776",
+              "start": 145,
+              "url": "https://t.co/yxBxpYA0wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900930265343750371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看什么呢你这小东西，没见过厕所里面撸管吗？还是说看到本宫这幅样子已经忍不住想要爬过来含住龟头清理残精之后摇着屁股祈求扶她肉棒插进菊穴了？🖤\n  \n只是说出来就忍不住夹住双腿颤抖了啊？是不是下面的可怜小肉棒已经翘起来了？痒的话本宫也可以帮你锁住一劳永逸呢🖤\n\n#文援 #文爱 #扶她 #雌堕 https://t.co/yxBxpYA0wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 97,
+          "like_count": 851,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1035
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T02:42:21.000Z",
+        "description": "美熟正道盟主、阴阳仙后。前任皓月宫大宫主(现在的二宫主)。\n\n武功是皓月宫的嫡传心法，冰雪宝鉴。被她练到极致纯化升华成冰月神鉴，江湖中的武林神话。\n\n私信没回表示不感兴趣，感兴趣的会掉落门牌号。\n\n目前收集废物雌畜中，觉得自己无药可救欢迎私信培育女权思想。",
+        "id": "1803981725686730753",
+        "name": "倾雪圣母",
+        "pinned_tweet_id": "1887298255702401438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803986135112388608/Eg-aYd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 41,
+          "like_count": 331,
+          "listed_count": 18,
+          "media_count": 111,
+          "tweet_count": 648
+        },
+        "username": "Go5Io",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835617354929373373",
+    "created_at": "2024-09-16T09:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T10:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835617354929373373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832801209482387456",
+          "start": 3,
+          "username": "JinZhao1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835617354929373373",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835519516932988983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JinZhao1123: 或许是这些天被脚奴伺候的次数太多 平日趾高气昂的大人似乎忘记性爱的快感🖤\n倒贴献屄后的连续高潮将内心的阴暗激发♡满脑想的都是怎么将套内灌满禁沼浓精高价贩给舔狗锁奴💚\n认真享受性爱不好么～将高贵的形象踩在脚下～像一只肮脏的母猪一样永远享受在与巨屌…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835617354929373373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835617354929373373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835617354929373373"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835514676492517376"
+          ]
+        },
+        "author_id": "1832801209482387456",
+        "conversation_id": "1835519516932988983",
+        "created_at": "2024-09-16T03:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T04:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835519516932988983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7qqi6wviq",
+              "end": 167,
+              "expanded_url": "https://twitter.com/JinZhao1123/status/1835519516932988983/photo/1",
+              "media_key": "3_1835514676492517376",
+              "start": 144,
+              "url": "https://t.co/S7qqi6wviQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835519516932988983",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 835,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "或许是这些天被脚奴伺候的次数太多 平日趾高气昂的大人似乎忘记性爱的快感🖤\n倒贴献屄后的连续高潮将内心的阴暗激发♡满脑想的都是怎么将套内灌满禁沼浓精高价贩给舔狗锁奴💚\n认真享受性爱不好么～将高贵的形象踩在脚下～像一只肮脏的母猪一样永远享受在与巨屌交配的丧脑高潮中哦～🧠🖤♡\n#文爱 #反差 https://t.co/S7qqi6wviQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 620
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T15:20:44.000Z",
+        "description": "是复活三次的男文援🔮禁沼,温柔礼貌的巨屌黑心系男主♡🖤喜调教各类反差母猪可爱伪娘～特别是身为同行的败北文援姬哦u💗～门牌🚪上方二维码～欢迎男孩子女孩子前来送死!!!🖤🖤🖤!!!",
+        "id": "1832801209482387456",
+        "location": "你附近",
+        "name": "禁沼Sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832801331075256320/Ks5fMGMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "JinZhao1123",
+        "verified": false
+      }
+    ]
+  }
+}

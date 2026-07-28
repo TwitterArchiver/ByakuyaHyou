@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836768872160202782",
+    "created_at": "2024-09-19T14:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836768872160202782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832801209482387456",
+          "start": 3,
+          "username": "JinZhao1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836768872160202782",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836390634997125300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JinZhao1123: 看见男爹巨根有点自觉的母猪早就膝软下跪了♡还没有被开发本性的母人就知道看着巨屌暗自扣屄🖤最后高潮喷卵变成手淫傻卵。现在关注禁沼～再伸出手指扣逼～在即将高潮甩卵前点开男爹的主页私信【高潮】～毕竟男爹也许没在线♡是看不到的 随后呢～就可以回归正常生…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836768872160202782].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836768872160202782",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836768872160202782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836390615690678273"
+          ]
+        },
+        "author_id": "1832801209482387456",
+        "conversation_id": "1836390634997125300",
+        "created_at": "2024-09-18T13:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T14:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836390634997125300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4deiklw6cy",
+              "end": 166,
+              "expanded_url": "https://twitter.com/JinZhao1123/status/1836390634997125300/photo/1",
+              "media_key": "3_1836390615690678273",
+              "start": 143,
+              "url": "https://t.co/4DEIkLw6Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836390634997125300",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3825,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "看见男爹巨根有点自觉的母猪早就膝软下跪了♡还没有被开发本性的母人就知道看着巨屌暗自扣屄🖤最后高潮喷卵变成手淫傻卵。现在关注禁沼～再伸出手指扣逼～在即将高潮甩卵前点开男爹的主页私信【高潮】～毕竟男爹也许没在线♡是看不到的 随后呢～就可以回归正常生活～绝对没有踏入陷阱的～对吧?🧠 #文爱 https://t.co/4DEIkLw6Cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 82,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 642
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T15:20:44.000Z",
+        "description": "复活三次的男文援🔮禁沼,黑心狠毒的巨屌男S♡🖤文质彬彬的外表下黯藏的是只的腹黑的御主～满脑子都是关于性爱的东西呢\n喜调教各类反差母猪发情伪娘 锁奴～特别是身为同行的败北文援姬哦u💗～自己扫上方二维码🚪～禁沼可没有催眠你们前来送死甩卵哦!!!🖤🖤🖤!!!",
+        "id": "1832801209482387456",
+        "location": "你附近",
+        "name": "禁沼Sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832801331075256320/Ks5fMGMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "JinZhao1123",
+        "verified": false
+      }
+    ]
+  }
+}

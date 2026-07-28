@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898913284293853192",
+    "created_at": "2025-03-10T01:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T02:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898913284293853192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898913284293853192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898900382656688236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 禁欲之后的表现真可爱~攒了几个月的精子估计都在卵袋里面闷死发臭了吧w好涨呀💚\n套子里面的精子量比你生产了几个月的还要多呢💚等等全都喂给你吃哟老公🖕🏻为了治疗你的早漏人家可是努💚力了很久呢🖤\n锁内流出的话~就要降级成最「厉害」的早泄奴了呢💚小鸡巴就…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898913284293853192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898913284293853192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898913284293853192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898900373781573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glo_1EMbcAApaOg.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898900373781573632"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1898900382656688236",
+        "created_at": "2025-03-10T00:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T01:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898900382656688236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "绿帽"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "羞辱"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxiQTIw3eN",
+              "end": 168,
+              "expanded_url": "https://x.com/amianjiang/status/1898900382656688236/photo/1",
+              "media_key": "3_1898900373781573632",
+              "start": 145,
+              "url": "https://t.co/RxiQTIw3eN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898900382656688236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "禁欲之后的表现真可爱~攒了几个月的精子估计都在卵袋里面闷死发臭了吧w好涨呀💚\n套子里面的精子量比你生产了几个月的还要多呢💚等等全都喂给你吃哟老公🖕🏻为了治疗你的早漏人家可是努💚力了很久呢🖤\n锁内流出的话~就要降级成最「厉害」的早泄奴了呢💚小鸡巴就永远不用出来了哟💗\n#绿帽 #羞辱 #文爱 https://t.co/RxiQTIw3eN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 96,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 991
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 32,
+          "like_count": 396,
+          "listed_count": 11,
+          "media_count": 167,
+          "tweet_count": 423
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

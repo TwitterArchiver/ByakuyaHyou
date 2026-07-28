@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906668153855430656"
+      ],
+      "media_source_tweet_id": [
+        "1906668326769893428"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907019411866943924",
+    "created_at": "2025-04-01T10:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907019411866943924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1506482168284868611",
+          "start": 3,
+          "username": "nili87188421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DpkexpDW3Q",
+          "end": 130,
+          "expanded_url": "https://x.com/nili87188421/status/1906668326769893428/photo/1",
+          "media_key": "3_1906668153855430656",
+          "start": 107,
+          "url": "https://t.co/DpkexpDW3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907019411866943924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906668326769893428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nili87188421: “嗯哼？老公，为什么是这样子的表情呢……当初saki她妈把她送来的时候，可是特地叮嘱了要我们好生照料……但你又没办法去——唔💜咳，你一届“锁奴娼夫”又没有办法帮她照顾……💚”… https://t.co/DpkexpDW3Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907019411866943924].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907019411866943924",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907019411866943924"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1906668153855430656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXYlX8aUAAfiNZ.jpg",
+        "width": 1358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906668153855430656"
+          ]
+        },
+        "author_id": "1506482168284868611",
+        "conversation_id": "1906668326769893428",
+        "created_at": "2025-03-31T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906668326769893428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpkexpDW3Q",
+              "end": 111,
+              "expanded_url": "https://x.com/nili87188421/status/1906668326769893428/photo/1",
+              "media_key": "3_1906668153855430656",
+              "start": 88,
+              "url": "https://t.co/DpkexpDW3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906668326769893428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 903,
+                "start": 900,
+                "tag": "文媛"
+              },
+              {
+                "end": 907,
+                "start": 904,
+                "tag": "文爱"
+              },
+              {
+                "end": 911,
+                "start": 908,
+                "tag": "语c"
+              },
+              {
+                "end": 916,
+                "start": 912,
+                "tag": "ntr"
+              },
+              {
+                "end": 922,
+                "start": 917,
+                "tag": "夫前目犯"
+              },
+              {
+                "end": 926,
+                "start": 923,
+                "tag": "扶她"
+              }
+            ]
+          },
+          "text": "“嗯哼？老公，为什么是这样子的表情呢……当初saki她妈把她送来的时候，可是特地叮嘱了要我们好生照料……但你又没办法去——唔💜咳，你一届“锁奴娼夫”又没有办法帮她照顾……💚”\n\n＊侧马尾顺过圆润如璞玉的透红肩胛，连带着轻声探吐气息的唇一同微微颤抖。语气缓沉，适当的口水音与端起的腔调倒是与装修华丽堂皇的私宅卧室相衬。\n＊可，抵在床沿微屈的，磨盘一般的肥尻也不知道是被语气带动，还是原本就二十四小时不间断地本能散溢雌骚，竟然也就随着这般优雅的谈吐总是在上下轻拱💜不偏不倚可以沉在身后某只毫无遮掩的高耸肉屌头子上，再硬生生被肥软到活生生撑起每一丝布料褶皱的淫尻一记半月状凹痕💜就连女孩刻意的性骚扰举措也和完全没有发现一样，唯一的辅佐证明就只有在女孩正对着背脊的视角下，可以清晰瞧见被美脂硬生生从杂乱弯卷阴毛间露出一抹的馒头骚屄——当然，可千万不要问什么，“为什么在自己亲侄女面前，这么端庄淫熟的成功熟妇会真空出境”这种低劣的问题……\n＊因为唯一的原因只可能是……\n＊这只不断喘着粗气还在竭尽所能保持自己原本模样与姿态的屌套早就已经倾心所向自己身后长着根屌的女孩子，连带着雌穴形状都被硬生生曲折成专属版本了💚\n\n“……嗯哼💚老公，不需要这么紧张哦……你说空气里的味道？那只是最近天热，人家出的汗渍……”\n＊顺势抬起腋下，健康的小臂还在这样习以为常的动作下微微有层颤动皮赘，但在玲珑纤细的手腕与鹅颈搭配之下却不显得臃肥，反而更添加几分雌媚，展示着被汗渍黏糊成一团的杂乱腋肉💜\n“而那些所谓衣服？语态？亲爱的……陪着孩童玩闹总是需要一些经历💜人家只是稍稍有些累到了哦——谢谢你的关心💚不过，既然saki是女孩子，果然还是由人家亲力亲为的指导，教导，侍奉，才最正确吧……💚”\n\n“所以，就算人家跪服在地磕头拱尻，也只是为了让她明白，身有扶她肉屌应尽有耍畜戏雌的天生义务💚”\n“所以，即使人家启檀吐舌嘬屌谄媚，也只是为了让她享受，雌根以生俱来的专属快意滋润💚”\n“嗯呐，这都只是必要的，会遇到的境况……”\n“为了……”\n\n“传承优质女爹精液💜”\n“根绝劣等锁男基因💚”\n“这些，都只是应尽的教育与义务哦～～💜”\n\n＃文媛 ＃文爱 ＃语c ＃ntr ＃夫前目犯 ＃扶她"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2166,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“嗯哼？老公，为什么是这样子的表情呢……当初saki她妈把她送来的时候，可是特地叮嘱了要我们好生照料……但你又没办法去——唔💜咳，你一届“锁奴娼夫”又没有办法帮她照顾……💚” https://t.co/DpkexpDW3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 108,
+          "like_count": 1005,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1175
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T04:05:22.000Z",
+        "description": "安～这里是倾\n华灯初上，夜影阑珊…客官，真已忙碌到没有落脚闲聊的时候？♡\n昏黄光影下的缠绵总是那般黏腻\n而那倒影…\n究竟是馥郁氤氲的媚喘淫香💜\n亦或是丧志犬畜的洗脑哀嚎🖤\n就请各位亲自登门造访一探究竟咯❤️\n麻麻：@raNraN_1046\n恶魔大人：@YuZhenIsHere\n雌猪姐姐：@baorumingyuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "raNraN_1046"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "YuZhenIsHere"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "baorumingyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fantasyland_qi…",
+                "end": 23,
+                "expanded_url": "http://t.me/Fantasyland_qing",
+                "start": 0,
+                "url": "https://t.co/PkAZrWOQIT"
+              }
+            ]
+          }
+        },
+        "id": "1506482168284868611",
+        "location": "风俗店小屋：221232487",
+        "name": "倾（文媛 现主营各类双人单服务♡沉溺在baka沐冉老婆@NianXJ1024的温柔乡内）",
+        "pinned_tweet_id": "1906668326769893428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828364677346402304/rNuAFIMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6293,
+          "following_count": 1933,
+          "like_count": 4670,
+          "listed_count": 27,
+          "media_count": 159,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/PkAZrWOQIT",
+        "username": "nili87188421",
+        "verified": true
+      }
+    ]
+  }
+}

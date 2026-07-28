@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946708933957107849",
+    "created_at": "2025-07-19T23:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T00:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946708933957107849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946708933957107849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946657671022837910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 早安哦~今天的肉棒也这么精神呢..\n【少女跨坐在你的身上~满身雪白丰腴细腻肌肤在细汗下散发出浓郁雌熟荷尔蒙与体香混合着钻入鼻腔，两只软糯肥硕巨乳垂下~粉红乳晕强行吸引目光~淫湿黏腻蜜穴吐出早已准备好的淫汁润滑龟头~穴口轻含龟冠蠕动挤压】\n就让…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946708933957107849].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946708933957107849",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946708933957107849"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1946657662353231872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPq1H_bUAA2WO6.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946657662353231872"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1946657671022837910",
+        "created_at": "2025-07-19T19:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T20:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946657671022837910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjQb5FvEhW",
+              "end": 172,
+              "expanded_url": "https://x.com/shigongyuyue/status/1946657671022837910/photo/1",
+              "media_key": "3_1946657662353231872",
+              "start": 149,
+              "url": "https://t.co/AjQb5FvEhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946657671022837910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 188,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "早安哦~今天的肉棒也这么精神呢..\n【少女跨坐在你的身上~满身雪白丰腴细腻肌肤在细汗下散发出浓郁雌熟荷尔蒙与体香混合着钻入鼻腔，两只软糯肥硕巨乳垂下~粉红乳晕强行吸引目光~淫湿黏腻蜜穴吐出早已准备好的淫汁润滑龟头~穴口轻含龟冠蠕动挤压】\n就让人家为你好好放松一下吧..亲爱的..♡\n#文爱 #文援 https://t.co/AjQb5FvEhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 131,
+          "like_count": 1326,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1521
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "pinned_tweet_id": "1946657671022837910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 2727,
+          "like_count": 16712,
+          "listed_count": 23,
+          "media_count": 906,
+          "tweet_count": 8253
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

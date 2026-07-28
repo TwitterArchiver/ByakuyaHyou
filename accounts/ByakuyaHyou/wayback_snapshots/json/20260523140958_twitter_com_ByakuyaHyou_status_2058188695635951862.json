@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058187308793475072"
+      ],
+      "media_source_tweet_id": [
+        "2058187314468360433"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058188695635951862",
+    "created_at": "2026-05-23T14:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058188695635951862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "伪娘"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667423069076348928",
+          "start": 3,
+          "username": "Kan_AyaneZero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XFgdW92uk",
+          "end": 108,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2058187314468360433/photo/1",
+          "media_key": "3_2058187308793475072",
+          "start": 85,
+          "url": "https://t.co/3XFgdW92uk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058188695635951862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058187314468360433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子\n感觉推上的大家都懂好多呀，可我只是一个啥也不懂的呆萌xyn……\n就算笨笨的也会有人喜欢我吗……？🥺 https://t.co/3XFgdW92uk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058187308793475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAmc93aMAA1PrW.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058187308793475072"
+          ],
+          "media_source_tweet_id": [
+            "2058187314468360433"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058188695635951862",
+        "created_at": "2026-05-23T14:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058188695635951862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667423069076348928",
+              "start": 3,
+              "username": "Kan_AyaneZero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XFgdW92uk",
+              "end": 108,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2058187314468360433/photo/1",
+              "media_key": "3_2058187308793475072",
+              "start": 85,
+              "url": "https://t.co/3XFgdW92uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058188695635951862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058187314468360433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子\n感觉推上的大家都懂好多呀，可我只是一个啥也不懂的呆萌xyn……\n就算笨笨的也会有人喜欢我吗……？🥺 https://t.co/3XFgdW92uk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058187308793475072"
+          ]
+        },
+        "author_id": "1667423069076348928",
+        "conversation_id": "2058187314468360433",
+        "created_at": "2026-05-23T14:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058187314468360433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XFgdW92uk",
+              "end": 89,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2058187314468360433/photo/1",
+              "media_key": "3_2058187308793475072",
+              "start": 66,
+              "url": "https://t.co/3XFgdW92uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058187314468360433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #可爱的男孩子\n感觉推上的大家都懂好多呀，可我只是一个啥也不懂的呆萌xyn……\n就算笨笨的也会有人喜欢我吗……？🥺 https://t.co/3XFgdW92uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 431,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1574
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│成分复杂│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)\n│好哥哥：@ByakuyaHyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 423,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      }
+    ]
+  }
+}

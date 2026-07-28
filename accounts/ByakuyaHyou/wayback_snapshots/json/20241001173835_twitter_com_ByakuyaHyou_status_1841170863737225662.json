@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841170863737225662",
+    "created_at": "2024-10-01T17:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170863737225662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807939525119037441",
+          "start": 3,
+          "username": "v3Om3UyQ1G29423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170863737225662",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839625052373098539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @v3Om3UyQ1G29423: 啧啧…瞧瞧\n我们的文援小姐居然只是单纯的被黑爹按住子宫就开始喷精了？\n\n“呜哦～🖤嗯嗯…”\n见肉棒就磕头的骚货婊猪…粉丝还不少啊…拿老子钱摸鱼…\n甚至敢在上班时间攥写这种烂俗恶心的求肏色推…\n\n作为惩戒…你条对肉棒献媚的白给母猪…把含满…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841170863737225662].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841170863737225662",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841170863737225662"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839624560104411136"
+          ]
+        },
+        "author_id": "1807939525119037441",
+        "conversation_id": "1839625052373098539",
+        "created_at": "2024-09-27T11:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T12:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839625052373098539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VOScTTgwF",
+              "end": 165,
+              "expanded_url": "https://x.com/v3Om3UyQ1G29423/status/1839625052373098539/photo/1",
+              "media_key": "3_1839624560104411136",
+              "start": 142,
+              "url": "https://t.co/5VOScTTgwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839625052373098539",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3473,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "啧啧…瞧瞧\n我们的文援小姐居然只是单纯的被黑爹按住子宫就开始喷精了？\n\n“呜哦～🖤嗯嗯…”\n见肉棒就磕头的骚货婊猪…粉丝还不少啊…拿老子钱摸鱼…\n甚至敢在上班时间攥写这种烂俗恶心的求肏色推…\n\n作为惩戒…你条对肉棒献媚的白给母猪…把含满精液的骚屄露出来，给你的废物贡粉们打个招呼～🖤 https://t.co/5VOScTTgwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 594,
+          "listed_count": 0,
+          "tweet_count": 743
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T00:49:28.000Z",
+        "description": "您也是觊觎这副淫荡的身躯才过来搭讪妾身的么…？为什么是一脸平静…？那是因为我现在在想…♡怎么才能将您这种不怀好意的家伙吃干抹净呢…”\n向往冒险渴求刺激而脱离族群独自生活的慵懒拉米娅。过于魅惑妩媚的身体，深受雌性冒险者嫉妒后哄骗至高阶地牢内，几分姿色沦为各种魔物发泄佳肴，恶堕成只会繁衍的雌熟母蛇。\n价格请移步置顶哦～",
+        "id": "1807939525119037441",
+        "location": "limbus公司",
+        "name": "鸢尾.黛妮丝 （文援互推偏社恐，转推请私聊）",
+        "pinned_tweet_id": "1817148353538609370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838535633767403522/zFZdzR3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 83,
+          "like_count": 198,
+          "listed_count": 7,
+          "tweet_count": 463
+        },
+        "username": "v3Om3UyQ1G29423",
+        "verified": false
+      }
+    ]
+  }
+}

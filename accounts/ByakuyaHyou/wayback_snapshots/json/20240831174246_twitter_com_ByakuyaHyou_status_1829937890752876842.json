@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829937890752876842",
+    "created_at": "2024-08-31T17:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T18:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829937890752876842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828795319121031168",
+          "start": 3,
+          "username": "anqing172541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829937890752876842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829905568674582791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anqing172541: “诶呀～那么大了，还要妈妈的《打扫》吗，唔~真是个坏孩子呢，但是没关系哦，妈妈还雇佣了一位朋友一起来帮忙呢”“卡芙卡的委托…《打扫》我会尽力的”两位体态丰满的女人穿着女仆装，裸露出两对傲人的乳肉贴合在一起，掀开裙摆露出下面只留情趣内裤的美穴，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829937890752876842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829937890752876842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829937890752876842"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829905565474308097"
+          ]
+        },
+        "author_id": "1828795319121031168",
+        "conversation_id": "1829905568674582791",
+        "created_at": "2024-08-31T15:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T16:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829905568674582791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yw6ds5nbht",
+              "end": 168,
+              "expanded_url": "https://twitter.com/anqing172541/status/1829905568674582791/photo/1",
+              "media_key": "3_1829905565474308097",
+              "start": 145,
+              "url": "https://t.co/yw6dS5nBht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829905568674582791",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“诶呀～那么大了，还要妈妈的《打扫》吗，唔~真是个坏孩子呢，但是没关系哦，妈妈还雇佣了一位朋友一起来帮忙呢”“卡芙卡的委托…《打扫》我会尽力的”两位体态丰满的女人穿着女仆装，裸露出两对傲人的乳肉贴合在一起，掀开裙摆露出下面只留情趣内裤的美穴，脸颊泛红地说“今天的《打扫》也要一干二净哦~” https://t.co/yw6dS5nBht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 83,
+          "like_count": 393,
+          "listed_count": 0,
+          "tweet_count": 450
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T14:02:54.000Z",
+        "description": "大家好..这里是新来的文媛安清，在读高中生，由于一些问题需要在各位身上赚点零花钱，安清可以满足各位的任何需求，无论是羞辱还是重口，性转还是普通聊天都行~\nq1960286436（10r🚪🔑）\ntg账号@anqingxi1\n文媛1h/30r~40r\n聊天30min/10r\n时间早8点~晚12点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "anqingxi1"
+              }
+            ]
+          }
+        },
+        "id": "1828795319121031168",
+        "name": "三无少女安清（新人文媛，可互推）",
+        "pinned_tweet_id": "1828801251058036764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828796410722213888/FvtbaufT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 9,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "anqing172541",
+        "verified": false
+      }
+    ]
+  }
+}

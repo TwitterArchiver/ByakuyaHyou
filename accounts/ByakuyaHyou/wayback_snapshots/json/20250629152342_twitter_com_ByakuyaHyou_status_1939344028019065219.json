@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939344028019065219",
+    "created_at": "2025-06-29T15:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939344028019065219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939344028019065219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938104854645477824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「同时要两人服侍… 主人也太贪心了…」\n\n两名少女站在你面前，身上穿着jk制服的样子，看上去是放课后就来援交了。和闺蜜一起援交让紫灵比平时更加羞涩，平时会大胆趴在你身上色诱你的少女变得像纯情女孩一样。不过习惯了之后紫灵便开始和另一名少女扶在一起…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939344028019065219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939344028019065219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939344028019065219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1938104851260665856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWIF_zacAATlFb.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938104851260665856"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1938104854645477824",
+        "created_at": "2025-06-26T05:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T06:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938104854645477824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKGTyDudKv",
+              "end": 162,
+              "expanded_url": "https://x.com/ZiYing12494/status/1938104854645477824/photo/1",
+              "media_key": "3_1938104851260665856",
+              "start": 139,
+              "url": "https://t.co/KKGTyDudKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938104854645477824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 156,
+                "start": 153,
+                "tag": "文媛"
+              },
+              {
+                "end": 160,
+                "start": 157,
+                "tag": "3P"
+              }
+            ]
+          },
+          "text": "「同时要两人服侍… 主人也太贪心了…」\n\n两名少女站在你面前，身上穿着jk制服的样子，看上去是放课后就来援交了。和闺蜜一起援交让紫灵比平时更加羞涩，平时会大胆趴在你身上色诱你的少女变得像纯情女孩一样。不过习惯了之后紫灵便开始和另一名少女扶在一起，开始今天的榨精♡\n\n「今天要… 好好把精液都交给我们喔♡」\n#文媛 #3P"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4937,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "「同时要两人服侍… 主人也太贪心了…」\n\n两名少女站在你面前，身上穿着jk制服的样子，看上去是放课后就来援交了。和闺蜜一起援交让紫灵比平时更加羞涩，平时会大胆趴在你身上色诱你的少女变得像纯情女孩一样。不过习惯了之后紫灵便开始和另一名少女扶在一起，开始今天的榨精♡\n\n「今天要… https://t.co/KKGTyDudKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1288,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1493
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 79,
+          "like_count": 838,
+          "listed_count": 6,
+          "media_count": 139,
+          "tweet_count": 548
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

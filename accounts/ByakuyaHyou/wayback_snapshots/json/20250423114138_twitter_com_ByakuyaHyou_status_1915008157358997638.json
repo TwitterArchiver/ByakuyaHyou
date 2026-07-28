@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915008157358997638",
+    "created_at": "2025-04-23T11:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915008157358997638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1548952686996983808",
+          "start": 3,
+          "username": "Yuki_snow_kira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915008157358997638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914667058173993192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_snow_kira: 要来败北么，对着人家的白丝淫足自愿上交射精权💕被白丝足底彻底掌控人生💕永远无法反抗姐姐主人的白丝玉足💕一辈子都只能活在足底下哦💕\n也欢迎同（伪）行（S）来友（主）好（动）交（送）流（死）哦💕只要可以吸到雪雪的足底💕其他什么都可以不要了哦💕…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915008157358997638].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915008157358997638",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915008157358997638"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914666153718513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJCuPPbAAAftQ-.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914666153718513664"
+          ]
+        },
+        "author_id": "1548952686996983808",
+        "conversation_id": "1914667058173993192",
+        "created_at": "2025-04-22T13:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914667058173993192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVjGXsIC9T",
+              "end": 143,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1914667058173993192/photo/1",
+              "media_key": "3_1914666153718513664",
+              "start": 120,
+              "url": "https://t.co/GVjGXsIC9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914667058173993192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2783,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "要来败北么，对着人家的白丝淫足自愿上交射精权💕被白丝足底彻底掌控人生💕永远无法反抗姐姐主人的白丝玉足💕一辈子都只能活在足底下哦💕\n也欢迎同（伪）行（S）来友（主）好（动）交（送）流（死）哦💕只要可以吸到雪雪的足底💕其他什么都可以不要了哦💕 https://t.co/GVjGXsIC9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1099,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1305
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:48:27.000Z",
+        "description": "这里是温柔的可爱伪娘魅魔雪雪哦～\n白痴贱狗处刑官（已处死  32 ）\n想拜访雪雪的话需要13.14r的门票呢～\n修道院地址：3496682071\n小小小分院：334316657",
+        "id": "1548952686996983808",
+        "location": "与你-18cm❤️",
+        "name": "魅魔雪雪",
+        "pinned_tweet_id": "1805039064749666357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724408257794723840/U0SR1Ny5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9310,
+          "following_count": 793,
+          "like_count": 1432,
+          "listed_count": 37,
+          "media_count": 251,
+          "tweet_count": 1405
+        },
+        "username": "Yuki_snow_kira",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1829944322546155924",
+    "created_at": "2024-08-31T18:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T19:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829944322546155924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755211523134570496",
+          "start": 3,
+          "username": "RBQluoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829944322546155924",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829546388969099775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RBQluoli: 怎么了吗？想约我一起看电影？唔嗯...呼..还是不要了吧...今天天气有点热，试穿cos服都流了好多汗..嗯♡\n（将门打开三分之一，仅探出半个身躯。俏脸遍布绯红，香汗濡湿发丝粘连。粉唇微张发出异样的喘息，娇躯小幅度颤抖咬紧下唇。）\n那个要是没其他事.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829944322546155924].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829944322546155924",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829944322546155924"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829544261215506432"
+          ]
+        },
+        "author_id": "1755211523134570496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1829546388969099775",
+        "created_at": "2024-08-30T15:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T16:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829546388969099775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "ntr"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlklrhyxim",
+              "end": 171,
+              "expanded_url": "https://twitter.com/RBQluoli/status/1829546388969099775/photo/1",
+              "media_key": "3_1829544261215506432",
+              "start": 148,
+              "url": "https://t.co/dLKLrHYXiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829546388969099775",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 435,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么了吗？想约我一起看电影？唔嗯...呼..还是不要了吧...今天天气有点热，试穿cos服都流了好多汗..嗯♡\n（将门打开三分之一，仅探出半个身躯。俏脸遍布绯红，香汗濡湿发丝粘连。粉唇微张发出异样的喘息，娇躯小幅度颤抖咬紧下唇。）\n那个要是没其他事..嗯～♡我就先回房间了..\n#ntr #文媛 https://t.co/dLKLrHYXiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 85,
+          "like_count": 396,
+          "listed_count": 0,
+          "tweet_count": 453
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T12:47:22.000Z",
+        "description": "文援姬营业♡\n收费60/h\n婊里婊气的性转魔女♡futa伪娘皆可。擅长反差勾引，轻s羞辱。无论是被巨根征服，还是榨干小牙签都不在话下的性爱肉壶♡\n如果有发情的雌性上门，也不介意露出隐藏起来的粗长性器♡\n出没时间：中午一点到凌晨三点。\n门牌号：3773623436",
+        "id": "1755211523134570496",
+        "name": "文媛姬缇娜「新人求互推」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787461462266658818/2FqZ66YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 23,
+          "like_count": 161,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "RBQluoli",
+        "verified": false
+      }
+    ]
+  }
+}

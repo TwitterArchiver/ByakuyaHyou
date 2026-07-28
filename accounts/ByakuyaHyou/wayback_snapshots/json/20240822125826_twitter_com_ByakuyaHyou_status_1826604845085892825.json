@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826604845085892825",
+    "created_at": "2024-08-22T12:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T13:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826604845085892825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825723644934500356",
+          "start": 3,
+          "username": "mumudaren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826604845085892825",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826497197883732025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mumudaren_: 无论是客人还是同行都请看过来哦🖤，这里是沐沐大人😈的基础资料🖤\n\n目前主要通过电报✈️和dc上接单，🚪用来闲聊预约等业务🖤\n最后希望客官多多支持，有什么有趣的想法也可以和沐沐大人倾诉，来者不拒🖤同时也欢迎同行互推交流🖤\n\n电报✈️：https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826604845085892825].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826604845085892825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826604845085892825"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826497183929303047",
+            "3_1826497183925108737",
+            "3_1826497184058986496",
+            "3_1826497183929278464"
+          ]
+        },
+        "author_id": "1825723644934500356",
+        "conversation_id": "1826497197883732025",
+        "created_at": "2024-08-22T05:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T06:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826497197883732025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "telegram.me/mumudaren_",
+              "end": 139,
+              "expanded_url": "http://telegram.me/mumudaren_",
+              "start": 116,
+              "url": "https://t.co/ArbUdyaApi"
+            },
+            {
+              "display_url": "pic.x.com/zo3u8bod36",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1826497197883732025/photo/1",
+              "media_key": "3_1826497183929303047",
+              "start": 167,
+              "url": "https://t.co/zO3U8BoD36"
+            },
+            {
+              "display_url": "pic.x.com/zo3u8bod36",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1826497197883732025/photo/1",
+              "media_key": "3_1826497183925108737",
+              "start": 167,
+              "url": "https://t.co/zO3U8BoD36"
+            },
+            {
+              "display_url": "pic.x.com/zo3u8bod36",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1826497197883732025/photo/1",
+              "media_key": "3_1826497184058986496",
+              "start": 167,
+              "url": "https://t.co/zO3U8BoD36"
+            },
+            {
+              "display_url": "pic.x.com/zo3u8bod36",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1826497197883732025/photo/1",
+              "media_key": "3_1826497183929278464",
+              "start": 167,
+              "url": "https://t.co/zO3U8BoD36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826497197883732025",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无论是客人还是同行都请看过来哦🖤，这里是沐沐大人😈的基础资料🖤\n\n目前主要通过电报✈️和dc上接单，🚪用来闲聊预约等业务🖤\n最后希望客官多多支持，有什么有趣的想法也可以和沐沐大人倾诉，来者不拒🖤同时也欢迎同行互推交流🖤\n\n电报✈️：https://t.co/ArbUdyaApi\n🚪：3875325767\ndc：mumudaren_ https://t.co/zO3U8BoD36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 66,
+          "like_count": 232,
+          "listed_count": 0,
+          "tweet_count": 266
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T02:37:11.000Z",
+        "description": "——警告⚠️‼️——警告⚠️‼️——警告⚠️‼️——请耐心阅读以下内容避免引起严重后果 ❗️ 不设三文媛🖤是一只常以s向显露的婊子🖤（虽然被发现弱点后极其容易败北）欢迎有实力的小鬼前来挑战咱呢🖤千万小心把🧠榨干哦😈 电报：https://t.co/Fz0ia6B4ay 门牌：3875325767",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/mumudaren",
+                "end": 134,
+                "expanded_url": "http://telegram.me/mumudaren",
+                "start": 111,
+                "url": "https://t.co/Fz0ia6B4ay"
+              }
+            ]
+          }
+        },
+        "id": "1825723644934500356",
+        "name": "沐沐大人🖤（互推d）",
+        "pinned_tweet_id": "1826497197883732025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825724311732367361/8EzbNTPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 63,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "mumudaren_",
+        "verified": false
+      }
+    ]
+  }
+}

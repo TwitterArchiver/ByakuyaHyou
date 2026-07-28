@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1952528590203195697",
+    "created_at": "2025-08-05T00:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952528590203195697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952528590203195697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952399669256171602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 喂..不要擅自把那根臭烘烘的脏东西贴到人家脸上啊..！\n咕哦..？！好烫..这是..精液..？\n好臭好臭好臭好臭咦咦咦♡又多又浓的腥臭精浆顺着脸颊滑下来..嘴巴忍不住就张开了..\n齁噢噢噢哦哦..鲜活精子强奸软舌味蕾..就连大脑也要被男爹精液…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952528590203195697].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952528590203195697",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952528590203195697"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1952399655658242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhRJH8awAAuVek.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952399655658242048"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1952399669256171602",
+        "created_at": "2025-08-04T16:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952399669256171602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "文爱"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQZQPwpgb2",
+              "end": 180,
+              "expanded_url": "https://x.com/shigongyuyue/status/1952399669256171602/photo/1",
+              "media_key": "3_1952399655658242048",
+              "start": 157,
+              "url": "https://t.co/TQZQPwpgb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952399669256171602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1686,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "喂..不要擅自把那根臭烘烘的脏东西贴到人家脸上啊..！\n咕哦..？！好烫..这是..精液..？\n好臭好臭好臭好臭咦咦咦♡又多又浓的腥臭精浆顺着脸颊滑下来..嘴巴忍不住就张开了..\n齁噢噢噢哦哦..鲜活精子强奸软舌味蕾..就连大脑也要被男爹精液熏到融化暴毙..♡\n能成为您的擦屌布真是太荣幸了..♡\n#文爱 #文援 https://t.co/TQZQPwpgb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 152,
+          "like_count": 1358,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1524
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "pinned_tweet_id": "1952399669256171602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5169,
+          "following_count": 2725,
+          "like_count": 17085,
+          "listed_count": 22,
+          "media_count": 910,
+          "tweet_count": 8481
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829375140699992077",
+    "created_at": "2024-08-30T04:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T05:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829375140699992077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829375140699992077",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829371012401840402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 啊…主人，不要打晓雨的乳房…啊哈～\r晓雨的乳尖颤抖着暴露在空气中，酥胸乱颤…\r那里好敏感…被主人触碰就忍不住要发情了呜呜呜，乳头好疼，都被主人掐肿了呜呜呜…唔嗯…母狗好爽…谢谢主人🩷\r一手托起自己的乳房，凑到主人旁边，喘息着问道：“主人…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829375140699992077].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829375140699992077",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829375140699992077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829371002691969024"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1829371012401840402",
+        "created_at": "2024-08-30T04:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829371012401840402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "女m"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1l993h9dgy",
+              "end": 168,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1829371012401840402/photo/1",
+              "media_key": "3_1829371002691969024",
+              "start": 145,
+              "url": "https://t.co/1L993H9DgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829371012401840402",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊…主人，不要打晓雨的乳房…啊哈～\r晓雨的乳尖颤抖着暴露在空气中，酥胸乱颤…\r那里好敏感…被主人触碰就忍不住要发情了呜呜呜，乳头好疼，都被主人掐肿了呜呜呜…唔嗯…母狗好爽…谢谢主人🩷\r一手托起自己的乳房，凑到主人旁边，喘息着问道：“主人～今天要射到晓雨的大胸上嘛🩷”#文援 #女m #母狗 https://t.co/1L993H9DgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 81,
+          "like_count": 382,
+          "listed_count": 0,
+          "tweet_count": 438
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱50/h，30/0.5h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 54,
+          "like_count": 146,
+          "listed_count": 1,
+          "tweet_count": 160
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

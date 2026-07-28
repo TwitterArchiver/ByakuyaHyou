@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1904024807651381288",
+    "created_at": "2025-03-24T04:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T05:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904024807651381288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "人妻出轨"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "强姦"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "胁迫控制"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904024807651381288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903983364715278517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “啊，你来啦，随便坐就好，今天老公不在家呢~♡”\n\n以修理空调为由邀你来只有寂寞人妻的家里，毫无设防的穿着性感吊带勒肉嗨丝，成熟的纯黑蕾丝内裤包裹股间，短小黑裙跟没穿一样，顶着微红的小脸扭头慵懒招呼\n\n#人妻出轨 #强姦 #胁迫控制 #NTR剧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904024807651381288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904024807651381288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904024807651381288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_1903983362550947840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmxOx88aYAAy04r.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903983362550947840"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1903983364715278517",
+        "created_at": "2025-03-24T01:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T02:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903983364715278517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "人妻出轨"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "强姦"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "胁迫控制"
+            },
+            {
+              "end": 123,
+              "start": 117,
+              "tag": "NTR剧情"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文爱"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "清纯系"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "萝莉"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "少妇"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "蕾丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nb8fWFW98h",
+              "end": 168,
+              "expanded_url": "https://x.com/q3233788635/status/1903983364715278517/photo/1",
+              "media_key": "3_1903983362550947840",
+              "start": 145,
+              "url": "https://t.co/Nb8fWFW98h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903983364715278517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 434,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "“啊，你来啦，随便坐就好，今天老公不在家呢~♡”\n\n以修理空调为由邀你来只有寂寞人妻的家里，毫无设防的穿着性感吊带勒肉嗨丝，成熟的纯黑蕾丝内裤包裹股间，短小黑裙跟没穿一样，顶着微红的小脸扭头慵懒招呼\n\n#人妻出轨 #强姦 #胁迫控制 #NTR剧情 #文爱 #清纯系 #萝莉 #少妇 #蕾丝 https://t.co/Nb8fWFW98h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 105,
+          "like_count": 946,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1117
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系傍晚到凌晨十二点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 457,
+          "like_count": 2966,
+          "listed_count": 9,
+          "media_count": 59,
+          "tweet_count": 2268
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

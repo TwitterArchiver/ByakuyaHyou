@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1920856054851584499",
+    "created_at": "2025-05-09T14:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920856054851584499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1105956138405806081",
+          "start": 3,
+          "username": "ChinoKirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920856054851584499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920844760022925821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChinoKirai: “要我这样为你加油吗，会不会...太大胆了一点，嗯❤...为了你的话❤”\n赤裸着雪白的青春肉体，手上的花球和运动鞋反而让暴露感更强~肌肤在日光下散发着诱人光泽，富有动感的啦啦操，让一对滚圆玉乳上下摇晃~随着动作变得标准，粉嫩的三点也暴露在空气中~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920856054851584499].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920856054851584499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920856054851584499"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1920844744546283521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg2HjtbcAEEheL.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920844744546283521"
+          ]
+        },
+        "author_id": "1105956138405806081",
+        "conversation_id": "1920844760022925821",
+        "created_at": "2025-05-09T14:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920844760022925821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "露出"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6Jkeqln43",
+              "end": 178,
+              "expanded_url": "https://x.com/ChinoKirai/status/1920844760022925821/photo/1",
+              "media_key": "3_1920844744546283521",
+              "start": 155,
+              "url": "https://t.co/U6Jkeqln43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920844760022925821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“要我这样为你加油吗，会不会...太大胆了一点，嗯❤...为了你的话❤”\n赤裸着雪白的青春肉体，手上的花球和运动鞋反而让暴露感更强~肌肤在日光下散发着诱人光泽，富有动感的啦啦操，让一对滚圆玉乳上下摇晃~随着动作变得标准，粉嫩的三点也暴露在空气中~\n“加~油~❤...加油❤...！”\n#文爱 #露出 #性幻想 https://t.co/U6Jkeqln43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 119,
+          "like_count": 1189,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1398
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T22:17:45.000Z",
+        "description": "转生的五年驾龄温柔可爱暖软奶甜智乃（洛荧）♥丨超H抖m丨小魅魔丨纯爱丨Ntr丨Cosplay（崩原星铁、BA等） \n不涉三♥ 简介在置顶推文  \n35r/30min  \nQQ接待：3640386962  \ntelegram＆discord：ChinoKiraw\nTG直达：https://t.co/HH06dpd16J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ChinoKiraw",
+                "end": 159,
+                "expanded_url": "https://t.me/ChinoKiraw",
+                "start": 136,
+                "url": "https://t.co/HH06dpd16J"
+              }
+            ]
+          }
+        },
+        "id": "1105956138405806081",
+        "name": "香风智乃~洛荧（互推）",
+        "pinned_tweet_id": "1900022647649644856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897122857207128066/efI9aEin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 35,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "ChinoKirai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1906874165262745640",
+    "created_at": "2025-04-01T01:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906874165262745640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906874165262745640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906682555371606357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 老师~为什么体育课的时候一直盯着我的裙子看呢🖤觉得看上去很温柔的样子就用眼神肆无忌惮的在人家下身扫视真是恶心啊🖤躺下来让你好好看个够好了~你可真是条发情的公狗呢嘻嘻🖤闻着少女散发着雌香的小穴微微带着些许运动后的汗酸就忍不住伸出舌头？真是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906874165262745640].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906874165262745640",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906874165262745640"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_1906682552393531393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXlreraAAEoqlg.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906682552393531393"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1906682555371606357",
+        "created_at": "2025-03-31T12:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906682555371606357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文援"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "调教"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRoo0FEW0E",
+              "end": 166,
+              "expanded_url": "https://x.com/KendallRat17471/status/1906682555371606357/photo/1",
+              "media_key": "3_1906682552393531393",
+              "start": 143,
+              "url": "https://t.co/iRoo0FEW0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906682555371606357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3610,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "老师~为什么体育课的时候一直盯着我的裙子看呢🖤觉得看上去很温柔的样子就用眼神肆无忌惮的在人家下身扫视真是恶心啊🖤躺下来让你好好看个够好了~你可真是条发情的公狗呢嘻嘻🖤闻着少女散发着雌香的小穴微微带着些许运动后的汗酸就忍不住伸出舌头？真是条得寸进尺的傻逼公狗🖤～ #文援 #调教 #足控 https://t.co/iRoo0FEW0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 108,
+          "like_count": 995,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1165
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是文援姬北北，擅长调教羞辱角色扮演♡可出原～大号暂封，门牌q631365212，营业时间8点到凌晨2点~",
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1904213441641943166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1607,
+          "like_count": 43,
+          "listed_count": 9,
+          "media_count": 42,
+          "tweet_count": 733
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

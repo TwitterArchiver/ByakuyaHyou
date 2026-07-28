@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1932834576701026440",
+    "created_at": "2025-06-11T16:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T17:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932834576701026440"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "贡号"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "贡猪"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "败北凌辱"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "贡畜"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "雌堕洗脑"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "无脑恶堕"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "无脑贡"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "喷金"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "无脑丧志"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "无脑上供"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "匿名贡"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "女绿奴"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "恋足舔脚"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "女S"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "报销奴"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "胁迫控制"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "貢ぎマゾ"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "貢ぎ奴隷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932834576701026440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930633183021912170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 熏风即将来临，准备好迎接夏日怀抱了吗？#女性崇拜 #ATM奴 #贡号 #贡猪 #败北凌辱 #贡畜 #雌堕洗脑 #无脑恶堕 #无脑贡 #喷金 #无脑丧志 #无脑上供 #匿名贡 #女绿奴 #恋足舔脚 #女S #报销奴 #胁迫控制 #貢ぎマゾ #貢ぎ奴隷 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932834576701026440].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932834576701026440",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932834576701026440"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2204,
+        "media_key": "3_1930633164759916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr8omkaYAARsT2.jpg",
+        "width": 2204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930633164759916544"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1930633183021912170",
+        "created_at": "2025-06-05T14:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930633183021912170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "贡号"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "贡猪"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "贡畜"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "雌堕洗脑"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "无脑恶堕"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "喷金"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "无脑丧志"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "匿名贡"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "女绿奴"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "恋足舔脚"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "女S"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "报销奴"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "胁迫控制"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "貢ぎ奴隷"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "洗脑压榨"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "洗脑调教"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "M男"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ozou3P68lJ",
+              "end": 164,
+              "expanded_url": "https://x.com/yues666/status/1930633183021912170/photo/1",
+              "media_key": "3_1930633164759916544",
+              "start": 141,
+              "url": "https://t.co/Ozou3P68lJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930633183021912170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1937,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "熏风即将来临，准备好迎接夏日怀抱了吗？#女性崇拜 #ATM奴 #贡号 #贡猪 #败北凌辱 #贡畜 #雌堕洗脑 #无脑恶堕 #无脑贡 #喷金 #无脑丧志 #无脑上供 #匿名贡 #女绿奴 #恋足舔脚 #女S #报销奴 #胁迫控制 #貢ぎマゾ #貢ぎ奴隷 #洗脑压榨 #洗脑调教 #M男 https://t.co/Ozou3P68lJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1449
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 12,
+          "like_count": 336,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 319
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

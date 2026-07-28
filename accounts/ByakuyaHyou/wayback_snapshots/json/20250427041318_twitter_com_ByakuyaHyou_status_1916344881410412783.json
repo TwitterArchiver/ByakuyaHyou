@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916190031665913856"
+      ],
+      "media_source_tweet_id": [
+        "1916190318279446614"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916344881410412783",
+    "created_at": "2025-04-27T04:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916344881410412783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ZpldV50dK",
+          "end": 129,
+          "expanded_url": "https://x.com/Achengqqq/status/1916190318279446614/photo/1",
+          "media_key": "3_1916190031665913856",
+          "start": 106,
+          "url": "https://t.co/7ZpldV50dK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916344881410412783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916190318279446614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 文媛日记：今天又被约爆了所以加价，这几天暂时是60r/h。老客户和提前预约的主人们价格不变哦~\n因为累所以休息几天。这几天就这个价格好了~趴趴\nps：下面是新的自设图~注意是AI哦 https://t.co/7ZpldV50dK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916190031665913856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpesrm-XYAAt3Vz.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916190031665913856"
+          ],
+          "media_source_tweet_id": [
+            "1916190318279446614"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1916344881410412783",
+        "created_at": "2025-04-27T04:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T05:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916344881410412783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896222648524587008",
+              "start": 3,
+              "username": "Achengqqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZpldV50dK",
+              "end": 129,
+              "expanded_url": "https://x.com/Achengqqq/status/1916190318279446614/photo/1",
+              "media_key": "3_1916190031665913856",
+              "start": 106,
+              "url": "https://t.co/7ZpldV50dK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916344881410412783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916190318279446614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Achengqqq: 文媛日记：今天又被约爆了所以加价，这几天暂时是60r/h。老客户和提前预约的主人们价格不变哦~\n因为累所以休息几天。这几天就这个价格好了~趴趴\nps：下面是新的自设图~注意是AI哦 https://t.co/7ZpldV50dK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916190031665913856"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1916190318279446614",
+        "created_at": "2025-04-26T17:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916190318279446614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZpldV50dK",
+              "end": 114,
+              "expanded_url": "https://x.com/Achengqqq/status/1916190318279446614/photo/1",
+              "media_key": "3_1916190031665913856",
+              "start": 91,
+              "url": "https://t.co/7ZpldV50dK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916190318279446614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "文媛日记：今天又被约爆了所以加价，这几天暂时是60r/h。老客户和提前预约的主人们价格不变哦~\n因为累所以休息几天。这几天就这个价格好了~趴趴\nps：下面是新的自设图~注意是AI哦 https://t.co/7ZpldV50dK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1123,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1331
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~\n3499505433\n备用找眯娜：2115939019\n小飞机：@achenloveyou\n建议先QQ联系一下~\n顺便说一句，我还有各种R18资源，经常会发一些涩图和福利哦~当然也可以和我要喔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "achenloveyou"
+              }
+            ]
+          }
+        },
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1915546851962757615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 15,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

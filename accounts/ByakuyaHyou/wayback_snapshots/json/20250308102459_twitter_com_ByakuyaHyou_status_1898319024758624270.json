@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898319024758624270",
+    "created_at": "2025-03-08T10:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898319024758624270"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "贱狗"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "贱货"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "舔脚"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "洗脑"
+        },
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "atm奴"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "小额奴"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "报销奴"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "提款机"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "账单奴"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "任务指令"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1786654120105189376",
+          "start": 3,
+          "username": "yangyang101051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898319024758624270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898019839559844130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyang101051: 自己主动爬过来带上你的狗项圈，废物东西🖤想不想看到主人的腿狗鸡吧就已经硬到爆炸了。全长10min想买的可以私\n\n#贱狗 #贱货 #舔脚 #洗脑 #atm奴  #小额奴 #报销奴 #提款机 #账单奴  #任务指令 #女性崇拜 #ATM奴 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898319024758624270].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898319024758624270",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898319024758624270"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 70366,
+        "height": 1272,
+        "media_key": "13_1898019747901718529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898019747901718529/img/7y8ofcGOcGmTk5U0.jpg",
+        "public_metrics": {
+          "view_count": 520
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898019747901718529/vid/avc1/320x564/jsn5KIGXzrHkC5VL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898019747901718529/vid/avc1/480x848/QsCfXe1sD1Nw7MVj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898019747901718529/vid/avc1/720x1272/Xr1OMsmkUcvYZH77.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898019747901718529/pl/1d_3UNE5xyhGmhx2.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898019747901718529"
+          ]
+        },
+        "author_id": "1786654120105189376",
+        "conversation_id": "1898019839559844130",
+        "created_at": "2025-03-07T14:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898019839559844130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "贱狗"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "贱货"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "舔脚"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "洗脑"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "atm奴"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "小额奴"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "报销奴"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "提款机"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "账单奴"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "任务指令"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "龟责"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDUXt6iVHR",
+              "end": 145,
+              "expanded_url": "https://x.com/yangyang101051/status/1898019839559844130/video/1",
+              "media_key": "13_1898019747901718529",
+              "start": 122,
+              "url": "https://t.co/MDUXt6iVHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898019839559844130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1790,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "自己主动爬过来带上你的狗项圈，废物东西🖤想不想看到主人的腿狗鸡吧就已经硬到爆炸了。全长10min想买的可以私\n\n#贱狗 #贱货 #舔脚 #洗脑 #atm奴  #小额奴 #报销奴 #提款机 #账单奴  #任务指令 #女性崇拜 #ATM奴 #龟责 https://t.co/MDUXt6iVHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 96,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 976
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:08:38.000Z",
+        "description": "喜欢对废物贱狗的鸡巴进行折磨，没办法贱狗的鸡巴太没用了，真应该永远锁起来。主人喜欢寸止，强制榨精，辱骂羞辱。玩死你那2cm勃起不足3cm的东西。门牌号：2063460870 文35r/30min 语音66/10min视频120/10min 另出原味 https://t.co/cPHAyIL08h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ranrannvwangda…",
+                "end": 148,
+                "expanded_url": "https://t.me/ranrannvwangdaren",
+                "start": 125,
+                "url": "https://t.co/cPHAyIL08h"
+              }
+            ]
+          }
+        },
+        "id": "1786654120105189376",
+        "location": "Chūgoku, Hiroshima",
+        "name": "文音媛冉冉s（互推.私信）",
+        "pinned_tweet_id": "1895512271767621724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895474258064629760/3h4-uLSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 150,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "username": "yangyang101051",
+        "verified": false
+      }
+    ]
+  }
+}

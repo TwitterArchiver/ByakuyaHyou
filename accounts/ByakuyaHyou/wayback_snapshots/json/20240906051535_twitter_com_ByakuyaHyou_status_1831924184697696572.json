@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831711281600237568"
+      ],
+      "media_source_tweet_id": [
+        "1831711289200234734"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831924184697696572",
+    "created_at": "2024-09-06T05:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T06:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831924184697696572"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "女s"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "男m"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "羞辱"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "粗口"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "调教"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "调教贱狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725708713326178304",
+          "start": 3,
+          "username": "Elimelech16dedu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hxrjgvfqwd",
+          "end": 108,
+          "expanded_url": "https://twitter.com/Elimelech16dedu/status/1831711289200234734/photo/1",
+          "media_key": "3_1831711281600237568",
+          "start": 85,
+          "url": "https://t.co/HxRJgvFQWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831924184697696572",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831711289200234734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elimelech16dedu: 一到晚上你就忍不住来找主人挨骂是吗？傻逼  #女s  #男m  #羞辱   -#粗口   #调教   #女尊男卑  #调教贱狗 https://t.co/HxRJgvFQWD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831924184697696572].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831924184697696572",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831924184697696572"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1831711281600237568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWuLtK7bkAAmnoD.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831711281600237568"
+          ]
+        },
+        "author_id": "1725708713326178304",
+        "conversation_id": "1831711289200234734",
+        "created_at": "2024-09-05T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831711289200234734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "女s"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "男m"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "羞辱"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "粗口"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "调教"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "调教贱狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxrjgvfqwd",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Elimelech16dedu/status/1831711289200234734/photo/1",
+              "media_key": "3_1831711281600237568",
+              "start": 64,
+              "url": "https://t.co/HxRJgvFQWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831711289200234734",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1482,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一到晚上你就忍不住来找主人挨骂是吗？傻逼  #女s  #男m  #羞辱   -#粗口   #调教   #女尊男卑  #调教贱狗 https://t.co/HxRJgvFQWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 85,
+          "like_count": 435,
+          "listed_count": 0,
+          "tweet_count": 514
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T02:53:20.000Z",
+        "description": "带门加好友",
+        "id": "1725708713326178304",
+        "location": "Elk Grove",
+        "name": "柯儿s（收贱狗）",
+        "pinned_tweet_id": "1819692979751428148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829193428208635904/w2CCftI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Elimelech16dedu",
+        "verified": false
+      }
+    ]
+  }
+}

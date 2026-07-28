@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051993102215479296",
+        "3_2051993110872461312"
+      ],
+      "media_source_tweet_id": [
+        "2051993124294250848",
+        "2051993124294250848"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2051993562074816903",
+    "created_at": "2026-05-06T11:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993562074816903"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "伪娘"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667423069076348928",
+          "start": 3,
+          "username": "Kan_AyaneZero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JUYkt3JtH4",
+          "end": 84,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+          "media_key": "3_2051993102215479296",
+          "start": 61,
+          "url": "https://t.co/JUYkt3JtH4"
+        },
+        {
+          "display_url": "pic.x.com/JUYkt3JtH4",
+          "end": 84,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+          "media_key": "3_2051993110872461312",
+          "start": 61,
+          "url": "https://t.co/JUYkt3JtH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993562074816903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051993124294250848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子\n今日虐鲨🦈蹂躏鱼鳍😋\n看我用强有力的大腿夹似鲨鲨😋 https://t.co/JUYkt3JtH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051993102215479296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHok2sMbAAAUR8y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1165,
+        "media_key": "3_2051993110872461312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHok3McaEAAC4Ll.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051993102215479296",
+            "3_2051993110872461312"
+          ],
+          "media_source_tweet_id": [
+            "2051993124294250848",
+            "2051993124294250848"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2051993562074816903",
+        "created_at": "2026-05-06T11:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993562074816903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667423069076348928",
+              "start": 3,
+              "username": "Kan_AyaneZero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUYkt3JtH4",
+              "end": 84,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+              "media_key": "3_2051993102215479296",
+              "start": 61,
+              "url": "https://t.co/JUYkt3JtH4"
+            },
+            {
+              "display_url": "pic.x.com/JUYkt3JtH4",
+              "end": 84,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+              "media_key": "3_2051993110872461312",
+              "start": 61,
+              "url": "https://t.co/JUYkt3JtH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993562074816903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051993124294250848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子\n今日虐鲨🦈蹂躏鱼鳍😋\n看我用强有力的大腿夹似鲨鲨😋 https://t.co/JUYkt3JtH4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051993102215479296",
+            "3_2051993110872461312"
+          ]
+        },
+        "author_id": "1667423069076348928",
+        "conversation_id": "2051993124294250848",
+        "created_at": "2026-05-06T11:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051993124294250848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUYkt3JtH4",
+              "end": 65,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+              "media_key": "3_2051993102215479296",
+              "start": 42,
+              "url": "https://t.co/JUYkt3JtH4"
+            },
+            {
+              "display_url": "pic.x.com/JUYkt3JtH4",
+              "end": 65,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2051993124294250848/photo/1",
+              "media_key": "3_2051993110872461312",
+              "start": 42,
+              "url": "https://t.co/JUYkt3JtH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993124294250848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #可爱的男孩子\n今日虐鲨🦈蹂躏鱼鳍😋\n看我用强有力的大腿夹似鲨鲨😋 https://t.co/JUYkt3JtH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 272,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1543
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│成分复杂│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)\n│好哥哥：@ByakuyaHyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 354,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      }
+    ]
+  }
+}

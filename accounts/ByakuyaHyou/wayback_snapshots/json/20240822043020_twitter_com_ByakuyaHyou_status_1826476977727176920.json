@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826476977727176920",
+    "created_at": "2024-08-22T04:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T05:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826476977727176920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826476977727176920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826462685770498402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 你好喔♡老公💚这么长时间你一定很好奇人家去哪里了叭💚\n和闺蜜被抓去贫民窟被黑爹附种爆姦到子宫都流出来了呢🖤人家的身体已经被改造成适合怀孕和被黑爹巨屌贯穿的模样♠️人家才第一次体会到当女人是多开心的事情💚\n不聊了喔💚人家要和闺蜜比赛扣屄~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826476977727176920].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826476977727176920",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826476977727176920"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826462682892877824"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1826462685770498402",
+        "created_at": "2024-08-22T03:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T04:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826462685770498402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "媚黑婊"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "绿奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzg5nmqspi",
+              "end": 168,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1826462685770498402/photo/1",
+              "media_key": "3_1826462682892877824",
+              "start": 145,
+              "url": "https://t.co/qZG5NmqSPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826462685770498402",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好喔♡老公💚这么长时间你一定很好奇人家去哪里了叭💚\n和闺蜜被抓去贫民窟被黑爹附种爆姦到子宫都流出来了呢🖤人家的身体已经被改造成适合怀孕和被黑爹巨屌贯穿的模样♠️人家才第一次体会到当女人是多开心的事情💚\n不聊了喔💚人家要和闺蜜比赛扣屄~谁喷的远谁就可以先交配呢🖤\n#文援 #媚黑婊 ＃绿奴 https://t.co/qZG5NmqSPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 65,
+          "like_count": 207,
+          "listed_count": 0,
+          "tweet_count": 238
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪对各位男爹发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 主人是亲爱的伊诺sama♡目前的价格是25/30min 45/1h 🚪3443654158 出没时间10.00am-2.00am 欢迎各位客人",
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1823194198377705823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 16,
+          "like_count": 25,
+          "listed_count": 1,
+          "tweet_count": 39
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

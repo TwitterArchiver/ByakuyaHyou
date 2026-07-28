@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851666681539559424",
+        "3_1851666682189627393",
+        "3_1851666682193809408"
+      ],
+      "media_source_tweet_id": [
+        "1851666698765582805",
+        "1851666698765582805",
+        "1851666698765582805"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1948384268431864170",
+    "created_at": "2025-07-24T14:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948384268431864170"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "托帕cos"
+        },
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "星穹铁道cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826220596595994624",
+          "start": 3,
+          "username": "hu3150001376658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6y1O5c0dk5",
+          "end": 66,
+          "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+          "media_key": "3_1851666681539559424",
+          "start": 43,
+          "url": "https://t.co/6y1O5c0dk5"
+        },
+        {
+          "display_url": "pic.x.com/6y1O5c0dk5",
+          "end": 66,
+          "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+          "media_key": "3_1851666682189627393",
+          "start": 43,
+          "url": "https://t.co/6y1O5c0dk5"
+        },
+        {
+          "display_url": "pic.x.com/6y1O5c0dk5",
+          "end": 66,
+          "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+          "media_key": "3_1851666682193809408",
+          "start": 43,
+          "url": "https://t.co/6y1O5c0dk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948384268431864170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851666698765582805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu3150001376658: cos托帕！＃托帕cos #星穹铁道cos https://t.co/6y1O5c0dk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1851666681539559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbJxCUuXgAArNgp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1851666682189627393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbJxCXJWwAEUO_O.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1851666682193809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbJxCXKWkAA8jis.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851666681539559424",
+            "3_1851666682189627393",
+            "3_1851666682193809408"
+          ],
+          "media_source_tweet_id": [
+            "1851666698765582805",
+            "1851666698765582805",
+            "1851666698765582805"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1948384268431864170",
+        "created_at": "2025-07-24T14:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948384268431864170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "托帕cos"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "星穹铁道cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1826220596595994624",
+              "start": 3,
+              "username": "hu3150001376658"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 66,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666681539559424",
+              "start": 43,
+              "url": "https://t.co/6y1O5c0dk5"
+            },
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 66,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666682189627393",
+              "start": 43,
+              "url": "https://t.co/6y1O5c0dk5"
+            },
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 66,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666682193809408",
+              "start": 43,
+              "url": "https://t.co/6y1O5c0dk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948384268431864170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851666698765582805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu3150001376658: cos托帕！＃托帕cos #星穹铁道cos https://t.co/6y1O5c0dk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851666681539559424",
+            "3_1851666682189627393",
+            "3_1851666682193809408"
+          ]
+        },
+        "author_id": "1826220596595994624",
+        "conversation_id": "1851666698765582805",
+        "created_at": "2024-10-30T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851666698765582805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "托帕cos"
+            },
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "星穹铁道cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 45,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666681539559424",
+              "start": 22,
+              "url": "https://t.co/6y1O5c0dk5"
+            },
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 45,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666682189627393",
+              "start": 22,
+              "url": "https://t.co/6y1O5c0dk5"
+            },
+            {
+              "display_url": "pic.x.com/6y1O5c0dk5",
+              "end": 45,
+              "expanded_url": "https://x.com/hu3150001376658/status/1851666698765582805/photo/1",
+              "media_key": "3_1851666682193809408",
+              "start": 22,
+              "url": "https://t.co/6y1O5c0dk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851666698765582805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2197,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "cos托帕！＃托帕cos #星穹铁道cos https://t.co/6y1O5c0dk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 142,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1531
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:31:42.000Z",
+        "description": "新人男娘，请多关照，可以扩列～",
+        "id": "1826220596595994624",
+        "name": "可露希尔♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936389865102299136/t56T-jDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "hu3150001376658",
+        "verified": false
+      }
+    ]
+  }
+}

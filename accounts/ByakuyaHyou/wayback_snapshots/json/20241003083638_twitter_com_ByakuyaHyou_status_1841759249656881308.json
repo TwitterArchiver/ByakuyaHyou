@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759249656881308",
+    "created_at": "2024-10-03T08:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759249656881308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759249656881308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840365462548369429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「夕绫~你瞧瞧我找到了什么」\n紫灵在和自己平时的高冷闺蜜独处时，从背后搂了上来同时拿着手机在对方眼前晃了晃，画面上正是好闺蜜的色推记录…\n\n少女从身后看见好闺蜜的耳朵越来越红了。紫灵坏笑着从接吻，吃豆腐甚至到最后裸体的两人在教室缠绵到一起，度过…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759249656881308].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759249656881308",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759249656881308"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840365454738739200"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1840365462548369429",
+        "created_at": "2024-09-29T12:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T13:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840365462548369429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 150,
+              "id": "1629550872676954114",
+              "start": 135,
+              "username": "northblack0310"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GFzZa8hUz",
+              "end": 174,
+              "expanded_url": "https://x.com/ZiYing12494/status/1840365462548369429/photo/1",
+              "media_key": "3_1840365454738739200",
+              "start": 151,
+              "url": "https://t.co/5GFzZa8hUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840365462548369429",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2571,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "「夕绫~你瞧瞧我找到了什么」\n紫灵在和自己平时的高冷闺蜜独处时，从背后搂了上来同时拿着手机在对方眼前晃了晃，画面上正是好闺蜜的色推记录…\n\n少女从身后看见好闺蜜的耳朵越来越红了。紫灵坏笑着从接吻，吃豆腐甚至到最后裸体的两人在教室缠绵到一起，度过了一段甜蜜的时光\n♡♡♡\n@northblack0310 https://t.co/5GFzZa8hUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 612,
+          "listed_count": 0,
+          "tweet_count": 763
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 53,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

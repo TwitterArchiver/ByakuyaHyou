@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1926448105714540853",
+    "created_at": "2025-05-25T01:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T02:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926448105714540853"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "文媛"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "文爱"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "败北"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926448105714540853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925436174740726043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者恶堕日记02\n看到了恶堕的荧妹，派蒙无助的想要逃跑时，才发现自己已经被丘丘人包围了\n旅行者…哈啊…你也没告诉我…嗯啊…丘丘人的…大肉棒这么厉害啊…哈啊…\n这么大的肉棒…哈啊…派蒙也是会坏掉的…啊啊啊…\n#文媛 #文爱 #败北 #剧情 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926448105714540853].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926448105714540853",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926448105714540853"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1925436170437345280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GriF_uCbQAABbFQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925436170437345280"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1925436174740726043",
+        "created_at": "2025-05-22T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925436174740726043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "文媛"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "文爱"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "败北"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOB4BuGi8E",
+              "end": 143,
+              "expanded_url": "https://x.com/dnggu156261/status/1925436174740726043/photo/1",
+              "media_key": "3_1925436170437345280",
+              "start": 120,
+              "url": "https://t.co/eOB4BuGi8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925436174740726043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9286,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者恶堕日记02\n看到了恶堕的荧妹，派蒙无助的想要逃跑时，才发现自己已经被丘丘人包围了\n旅行者…哈啊…你也没告诉我…嗯啊…丘丘人的…大肉棒这么厉害啊…哈啊…\n这么大的肉棒…哈啊…派蒙也是会坏掉的…啊啊啊…\n#文媛 #文爱 #败北 #剧情 https://t.co/eOB4BuGi8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 120,
+          "like_count": 1229,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1441
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，接单号3860669556，30r0.5h，不涉三，原铁绝都可以试试，其他角色也可以，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923330987477581824/4qwAQZQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 136,
+          "like_count": 6018,
+          "listed_count": 18,
+          "media_count": 85,
+          "tweet_count": 6234
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

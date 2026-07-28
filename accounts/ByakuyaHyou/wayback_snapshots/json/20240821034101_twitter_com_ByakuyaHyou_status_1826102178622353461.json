@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826102178622353461",
+    "created_at": "2024-08-21T03:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T04:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826102178622353461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826102178622353461",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826101769744822481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 肉棒渐渐勃起♡抢占大脑血液的话♡可会做出不妙的事情喔♡千万要守住最后一层防线♡不要被人家洗脑成下贱的公狗喔♡\n但是美少女香香软软的胖次♡丝足♡肉腿♡即将完全占据哥哥的大脑呢♡\n想被踩被坐在屁股下面被掌控支配管理被拿捏性欲撸屌成为主人的玩…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826102178622353461].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826102178622353461",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826102178622353461"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826101766309679104"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1826101769744822481",
+        "created_at": "2024-08-21T03:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T04:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826101769744822481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "洗脑压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivdnglpadf",
+              "end": 165,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1826101769744822481/photo/1",
+              "media_key": "3_1826101766309679104",
+              "start": 142,
+              "url": "https://t.co/iVDNGLPADf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826101769744822481",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "肉棒渐渐勃起♡抢占大脑血液的话♡可会做出不妙的事情喔♡千万要守住最后一层防线♡不要被人家洗脑成下贱的公狗喔♡\n但是美少女香香软软的胖次♡丝足♡肉腿♡即将完全占据哥哥的大脑呢♡\n想被踩被坐在屁股下面被掌控支配管理被拿捏性欲撸屌成为主人的玩具♡\n不如交出脑子成为阿眠的狗呢🖤\n#洗脑压榨 https://t.co/iVDNGLPADf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 58,
+          "like_count": 141,
+          "listed_count": 0,
+          "tweet_count": 168
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪对各位男爹发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 主人是亲爱的伊诺sama♡目前的价格是25/30min 45/1h 🚪3443654158 出没时间10.00am-2.00am 欢迎各位客人",
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1823194198377705823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 16,
+          "like_count": 24,
+          "listed_count": 1,
+          "tweet_count": 36
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

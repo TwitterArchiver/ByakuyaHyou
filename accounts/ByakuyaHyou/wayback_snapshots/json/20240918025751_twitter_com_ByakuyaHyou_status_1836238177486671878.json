@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835904588102422528"
+      ],
+      "media_source_tweet_id": [
+        "1835904605424931222"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836238177486671878",
+    "created_at": "2024-09-18T02:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T03:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836238177486671878"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "文媛"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "文爱"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "黑丝"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "败北"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "剧情"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "扶她"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/udbicjuoo1",
+          "end": 112,
+          "expanded_url": "https://twitter.com/dnggu156261/status/1835904605424931222/photo/1",
+          "media_key": "3_1835904588102422528",
+          "start": 89,
+          "url": "https://t.co/udBicJuOo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836238177486671878",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835904605424931222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 大家中秋快乐呀，看着迷人的奶子，不想来上一发么，很爽的哦，把精液全射到旅行者的小穴来吧\n#文媛 #文爱 #黑丝 #败北 #剧情 #扶她 #百合 https://t.co/udBicJuOo1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836238177486671878].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836238177486671878",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836238177486671878"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_1835904588102422528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXpxfu9a0AAx6cZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835904588102422528"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1835904605424931222",
+        "created_at": "2024-09-17T04:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T05:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835904605424931222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "文媛"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "文爱"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "黑丝"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "败北"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "剧情"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "扶她"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/udbicjuoo1",
+              "end": 95,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1835904605424931222/photo/1",
+              "media_key": "3_1835904588102422528",
+              "start": 72,
+              "url": "https://t.co/udBicJuOo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835904605424931222",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3924,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "大家中秋快乐呀，看着迷人的奶子，不想来上一发么，很爽的哦，把精液全射到旅行者的小穴来吧\n#文媛 #文爱 #黑丝 #败北 #剧情 #扶她 #百合 https://t.co/udBicJuOo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 81,
+          "like_count": 517,
+          "listed_count": 0,
+          "tweet_count": 625
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "各种委托都样样精通的旅行者，旅行者总要有名字的，就叫冬瓜吧，可s可m，具体业务看置顶哦，接单号3102301701，不涉三，白天晚上皆可，30r0.5h，60r1h，主人 @fuxuan31473  姐妹 @guq1128649  有触手的姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "fuxuan31473"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "guq1128649"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "xcwnaxida"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "尘歌壶",
+        "name": "旅行者冬瓜（互推）",
+        "pinned_tweet_id": "1823239040210174343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814333574860144640/IvPmJtG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 133,
+          "like_count": 2255,
+          "listed_count": 8,
+          "tweet_count": 2446
+        },
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

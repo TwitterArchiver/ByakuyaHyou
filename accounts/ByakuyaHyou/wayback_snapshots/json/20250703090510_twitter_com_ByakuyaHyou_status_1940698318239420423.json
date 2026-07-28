@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940698306738638848"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940697029161996377",
+    "created_at": "2025-07-03T09:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T10:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940698318239420423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GAS5wBXQHS",
+          "end": 89,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1940698318239420423/photo/1",
+          "media_key": "3_1940698306738638848",
+          "start": 66,
+          "url": "https://t.co/GAS5wBXQHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940698318239420423",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940697029161996377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 营业喵～各类题材都可以来询问啦喵\n(白天语音营业，晚上10点到1点文字喵～详细介绍可以点开头像看看喵) https://t.co/GAS5wBXQHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1940698306738638848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6-0-Vb0AASOKC.jpg",
+        "width": 905
+      },
+      {
+        "height": 660,
+        "media_key": "3_1931337198399635456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs188wQbwAAvl0_.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940698306738638848"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1940697029161996377",
+        "created_at": "2025-07-03T09:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940698318239420423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAS5wBXQHS",
+              "end": 89,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1940698318239420423/photo/1",
+              "media_key": "3_1940698306738638848",
+              "start": 66,
+              "url": "https://t.co/GAS5wBXQHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940698318239420423",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940697029161996377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 营业喵～各类题材都可以来询问啦喵\n(白天语音营业，晚上10点到1点文字喵～详细介绍可以点开头像看看喵) https://t.co/GAS5wBXQHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931337198399635456"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940697029161996377",
+        "created_at": "2025-07-03T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940697029161996377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "文援"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "文爱"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5l9dg0jr2",
+              "end": 130,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1940697029161996377/photo/1",
+              "media_key": "3_1931337198399635456",
+              "start": 107,
+              "url": "https://t.co/R5l9dg0jr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940697029161996377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n\"雨后初晴的日子里思念也不算荒唐\n你可知道时至今日 你仍是我的光芒。\"\n——\n文援姬请回复自己的营业时间和价格！\n客人请回复想要的剧情和出价(重要)！\n#文援 #耒兰诏 #文爱 #文援姬 https://t.co/R5l9dg0jr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1501
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12470,
+          "following_count": 677,
+          "like_count": 187,
+          "listed_count": 34,
+          "media_count": 4366,
+          "tweet_count": 4786
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

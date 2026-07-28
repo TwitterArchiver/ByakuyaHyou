@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907087968424374626",
+    "created_at": "2025-04-02T15:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T16:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907451584243712375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885301915829100545",
+          "start": 0,
+          "username": "nanguu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907451584243712375",
+    "in_reply_to_user_id": "1885301915829100545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907087968424374626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanguu07 探头～康康黑幕喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1907087968424374626",
+        "created_at": "2025-04-02T15:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907451584243712375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885301915829100545",
+              "start": 0,
+              "username": "nanguu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907451584243712375",
+        "in_reply_to_user_id": "1885301915829100545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907087968424374626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanguu07 探头～康康黑幕喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885301915829100545",
+        "conversation_id": "1907087968424374626",
+        "created_at": "2025-04-01T15:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907087968424374626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "榨精"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "色情陷阱"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907087968424374626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反正没有人看的话，今天十二点前点赞的孩子可以得到一日女友当作奖励？无论是约会还是cos什么的玩法都可以哦（当然是说剧情呢）。不过都是一日女友了，大家一点会好好喂饱女友的吧 #榨精 #色情陷阱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 112,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1189
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T12:19:53.000Z",
+        "description": "是一只有点小恶魔的坏妖狐，想找人黏着欺负。男孩子什么的只要乖乖给我榨精就好了，会有各种色诱play让你舒服哦，最后就融化在温柔乡里吧。不想收钱所以只会按自己的喜好玩（有好玩的play也可以按你的来）。想要找我玩的私信我就好了，不涉三，问了也没有用。",
+        "id": "1885301915829100545",
+        "name": "南宫",
+        "pinned_tweet_id": "1893601367870316706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885303199290306560/tZUUz3si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 30,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "nanguu07",
+        "verified": false
+      }
+    ]
+  }
+}

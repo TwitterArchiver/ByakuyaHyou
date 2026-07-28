@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832379310679929124",
+    "created_at": "2024-09-07T11:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T12:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832379310679929124"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "文爱记录"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "雄小鬼"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "文爱"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "雌伏"
+        },
+        {
+          "end": 112,
+          "start": 106,
+          "tag": "小马拉大车"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "年上"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "雌豚"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "文援姬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832105277459681280",
+          "start": 3,
+          "username": "R4AVEn_R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832379310679929124",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832314196249473064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4AVEn_R4: 呐~各位姐姐看这里哦——\n有没有姐姐想来和雄小鬼小轩玩玩的呢♪\n人家特别擅长小马拉大车和让年上姐姐雌伏哦❤️\n欢迎私信或者看主页门牌骚扰哦🖤\n#文爱记录 #雄小鬼 #文爱 #雌伏  #小马拉大车 #年上 #雌豚 #文援姬 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832379310679929124].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832379310679929124",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832379310679929124"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832314181430747136",
+            "3_1832314181460324352"
+          ]
+        },
+        "author_id": "1832105277459681280",
+        "conversation_id": "1832314196249473064",
+        "created_at": "2024-09-07T07:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T08:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832314196249473064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "文爱记录"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "雄小鬼"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "文爱"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "雌伏"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "小马拉大车"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "年上"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "雌豚"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dy3bek011e",
+              "end": 134,
+              "expanded_url": "https://twitter.com/R4AVEn_R4/status/1832314196249473064/photo/1",
+              "media_key": "3_1832314181430747136",
+              "start": 111,
+              "url": "https://t.co/dY3bEK011E"
+            },
+            {
+              "display_url": "pic.x.com/dy3bek011e",
+              "end": 134,
+              "expanded_url": "https://twitter.com/R4AVEn_R4/status/1832314196249473064/photo/1",
+              "media_key": "3_1832314181460324352",
+              "start": 111,
+              "url": "https://t.co/dY3bEK011E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832314196249473064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "呐~各位姐姐看这里哦——\n有没有姐姐想来和雄小鬼小轩玩玩的呢♪\n人家特别擅长小马拉大车和让年上姐姐雌伏哦❤️\n欢迎私信或者看主页门牌骚扰哦🖤\n#文爱记录 #雄小鬼 #文爱 #雌伏  #小马拉大车 #年上 #雌豚 #文援姬 https://t.co/dY3bEK011E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 85,
+          "like_count": 438,
+          "listed_count": 0,
+          "tweet_count": 522
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T17:15:21.000Z",
+        "description": "这里是喜好压榨成年熟女，年上姐姐，寂寞人妻的巨屌正太雄小鬼小轩，擅长：小马开大车，温柔压榨，温柔PUA~\n欢迎各位屌套姐姐们前来送死哦~\n小轩一定会以最温柔的方式让姐姐们深刻意识到自己的本能哦~\n咦~姐姐，你刚刚是喷卵了吗~♪\n真是好笑呢~🖤\n神秘代码：3194258786（欢迎骚扰）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WuR4A",
+                "end": 23,
+                "expanded_url": "http://t.me/WuR4A",
+                "start": 0,
+                "url": "https://t.co/XKH1PXLx7a"
+              }
+            ]
+          }
+        },
+        "id": "1832105277459681280",
+        "location": "小轩的秘密房间👉🏻",
+        "name": "小轩（互推私）",
+        "pinned_tweet_id": "1832314196249473064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832284629304287232/VAAAd-Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/XKH1PXLx7a",
+        "username": "R4AVEn_R4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1927516238072213962",
+    "created_at": "2025-05-28T00:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T01:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927516238072213962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927516238072213962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927331977721524580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 背着男朋友出来偷腥的荧妹，被男朋友抓了个正着，然而荧妹依旧没和身后的男人停下的意思\n亲爱的…居然被你发现了呢…哈啊…不过也没什么…哈啊…主人的大肉棒就是很爽啊…你看看你那短小的废物…哈啊…怎么和主人比啊…明明看着自己的女朋友被别人肏…实际很爽吧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927516238072213962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927516238072213962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927516238072213962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1927331974835736576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9CODxWEAA1zSx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927331974835736576"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1927331977721524580",
+        "created_at": "2025-05-27T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927331977721524580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文爱"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文媛"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuSCEm9h1a",
+              "end": 159,
+              "expanded_url": "https://x.com/dnggu156261/status/1927331977721524580/photo/1",
+              "media_key": "3_1927331974835736576",
+              "start": 136,
+              "url": "https://t.co/KuSCEm9h1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927331977721524580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2151,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "背着男朋友出来偷腥的荧妹，被男朋友抓了个正着，然而荧妹依旧没和身后的男人停下的意思\n亲爱的…居然被你发现了呢…哈啊…不过也没什么…哈啊…主人的大肉棒就是很爽啊…你看看你那短小的废物…哈啊…怎么和主人比啊…明明看着自己的女朋友被别人肏…实际很爽吧…\n＃文爱 ＃文媛 ＃绿帽 https://t.co/KuSCEm9h1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 120,
+          "like_count": 1242,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1449
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，接单号3860669556，30r0.5h，不涉三，原铁绝都可以试试，其他角色也可以，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923330987477581824/4qwAQZQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 139,
+          "like_count": 6059,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 6279
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

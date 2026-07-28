@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1927238458457612335",
+    "created_at": "2025-05-27T05:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T06:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927238458457612335"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "文媛"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "兔女郎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927238458457612335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927191167159959905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「你说想看… 我才特别换上的 会很奇怪吗..?」\n\n双膝跪坐在床上，两手撑着床面微微前倾的紫灵脸颊泛红，带有些许仰慕的眼神看着你。身上是紧贴身形的兔女郎制服，整齐打好的红色蝴蝶结引诱你的视线向下望着露出大半的嫩乳跟乳沟…♡\n#文媛 #兔女郎 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1927191163506737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7CJwsXQAAKVUt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1927238458457612335",
+        "created_at": "2025-05-27T05:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927238458457612335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文媛"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "兔女郎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818321272440565760",
+              "start": 3,
+              "username": "ZiYing12494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927238458457612335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927191167159959905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZiYing12494: 「你说想看… 我才特别换上的 会很奇怪吗..?」\n\n双膝跪坐在床上，两手撑着床面微微前倾的紫灵脸颊泛红，带有些许仰慕的眼神看着你。身上是紧贴身形的兔女郎制服，整齐打好的红色蝴蝶结引诱你的视线向下望着露出大半的嫩乳跟乳沟…♡\n#文媛 #兔女郎 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927191163506737152"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1927191167159959905",
+        "created_at": "2025-05-27T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927191167159959905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "文媛"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "兔女郎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ps0EiFtBh",
+              "end": 144,
+              "expanded_url": "https://x.com/ZiYing12494/status/1927191167159959905/photo/1",
+              "media_key": "3_1927191163506737152",
+              "start": 121,
+              "url": "https://t.co/1Ps0EiFtBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927191167159959905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「你说想看… 我才特别换上的 会很奇怪吗..?」\n\n双膝跪坐在床上，两手撑着床面微微前倾的紫灵脸颊泛红，带有些许仰慕的眼神看着你。身上是紧贴身形的兔女郎制服，整齐打好的红色蝴蝶结引诱你的视线向下望着露出大半的嫩乳跟乳沟…♡\n#文媛 #兔女郎 https://t.co/1Ps0EiFtBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1238,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1446
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 77,
+          "like_count": 775,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 508
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

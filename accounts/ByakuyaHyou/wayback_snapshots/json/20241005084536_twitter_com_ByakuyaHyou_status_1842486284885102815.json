@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842230699841187840",
+        "3_1842230699841204224"
+      ],
+      "media_source_tweet_id": [
+        "1842230707919401165",
+        "1842230707919401165"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1842486284885102815",
+    "created_at": "2024-10-05T08:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842486284885102815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "女s"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "男m"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "调教"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "辱骂"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "羞辱"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "粗口"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "精神控制"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "黑丝腿控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1635929408925052931",
+          "start": 3,
+          "username": "diameter_NFT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmbS7Z503f",
+          "end": 103,
+          "expanded_url": "https://x.com/diameter_NFT/status/1842230707919401165/photo/1",
+          "media_key": "3_1842230699841187840",
+          "start": 80,
+          "url": "https://t.co/FmbS7Z503f"
+        },
+        {
+          "display_url": "pic.x.com/FmbS7Z503f",
+          "end": 103,
+          "expanded_url": "https://x.com/diameter_NFT/status/1842230707919401165/photo/1",
+          "media_key": "3_1842230699841204224",
+          "start": 80,
+          "url": "https://t.co/FmbS7Z503f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842486284885102815",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842230707919401165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diameter_NFT: 看你妈呢贱货赶紧滚过来挨骂！ #女s #男m #调教 #辱骂 #羞辱 #粗口 #精神控制 #女尊男卑 #上贡奴 #黑丝腿控 https://t.co/FmbS7Z503f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842486284885102815].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842486284885102815",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842486284885102815"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_1842230699841187840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZDrD5pacAAAzQZ.jpg",
+        "width": 915
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1842230699841204224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZDrD5pasAAESIa.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842230699841187840",
+            "3_1842230699841204224"
+          ]
+        },
+        "author_id": "1635929408925052931",
+        "conversation_id": "1842230707919401165",
+        "created_at": "2024-10-04T15:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T16:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842230707919401165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女s"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男m"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "调教"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "辱骂"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "羞辱"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "粗口"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "精神控制"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "黑丝腿控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmbS7Z503f",
+              "end": 85,
+              "expanded_url": "https://x.com/diameter_NFT/status/1842230707919401165/photo/1",
+              "media_key": "3_1842230699841187840",
+              "start": 62,
+              "url": "https://t.co/FmbS7Z503f"
+            },
+            {
+              "display_url": "pic.x.com/FmbS7Z503f",
+              "end": 85,
+              "expanded_url": "https://x.com/diameter_NFT/status/1842230707919401165/photo/1",
+              "media_key": "3_1842230699841204224",
+              "start": 62,
+              "url": "https://t.co/FmbS7Z503f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842230707919401165",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2501,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "看你妈呢贱货赶紧滚过来挨骂！ #女s #男m #调教 #辱骂 #羞辱 #粗口 #精神控制 #女尊男卑 #上贡奴 #黑丝腿控 https://t.co/FmbS7Z503f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 84,
+          "like_count": 618,
+          "listed_count": 0,
+          "tweet_count": 773
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T09:02:23.000Z",
+        "description": "🚪28",
+        "id": "1635929408925052931",
+        "location": "Fort Worth",
+        "name": "珂儿s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841442377799798784/K1A8K_UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "diameter_NFT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913494066165133556",
+    "created_at": "2025-04-19T07:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T08:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913494066165133556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "鄭重緊急宣佈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1884081131957395456",
+          "start": 3,
+          "username": "Barbara43699173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913494066165133556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912407091140342222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Barbara43699173: #鄭重緊急宣佈            \n各縣市徵一名免費固砲        \n今天被宜蘭的阿北放鳥啦 心情超爛  \n只能吃哥好料 看看帥哥養養眼啦\n重新找個固炮  費用我們AA呀     \n私訊告訴我「縣市」我去找你呀     #轉推分…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913494066165133556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913494066165133556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913494066165133556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_1912404775557038080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goo6AtHWgAAMxlx.jpg",
+        "width": 719
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1912406242485469185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goo7WF2WAAEYzG9.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912404775557038080",
+            "3_1912406242485469185"
+          ]
+        },
+        "author_id": "1884081131957395456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912407091140342222",
+        "created_at": "2025-04-16T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912407091140342222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "鄭重緊急宣佈"
+            },
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "轉推分享追蹤"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "雙北"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "台南約炮"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "台中約會"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "高雄"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "新竹東區"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "彰化"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGvUkyuPHm",
+              "end": 194,
+              "expanded_url": "https://x.com/Barbara43699173/status/1912407091140342222/photo/1",
+              "media_key": "3_1912404775557038080",
+              "start": 171,
+              "url": "https://t.co/wGvUkyuPHm"
+            },
+            {
+              "display_url": "pic.x.com/wGvUkyuPHm",
+              "end": 194,
+              "expanded_url": "https://x.com/Barbara43699173/status/1912407091140342222/photo/1",
+              "media_key": "3_1912406242485469185",
+              "start": 171,
+              "url": "https://t.co/wGvUkyuPHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912407091140342222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11205,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "#鄭重緊急宣佈            \n各縣市徵一名免費固砲        \n今天被宜蘭的阿北放鳥啦 心情超爛  \n只能吃哥好料 看看帥哥養養眼啦\n重新找個固炮  費用我們AA呀     \n私訊告訴我「縣市」我去找你呀     #轉推分享追蹤 #雙北 #台南約炮 #台中約會 #高雄 #新竹東區 #彰化     \n轉推 按愛心優先回復！！！ https://t.co/wGvUkyuPHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1277
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T03:28:59.000Z",
+        "description": "愛運動 愛生活    😳 \n喜歡追求刺激     💖\n不喜歡請勿打擾🐾",
+        "id": "1884081131957395456",
+        "location": "距離您0.6Km",
+        "name": "念念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910509281356767236/x3fsL0Tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "Barbara43699173",
+        "verified": false
+      }
+    ]
+  }
+}

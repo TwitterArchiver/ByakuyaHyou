@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2051797722987122991",
+    "created_at": "2026-05-06T07:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051931203113267505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1338838760763494401",
+          "start": 0,
+          "username": "KingPan29363187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051931203113267505",
+    "in_reply_to_user_id": "1338838760763494401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051797722987122991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KingPan29363187 加个QQ扩列嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051797720080449537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlzJ9BaAAEUOUP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2051797722987122991",
+        "created_at": "2026-05-06T07:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051931203113267505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1338838760763494401",
+              "start": 0,
+              "username": "KingPan29363187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051931203113267505",
+        "in_reply_to_user_id": "1338838760763494401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051797722987122991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KingPan29363187 加个QQ扩列嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051797720080449537"
+          ]
+        },
+        "author_id": "1338838760763494401",
+        "conversation_id": "2051797722987122991",
+        "created_at": "2026-05-05T22:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051797722987122991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOWnPNdwvf",
+              "end": 98,
+              "expanded_url": "https://x.com/KingPan29363187/status/2051797722987122991/photo/1",
+              "media_key": "3_2051797720080449537",
+              "start": 75,
+              "url": "https://t.co/FOWnPNdwvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051797722987122991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1397,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 头发乱糟糟的，70公斤左右拍的，找找前辈，虚心求教一下，现在是65.8公斤，也不知道底子怎样......求求了....(´･ω･`) https://t.co/FOWnPNdwvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 270,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1540
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T13:30:27.000Z",
+        "description": "",
+        "id": "1338838760763494401",
+        "name": "冷魅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879425444677660672/OX7bxmrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 72,
+          "like_count": 7634,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "KingPan29363187",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898067848058311123",
+    "created_at": "2025-03-07T17:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T18:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898067848058311123"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "文援"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "文爱"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "女S"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "榨精"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "足控"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "调教"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "羞辱"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "辱骂"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "绿帽"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "寸止"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "反差"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "上贡"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "贡奴"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "压榨"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "榨金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898067848058311123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898059822949654897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 好闻吗贱王八公狗老师♡～就这么喜欢人家臭脚的味道呀～那就跪在地上像条发情的贱王八公狗一样～好好给祖宗臭脚除臭哦♡～ #文援 #文爱 #女S #榨精 #足控 #调教 #羞辱 #辱骂 #绿帽 #寸止 #反差 #上贡 #贡奴 #压榨 #榨金…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898067848058311123].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898067848058311123",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898067848058311123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_1898059820055281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GldDWZjWQAArEI_.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898059820055281664"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1898059822949654897",
+        "created_at": "2025-03-07T17:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T18:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898059822949654897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "文援"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "文爱"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "女S"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "榨精"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "足控"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "调教"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "羞辱"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "辱骂"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "绿帽"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "寸止"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "反差"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "上贡"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "贡奴"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "压榨"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "榨金"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO5QGFMiC9",
+              "end": 147,
+              "expanded_url": "https://x.com/KendallRat17471/status/1898059822949654897/photo/1",
+              "media_key": "3_1898059820055281664",
+              "start": 124,
+              "url": "https://t.co/XO5QGFMiC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898059822949654897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好闻吗贱王八公狗老师♡～就这么喜欢人家臭脚的味道呀～那就跪在地上像条发情的贱王八公狗一样～好好给祖宗臭脚除臭哦♡～ #文援 #文爱 #女S #榨精 #足控 #调教 #羞辱 #辱骂 #绿帽 #寸止 #反差 #上贡 #贡奴 #压榨 #榨金 #ATM奴 https://t.co/XO5QGFMiC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 95,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 961
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是文援姬北北，擅长调教羞辱～角色扮演♡～门牌q2011343635～营业时间8点到凌晨2点~",
+        "id": "1735851723044839424",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1894215808089501906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1480,
+          "like_count": 45,
+          "listed_count": 9,
+          "media_count": 35,
+          "tweet_count": 579
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

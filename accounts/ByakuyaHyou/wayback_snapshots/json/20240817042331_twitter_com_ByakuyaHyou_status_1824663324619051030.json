@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824663324619051030",
+    "created_at": "2024-08-17T04:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T05:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824663324619051030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824663324619051030",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824655019419021438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: “有够废物的哦～告白失败后一个人躲在房间对着聊天记录自慰，还一边撸一边叫她名字～在隔壁我都听到哥哥你没用的声音了…♡”\n撸到一半被敲门声打断，胸前不小的奶肉随着双手背在身后上下乱颤，看着你背后扔满地的纸团和身上还未消散的腥臭，脸上带着莫名的笑意…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824663324619051030].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824663324619051030",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824663324619051030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824655012410298370"
+          ]
+        },
+        "author_id": "1719475394720485376",
+        "conversation_id": "1824655019419021438",
+        "created_at": "2024-08-17T03:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T04:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824655019419021438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxwlt7nggi",
+              "end": 169,
+              "expanded_url": "https://twitter.com/msxzqnjmk/status/1824655019419021438/photo/1",
+              "media_key": "3_1824655012410298370",
+              "start": 146,
+              "url": "https://t.co/gXWLt7nggi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824655019419021438",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“有够废物的哦～告白失败后一个人躲在房间对着聊天记录自慰，还一边撸一边叫她名字～在隔壁我都听到哥哥你没用的声音了…♡”\n撸到一半被敲门声打断，胸前不小的奶肉随着双手背在身后上下乱颤，看着你背后扔满地的纸团和身上还未消散的腥臭，脸上带着莫名的笑意\n\n“我说～一个人自慰很不舒服吧♡”\n\n#文爱 https://t.co/gXWLt7nggi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 28,
+          "like_count": 54,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或者随意就好了～♡\n喜欢并且擅长\\文爱\\写作✨目前还在练习如何制作恋活\n\n是一位知心/性大姐姐，偶尔撒娇偶尔卖萌，出没时间是在下午和晚上，如果和我讨论食物是怎么制作的我会很开心哦～♡\n\n客人请走这边：3970158322\n\n闲的没事做可以跟我聊天\n\n注:不涉三\\转推请私信，看到会回的",
+        "id": "1719475394720485376",
+        "location": "某不知名的小吃摊上",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1810240054037524640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823933809693483008/WVuKGr5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 60,
+          "like_count": 348,
+          "listed_count": 10,
+          "tweet_count": 884
+        },
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

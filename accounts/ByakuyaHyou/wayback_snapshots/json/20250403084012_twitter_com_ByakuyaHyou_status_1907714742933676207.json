@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907714742933676207",
+    "created_at": "2025-04-03T08:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T09:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907714742933676207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907714742933676207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907694872854933686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记第三季04\n为了打败风魔龙，被温迪忽悠去偷教堂地下室的天空之琴，然而荧妹刚来到地下室，就被守卫抓到了，而温迪早就逃之夭夭了\n\n芭芭拉一脸嫌弃的看着脚下的荧妹，居然会有人去偷那把破琴…真是不知道怎么想的…而且被踩一脚就喷了这么多…真…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907714742933676207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907714742933676207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907714742933676207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1907694869944168448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnl-YHbbcAAkZdr.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907694869944168448"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907694872854933686",
+        "created_at": "2025-04-03T07:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907694872854933686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文爱"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文媛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "百合"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "败北"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytoFkGLYKm",
+              "end": 170,
+              "expanded_url": "https://x.com/dnggu156261/status/1907694872854933686/photo/1",
+              "media_key": "3_1907694869944168448",
+              "start": 147,
+              "url": "https://t.co/ytoFkGLYKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907694872854933686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记第三季04\n为了打败风魔龙，被温迪忽悠去偷教堂地下室的天空之琴，然而荧妹刚来到地下室，就被守卫抓到了，而温迪早就逃之夭夭了\n\n芭芭拉一脸嫌弃的看着脚下的荧妹，居然会有人去偷那把破琴…真是不知道怎么想的…而且被踩一脚就喷了这么多…真是杂鱼…\n#文爱 #文媛 #百合 #败北 #剧情 https://t.co/ytoFkGLYKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 111,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1194
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 122,
+          "like_count": 5318,
+          "listed_count": 17,
+          "media_count": 82,
+          "tweet_count": 5521
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

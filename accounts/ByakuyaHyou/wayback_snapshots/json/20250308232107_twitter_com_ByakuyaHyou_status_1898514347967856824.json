@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898514347967856824",
+    "created_at": "2025-03-08T23:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T00:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898514347967856824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898514347967856824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898383588317450650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 母亲节你坐在公园长椅上准备给妈妈一个惊喜，没想到公厕正是你婊子妈和黑爹疯狂做爱的场所呢🖤\n雄臭和尿骚味只会让你烂逼妈妈更加无脑发情哦，已经被内射六次了全然没有在意你还在外面等💚\n黑爹主人揪着你喜欢的长发疯狂抽插噗嗤噗嗤，就像一个不停蠕动的鸡吧套子呢齁齁齁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898514347967856824].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898514347967856824",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898514347967856824"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1898383585905909760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glhp0DVaoAAnaHi.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898383585905909760"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1898383588317450650",
+        "created_at": "2025-03-08T14:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898383588317450650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "媚黑"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "母猪"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文爱"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "母亲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sErHi503R2",
+              "end": 168,
+              "expanded_url": "https://x.com/mrfzxi/status/1898383588317450650/photo/1",
+              "media_key": "3_1898383585905909760",
+              "start": 145,
+              "url": "https://t.co/sErHi503R2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898383588317450650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1053,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "母亲节你坐在公园长椅上准备给妈妈一个惊喜，没想到公厕正是你婊子妈和黑爹疯狂做爱的场所呢🖤\n雄臭和尿骚味只会让你烂逼妈妈更加无脑发情哦，已经被内射六次了全然没有在意你还在外面等💚\n黑爹主人揪着你喜欢的长发疯狂抽插噗嗤噗嗤，就像一个不停蠕动的鸡吧套子呢齁齁齁🖤\n#媚黑 #母猪 #文爱 #母亲 https://t.co/sErHi503R2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 96,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 979
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥pixiv上有自己的作品，可以看看哦♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 141,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 436
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

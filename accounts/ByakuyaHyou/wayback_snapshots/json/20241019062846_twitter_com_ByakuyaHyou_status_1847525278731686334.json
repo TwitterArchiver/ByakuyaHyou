@@ -1,0 +1,102 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1847525278731686334",
+    "created_at": "2024-10-19T06:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T07:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847525278731686334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "id": "1847525278731686334",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846625963758743569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 洗脑别人成为除臭足垫失败了\n只是上贡自毁社死挑战三选一而已，胆量和早泄肉虫一样小（叹气）\n刚有些S欲就被打断真的好不爽哦...\n想要被调教的公狗雌畜欢迎来找咱哦~限时免费~不过可说不准会不会被人家洗脑调教到自觉吐金哦♡\n人家的淫臭丝足和雌杀肉…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 87,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，外表是与雌性别无二致的男娘~实则隐藏着超厉害的肉根~♡狩猎活动暂时告一段落~由于入冬会陷入慵懒状态~或许是个捕获狐狸的好时机~？当然也请认清自己实力哦~⛩️2783735641 电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 133,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 110,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（慵懒の狐仙）",
+        "pinned_tweet_id": "1858489322183553121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864580762579894272/lKUrbYYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 2240,
+          "like_count": 11204,
+          "listed_count": 7,
+          "media_count": 637,
+          "tweet_count": 4968
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

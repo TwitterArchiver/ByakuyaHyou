@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1992395852321824968",
+    "created_at": "2025-11-24T01:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992763028656554168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1279561947743051778",
+          "start": 0,
+          "username": "spp200s0ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992763028656554168",
+    "in_reply_to_user_id": "1279561947743051778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992395852321824968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spp200s0ka 扩列贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992395657894903809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ZpS3DbQAE4S4a.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1992395852321824968",
+        "created_at": "2025-11-24T01:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992763028656554168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1279561947743051778",
+              "start": 0,
+              "username": "spp200s0ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992763028656554168",
+        "in_reply_to_user_id": "1279561947743051778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992395852321824968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spp200s0ka 扩列贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992395657894903809"
+          ]
+        },
+        "author_id": "1279561947743051778",
+        "conversation_id": "1992395852321824968",
+        "created_at": "2025-11-23T00:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992395852321824968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K40Uoq0vin",
+              "end": 47,
+              "expanded_url": "https://x.com/hzx9999/status/1992395852321824968/photo/1",
+              "media_key": "3_1992395657894903809",
+              "start": 24,
+              "url": "https://t.co/K40Uoq0vin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992395852321824968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 47161,
+          "like_count": 762,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "第一次女装好羞耻……\n但是以后会尝试新衣服的！ https://t.co/K40Uoq0vin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 208,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1514
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T23:45:22.000Z",
+        "description": "欢迎和我聊天交友喵\n不是经常上线所以私信可能会晚些回复喵",
+        "id": "1279561947743051778",
+        "location": "你心里",
+        "name": "小鱼喵",
+        "pinned_tweet_id": "1568612407760535552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992394928845156352/lT9Bcbqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 317,
+          "like_count": 1288,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "spp200s0ka",
+        "verified": false
+      }
+    ]
+  }
+}

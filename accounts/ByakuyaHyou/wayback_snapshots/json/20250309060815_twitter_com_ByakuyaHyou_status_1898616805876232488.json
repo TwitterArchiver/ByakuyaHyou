@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898616805876232488",
+    "created_at": "2025-03-09T06:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898616805876232488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898616805876232488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898557696884019224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 开玩笑的吧...？怎么会真有这种尺寸...简直就是犯规..为什么真的有肉棒能比人家小臂还粗大的..？\n嗅嗅..♡气味也..超浓郁..♡雄性荷尔蒙混杂着精臭和长时间不清洗而产生的骚臭味..光是闻闻脑袋就开始晕晕乎乎的了...♡就舔一口..应该.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898616805876232488].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898616805876232488",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898616805876232488"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_1898557688688349184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkIKKvbEAA4Ebh.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898557688688349184"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1898557696884019224",
+        "created_at": "2025-03-09T02:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T03:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898557696884019224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "文爱"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPiDMkBF90",
+              "end": 183,
+              "expanded_url": "https://x.com/shigongyuyue/status/1898557696884019224/photo/1",
+              "media_key": "3_1898557688688349184",
+              "start": 160,
+              "url": "https://t.co/LPiDMkBF90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898557696884019224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 712,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "开玩笑的吧...？怎么会真有这种尺寸...简直就是犯规..为什么真的有肉棒能比人家小臂还粗大的..？\n嗅嗅..♡气味也..超浓郁..♡雄性荷尔蒙混杂着精臭和长时间不清洗而产生的骚臭味..光是闻闻脑袋就开始晕晕乎乎的了...♡就舔一口..应该..没问题吧..♡\n呒啾...咕嘟♡呼嗯..噗嗞嗞♡超美味的♥\n#文爱 #文援 https://t.co/LPiDMkBF90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 97,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 983
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，外表是与雌性别无二致的男娘~实则隐藏着超厉害的肉根~♡欢迎来祭拜或者挑战人家哦~♡姐姐大人@CaFE_0721 ⛩️2783735641 （*168）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 119,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 96,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（？？の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 2417,
+          "like_count": 13194,
+          "listed_count": 18,
+          "media_count": 757,
+          "tweet_count": 6208
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

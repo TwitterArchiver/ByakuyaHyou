@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836768719084863724",
+    "created_at": "2024-09-19T14:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836768719084863724"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "男m"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "上贡"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "女s"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "榨金"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "压榨奴"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "阳痿"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "辱骂"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "羞辱"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "恋足"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "贱狗"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "贱货"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "舔脚"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640902506313031681",
+          "start": 3,
+          "username": "hufford_1941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836768719084863724",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836617000086573073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hufford_1941: 看到这个视频的短小废物傻逼贱狗 证明你有机会进来被我玩弄了 看到脚底灰了吗 贱狗 想舔吗 滚进来自己看看有没有机会舔到脚底啊 #男m  #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱  #恋足 #贱狗 #贱货 #舔脚 #洗脑 #at…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836768719084863724].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836768719084863724",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836768719084863724"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836616955941523457",
+            "3_1836616997871972352"
+          ]
+        },
+        "author_id": "1640902506313031681",
+        "conversation_id": "1836617000086573073",
+        "created_at": "2024-09-19T04:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836617000086573073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "男m"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "上贡"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "女s"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "榨金"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "阳痿"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "辱骂"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "羞辱"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "恋足"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "贱狗"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "贱货"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "舔脚"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "洗脑"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "atm奴"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "小额奴"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "报销奴"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "提款机"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "账单奴"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "任务指令"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn2wflwa12",
+              "end": 175,
+              "expanded_url": "https://twitter.com/hufford_1941/status/1836617000086573073/video/1",
+              "media_key": "7_1836616955941523457",
+              "start": 152,
+              "url": "https://t.co/TN2WfLwa12"
+            },
+            {
+              "display_url": "pic.x.com/tn2wflwa12",
+              "end": 175,
+              "expanded_url": "https://twitter.com/hufford_1941/status/1836617000086573073/video/1",
+              "media_key": "3_1836616997871972352",
+              "start": 152,
+              "url": "https://t.co/TN2WfLwa12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836617000086573073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4039,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个视频的短小废物傻逼贱狗 证明你有机会进来被我玩弄了 看到脚底灰了吗 贱狗 想舔吗 滚进来自己看看有没有机会舔到脚底啊 #男m  #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱  #恋足 #贱狗 #贱货 #舔脚 #洗脑 #atm奴  #小额奴 #报销奴 #提款机 #账单奴  #任务指令 https://t.co/TN2WfLwa12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 82,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 638
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T02:23:43.000Z",
+        "description": "有门槛 Q592025058\n专业玩弄各种无脑大傻逼",
+        "id": "1640902506313031681",
+        "location": "Boulder",
+        "name": "菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836613348819111937/ci7qBo_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "hufford_1941",
+        "verified": false
+      }
+    ]
+  }
+}

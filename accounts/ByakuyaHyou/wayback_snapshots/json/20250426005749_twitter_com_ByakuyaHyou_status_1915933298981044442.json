@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915807423820161024",
+        "3_1915807703643131904"
+      ],
+      "media_source_tweet_id": [
+        "1915807721229521068",
+        "1915807721229521068"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915933298981044442",
+    "created_at": "2025-04-26T00:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T01:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915933298981044442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786342060439805953",
+          "start": 3,
+          "username": "10m_Abao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjyffMysan",
+          "end": 103,
+          "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+          "media_key": "3_1915807423820161024",
+          "start": 80,
+          "url": "https://t.co/AjyffMysan"
+        },
+        {
+          "display_url": "pic.x.com/AjyffMysan",
+          "end": 103,
+          "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+          "media_key": "3_1915807703643131904",
+          "start": 80,
+          "url": "https://t.co/AjyffMysan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915933298981044442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915807721229521068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10m_Abao_: 求求大家来找我玩玩吧www大晚上好无聊~~哪怕只是聊聊天也可以，不花钱免费的，如果是要营业下单的话就按照价格表来1h/20就好了 https://t.co/AjyffMysan"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1915807423820161024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZQs5rbYAA-shv.jpg",
+        "width": 960
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1915807703643131904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZQ9MGbEAAnYss.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915807423820161024",
+            "3_1915807703643131904"
+          ],
+          "media_source_tweet_id": [
+            "1915807721229521068",
+            "1915807721229521068"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1915933298981044442",
+        "created_at": "2025-04-26T00:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915933298981044442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786342060439805953",
+              "start": 3,
+              "username": "10m_Abao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjyffMysan",
+              "end": 103,
+              "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+              "media_key": "3_1915807423820161024",
+              "start": 80,
+              "url": "https://t.co/AjyffMysan"
+            },
+            {
+              "display_url": "pic.x.com/AjyffMysan",
+              "end": 103,
+              "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+              "media_key": "3_1915807703643131904",
+              "start": 80,
+              "url": "https://t.co/AjyffMysan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915933298981044442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915807721229521068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10m_Abao_: 求求大家来找我玩玩吧www大晚上好无聊~~哪怕只是聊聊天也可以，不花钱免费的，如果是要营业下单的话就按照价格表来1h/20就好了 https://t.co/AjyffMysan"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915807423820161024",
+            "3_1915807703643131904"
+          ]
+        },
+        "author_id": "1786342060439805953",
+        "conversation_id": "1915807721229521068",
+        "created_at": "2025-04-25T16:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T17:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915807721229521068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjyffMysan",
+              "end": 88,
+              "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+              "media_key": "3_1915807423820161024",
+              "start": 65,
+              "url": "https://t.co/AjyffMysan"
+            },
+            {
+              "display_url": "pic.x.com/AjyffMysan",
+              "end": 88,
+              "expanded_url": "https://x.com/10m_Abao_/status/1915807721229521068/photo/1",
+              "media_key": "3_1915807703643131904",
+              "start": 65,
+              "url": "https://t.co/AjyffMysan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915807721229521068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求求大家来找我玩玩吧www大晚上好无聊~~哪怕只是聊聊天也可以，不花钱免费的，如果是要营业下单的话就按照价格表来1h/20就好了 https://t.co/AjyffMysan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 116,
+          "like_count": 1117,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1325
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T10:28:38.000Z",
+        "description": "互推，欢迎大家任何人来呀~qq+2115939019，有空可以陪伴聊天或者是文爱都可以❤️",
+        "id": "1786342060439805953",
+        "name": "眯娜酱（小文媛）",
+        "pinned_tweet_id": "1915800227837026812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899365520086102016/8LiSWZ0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "10m_Abao_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834557405260095602",
+    "created_at": "2024-09-13T11:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T12:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834557405260095602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817224813632765952",
+          "start": 3,
+          "username": "01theresa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834557405260095602",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834156228513255508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @01theresa: 驚喜⋯⋯！\n\n啊⋯看起來似乎做過頭了。凱爾希看起來狀況好像不太對，沒問題嗎博士？\n\n嗯⋯？需要我幫忙嗎。忍著點喔凱爾希\n\n噢噢噢！？💕💕💕咕啾咕啾💕\n兩具雌軀緊貼健碩雄性薄肌身體乳肉擠壓淡粉長髮和翠色髮絲交纏嬌嗔響徹空曠房間空間裡全是淫靡交媾的氣息…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834557405260095602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834557405260095602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834557405260095602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834156214118461440"
+          ]
+        },
+        "author_id": "1817224813632765952",
+        "conversation_id": "1834156228513255508",
+        "created_at": "2024-09-12T09:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T10:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834156228513255508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrhuuajt0v",
+              "end": 154,
+              "expanded_url": "https://twitter.com/01theresa/status/1834156228513255508/photo/1",
+              "media_key": "3_1834156214118461440",
+              "start": 131,
+              "url": "https://t.co/WRHUuajT0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834156228513255508",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驚喜⋯⋯！\n\n啊⋯看起來似乎做過頭了。凱爾希看起來狀況好像不太對，沒問題嗎博士？\n\n嗯⋯？需要我幫忙嗎。忍著點喔凱爾希\n\n噢噢噢！？💕💕💕咕啾咕啾💕\n兩具雌軀緊貼健碩雄性薄肌身體乳肉擠壓淡粉長髮和翠色髮絲交纏嬌嗔響徹空曠房間空間裡全是淫靡交媾的氣息💕\n\n#文援 https://t.co/WRHUuajT0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 81,
+          "like_count": 486,
+          "listed_count": 0,
+          "tweet_count": 590
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T15:45:41.000Z",
+        "description": "如您所見，是因為某種原因被迫站街的婊子母人魔王/業餘coser。價格50/h，門牌號780636565。涉三除非這邊主動不然一般來說禁止。最近在計畫拍新的片子，很需要錢。",
+        "id": "1817224813632765952",
+        "location": "巴别塔",
+        "name": "站街母婊痴女薩卡茲魔王特蕾西婭",
+        "pinned_tweet_id": "1817590015842803795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245149938012160/HGiozTcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 61,
+          "like_count": 68,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "01theresa",
+        "verified": false
+      }
+    ]
+  }
+}

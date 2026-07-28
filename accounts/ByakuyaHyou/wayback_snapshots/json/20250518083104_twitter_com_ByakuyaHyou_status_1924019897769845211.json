@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1924019897769845211",
+    "created_at": "2025-05-18T08:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T09:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924019897769845211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924019897769845211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923713415488602351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 下海再过四个月就满一年了！（奇怪纪念日）\n原先是觉得比标准价低一点好摸鱼（懒懒）实际上好像大家不在乎这点钱...？所以w 抬高一点ww！ （主要是上调到均价~）\n最近绿奴好多哦，可能因为都是ntr推推？\n目前能接的：温柔纯爱｜绿帽羞辱｜黑心榨金…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924019897769845211].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924019897769845211",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924019897769845211"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_1923713406290239488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJnJpeWIAA2_qo.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1923713411986186240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJnJ-sXYAALHIl.jpg",
+        "width": 1434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923713406290239488",
+            "3_1923713411986186240"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1923713415488602351",
+        "created_at": "2025-05-17T12:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923713415488602351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iss0kLmSiC",
+              "end": 173,
+              "expanded_url": "https://x.com/q3233788635/status/1923713415488602351/photo/1",
+              "media_key": "3_1923713406290239488",
+              "start": 150,
+              "url": "https://t.co/iss0kLmSiC"
+            },
+            {
+              "display_url": "pic.x.com/iss0kLmSiC",
+              "end": 173,
+              "expanded_url": "https://x.com/q3233788635/status/1923713415488602351/photo/1",
+              "media_key": "3_1923713411986186240",
+              "start": 150,
+              "url": "https://t.co/iss0kLmSiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923713415488602351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 980,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "下海再过四个月就满一年了！（奇怪纪念日）\n原先是觉得比标准价低一点好摸鱼（懒懒）实际上好像大家不在乎这点钱...？所以w 抬高一点ww！ （主要是上调到均价~）\n最近绿奴好多哦，可能因为都是ntr推推？\n目前能接的：温柔纯爱｜绿帽羞辱｜黑心榨金｜绿茶榨精｜四爱扶她｜m s调教｜无剧淫语。具体细谈！ https://t.co/iss0kLmSiC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1214,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1426
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 459,
+          "like_count": 3282,
+          "listed_count": 13,
+          "media_count": 81,
+          "tweet_count": 3463
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

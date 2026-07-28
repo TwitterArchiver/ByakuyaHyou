@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059792730776346624"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2059793052534005965",
+    "created_at": "2026-05-28T00:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:23:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059792751349403911",
+      "2059793052534005965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSQQ5XSOZW",
+          "end": 157,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2059793052534005965/photo/1",
+          "media_key": "3_2059792730776346624",
+          "start": 134,
+          "url": "https://t.co/vSQQ5XSOZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059793052534005965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 265,
+            "start": 262,
+            "tag": "文爱"
+          },
+          {
+            "end": 271,
+            "start": 266,
+            "tag": "普瑞赛斯"
+          },
+          {
+            "end": 277,
+            "start": 272,
+            "tag": "明日方舟"
+          },
+          {
+            "end": 281,
+            "start": 278,
+            "tag": "树洞"
+          },
+          {
+            "end": 285,
+            "start": 282,
+            "tag": "聊天"
+          },
+          {
+            "end": 289,
+            "start": 286,
+            "tag": "接单"
+          },
+          {
+            "end": 293,
+            "start": 290,
+            "tag": "倾听"
+          },
+          {
+            "end": 297,
+            "start": 294,
+            "tag": "温柔"
+          },
+          {
+            "end": 301,
+            "start": 298,
+            "tag": "知心"
+          },
+          {
+            "end": 307,
+            "start": 302,
+            "tag": "心理委员"
+          }
+        ]
+      },
+      "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙\n\n想要和我深入交流吗？\n\n我明白的。有时我们需要的不仅是安慰，更是某种被完全浸透的共鸣——像两颗行星共享大气层，像星云渗入每道缝隙的晕染。\n\n你可以只是来倾诉，也可以选择片刻的欢愉。无论哪种，我的核心法则不变：你的感受是唯一的圣律，你随时可以安全坠落。\n\n#文爱 #普瑞赛斯 #明日方舟 #树洞 #聊天 #接单 #倾听 #温柔 #知心 #心理委员"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙 https://t.co/vSQQ5XSOZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2059792730776346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXak0zbIAAnx5W.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059792730776346624"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2059792751349403911",
+        "created_at": "2026-05-28T00:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:23:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059792751349403911",
+          "2059793052534005965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tlja95aDwn",
+              "end": 157,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2059792751349403911/photo/1",
+              "media_key": "3_2059792730776346624",
+              "start": 134,
+              "url": "https://t.co/Tlja95aDwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059792751349403911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙\n\n想要和我深入交流吗？\n\n我明白的。有时我们需要的不仅是安慰，更是某种被完全浸透的共鸣——像两颗行星共享大气层，像星云渗入每道缝隙的晕染。\n\n你可以只是来倾诉，也可以选择片刻的欢愉。无论哪种，我的核心法则不变：你的感受是唯一的圣律，你随时可以安全坠落。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙 https://t.co/Tlja95aDwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059792730776346624"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2059793052534005965",
+        "created_at": "2026-05-28T00:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:23:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059792751349403911",
+          "2059793052534005965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSQQ5XSOZW",
+              "end": 157,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2059793052534005965/photo/1",
+              "media_key": "3_2059792730776346624",
+              "start": 134,
+              "url": "https://t.co/vSQQ5XSOZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059793052534005965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 265,
+                "start": 262,
+                "tag": "文爱"
+              },
+              {
+                "end": 271,
+                "start": 266,
+                "tag": "普瑞赛斯"
+              },
+              {
+                "end": 277,
+                "start": 272,
+                "tag": "明日方舟"
+              },
+              {
+                "end": 281,
+                "start": 278,
+                "tag": "树洞"
+              },
+              {
+                "end": 285,
+                "start": 282,
+                "tag": "聊天"
+              },
+              {
+                "end": 289,
+                "start": 286,
+                "tag": "接单"
+              },
+              {
+                "end": 293,
+                "start": 290,
+                "tag": "倾听"
+              },
+              {
+                "end": 297,
+                "start": 294,
+                "tag": "温柔"
+              },
+              {
+                "end": 301,
+                "start": 298,
+                "tag": "知心"
+              },
+              {
+                "end": 307,
+                "start": 302,
+                "tag": "心理委员"
+              }
+            ]
+          },
+          "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙\n\n想要和我深入交流吗？\n\n我明白的。有时我们需要的不仅是安慰，更是某种被完全浸透的共鸣——像两颗行星共享大气层，像星云渗入每道缝隙的晕染。\n\n你可以只是来倾诉，也可以选择片刻的欢愉。无论哪种，我的核心法则不变：你的感受是唯一的圣律，你随时可以安全坠落。\n\n#文爱 #普瑞赛斯 #明日方舟 #树洞 #聊天 #接单 #倾听 #温柔 #知心 #心理委员"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲爱的流浪星尘。\n\n这里是普瑞赛斯，你的宇宙树洞，也是你非理性的引力场。如果你在人间感到缺氧，欢迎降落在我的星域——你可以把一切的心事留在这里，我会用真空温柔包裹它们。\n\n除了倾听，我也开放限定的文i服务。如果你渴望更深的缠绕，在私密对话里构建只属于我们的失重宇宙 https://t.co/vSQQ5XSOZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 659,
+          "like_count": 1499,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1615
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      }
+    ]
+  }
+}

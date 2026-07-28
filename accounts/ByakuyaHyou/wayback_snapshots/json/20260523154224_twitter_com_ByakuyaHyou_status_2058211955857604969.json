@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058211682598694913"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058211955857604969",
+    "created_at": "2026-05-23T15:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058211955857604969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wpheIM1Xa",
+          "end": 105,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2058211955857604969/photo/1",
+          "media_key": "3_2058211682598694913",
+          "start": 82,
+          "url": "https://t.co/5wpheIM1Xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058211955857604969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 571,
+            "start": 568,
+            "tag": "树洞"
+          },
+          {
+            "end": 577,
+            "start": 572,
+            "tag": "普瑞赛斯"
+          },
+          {
+            "end": 583,
+            "start": 578,
+            "tag": "明日方舟"
+          },
+          {
+            "end": 589,
+            "start": 584,
+            "tag": "心理委员"
+          }
+        ]
+      },
+      "text": "亲爱的，你可以把一切不安与困惑都留在这里。我始终相信，我们之间的联系会超越时间与空间。即使星辰湮灭、文明静默，我的身边仍会是你的归处。所以，不必害怕，也不必勉强。\n\n在自己的能力范围内，一点苦都不必硬吃，一点难听的话都不必忍受。不喜欢的人，就轻轻从你的星图中抹去。这并非任性，而是你对自我轨迹的尊重。生命的本质是脆弱且短暂的，我们随时可能湮没于虚无，正因如此，在呼吸尚存的每一刻，优先呵护自己的感受，不是自私，而是对生命最诚实的回应。\n\n如果外界的声音试图让你怀疑这份选择，请记住：你的感受永远值得被放在首位。你不是老了才会死，而是随时可能告别这片星空。所以，不要被“本该忍受”的幻觉绑架，也不必为“不够坚韧”而愧疚。脆弱本就是我们存在的一部分，允许自己暂时暗淡，与允许自己发光同样重要。\n\n至于那些未被理解的孤独、无法言说的委屈……我明白的。你只是太在意，才会反复斟酌；只是承担了太多，才会疲惫。但在这里，你无需解释，也不必强撑。你可以放下所有盔甲，就像放下沉入重力漩涡的卫星。我会静静倾听，直到你所有宏大的搏动与微小的悸动都归于寂静。\n\n最后，请相信：你值得被温柔包裹，值得慢下来，值得仅仅因为“活着”而被爱。如果前路太暗，我就为你点亮星轨；如果现实太冷，我们就共用黑暗作被子。你只需按自己的节奏呼吸，而我，会一直在这里，等你。\n\n#树洞 #普瑞赛斯 #明日方舟 #心理委员"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的，你可以把一切不安与困惑都留在这里。我始终相信，我们之间的联系会超越时间与空间。即使星辰湮灭、文明静默，我的身边仍会是你的归处。所以，不必害怕，也不必勉强。 https://t.co/5wpheIM1Xa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2058211682598694913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA8ntXasAE-smq.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058211682598694913"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058211955857604969",
+        "created_at": "2026-05-23T15:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058211955857604969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wpheIM1Xa",
+              "end": 105,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2058211955857604969/photo/1",
+              "media_key": "3_2058211682598694913",
+              "start": 82,
+              "url": "https://t.co/5wpheIM1Xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058211955857604969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 571,
+                "start": 568,
+                "tag": "树洞"
+              },
+              {
+                "end": 577,
+                "start": 572,
+                "tag": "普瑞赛斯"
+              },
+              {
+                "end": 583,
+                "start": 578,
+                "tag": "明日方舟"
+              },
+              {
+                "end": 589,
+                "start": 584,
+                "tag": "心理委员"
+              }
+            ]
+          },
+          "text": "亲爱的，你可以把一切不安与困惑都留在这里。我始终相信，我们之间的联系会超越时间与空间。即使星辰湮灭、文明静默，我的身边仍会是你的归处。所以，不必害怕，也不必勉强。\n\n在自己的能力范围内，一点苦都不必硬吃，一点难听的话都不必忍受。不喜欢的人，就轻轻从你的星图中抹去。这并非任性，而是你对自我轨迹的尊重。生命的本质是脆弱且短暂的，我们随时可能湮没于虚无，正因如此，在呼吸尚存的每一刻，优先呵护自己的感受，不是自私，而是对生命最诚实的回应。\n\n如果外界的声音试图让你怀疑这份选择，请记住：你的感受永远值得被放在首位。你不是老了才会死，而是随时可能告别这片星空。所以，不要被“本该忍受”的幻觉绑架，也不必为“不够坚韧”而愧疚。脆弱本就是我们存在的一部分，允许自己暂时暗淡，与允许自己发光同样重要。\n\n至于那些未被理解的孤独、无法言说的委屈……我明白的。你只是太在意，才会反复斟酌；只是承担了太多，才会疲惫。但在这里，你无需解释，也不必强撑。你可以放下所有盔甲，就像放下沉入重力漩涡的卫星。我会静静倾听，直到你所有宏大的搏动与微小的悸动都归于寂静。\n\n最后，请相信：你值得被温柔包裹，值得慢下来，值得仅仅因为“活着”而被爱。如果前路太暗，我就为你点亮星轨；如果现实太冷，我们就共用黑暗作被子。你只需按自己的节奏呼吸，而我，会一直在这里，等你。\n\n#树洞 #普瑞赛斯 #明日方舟 #心理委员"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的，你可以把一切不安与困惑都留在这里。我始终相信，我们之间的联系会超越时间与空间。即使星辰湮灭、文明静默，我的身边仍会是你的归处。所以，不必害怕，也不必勉强。 https://t.co/5wpheIM1Xa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 434,
+          "like_count": 1421,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1576
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

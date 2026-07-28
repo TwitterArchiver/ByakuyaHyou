@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839324010364211602",
+    "created_at": "2024-09-26T15:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T16:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839324010364211602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839324010364211602",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839224864353431606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 渍渍渍~变态傻逼在教室偷看我的屁股被我抓到就直接跪下来求饶了吗🖤盯着看我的玉足呢🖤是个想被我羞辱踩在脚下的白痴弱智足控吧🖤那弱智就把整个狗脸都埋在脱下的鞋的热气玉足下意淫幻想着我的肥臀撸狗鸡巴吧🖤喜欢被玉足屁股压在下面羞辱发情的弱智白痴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839324010364211602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839324010364211602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839324010364211602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839224861245222912"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1839224864353431606",
+        "created_at": "2024-09-26T08:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T09:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839224864353431606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "文爱"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文援"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "剧情"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "女s"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0vy42hlah",
+              "end": 168,
+              "expanded_url": "https://twitter.com/kekejiangw44613/status/1839224864353431606/photo/1",
+              "media_key": "3_1839224861245222912",
+              "start": 145,
+              "url": "https://t.co/b0vy42hlah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839224864353431606",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 788,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "渍渍渍~变态傻逼在教室偷看我的屁股被我抓到就直接跪下来求饶了吗🖤盯着看我的玉足呢🖤是个想被我羞辱踩在脚下的白痴弱智足控吧🖤那弱智就把整个狗脸都埋在脱下的鞋的热气玉足下意淫幻想着我的肥臀撸狗鸡巴吧🖤喜欢被玉足屁股压在下面羞辱发情的弱智白痴公狗\n#文爱 #文援 #剧情 #女s #贡奴 #调教 https://t.co/b0vy42hlah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 85,
+          "like_count": 578,
+          "listed_count": 0,
+          "tweet_count": 714
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 门槛10r（有门槛 口嗨的真别加 真的很烦） ❤️新人文援 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔❤️（收长期atm奴 贡奴）",
+        "id": "1832618003478773760",
+        "location": "❤️",
+        "name": "可可酱（互推私）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 22,
+          "like_count": 42,
+          "listed_count": 1,
+          "tweet_count": 142
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

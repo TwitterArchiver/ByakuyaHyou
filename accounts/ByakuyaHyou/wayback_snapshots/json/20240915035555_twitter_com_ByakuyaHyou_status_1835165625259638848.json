@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835165625259638848",
+    "created_at": "2024-09-15T03:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T04:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835165625259638848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835165625259638848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835017371943420063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 这不是指挥官大人嘛，许久不见呢~问我们这身装扮什么回事?当然是去服务挚爱的主人啦~在主人脚下被踩着脑袋~不断的开发后庭和花心~♡诶，你问主人是?那当然是黑爹大人啦~比指挥官更大~味道更重~更暴力的蹂躏~这才是我们存活的意义呢~至于你的小豆…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835165625259638848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835165625259638848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835165625259638848"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835017357502431234"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1835017371943420063",
+        "created_at": "2024-09-14T18:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T19:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835017371943420063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文爱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "媚黑"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "婊子"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "NTR"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "恶堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9fh2ilaoq",
+              "end": 177,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1835017371943420063/photo/1",
+              "media_key": "3_1835017357502431234",
+              "start": 154,
+              "url": "https://t.co/o9Fh2ILaOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835017371943420063",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 382,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这不是指挥官大人嘛，许久不见呢~问我们这身装扮什么回事?当然是去服务挚爱的主人啦~在主人脚下被踩着脑袋~不断的开发后庭和花心~♡诶，你问主人是?那当然是黑爹大人啦~比指挥官更大~味道更重~更暴力的蹂躏~这才是我们存活的意义呢~至于你的小豆芽~就一辈子锁着吧~#文援 #文爱 #媚黑 #婊子 #NTR #恶堕 https://t.co/o9Fh2ILaOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 80,
+          "like_count": 491,
+          "listed_count": 0,
+          "tweet_count": 596
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 15,
+          "like_count": 9,
+          "listed_count": 4,
+          "tweet_count": 97
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

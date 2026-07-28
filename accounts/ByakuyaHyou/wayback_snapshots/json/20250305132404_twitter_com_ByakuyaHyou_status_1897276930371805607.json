@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896716131408457728"
+      ],
+      "media_source_tweet_id": [
+        "1896716139541287063"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897276930371805607",
+    "created_at": "2025-03-05T13:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897276930371805607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299287463630839810",
+          "start": 3,
+          "username": "tangxitiaddh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3wr84HRrd",
+          "end": 78,
+          "expanded_url": "https://x.com/tangxitiaddh/status/1896716139541287063/photo/1",
+          "media_key": "3_1896716131408457728",
+          "start": 55,
+          "url": "https://t.co/N3wr84HRrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897276930371805607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896716139541287063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangxitiaddh: 大哥哥～给你准备的早餐哦～快来吃吧～可以哦～都是你的～想做什么都可以哦～ https://t.co/N3wr84HRrd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897276930371805607].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897276930371805607",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897276930371805607"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_1896716131408457728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlJ9RbRasAAb09r.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896716131408457728"
+          ]
+        },
+        "author_id": "1299287463630839810",
+        "conversation_id": "1896716139541287063",
+        "created_at": "2025-03-04T00:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T01:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896716139541287063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3wr84HRrd",
+              "end": 60,
+              "expanded_url": "https://x.com/tangxitiaddh/status/1896716139541287063/photo/1",
+              "media_key": "3_1896716131408457728",
+              "start": 37,
+              "url": "https://t.co/N3wr84HRrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896716139541287063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥～给你准备的早餐哦～快来吃吧～可以哦～都是你的～想做什么都可以哦～ https://t.co/N3wr84HRrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 89,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 910
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T10:07:45.000Z",
+        "description": "门牌号3162467594    大家好，我叫唐希tia\n可以叫我希希～ 被魅魔猫猫选中的人类呀，要负责每天投喂浓稠的牛奶、小鱼干、粗大的火腿肠、摸摸头，还有...永远永远和咱玩「谁先脸红就要亲亲」的游戏\n另一个我 @tangxitiadxh\n瑟瑟的姐姐 @xingyuQAQ\n主人@Rindar_Guo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "tangxitiadxh"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "xingyuQAQ"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "Rindar_Guo"
+              }
+            ]
+          }
+        },
+        "id": "1299287463630839810",
+        "location": "可爱",
+        "name": "❥唐希tia✨（希希）✨喵娘✨小号互推",
+        "pinned_tweet_id": "1894913285792948610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599626087147130881/rTwSD75Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 411,
+          "like_count": 876,
+          "listed_count": 7,
+          "media_count": 92,
+          "tweet_count": 1071
+        },
+        "username": "tangxitiaddh",
+        "verified": false
+      }
+    ]
+  }
+}

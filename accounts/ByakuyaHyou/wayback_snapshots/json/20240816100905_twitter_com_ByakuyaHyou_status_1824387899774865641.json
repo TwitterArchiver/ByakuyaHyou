@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824387899774865641",
+    "created_at": "2024-08-16T10:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T11:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824387899774865641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299287463630839810",
+          "start": 3,
+          "username": "tangxitiaddh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824387899774865641",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824378088500928702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangxitiaddh: 经过希希长时间的、玩弄、调教、洗脑、已经是一条合格的狗狗了呢～眼睛看那里呢～狗狗不该看的位置不可以乱看哦～主人没有允许不可以硬呢～主人就是你的一切～一切都属于主人～应该是你记得最深刻的吧～乖狗狗～（拽绳子～）看着我～骚货！ https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824387899774865641].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824387899774865641",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824387899774865641"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824378077251784704"
+          ]
+        },
+        "author_id": "1299287463630839810",
+        "conversation_id": "1824378088500928702",
+        "created_at": "2024-08-16T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824378088500928702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omhtexctcy",
+              "end": 135,
+              "expanded_url": "https://twitter.com/tangxitiaddh/status/1824378088500928702/photo/1",
+              "media_key": "3_1824378077251784704",
+              "start": 112,
+              "url": "https://t.co/oMhTEXcTCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824378088500928702",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "经过希希长时间的、玩弄、调教、洗脑、已经是一条合格的狗狗了呢～眼睛看那里呢～狗狗不该看的位置不可以乱看哦～主人没有允许不可以硬呢～主人就是你的一切～一切都属于主人～应该是你记得最深刻的吧～乖狗狗～（拽绳子～）看着我～骚货！ https://t.co/oMhTEXcTCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1824093422547771604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 27,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 61
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T10:07:45.000Z",
+        "description": "门牌号3162467594    大家好，我叫唐希tia可以叫我希希w～，是伪娘文援，属性是switch，求打赏，不涉三，\n另一个我 @tangxitiadxh\n瑟瑟的姐姐 @xingyuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "tangxitiadxh"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "xingyuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1299287463630839810",
+        "location": "可爱",
+        "name": "❥唐希tia✨（希希）✨喵娘✨互推私信",
+        "pinned_tweet_id": "1813957896788758761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599626087147130881/rTwSD75Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 334,
+          "like_count": 569,
+          "listed_count": 3,
+          "tweet_count": 603
+        },
+        "username": "tangxitiaddh",
+        "verified": false
+      }
+    ]
+  }
+}

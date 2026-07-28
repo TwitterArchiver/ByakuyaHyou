@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835576946300002304"
+      ],
+      "media_source_tweet_id": [
+        "1835576958165643511"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835623836789977293",
+    "created_at": "2024-09-16T10:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T11:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835623836789977293"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "恋足"
+        },
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "人型提款机"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "网调"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "女s"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "羞辱"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "报销奴"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "绿帽奴"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "洗脑"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "贞操锁"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "榨金"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "爆耍"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832594604291727361",
+          "start": 3,
+          "username": "Lilith_080ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gd8pwe8er",
+          "end": 120,
+          "expanded_url": "https://twitter.com/Lilith_080ovo/status/1835576958165643511/photo/1",
+          "media_key": "3_1835576946300002304",
+          "start": 97,
+          "url": "https://t.co/6GD8PWe8Er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835623836789977293",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835576958165643511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lilith_080ovo: 龟头责负担好大 艹#ATM奴  #恋足 #人型提款机 #网调 #女s #羞辱 #女性崇拜 #女尊男卑 #报销奴 #绿帽奴 #洗脑 #贞操锁 #榨金 #爆耍 https://t.co/6GD8PWe8Er"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835623836789977293].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835623836789977293",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835623836789977293"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_1835576946300002304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXlHgeIboAAGpix.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835576946300002304"
+          ]
+        },
+        "author_id": "1832594604291727361",
+        "conversation_id": "1835576958165643511",
+        "created_at": "2024-09-16T07:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T08:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835576958165643511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "恋足"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "人型提款机"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "网调"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "女s"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "羞辱"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "报销奴"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "绿帽奴"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "洗脑"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "榨金"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "爆耍"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gd8pwe8er",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Lilith_080ovo/status/1835576958165643511/photo/1",
+              "media_key": "3_1835576946300002304",
+              "start": 78,
+              "url": "https://t.co/6GD8PWe8Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835576958165643511",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龟头责负担好大 艹#ATM奴  #恋足 #人型提款机 #网调 #女s #羞辱 #女性崇拜 #女尊男卑 #报销奴 #绿帽奴 #洗脑 #贞操锁 #榨金 #爆耍 https://t.co/6GD8PWe8Er"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 624
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T01:39:45.000Z",
+        "description": "送死门槛29冤种➕3846691361",
+        "id": "1832594604291727361",
+        "name": "莉莉🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835277452387680256/qGd2ycaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 22,
+          "listed_count": 1,
+          "tweet_count": 38
+        },
+        "username": "Lilith_080ovo",
+        "verified": false
+      }
+    ]
+  }
+}

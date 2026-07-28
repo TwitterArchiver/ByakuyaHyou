@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919791322564853761",
+        "3_1919791322564890625",
+        "3_1919791322241896448",
+        "3_1919791322493550592"
+      ],
+      "media_source_tweet_id": [
+        "1919791752153608338",
+        "1919791752153608338",
+        "1919791752153608338",
+        "1919791752153608338"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1921343227661000776",
+    "created_at": "2025-05-10T23:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T00:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921343227661000776"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "日常"
+        },
+        {
+          "end": 69,
+          "start": 61,
+          "tag": "奴隶少女希尔薇"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "希尔薇"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "游戏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1919058718433427456",
+          "start": 3,
+          "username": "angeltudolove2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IZo0piI5oJ",
+          "end": 102,
+          "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+          "media_key": "3_1919791322564853761",
+          "start": 79,
+          "url": "https://t.co/IZo0piI5oJ"
+        },
+        {
+          "display_url": "pic.x.com/IZo0piI5oJ",
+          "end": 102,
+          "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+          "media_key": "3_1919791322564890625",
+          "start": 79,
+          "url": "https://t.co/IZo0piI5oJ"
+        },
+        {
+          "display_url": "pic.x.com/IZo0piI5oJ",
+          "end": 102,
+          "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+          "media_key": "3_1919791322241896448",
+          "start": 79,
+          "url": "https://t.co/IZo0piI5oJ"
+        },
+        {
+          "display_url": "pic.x.com/IZo0piI5oJ",
+          "end": 102,
+          "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+          "media_key": "3_1919791322493550592",
+          "start": 79,
+          "url": "https://t.co/IZo0piI5oJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921343227661000776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919791752153608338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angeltudolove2: 嘿嘿，嘿嘿嘿，小希，我的小希~（流口水）舔一口，嘿嘿嘿，应该没人发现吧？\n#日常 #奴隶少女希尔薇 #希尔薇 #游戏 https://t.co/IZo0piI5oJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921343227661000776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921343227661000776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921343227661000776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1919791322564853761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR4CVBbAAE-T60.jpg",
+        "width": 769
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1919791322564890625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR4CVBbkAE64vi.jpg",
+        "width": 785
+      },
+      {
+        "height": 384,
+        "media_key": "3_1919791322241896448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR4CT0bEAAHOFF.jpg",
+        "width": 439
+      },
+      {
+        "height": 1059,
+        "media_key": "3_1919791322493550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR4CUwbAAA3qMo.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919791322564853761",
+            "3_1919791322564890625",
+            "3_1919791322241896448",
+            "3_1919791322493550592"
+          ]
+        },
+        "author_id": "1919058718433427456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919791752153608338",
+        "created_at": "2025-05-06T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919791752153608338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "日常"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "奴隶少女希尔薇"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "希尔薇"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "游戏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZo0piI5oJ",
+              "end": 82,
+              "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+              "media_key": "3_1919791322564853761",
+              "start": 59,
+              "url": "https://t.co/IZo0piI5oJ"
+            },
+            {
+              "display_url": "pic.x.com/IZo0piI5oJ",
+              "end": 82,
+              "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+              "media_key": "3_1919791322564890625",
+              "start": 59,
+              "url": "https://t.co/IZo0piI5oJ"
+            },
+            {
+              "display_url": "pic.x.com/IZo0piI5oJ",
+              "end": 82,
+              "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+              "media_key": "3_1919791322241896448",
+              "start": 59,
+              "url": "https://t.co/IZo0piI5oJ"
+            },
+            {
+              "display_url": "pic.x.com/IZo0piI5oJ",
+              "end": 82,
+              "expanded_url": "https://x.com/angeltudolove2/status/1919791752153608338/photo/1",
+              "media_key": "3_1919791322493550592",
+              "start": 59,
+              "url": "https://t.co/IZo0piI5oJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919791752153608338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，嘿嘿嘿，小希，我的小希~（流口水）舔一口，嘿嘿嘿，应该没人发现吧？\n#日常 #奴隶少女希尔薇 #希尔薇 #游戏 https://t.co/IZo0piI5oJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 119,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1402
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:57:17.000Z",
+        "description": "这里是小天使土豆，是一只可爱小文媛呢，还可以画像素小人！\n3499505433\n这个是QQ哦，亲爱的💋\n没有下限，也没有门槛，喜欢学习更加优美的词藻，更喜欢各种各样色情的事情~\n❤️喜欢请转发我的帖子！♥️",
+        "id": "1919058718433427456",
+        "name": "天使小土豆（互推）",
+        "pinned_tweet_id": "1921231463636197566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919059102166052864/jSaPyBax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 26,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 17
+        },
+        "username": "angeltudolove2",
+        "verified": false
+      }
+    ]
+  }
+}

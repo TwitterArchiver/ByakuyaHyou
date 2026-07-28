@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832809346100761023",
+    "created_at": "2024-09-08T15:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T16:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832809346100761023"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文爱"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832809346100761023",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832805866342654031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: 怎么，废物小鬼，一放学就跑到这来送屄了？书包里还带着避孕套？不过肏你这飞机杯根本不需要这种东西吧，不过是个鸡巴套子还不能内射嘛，傻屄小鬼，长着和同龄人完全不相符的肥臀巨乳就是想让主人把你当做飞机杯一样使用呢，你这天生的雌小鬼婊子母猪🖤\n#文爱 #剧情…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832809346100761023].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832809346100761023",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832809346100761023"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832805861863092224"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1832805866342654031",
+        "created_at": "2024-09-08T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832805866342654031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文爱"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "剧情"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhh009ywct",
+              "end": 153,
+              "expanded_url": "https://twitter.com/xhai5200/status/1832805866342654031/photo/1",
+              "media_key": "3_1832805861863092224",
+              "start": 130,
+              "url": "https://t.co/Lhh009yWCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832805866342654031",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么，废物小鬼，一放学就跑到这来送屄了？书包里还带着避孕套？不过肏你这飞机杯根本不需要这种东西吧，不过是个鸡巴套子还不能内射嘛，傻屄小鬼，长着和同龄人完全不相符的肥臀巨乳就是想让主人把你当做飞机杯一样使用呢，你这天生的雌小鬼婊子母猪🖤\n#文爱 #剧情 #文媛 https://t.co/Lhh009yWCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 80,
+          "like_count": 449,
+          "listed_count": 0,
+          "tweet_count": 539
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "新人黑心小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受小伊无情爆扣了呢♡~，通常晚上在哦～♡最喜欢的淫乱废物雌小鬼变态母猪肉棒套子姐姐@gululu521  电报https://t.co/TmPuXMG0vb，企鹅门牌3986205058",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "gululu521"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 125,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 102,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "距你5.20km",
+        "name": "小伊🖤（求互推）",
+        "pinned_tweet_id": "1828732952567857367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779352254929338368/zwGQnqzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 207,
+          "like_count": 443,
+          "listed_count": 4,
+          "tweet_count": 188
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

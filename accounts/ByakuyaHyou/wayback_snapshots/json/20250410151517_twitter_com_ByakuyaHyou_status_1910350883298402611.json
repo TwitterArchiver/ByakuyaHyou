@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909947019386605738",
+    "created_at": "2025-04-10T15:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T16:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910350883298402611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847296642254503937",
+          "start": 0,
+          "username": "qiang_jiang778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910350883298402611",
+    "in_reply_to_user_id": "1847296642254503937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909947019386605738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiang_jiang778 探头～抽奖绝缘体来拉低中奖率了喵～恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1909947013820801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoF-sJKbYAAYKhD.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1909947019386605738",
+        "created_at": "2025-04-10T15:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T16:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910350883298402611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847296642254503937",
+              "start": 0,
+              "username": "qiang_jiang778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910350883298402611",
+        "in_reply_to_user_id": "1847296642254503937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909947019386605738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiang_jiang778 探头～抽奖绝缘体来拉低中奖率了喵～恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909947013820801024"
+          ]
+        },
+        "author_id": "1847296642254503937",
+        "conversation_id": "1909947019386605738",
+        "created_at": "2025-04-09T12:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T13:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909947019386605738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文援"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "文援姬"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eocIXdIjQU",
+              "end": 167,
+              "expanded_url": "https://x.com/qiang_jiang778/status/1909947019386605738/photo/1",
+              "media_key": "3_1909947013820801024",
+              "start": 144,
+              "url": "https://t.co/eocIXdIjQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909947019386605738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "♡250粉开启的抽奖♡\n\n温暖的爱……究竟是什么呢？\n蜷缩在这一切虚幻之中，沉寂的去想。\n枪酱可以得到多少呢？\n数着，数着，感觉拿到了好多。\n仅此一次，回馈特别的爱。\n\n评论区留言，点赞并转发！即抽三人，奖品分别是——\n文爱1hx1\n文爱0.5hx2\n\n＃文援\n＃文援姬\n＃文爱\n#抽奖 https://t.co/eocIXdIjQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 114,
+          "like_count": 1059,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1240
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T15:20:25.000Z",
+        "description": "×被欲望吞噬，陷入沼泽×\n×假装不在意，忍不住表达欲望×\n\n初次见面，这里是枪酱。\n也许会在夜晚的时候和您相见，但请不要打扰我的白天。\n渴望，又或是其他什么，尽管的将是填满♡\n因为在这个夜晚下我是独属于您的。\n这双手，我最喜欢了。",
+        "id": "1847296642254503937",
+        "name": "–枪酱♡文援进行中–",
+        "pinned_tweet_id": "1896539431563297202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862512941628579840/ToAaFjSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 51,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 144
+        },
+        "username": "qiang_jiang778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759110246650351",
+    "created_at": "2024-10-03T08:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759110246650351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759110246650351",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841748317497393264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 非常感谢您能够读到这里呢~\n不过既然读到这个地方~就算故作矜持地说没有想要认输，投降，被控制，被腐蚀🏳️~人家也会当玩笑话对待喔🎵\n...\n被当做人偶一般恣意揉捏很舒服吧🖤\n有「不小心」击中您的想法嘛~哪怕有猜中一条也很好啦🎵\n先前推文…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1841759110246650351",
+        "created_at": "2024-10-03T08:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T09:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841759110246650351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1669288784939106304",
+              "start": 3,
+              "username": "wymng2643248919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841759110246650351",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841748317497393264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wymng2643248919: 非常感谢您能够读到这里呢~\n不过既然读到这个地方~就算故作矜持地说没有想要认输，投降，被控制，被腐蚀🏳️~人家也会当玩笑话对待喔🎵\n...\n被当做人偶一般恣意揉捏很舒服吧🖤\n有「不小心」击中您的想法嘛~哪怕有猜中一条也很好啦🎵\n先前推文…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669288784939106304",
+        "conversation_id": "1841748317497393264",
+        "created_at": "2024-10-03T07:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T08:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841748317497393264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841748317497393264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "非常感谢您能够读到这里呢~\n不过既然读到这个地方~就算故作矜持地说没有想要认输，投降，被控制，被腐蚀🏳️~人家也会当玩笑话对待喔🎵\n...\n被当做人偶一般恣意揉捏很舒服吧🖤\n有「不小心」击中您的想法嘛~哪怕有猜中一条也很好啦🎵\n先前推文的劝阻~其实都是凶恶洗脑的暗示喔，不知道您有没有发现~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 610,
+          "listed_count": 0,
+          "tweet_count": 761
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~属性是Switch喔❤️无论是作为主人羞辱洗脑🖤发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 而且是完全一对一接单绝对保证服务质量和态度的喔💗该来排精了喔💜目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "id": "1669288784939106304",
+        "name": "阿眠呐~",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 21,
+          "like_count": 155,
+          "listed_count": 7,
+          "tweet_count": 173
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

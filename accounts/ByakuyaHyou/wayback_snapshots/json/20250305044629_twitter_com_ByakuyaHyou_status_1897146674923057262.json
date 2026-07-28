@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897146674923057262",
+    "created_at": "2025-03-05T04:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T05:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897146674923057262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1317722221784272897",
+          "start": 3,
+          "username": "leilan_wy_jy"
+        },
+        {
+          "end": 42,
+          "id": "1572765868425383936",
+          "start": 30,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897146674923057262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896932686289371359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leilan_wy_jy: 称呼：千秋 依奈\n推特：@byakuyaHyou\n收费：35/30min,60/1h\n时间：晚上10点以后\n设定：根据客人喜好调整哦～可s可m～可以当软糯女友，也可以当雌小鬼妹妹～亦或是知心大姐姐等～不定时掉落音频，可以定制\n额外：特定时间可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1896932663371448320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNCNPsXQAAPGO6.png",
+        "width": 481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897146674923057262",
+        "created_at": "2025-03-05T04:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T05:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897146674923057262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1317722221784272897",
+              "start": 3,
+              "username": "leilan_wy_jy"
+            },
+            {
+              "end": 42,
+              "id": "1572765868425383936",
+              "start": 30,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897146674923057262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896932686289371359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leilan_wy_jy: 称呼：千秋 依奈\n推特：@byakuyaHyou\n收费：35/30min,60/1h\n时间：晚上10点以后\n设定：根据客人喜好调整哦～可s可m～可以当软糯女友，也可以当雌小鬼妹妹～亦或是知心大姐姐等～不定时掉落音频，可以定制\n额外：特定时间可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896932663371448320"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "1896932686289371359",
+        "created_at": "2025-03-04T14:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896932686289371359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1572765868425383936",
+              "start": 12,
+              "username": "ByakuyaHyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4GMmOz7qw",
+              "end": 173,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1896932686289371359/photo/1",
+              "media_key": "3_1896932663371448320",
+              "start": 150,
+              "url": "https://t.co/p4GMmOz7qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896932686289371359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "称呼：千秋 依奈\n推特：@byakuyaHyou\n收费：35/30min,60/1h\n时间：晚上10点以后\n设定：根据客人喜好调整哦～可s可m～可以当软糯女友，也可以当雌小鬼妹妹～亦或是知心大姐姐等～不定时掉落音频，可以定制\n额外：特定时间可以接语音，详细可以咨询~涉三只有语音～其他的不喜欢透露～ https://t.co/p4GMmOz7qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 88,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 902
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11657,
+          "following_count": 687,
+          "like_count": 184,
+          "listed_count": 33,
+          "media_count": 3550,
+          "tweet_count": 3963
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1851573877887099045",
+    "created_at": "2024-10-30T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851573877887099045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851573877887099045",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851252746860855625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 贱狗怎么不敢注视我，是被自己下贱到眼神躲避还是主人和男爹太高贵呢🖤\n看着主人亲吻着男爹，你那又短又小的鸡吧硬起来了呢，可是这种废物鸡吧怎么能和男爹相比，只配作为最下等的存在，成为主人黑丝脚下的泻欲玩具🖤\n在主人鄙夷的眼神下，被双脚夹住玩弄着los…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851573877887099045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851573877887099045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851573877887099045"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851252739722055680"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1851252746860855625",
+        "created_at": "2024-10-29T13:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T14:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851252746860855625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lbzmAMWFP",
+              "end": 157,
+              "expanded_url": "https://x.com/xxx1172303/status/1851252746860855625/photo/1",
+              "media_key": "3_1851252739722055680",
+              "start": 134,
+              "url": "https://t.co/7lbzmAMWFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851252746860855625",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2776,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "贱狗怎么不敢注视我，是被自己下贱到眼神躲避还是主人和男爹太高贵呢🖤\n看着主人亲吻着男爹，你那又短又小的鸡吧硬起来了呢，可是这种废物鸡吧怎么能和男爹相比，只配作为最下等的存在，成为主人黑丝脚下的泻欲玩具🖤\n在主人鄙夷的眼神下，被双脚夹住玩弄着loser的鸡吧颤抖丧志🖤 https://t.co/7lbzmAMWFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 88,
+          "like_count": 699,
+          "listed_count": 0,
+          "tweet_count": 882
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 65,
+          "like_count": 309,
+          "listed_count": 9,
+          "tweet_count": 691
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

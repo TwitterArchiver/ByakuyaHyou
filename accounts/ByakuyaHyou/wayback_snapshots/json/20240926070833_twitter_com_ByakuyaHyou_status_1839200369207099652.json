@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839200369207099652",
+    "created_at": "2024-09-26T07:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T08:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839200369207099652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756046755525951488",
+          "start": 3,
+          "username": "V47ii41914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839200369207099652",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839179960604569653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @V47ii41914: 嚯……还真是个可怜的家伙，为了掩护同伴自己却落入了淫荡的魔窟当中呢~不过现在你这副模样是兴奋呢还是痛苦呢？（身材高挑身材丰满的红发魔女用手轻垫着下巴看着手中捧着的调教书籍对一旁犹如一只准备进入烤箱中鸭子的男孩带着嘲笑和玩昧说道）（正文在第二张图，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839200369207099652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839200369207099652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839200369207099652"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839179905231187968",
+            "3_1839179946293407744"
+          ]
+        },
+        "author_id": "1756046755525951488",
+        "conversation_id": "1839179960604569653",
+        "created_at": "2024-09-26T05:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T06:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839179960604569653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1r9nbcv39",
+              "end": 165,
+              "expanded_url": "https://twitter.com/V47ii41914/status/1839179960604569653/photo/1",
+              "media_key": "3_1839179905231187968",
+              "start": 142,
+              "url": "https://t.co/G1r9nBcv39"
+            },
+            {
+              "display_url": "pic.x.com/g1r9nbcv39",
+              "end": 165,
+              "expanded_url": "https://twitter.com/V47ii41914/status/1839179960604569653/photo/1",
+              "media_key": "3_1839179946293407744",
+              "start": 142,
+              "url": "https://t.co/G1r9nBcv39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839179960604569653",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嚯……还真是个可怜的家伙，为了掩护同伴自己却落入了淫荡的魔窟当中呢~不过现在你这副模样是兴奋呢还是痛苦呢？（身材高挑身材丰满的红发魔女用手轻垫着下巴看着手中捧着的调教书籍对一旁犹如一只准备进入烤箱中鸭子的男孩带着嘲笑和玩昧说道）（正文在第二张图，想通过这样的方式避开字数限制）#文援 https://t.co/G1r9nBcv39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 85,
+          "like_count": 578,
+          "listed_count": 0,
+          "tweet_count": 713
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T20:06:02.000Z",
+        "description": "这里是全能沐沐是熟练精通s和m的双向文援姬哦~♥不仅是见到主人野爹大人们高贵肉屌就会瞬间发情丧志的傻屄母猪~♥也是会洗脑压榨公猪母畜的黑心亲妈不仅擅长寸止洗脑还会高潮剥夺哦~♥收费的话是早上9:00到晚上11:00为60h~11:00之后为65h~只要上交了金币沐沐就会满足一切需求哦❤️",
+        "id": "1756046755525951488",
+        "location": "门牌：3776319620（qq）营业时间：除了清晨和后半夜",
+        "name": "新人文援姬沐子",
+        "pinned_tweet_id": "1806378758074446251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806240438853976064/OdB23WBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 64,
+          "like_count": 0,
+          "listed_count": 2,
+          "tweet_count": 603
+        },
+        "username": "V47ii41914",
+        "verified": false
+      }
+    ]
+  }
+}

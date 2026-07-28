@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830950712441966832",
+    "created_at": "2024-09-03T12:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T13:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830950712441966832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830950712441966832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830937338639524280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: 小伊今日的特别服务～ ，（用穿了很久的臭袜子擦了擦手，手指弓起来插入母畜嘴里沾上口水 随后翻开阴唇插入敏感的阴蒂不断挑逗着淫荡出水的废物雌肉内逼，手指不断深入扣动刺激着小腹内的“大脑”）傻屄母猪，才刚刚插进去就高潮了？逼水都倒流进脑子里的吧\n凭借此推…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830950712441966832].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830950712441966832",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830950712441966832"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830937328422105088"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1830937338639524280",
+        "created_at": "2024-09-03T11:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T12:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830937338639524280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wswdb5ueop",
+              "end": 166,
+              "expanded_url": "https://twitter.com/xhai5200/status/1830937338639524280/photo/1",
+              "media_key": "3_1830937328422105088",
+              "start": 143,
+              "url": "https://t.co/wsWdB5uEoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830937338639524280",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小伊今日的特别服务～ ，（用穿了很久的臭袜子擦了擦手，手指弓起来插入母畜嘴里沾上口水 随后翻开阴唇插入敏感的阴蒂不断挑逗着淫荡出水的废物雌肉内逼，手指不断深入扣动刺激着小腹内的“大脑”）傻屄母猪，才刚刚插进去就高潮了？逼水都倒流进脑子里的吧\n凭借此推可免费享受小伊十分钟爆扣～\n#文爱 https://t.co/wsWdB5uEoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 84,
+          "like_count": 412,
+          "listed_count": 0,
+          "tweet_count": 476
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "新人黑心小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受小伊无情爆扣了呢♡~，通常晚上在哦～♡最喜欢的淫乱废物雌小鬼变态母猪肉棒套子姐姐@gululu521  电报https://t.co/TmPuXMG0vb，企鹅门牌3986205058",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "gululu521"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 125,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 102,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "距你5.20km",
+        "name": "小伊🖤（求互推）",
+        "pinned_tweet_id": "1828732952567857367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779352254929338368/zwGQnqzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 192,
+          "like_count": 411,
+          "listed_count": 2,
+          "tweet_count": 153
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

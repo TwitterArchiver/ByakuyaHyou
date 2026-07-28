@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911607915582197924",
+    "created_at": "2025-04-14T02:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T03:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911607915582197924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911607915582197924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911531092017897892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 怎么光是看着祖宗侍奉男爹的样子～狗鸡巴就不争气的开始顶锁了啊？～💚没用的阳痿贱王八公狗老公💚～又开始意淫祖宗被男爹玩弄的模样了吧～傻逼💚tui～祖宗用口水给你润润屌💚你个没脑子的贱王八公狗就滚到祖宗面前无脑晃锁～💚张大狗嘴接着祖宗的淫水…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911607915582197924].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911607915582197924",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911607915582197924"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_1911531088758878208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocfZcKWsAA31vf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911531088758878208"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1911531092017897892",
+        "created_at": "2025-04-13T21:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T22:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911531092017897892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文援"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "绿帽"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "ntr"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMkHtF1WZc",
+              "end": 162,
+              "expanded_url": "https://x.com/KendallRat17471/status/1911531092017897892/photo/1",
+              "media_key": "3_1911531088758878208",
+              "start": 139,
+              "url": "https://t.co/PMkHtF1WZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911531092017897892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1042,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "怎么光是看着祖宗侍奉男爹的样子～狗鸡巴就不争气的开始顶锁了啊？～💚没用的阳痿贱王八公狗老公💚～又开始意淫祖宗被男爹玩弄的模样了吧～傻逼💚tui～祖宗用口水给你润润屌💚你个没脑子的贱王八公狗就滚到祖宗面前无脑晃锁～💚张大狗嘴接着祖宗的淫水吧～💚 #文援 #绿帽 #ntr #羞辱 https://t.co/PMkHtF1WZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 113,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1258
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212～营业时间8点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1904213441641943166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1756,
+          "like_count": 17,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 890
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

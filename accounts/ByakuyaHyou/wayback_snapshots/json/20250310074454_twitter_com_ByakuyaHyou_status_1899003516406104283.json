@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899003516406104283",
+    "created_at": "2025-03-10T07:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T08:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899003516406104283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899003516406104283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898905358464332090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 哎呀，小弟弟，你跟得这么紧，是不是已经被姐姐这骚浪的屁股迷住了呀♥\n不如就跟着姐姐，放纵一把，把你心里那点肮脏的小想法都掏出来，嗯♥\n来嘛，跟姐姐说说，你是不是想伸手摸一把，感受一下这肥美臀部的弹性♥\n还是说……你有更下流的想法？别害羞，这里没人会怪你~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899003516406104283].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899003516406104283",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899003516406104283"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1898905354551128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpEW_AbcAAkVUu.jpg",
+        "width": 832
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1898905355171868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpEXBUbMAAXxSs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1898905354945298433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpEXAeaAAEfKOJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898905354551128064",
+            "3_1898905355171868672",
+            "3_1898905354945298433"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1898905358464332090",
+        "created_at": "2025-03-10T01:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T02:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898905358464332090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "母猪"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "肥臀"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkychlAMFN",
+              "end": 169,
+              "expanded_url": "https://x.com/mrfzxi/status/1898905358464332090/photo/1",
+              "media_key": "3_1898905354551128064",
+              "start": 146,
+              "url": "https://t.co/bkychlAMFN"
+            },
+            {
+              "display_url": "pic.x.com/bkychlAMFN",
+              "end": 169,
+              "expanded_url": "https://x.com/mrfzxi/status/1898905358464332090/photo/1",
+              "media_key": "3_1898905355171868672",
+              "start": 146,
+              "url": "https://t.co/bkychlAMFN"
+            },
+            {
+              "display_url": "pic.x.com/bkychlAMFN",
+              "end": 169,
+              "expanded_url": "https://x.com/mrfzxi/status/1898905358464332090/photo/1",
+              "media_key": "3_1898905354945298433",
+              "start": 146,
+              "url": "https://t.co/bkychlAMFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898905358464332090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1498,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀，小弟弟，你跟得这么紧，是不是已经被姐姐这骚浪的屁股迷住了呀♥\n不如就跟着姐姐，放纵一把，把你心里那点肮脏的小想法都掏出来，嗯♥\n来嘛，跟姐姐说说，你是不是想伸手摸一把，感受一下这肥美臀部的弹性♥\n还是说……你有更下流的想法？别害羞，这里没人会怪你~❤️\n#文爱 #母猪 #肥臀 #调教 https://t.co/bkychlAMFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 96,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 994
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥pixiv上有自己的作品，可以看看哦♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 145,
+          "like_count": 226,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 470
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

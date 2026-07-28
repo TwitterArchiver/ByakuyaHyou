@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050735921847484416",
+        "3_2050735922921230336"
+      ],
+      "media_source_tweet_id": [
+        "2050735932836638910",
+        "2050735932836638910"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2050737057551782068",
+    "created_at": "2026-05-03T00:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T01:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050737057551782068"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "伪娘"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "捆绑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667423069076348928",
+          "start": 3,
+          "username": "Kan_AyaneZero"
+        },
+        {
+          "end": 103,
+          "id": "1883110864632573952",
+          "start": 89,
+          "username": "luo_shui94738"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vsw8m88v3N",
+          "end": 127,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+          "media_key": "3_2050735921847484416",
+          "start": 104,
+          "url": "https://t.co/Vsw8m88v3N"
+        },
+        {
+          "display_url": "pic.x.com/Vsw8m88v3N",
+          "end": 127,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+          "media_key": "3_2050735922921230336",
+          "start": 104,
+          "url": "https://t.co/Vsw8m88v3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050737057551782068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050735932836638910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子 #捆绑\n久违的玩了一下绳子，还拍了两张很满意的照片😋，我有预感这条帖子能火，大家帮忙多点点赞❤️（\n绳师😘：@luo_shui94738 https://t.co/Vsw8m88v3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050735921847484416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWtdKXaQAAhnME.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050735922921230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWtdOXaUAAgSsY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050735921847484416",
+            "3_2050735922921230336"
+          ],
+          "media_source_tweet_id": [
+            "2050735932836638910",
+            "2050735932836638910"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2050737057551782068",
+        "created_at": "2026-05-03T00:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050737057551782068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "捆绑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667423069076348928",
+              "start": 3,
+              "username": "Kan_AyaneZero"
+            },
+            {
+              "end": 103,
+              "id": "1883110864632573952",
+              "start": 89,
+              "username": "luo_shui94738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vsw8m88v3N",
+              "end": 127,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+              "media_key": "3_2050735921847484416",
+              "start": 104,
+              "url": "https://t.co/Vsw8m88v3N"
+            },
+            {
+              "display_url": "pic.x.com/Vsw8m88v3N",
+              "end": 127,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+              "media_key": "3_2050735922921230336",
+              "start": 104,
+              "url": "https://t.co/Vsw8m88v3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050737057551782068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050735932836638910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子 #捆绑\n久违的玩了一下绳子，还拍了两张很满意的照片😋，我有预感这条帖子能火，大家帮忙多点点赞❤️（\n绳师😘：@luo_shui94738 https://t.co/Vsw8m88v3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050735921847484416",
+            "3_2050735922921230336"
+          ]
+        },
+        "author_id": "1667423069076348928",
+        "conversation_id": "2050735932836638910",
+        "created_at": "2026-05-03T00:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050735932836638910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "捆绑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1883110864632573952",
+              "start": 70,
+              "username": "luo_shui94738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vsw8m88v3N",
+              "end": 108,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+              "media_key": "3_2050735921847484416",
+              "start": 85,
+              "url": "https://t.co/Vsw8m88v3N"
+            },
+            {
+              "display_url": "pic.x.com/Vsw8m88v3N",
+              "end": 108,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050735932836638910/photo/1",
+              "media_key": "3_2050735922921230336",
+              "start": 85,
+              "url": "https://t.co/Vsw8m88v3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050735932836638910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #可爱的男孩子 #捆绑\n久违的玩了一下绳子，还拍了两张很满意的照片😋，我有预感这条帖子能火，大家帮忙多点点赞❤️（\n绳师😘：@luo_shui94738 https://t.co/Vsw8m88v3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 267,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1538
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│成分复杂│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)\n│好哥哥：@ByakuyaHyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 350,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T11:13:40.000Z",
+        "description": "bilibili不知名男娘up，爱好sm绳艺   本人  小受 怕痒体质 ts，期待与大佬互动，",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/504731040?spm_…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/504731040?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/JwArAEtHoZ"
+              }
+            ]
+          }
+        },
+        "id": "1883110864632573952",
+        "name": "上依洛水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037413947255713792/5LHKApo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 49,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/JwArAEtHoZ",
+        "username": "luo_shui94738",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1918524396488278154",
+    "created_at": "2025-05-03T04:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T05:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918524396488278154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "贡畜"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "贡奴"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "报销奴"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "无脑恶堕"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "无脑上供"
+        },
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "无脑丧志"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "雌堕母狗"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "母猪"
+        },
+        {
+          "end": 114,
+          "start": 109,
+          "tag": "母狗公厕"
+        },
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "貢ぎマゾ"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "貢ぎ奴隷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918524396488278154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918180085716389980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 平时工作和生活要做的抉择和思考已经够多了♡\n闲暇时就清空脑子🖤，彻底放松♡\n听从月月大人指令吧♡ #贡畜 #贡奴 #ATM奴 #报销奴 #无脑恶堕 #无脑上供 #无脑丧志 #雌堕母狗 #母猪 #母狗公厕 #貢ぎマゾ #貢ぎ奴隷 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918180075704598533",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp6-nauawAUl9La.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1918524396488278154",
+        "created_at": "2025-05-03T04:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T05:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918524396488278154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "贡畜"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "贡奴"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "报销奴"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "无脑恶堕"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "无脑丧志"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "雌堕母狗"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "母猪"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "母狗公厕"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "貢ぎ奴隷"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842135432953278464",
+              "start": 3,
+              "username": "yues666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918524396488278154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918180085716389980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yues666: 平时工作和生活要做的抉择和思考已经够多了♡\n闲暇时就清空脑子🖤，彻底放松♡\n听从月月大人指令吧♡ #贡畜 #贡奴 #ATM奴 #报销奴 #无脑恶堕 #无脑上供 #无脑丧志 #雌堕母狗 #母猪 #母狗公厕 #貢ぎマゾ #貢ぎ奴隷 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918180075704598533"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1918180085716389980",
+        "created_at": "2025-05-02T05:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918180085716389980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "贡畜"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "贡奴"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "报销奴"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "无脑恶堕"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "无脑丧志"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "雌堕母狗"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "母猪"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "母狗公厕"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "貢ぎ奴隷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFzo8BIvU5",
+              "end": 137,
+              "expanded_url": "https://x.com/yues666/status/1918180085716389980/photo/1",
+              "media_key": "3_1918180075704598533",
+              "start": 114,
+              "url": "https://t.co/LFzo8BIvU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918180085716389980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "平时工作和生活要做的抉择和思考已经够多了♡\n闲暇时就清空脑子🖤，彻底放松♡\n听从月月大人指令吧♡ #贡畜 #贡奴 #ATM奴 #报销奴 #无脑恶堕 #无脑上供 #无脑丧志 #雌堕母狗 #母猪 #母狗公厕 #貢ぎマゾ #貢ぎ奴隷 https://t.co/LFzo8BIvU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 117,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1367
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！内容皆原创，君权神授，而教皇也不过是神的崇拜者，圣女只是能与神对话的神的奴隶，唯拥有斩龙弑神魔法的强大妖精及精灵可以与神对抗。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 132,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 109,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 13,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 207
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

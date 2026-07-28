@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922936695474827771",
+    "created_at": "2025-05-15T08:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T09:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922936695474827771"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "文媛"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "伪娘"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "女上"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922936695474827771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922862654890144017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「这就是… 伪娘的下场呢…♡」\n\n紫灵骑在面前的小伪娘的胯下，私处牢牢夹紧了强制勃起的肉棒♡\n感受着小伪娘颤抖的肉棒在穴里的快感，为了更多快感而加快扭动腰肢，少女的紧致小穴让面前被强暴的可爱男生受不了地吐着小舌求饶~♡\n#文媛 #伪娘 #女上…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922936695474827771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922936695474827771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922936695474827771"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1922862644891181056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq9hY0SbYAARvgL.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922862644891181056"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1922862654890144017",
+        "created_at": "2025-05-15T03:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922862654890144017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "文媛"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "伪娘"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "女上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kroGKjzlWP",
+              "end": 145,
+              "expanded_url": "https://x.com/ZiYing12494/status/1922862654890144017/photo/1",
+              "media_key": "3_1922862644891181056",
+              "start": 122,
+              "url": "https://t.co/kroGKjzlWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922862654890144017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 356,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "「这就是… 伪娘的下场呢…♡」\n\n紫灵骑在面前的小伪娘的胯下，私处牢牢夹紧了强制勃起的肉棒♡\n感受着小伪娘颤抖的肉棒在穴里的快感，为了更多快感而加快扭动腰肢，少女的紧致小穴让面前被强暴的可爱男生受不了地吐着小舌求饶~♡\n#文媛 #伪娘 #女上 https://t.co/kroGKjzlWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1208,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1416
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920402999135842304/V3oEe_0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 73,
+          "like_count": 741,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 458
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

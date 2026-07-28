@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834557274108658149",
+    "created_at": "2024-09-13T11:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T12:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834557274108658149"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "榨金"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "吐钱"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "女S"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "金钱压榨"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "绿奴"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "吸金"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "原味"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "账单奴"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "报销奴"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "贡奴"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "贡畜"
+        },
+        {
+          "end": 130,
+          "start": 124,
+          "tag": "傻逼提款机"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "锁奴"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "无脑贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1696073704893992960",
+          "start": 3,
+          "username": "whxusnaoxkana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834557274108658149",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834552297931903085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whxusnaoxkana: 小骚狗，看到亲妈的高跟鞋还不滚来上供？花钱迎接你亲妈骂你，下贱贡畜只能对着祖宗的黄金打钱\n#ATM奴 #榨金 #吐钱 ＃女S #女性崇拜 ＃金钱压榨 #绿奴 #吸金 ＃原味 #账单奴 #报销奴 #贡奴 #贡畜 #傻逼提款机 ＃锁奴 ＃无脑贡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834557274108658149].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834557274108658149",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834557274108658149"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834552229094907904"
+          ]
+        },
+        "author_id": "1696073704893992960",
+        "conversation_id": "1834552297931903085",
+        "created_at": "2024-09-13T11:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T12:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834552297931903085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "榨金"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "吐钱"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "女S"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "金钱压榨"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "绿奴"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "吸金"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "原味"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "账单奴"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "报销奴"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "贡奴"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "贡畜"
+            },
+            {
+              "end": 111,
+              "start": 105,
+              "tag": "傻逼提款机"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "锁奴"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "无脑贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nb4h1zdvuf",
+              "end": 144,
+              "expanded_url": "https://twitter.com/whxusnaoxkana/status/1834552297931903085/video/1",
+              "media_key": "7_1834552229094907904",
+              "start": 121,
+              "url": "https://t.co/nB4H1zdVuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834552297931903085",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "小骚狗，看到亲妈的高跟鞋还不滚来上供？花钱迎接你亲妈骂你，下贱贡畜只能对着祖宗的黄金打钱\n#ATM奴 #榨金 #吐钱 ＃女S #女性崇拜 ＃金钱压榨 #绿奴 #吸金 ＃原味 #账单奴 #报销奴 #贡奴 #贡畜 #傻逼提款机 ＃锁奴 ＃无脑贡 https://t.co/nB4H1zdVuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 81,
+          "like_count": 485,
+          "listed_count": 0,
+          "tweet_count": 588
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T08:14:27.000Z",
+        "description": "Q:3282683164，私人v永久🚪：66，小祖宗亲妈收🏧忠诚贱狗，什么极品傻逼狗都收，就喜欢无脑傻逼，玩压榨、胁迫、控制、榨精、早泄训练、绿帽、死妈、锁奴、胁迫等，可定制，大胆问 ，白嫖滚",
+        "id": "1696073704893992960",
+        "location": "你的狗头上",
+        "name": "娜可（互推）出原味",
+        "pinned_tweet_id": "1721599438660292774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831564908586209281/SWyPDiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 6,
+          "like_count": 61,
+          "listed_count": 18,
+          "tweet_count": 490
+        },
+        "username": "whxusnaoxkana",
+        "verified": false
+      }
+    ]
+  }
+}

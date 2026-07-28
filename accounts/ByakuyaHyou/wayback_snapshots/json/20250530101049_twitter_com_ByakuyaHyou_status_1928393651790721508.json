@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928393651790721508",
+    "created_at": "2025-05-30T10:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928393651790721508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928393651790721508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928344085787546031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 光是看着祖宗用手撸动男爹粗大肥壮的黑臭鸡巴～💚傻逼绿奴公狗就已经把自己带入了呢～💚可惜早泄阳痿狗鞭也只配锁死咯～💚只能卑微的搓着狗卵～跪在祖宗旁边犯贱意淫~💚实在忍不住的话～就自觉像条发情公狗一样爬过来舔祖宗精臭丝袜脚哦～傻逼绿毛龟💚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928393651790721508].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928393651790721508",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928393651790721508"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1928344083262754816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLauheaUAAH0t6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928344083262754816"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1928344085787546031",
+        "created_at": "2025-05-30T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928344085787546031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文援"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "绿帽"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "ntr"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7HgzmpJyd",
+              "end": 158,
+              "expanded_url": "https://x.com/KendallRat17471/status/1928344085787546031/photo/1",
+              "media_key": "3_1928344083262754816",
+              "start": 135,
+              "url": "https://t.co/g7HgzmpJyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928344085787546031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1167,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "光是看着祖宗用手撸动男爹粗大肥壮的黑臭鸡巴～💚傻逼绿奴公狗就已经把自己带入了呢～💚可惜早泄阳痿狗鞭也只配锁死咯～💚只能卑微的搓着狗卵～跪在祖宗旁边犯贱意淫~💚实在忍不住的话～就自觉像条发情公狗一样爬过来舔祖宗精臭丝袜脚哦～傻逼绿毛龟💚 #文援 #绿帽 #ntr #羞辱 https://t.co/g7HgzmpJyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 119,
+          "like_count": 1247,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1451
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212，营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 1993,
+          "like_count": 18,
+          "listed_count": 12,
+          "media_count": 61,
+          "tweet_count": 1692
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

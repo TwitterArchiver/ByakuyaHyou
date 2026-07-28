@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830225195568947542",
+    "created_at": "2024-09-01T12:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T13:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830225195568947542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821147834844114944",
+          "start": 3,
+          "username": "xiaoxiao804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830225195568947542",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830212786095550916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiaoxiao804: 绿帽贱狗根本不配看主人被别人肏呢，只配狗脸上套着主人内裤幻想哦💚主人被比你大几倍的肉棒抽插着～露出你从未见过的色气的表情，发出淫荡的娇喘💚小贱狗的肉棒真是贱的不行啊，被绿还硬成这样～这种被羞辱的感觉就让你这么爽吗💚听着主人被抽插的节奏～跪在门外…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830225195568947542].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830225195568947542",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830225195568947542"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830212778780471296"
+          ]
+        },
+        "author_id": "1821147834844114944",
+        "conversation_id": "1830212786095550916",
+        "created_at": "2024-09-01T11:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T12:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830212786095550916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxl2n1hazd",
+              "end": 163,
+              "expanded_url": "https://twitter.com/xiaoxiao804/status/1830212786095550916/photo/1",
+              "media_key": "3_1830212778780471296",
+              "start": 140,
+              "url": "https://t.co/GxL2N1HazD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830212786095550916",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "绿帽贱狗根本不配看主人被别人肏呢，只配狗脸上套着主人内裤幻想哦💚主人被比你大几倍的肉棒抽插着～露出你从未见过的色气的表情，发出淫荡的娇喘💚小贱狗的肉棒真是贱的不行啊，被绿还硬成这样～这种被羞辱的感觉就让你这么爽吗💚听着主人被抽插的节奏～跪在门外自己一边幻想一边撸动早泄小肉棒吧💚 https://t.co/GxL2N1HazD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 85,
+          "like_count": 402,
+          "listed_count": 0,
+          "tweet_count": 461
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:34:24.000Z",
+        "description": "SM情侣主🖤 接文援、网调🖤收狗狗、锁奴、绿帽奴、足奴🖤🐧3996867072🖤被封重生版～",
+        "id": "1821147834844114944",
+        "name": "潇潇（互推）",
+        "pinned_tweet_id": "1825478000152035364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821147934525943810/CppZ6LdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 66,
+          "like_count": 92,
+          "listed_count": 2,
+          "tweet_count": 126
+        },
+        "username": "xiaoxiao804",
+        "verified": false
+      }
+    ]
+  }
+}

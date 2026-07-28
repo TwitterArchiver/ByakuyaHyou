@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898343237531869643",
+    "created_at": "2025-03-08T12:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T13:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898343237531869643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898343237531869643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898322378993893485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 贱狗～不是喜欢舔主人的鞋子吗～🩷\n来～主人今天在鞋底藏了礼物呢～🩷\n从女厕地面上踩出来不知道多少女孩的浓缩圣水～🩷\n狗舌头贴在主人鞋底～腥臊的圣水刺激着你的狗奶子🩷\n小鸡巴一下就起立了呢～🩷\n舔的好认真呢贱狗～🩷这种融合了很多女孩子圣水…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898343237531869643].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898343237531869643",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898343237531869643"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898322369162395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlgyIxMaQAAxAAh.jpg",
+        "width": 939
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898322371892916224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlgyI7XasAA35Ww.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898322369154084865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlgyIxKbcAEBpgS.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898322369162395648",
+            "3_1898322371892916224",
+            "3_1898322369154084865"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1898322378993893485",
+        "created_at": "2025-03-08T10:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898322378993893485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjCrQ9joxk",
+              "end": 165,
+              "expanded_url": "https://x.com/Dear34585171693/status/1898322378993893485/photo/1",
+              "media_key": "3_1898322369162395648",
+              "start": 142,
+              "url": "https://t.co/AjCrQ9joxk"
+            },
+            {
+              "display_url": "pic.x.com/AjCrQ9joxk",
+              "end": 165,
+              "expanded_url": "https://x.com/Dear34585171693/status/1898322378993893485/photo/1",
+              "media_key": "3_1898322371892916224",
+              "start": 142,
+              "url": "https://t.co/AjCrQ9joxk"
+            },
+            {
+              "display_url": "pic.x.com/AjCrQ9joxk",
+              "end": 165,
+              "expanded_url": "https://x.com/Dear34585171693/status/1898322378993893485/photo/1",
+              "media_key": "3_1898322369154084865",
+              "start": 142,
+              "url": "https://t.co/AjCrQ9joxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898322378993893485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "贱狗～不是喜欢舔主人的鞋子吗～🩷\n来～主人今天在鞋底藏了礼物呢～🩷\n从女厕地面上踩出来不知道多少女孩的浓缩圣水～🩷\n狗舌头贴在主人鞋底～腥臊的圣水刺激着你的狗奶子🩷\n小鸡巴一下就起立了呢～🩷\n舔的好认真呢贱狗～🩷这种融合了很多女孩子圣水的味道～🩷\n贱狗光是闻闻～就忍不住想要流精呢🩷 https://t.co/AjCrQ9joxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 96,
+          "like_count": 784,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 977
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1888170530697830524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 90,
+          "like_count": 9,
+          "listed_count": 9,
+          "media_count": 200,
+          "tweet_count": 3032
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

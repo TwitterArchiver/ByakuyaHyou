@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1906874244048576662",
+    "created_at": "2025-04-01T01:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906874244048576662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906874244048576662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906584916269445256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 明明这种戏码是作为「受害者」的您最清楚的嘛~♫\n自己的大脑这么自私却还不承认什么的~掺杂了等量危险的快感也毫不犹豫地全部摄入了不是嘛💕\n干巴巴的海绵饥不择食地浸泡在了毒液中~最后也会被腐蚀干净的哟💋就像你的思维一样🖤\n全·部·吃·光·喔💗\n#催眠…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906874244048576662].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906874244048576662",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906874244048576662"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1906584909747298305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnWM37eboAE42fV.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906584909747298305"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1906584916269445256",
+        "created_at": "2025-03-31T05:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T06:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906584916269445256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "催眠洗脑"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "精神控制"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "温柔"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "腹黑"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "羞辱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "调教"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxX7xIn5t7",
+              "end": 175,
+              "expanded_url": "https://x.com/amianjiang/status/1906584916269445256/photo/1",
+              "media_key": "3_1906584909747298305",
+              "start": 152,
+              "url": "https://t.co/fxX7xIn5t7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906584916269445256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 860,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "明明这种戏码是作为「受害者」的您最清楚的嘛~♫\n自己的大脑这么自私却还不承认什么的~掺杂了等量危险的快感也毫不犹豫地全部摄入了不是嘛💕\n干巴巴的海绵饥不择食地浸泡在了毒液中~最后也会被腐蚀干净的哟💋就像你的思维一样🖤\n全·部·吃·光·喔💗\n#催眠洗脑 #精神控制 #温柔 #腹黑 #羞辱 #调教 #文爱 https://t.co/fxX7xIn5t7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 108,
+          "like_count": 997,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1167
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 33,
+          "like_count": 441,
+          "listed_count": 14,
+          "media_count": 187,
+          "tweet_count": 480
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

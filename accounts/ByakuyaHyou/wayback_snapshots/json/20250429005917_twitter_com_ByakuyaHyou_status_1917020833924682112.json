@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1917020833924682112",
+    "created_at": "2025-04-29T00:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T01:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917020833924682112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840389044649308160",
+          "start": 3,
+          "username": "Serala_45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917020833924682112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916842715196879357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serala_45: 噫齁哦哦哦哦～💗这副...这幅装束...实在是嗯哈～💗太淫乱了啊——!噫齁齁齁💗花……花子那个变态淫女，难不成每天都穿着这幅装束在老师面前行动吗齁哦哦哦～💗脑袋...脑袋变得好奇怪💗人家...人家明明是正义实现部的精英齁～💗怎么可以...变得和哪个…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917020833924682112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917020833924682112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917020833924682112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1916842711589761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpn-SlKasAAyb_r.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916842711589761024"
+          ]
+        },
+        "author_id": "1840389044649308160",
+        "conversation_id": "1916842715196879357",
+        "created_at": "2025-04-28T13:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916842715196879357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MezqSRvoUj",
+              "end": 175,
+              "expanded_url": "https://x.com/Serala_45/status/1916842715196879357/photo/1",
+              "media_key": "3_1916842711589761024",
+              "start": 152,
+              "url": "https://t.co/MezqSRvoUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916842715196879357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 221,
+                "start": 216,
+                "tag": "蔚蓝档案"
+              },
+              {
+                "end": 226,
+                "start": 223,
+                "tag": "小春"
+              },
+              {
+                "end": 230,
+                "start": 227,
+                "tag": "露出"
+              },
+              {
+                "end": 234,
+                "start": 231,
+                "tag": "自慰"
+              }
+            ]
+          },
+          "text": "噫齁哦哦哦哦～💗这副...这幅装束...实在是嗯哈～💗太淫乱了啊——!噫齁齁齁💗花……花子那个变态淫女，难不成每天都穿着这幅装束在老师面前行动吗齁哦哦哦～💗脑袋...脑袋变得好奇怪💗人家...人家明明是正义实现部的精英齁～💗怎么可以...变得和哪个满脑子h想法的淫乱痴女一样啊齁哦哦哦～💗好舒服...好舒服～💗跟那些禁书里一样啊齁哦哦哦💗要是……要是被老师，前辈或者是花子那家伙看见的话……作为精英的人生就结束了吧齁哦哦哦哦💗——\n#蔚蓝档案  #小春 #露出 #自慰 \ntips:大号解封啦"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4495,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "噫齁哦哦哦哦～💗这副...这幅装束...实在是嗯哈～💗太淫乱了啊——!噫齁齁齁💗花……花子那个变态淫女，难不成每天都穿着这幅装束在老师面前行动吗齁哦哦哦～💗脑袋...脑袋变得好奇怪💗人家...人家明明是正义实现部的精英齁～💗怎么可以...变得和哪个满脑子h想法的淫乱痴女一样啊齁哦哦哦～💗好舒服...好 https://t.co/MezqSRvoUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 117,
+          "like_count": 1154,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1360
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T13:52:22.000Z",
+        "description": "吾乃，昔拉💜Seral🖤～是一名高贵的恶魔少女～💕喜欢收集眷属～🖤，操控傻屄🖤，让那些不知死活的傻屄们跪倒在我的脚底下～🖤欢迎各位不知死活的小家伙们来找我～💗变成我可爱的眷属💜门牌:3977285979",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/m7nlYHbiRb"
+              }
+            ]
+          }
+        },
+        "id": "1840389044649308160",
+        "location": "傻屄坐垫上～🖤",
+        "name": "昔拉💜Seral🖤（休息结束）",
+        "pinned_tweet_id": "1905959182966428105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840694220916764672/fiE77ek-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7068,
+          "following_count": 246,
+          "like_count": 2552,
+          "listed_count": 42,
+          "media_count": 144,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/m7nlYHbiRb",
+        "username": "Serala_45",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1937737851011264963",
+    "created_at": "2025-06-25T05:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T06:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937737851011264963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "文媛"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "绿帽"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "ntr"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "绿奴"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "寝取报告"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Curious ML/DL hacker. Love cats, daydreaming, chatting with AI, and pondering over all things logical. Meta; ex: Stakefish, Twitter, Google, CMU, Bowdoin.",
+          "display_url": "x.com/yz",
+          "end": 139,
+          "expanded_url": "https://x.com/yz",
+          "start": 125,
+          "status": 200,
+          "title": "Yi Z. (@yz) on X",
+          "unwound_url": "https://twitter.com/yz",
+          "url": "https://t.co/u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937737851011264963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935712041500864726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 这样就够了吗..？真是有够变态的呢...居然要看着铃铃在外面被野爹操的视频♡喊着妈妈吸着奶被用手撸出来...明明铃铃可是女友哦~？真拿你没办法呢，射出来吧~绿帽龟老公💚\n#文媛 #绿帽 #ntr #绿奴 #寝取报告 https://t.co/u…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937737851011264963].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937737851011264963",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937737851011264963"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1935712038837202944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0H1-5WsAAQhqi.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935712038837202944"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1935712041500864726",
+        "created_at": "2025-06-19T14:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T15:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935712041500864726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "文媛"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "绿帽"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "ntr"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "绿奴"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "寝取报告"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZpHtnDmEJ",
+              "end": 131,
+              "expanded_url": "https://x.com/shiling7651/status/1935712041500864726/photo/1",
+              "media_key": "3_1935712038837202944",
+              "start": 108,
+              "url": "https://t.co/uZpHtnDmEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935712041500864726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 6087,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "这样就够了吗..？真是有够变态的呢...居然要看着铃铃在外面被野爹操的视频♡喊着妈妈吸着奶被用手撸出来...明明铃铃可是女友哦~？真拿你没办法呢，射出来吧~绿帽龟老公💚\n#文媛 #绿帽 #ntr #绿奴 #寝取报告 https://t.co/uZpHtnDmEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 119,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1476
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935003283078496256/ZxuHqpFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 123,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 386
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

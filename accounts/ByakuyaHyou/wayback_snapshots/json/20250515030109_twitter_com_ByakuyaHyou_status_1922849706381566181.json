@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922849706381566181",
+    "created_at": "2025-05-15T03:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T04:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922849706381566181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922849706381566181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922776084107370853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 嘴上说不想看祖宗跟其他男爹做爱..身体却很老实呢～贱王八旅行者💚～都等不及把狗舌头伸进祖宗嘴里吸狗精了～💚好啦～你就跪到边上看着男爹是怎么用黑臭淫屌把祖宗操成骚贱母狗的吧～💚早泄狗鞭也只配在祖宗精臭白袜里无脑滑精了呢～傻逼媚脚绿毛龟💚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922849706381566181].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922849706381566181",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922849706381566181"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_1922776080005595136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq8SqE9aAAAWRb9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1922776081293012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq8SqJwWcAAXF4t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922776080005595136",
+            "3_1922776081293012992"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1922776084107370853",
+        "created_at": "2025-05-14T22:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T23:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922776084107370853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文援"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "ntr"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "绿帽"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9ktvQguBl",
+              "end": 158,
+              "expanded_url": "https://x.com/KendallRat17471/status/1922776084107370853/photo/1",
+              "media_key": "3_1922776080005595136",
+              "start": 135,
+              "url": "https://t.co/T9ktvQguBl"
+            },
+            {
+              "display_url": "pic.x.com/T9ktvQguBl",
+              "end": 158,
+              "expanded_url": "https://x.com/KendallRat17471/status/1922776084107370853/photo/1",
+              "media_key": "3_1922776081293012992",
+              "start": 135,
+              "url": "https://t.co/T9ktvQguBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922776084107370853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1288,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "嘴上说不想看祖宗跟其他男爹做爱..身体却很老实呢～贱王八旅行者💚～都等不及把狗舌头伸进祖宗嘴里吸狗精了～💚好啦～你就跪到边上看着男爹是怎么用黑臭淫屌把祖宗操成骚贱母狗的吧～💚早泄狗鞭也只配在祖宗精臭白袜里无脑滑精了呢～傻逼媚脚绿毛龟💚 ＃文援 ＃ntr ＃绿帽 ＃羞辱 https://t.co/T9ktvQguBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1206,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1413
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212，营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 1944,
+          "like_count": 17,
+          "listed_count": 12,
+          "media_count": 56,
+          "tweet_count": 1398
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

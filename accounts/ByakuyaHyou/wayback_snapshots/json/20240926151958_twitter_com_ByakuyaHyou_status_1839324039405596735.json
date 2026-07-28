@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839324039405596735",
+    "created_at": "2024-09-26T15:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T16:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839324039405596735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "金钱压榨"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "男m"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "女王"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "提款机"
+        },
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "无脑贡"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "榨金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1760149176984510464",
+          "start": 3,
+          "username": "v3893623873473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839324039405596735",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838410975034372147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @v3893623873473: 任务来了💝下贱的狗，做任务狗狗都无脑的赶紧过来因为🈶你们这群傻逼贱狗废物白痴，看着祖宗亲妈的身材能受得了亲妈穿着黑丝高跟鞋想不想被踩！！！无门槛，不代表免费口嗨勿扰❤️ #ATM奴 #金钱压榨 #男m #女王 #提款机 #无脑贡 #榨金…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1839324039405596735",
+        "created_at": "2024-09-26T15:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T16:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839324039405596735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "金钱压榨"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "男m"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "女王"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "提款机"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "榨金"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1760149176984510464",
+              "start": 3,
+              "username": "v3893623873473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839324039405596735",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838410975034372147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @v3893623873473: 任务来了💝下贱的狗，做任务狗狗都无脑的赶紧过来因为🈶你们这群傻逼贱狗废物白痴，看着祖宗亲妈的身材能受得了亲妈穿着黑丝高跟鞋想不想被踩！！！无门槛，不代表免费口嗨勿扰❤️ #ATM奴 #金钱压榨 #男m #女王 #提款机 #无脑贡 #榨金…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838410965106524160",
+            "3_1838410964993179648",
+            "3_1838410965509115907"
+          ]
+        },
+        "author_id": "1760149176984510464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838410975034372147",
+        "created_at": "2024-09-24T02:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T03:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838410975034372147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "金钱压榨"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男m"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "女王"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "提款机"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "榨金"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "工资奴"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "舔脚"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女S"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "吸金"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "压榨"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "吐钱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "贡奴"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "贡畜"
+            },
+            {
+              "end": 158,
+              "start": 152,
+              "tag": "傻逼提款机"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bt8a8nexwi",
+              "end": 182,
+              "expanded_url": "https://twitter.com/v3893623873473/status/1838410975034372147/photo/1",
+              "media_key": "3_1838410965106524160",
+              "start": 159,
+              "url": "https://t.co/bt8a8nEXwI"
+            },
+            {
+              "display_url": "pic.x.com/bt8a8nexwi",
+              "end": 182,
+              "expanded_url": "https://twitter.com/v3893623873473/status/1838410975034372147/photo/1",
+              "media_key": "3_1838410964993179648",
+              "start": 159,
+              "url": "https://t.co/bt8a8nEXwI"
+            },
+            {
+              "display_url": "pic.x.com/bt8a8nexwi",
+              "end": 182,
+              "expanded_url": "https://twitter.com/v3893623873473/status/1838410975034372147/photo/1",
+              "media_key": "3_1838410965509115907",
+              "start": 159,
+              "url": "https://t.co/bt8a8nEXwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838410975034372147",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6786,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "任务来了💝下贱的狗，做任务狗狗都无脑的赶紧过来因为🈶你们这群傻逼贱狗废物白痴，看着祖宗亲妈的身材能受得了亲妈穿着黑丝高跟鞋想不想被踩！！！无门槛，不代表免费口嗨勿扰❤️ #ATM奴 #金钱压榨 #男m #女王 #提款机 #无脑贡 #榨金 #工资奴 #舔脚 #女S #吸金 #压榨 #吐钱 #贡奴 #贡畜 #傻逼提款机 https://t.co/bt8a8nEXwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 85,
+          "like_count": 578,
+          "listed_count": 0,
+          "tweet_count": 715
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T03:47:49.000Z",
+        "description": "收无脑废物，一主一奴，ATM ，绿帽奴，压榨，胁迫奴，诚信互推qq1422783345，丝袜，恋脚，恋腿，圣水，黄金，丁子裤，袜子，高跟鞋，口嗨勿扰，长久可线下调教，可语音验证，💋出售原味🈶需要的加上面👆QQ",
+        "id": "1760149176984510464",
+        "location": "5.3km",
+        "name": "女王大人ryry（诚信互推）",
+        "pinned_tweet_id": "1839233604200837236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814922908331888640/edUD0Utf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 114,
+          "like_count": 329,
+          "listed_count": 2,
+          "tweet_count": 462
+        },
+        "username": "v3893623873473",
+        "verified": false
+      }
+    ]
+  }
+}

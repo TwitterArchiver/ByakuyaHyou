@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829937752533844086",
+    "created_at": "2024-08-31T17:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T18:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829937752533844086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806365802670772224",
+          "start": 3,
+          "username": "Xzay477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829937752533844086",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829928709761220637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xzay477: 淫荡骚贱的母猪小穴还真是紧致呢～看来你亲爱的男朋友平时很少疼爱你吧。明明嘴上说着很爱他之类的，但是看到主人的大鸡吧还是无脑发情了呢💚 肉棒才刚一插进去就是叫的跟个欲求不满的妓女婊子一样呢（回头）诶…？你还没走啊傻逼哥哥…正好那你就跪在那里好好欣赏一下你…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829937752533844086].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829937752533844086",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829937752533844086"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829928697123491840",
+            "3_1829928696997912576"
+          ]
+        },
+        "author_id": "1806365802670772224",
+        "conversation_id": "1829928709761220637",
+        "created_at": "2024-08-31T17:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T18:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829928709761220637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jehgq0rg6",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Xzay477/status/1829928709761220637/photo/1",
+              "media_key": "3_1829928697123491840",
+              "start": 141,
+              "url": "https://t.co/2jehgq0Rg6"
+            },
+            {
+              "display_url": "pic.x.com/2jehgq0rg6",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Xzay477/status/1829928709761220637/photo/1",
+              "media_key": "3_1829928696997912576",
+              "start": 141,
+              "url": "https://t.co/2jehgq0Rg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829928709761220637",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "淫荡骚贱的母猪小穴还真是紧致呢～看来你亲爱的男朋友平时很少疼爱你吧。明明嘴上说着很爱他之类的，但是看到主人的大鸡吧还是无脑发情了呢💚 肉棒才刚一插进去就是叫的跟个欲求不满的妓女婊子一样呢（回头）诶…？你还没走啊傻逼哥哥…正好那你就跪在那里好好欣赏一下你的白月光女友高潮喷卵时刻吧～ https://t.co/2jehgq0Rg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 83,
+          "like_count": 391,
+          "listed_count": 0,
+          "tweet_count": 448
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T16:35:54.000Z",
+        "description": "是男孩子，是新人文媛全属性可伪娘可扶她（可接任何文笔，任何剧情都能接受，喜欢玩弄废物哥哥或者是痴女姐姐🖤，30r30min 50r 60min 每个单子都有配图的哦 可以提前告诉我你喜欢的角色我去收集 来更好的服务宝宝们 🐧 3928935242  #文爱 电报 https://t.co/yxghv18vXW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "文爱"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ZArti211",
+                "end": 155,
+                "expanded_url": "https://t.me/ZArti211",
+                "start": 132,
+                "url": "https://t.co/yxghv18vXW"
+              }
+            ]
+          }
+        },
+        "id": "1806365802670772224",
+        "name": "真迪🧡 新人求互推！",
+        "pinned_tweet_id": "1828420692934828236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820669903554367488/sASXI026_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 34,
+          "like_count": 4,
+          "listed_count": 2,
+          "tweet_count": 161
+        },
+        "username": "Xzay477",
+        "verified": false
+      }
+    ]
+  }
+}

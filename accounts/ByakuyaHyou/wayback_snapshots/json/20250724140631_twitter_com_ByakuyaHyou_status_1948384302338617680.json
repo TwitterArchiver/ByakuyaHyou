@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944198282026086400",
+        "3_1944198280558305280",
+        "3_1944198280646471680",
+        "3_1944198280558358528"
+      ],
+      "media_source_tweet_id": [
+        "1944198285880963389",
+        "1944198285880963389",
+        "1944198285880963389",
+        "1944198285880963389"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1948384302338617680",
+    "created_at": "2025-07-24T14:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948384302338617680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826220596595994624",
+          "start": 3,
+          "username": "hu3150001376658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qy69IHDYMa",
+          "end": 60,
+          "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+          "media_key": "3_1944198282026086400",
+          "start": 37,
+          "url": "https://t.co/Qy69IHDYMa"
+        },
+        {
+          "display_url": "pic.x.com/Qy69IHDYMa",
+          "end": 60,
+          "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+          "media_key": "3_1944198280558305280",
+          "start": 37,
+          "url": "https://t.co/Qy69IHDYMa"
+        },
+        {
+          "display_url": "pic.x.com/Qy69IHDYMa",
+          "end": 60,
+          "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+          "media_key": "3_1944198280646471680",
+          "start": 37,
+          "url": "https://t.co/Qy69IHDYMa"
+        },
+        {
+          "display_url": "pic.x.com/Qy69IHDYMa",
+          "end": 60,
+          "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+          "media_key": "3_1944198280558358528",
+          "start": 37,
+          "url": "https://t.co/Qy69IHDYMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948384302338617680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944198285880963389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu3150001376658: 黑丝，还有缄默德克萨斯～＃男娘 https://t.co/Qy69IHDYMa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948384302338617680].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948384302338617680",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948384302338617680"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1944198282026086400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsuCWUW8AAWLZn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1944198280558305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsuCQ2aYAAuAlX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1944198280646471680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsuCRLbsAAjzcr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1944198280558358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsuCQ2bMAAcr0k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944198282026086400",
+            "3_1944198280558305280",
+            "3_1944198280646471680",
+            "3_1944198280558358528"
+          ]
+        },
+        "author_id": "1826220596595994624",
+        "conversation_id": "1944198285880963389",
+        "created_at": "2025-07-13T00:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944198285880963389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy69IHDYMa",
+              "end": 39,
+              "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+              "media_key": "3_1944198282026086400",
+              "start": 16,
+              "url": "https://t.co/Qy69IHDYMa"
+            },
+            {
+              "display_url": "pic.x.com/Qy69IHDYMa",
+              "end": 39,
+              "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+              "media_key": "3_1944198280558305280",
+              "start": 16,
+              "url": "https://t.co/Qy69IHDYMa"
+            },
+            {
+              "display_url": "pic.x.com/Qy69IHDYMa",
+              "end": 39,
+              "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+              "media_key": "3_1944198280646471680",
+              "start": 16,
+              "url": "https://t.co/Qy69IHDYMa"
+            },
+            {
+              "display_url": "pic.x.com/Qy69IHDYMa",
+              "end": 39,
+              "expanded_url": "https://x.com/hu3150001376658/status/1944198285880963389/photo/1",
+              "media_key": "3_1944198280558358528",
+              "start": 16,
+              "url": "https://t.co/Qy69IHDYMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944198285880963389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "黑丝，还有缄默德克萨斯～＃男娘 https://t.co/Qy69IHDYMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 142,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1532
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:31:42.000Z",
+        "description": "新人男娘，请多关照，可以扩列～",
+        "id": "1826220596595994624",
+        "name": "可露希尔♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936389865102299136/t56T-jDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "hu3150001376658",
+        "verified": false
+      }
+    ]
+  }
+}

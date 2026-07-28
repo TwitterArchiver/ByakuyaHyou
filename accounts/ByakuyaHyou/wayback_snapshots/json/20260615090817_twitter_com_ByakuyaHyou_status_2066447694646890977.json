@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2066422831655919760",
+    "created_at": "2026-06-15T09:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066447694646890977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1186167155089276928",
+          "start": 0,
+          "username": "xyz8557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066447694646890977",
+    "in_reply_to_user_id": "1186167155089276928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066422831655919760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyz8557 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066422821606281216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1om52aUAAG66g.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066422821623119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1om56bQAAKQDK.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1689,
+        "media_key": "3_2066422821618888704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1om55asAAp4mx.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066422821623074816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1om56akAAZ6in.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2066422831655919760",
+        "created_at": "2026-06-15T09:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066447694646890977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1186167155089276928",
+              "start": 0,
+              "username": "xyz8557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066447694646890977",
+        "in_reply_to_user_id": "1186167155089276928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066422831655919760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyz8557 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066422821606281216",
+            "3_2066422821623119872",
+            "3_2066422821618888704",
+            "3_2066422821623074816"
+          ]
+        },
+        "author_id": "1186167155089276928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066422831655919760",
+        "created_at": "2026-06-15T07:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066422831655919760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67wKHjPON6",
+              "end": 101,
+              "expanded_url": "https://x.com/xyz8557/status/2066422831655919760/photo/1",
+              "media_key": "3_2066422821606281216",
+              "start": 78,
+              "url": "https://t.co/67wKHjPON6"
+            },
+            {
+              "display_url": "pic.x.com/67wKHjPON6",
+              "end": 101,
+              "expanded_url": "https://x.com/xyz8557/status/2066422831655919760/photo/1",
+              "media_key": "3_2066422821623119872",
+              "start": 78,
+              "url": "https://t.co/67wKHjPON6"
+            },
+            {
+              "display_url": "pic.x.com/67wKHjPON6",
+              "end": 101,
+              "expanded_url": "https://x.com/xyz8557/status/2066422831655919760/photo/1",
+              "media_key": "3_2066422821618888704",
+              "start": 78,
+              "url": "https://t.co/67wKHjPON6"
+            },
+            {
+              "display_url": "pic.x.com/67wKHjPON6",
+              "end": 101,
+              "expanded_url": "https://x.com/xyz8557/status/2066422831655919760/photo/1",
+              "media_key": "3_2066422821623074816",
+              "start": 78,
+              "url": "https://t.co/67wKHjPON6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066422831655919760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好下面是自我介绍\ncn是塔塔鸡肉卷你们觉得太长喊我塔塔就行了，性别男有概率搞擦边坐标在福州！\n熟人不要攻击我。。。\n扩列可留言三次生活非常忙所以很少上推 https://t.co/67wKHjPON6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 870,
+          "like_count": 1558,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1639
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-21T06:27:52.000Z",
+        "description": "什么都无法舍弃的人什么都无法得到",
+        "id": "1186167155089276928",
+        "location": "Guangdong",
+        "name": "塔塔鸡肉卷💤💤",
+        "pinned_tweet_id": "2066422831655919760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947698657043877890/4mcNI88H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 217,
+          "like_count": 645,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 180
+        },
+        "username": "xyz8557",
+        "verified": false
+      }
+    ]
+  }
+}

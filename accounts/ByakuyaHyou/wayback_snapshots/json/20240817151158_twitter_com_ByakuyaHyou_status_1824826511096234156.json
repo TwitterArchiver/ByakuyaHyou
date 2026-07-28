@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824826511096234156",
+    "created_at": "2024-08-17T15:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T16:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824826511096234156"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "文媛"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "调教"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "丝足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824826511096234156",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824816128667144206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: “看到咱脚跟上的汗滴了吗？咱不希望咱在鞋子里捂了一天汗津津的黑丝足被小狗狗浪费哦～所以不管对你是惩罚还是奖励，喜欢或者是厌恶，既然当了咱的狗狗，就要乖乖的舔干净，不可以让咱失望哦～”\n#文媛 #调教 #丝足 https://t.co/zp…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824826511096234156].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824826511096234156",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824826511096234156"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824816124837703680"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "conversation_id": "1824816128667144206",
+        "created_at": "2024-08-17T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824816128667144206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "文媛"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "调教"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "丝足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp5iyuky1x",
+              "end": 127,
+              "expanded_url": "https://twitter.com/chessy80978858/status/1824816128667144206/photo/1",
+              "media_key": "3_1824816124837703680",
+              "start": 104,
+              "url": "https://t.co/zp5iyUKY1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824816128667144206",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“看到咱脚跟上的汗滴了吗？咱不希望咱在鞋子里捂了一天汗津津的黑丝足被小狗狗浪费哦～所以不管对你是惩罚还是奖励，喜欢或者是厌恶，既然当了咱的狗狗，就要乖乖的舔干净，不可以让咱失望哦～”\n#文媛 #调教 #丝足 https://t.co/zp5iyUKY1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 77
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮 喜欢小贱狗们心甘情愿献出一切的魅魔女皇🖤 擅长调教杂鱼小雏男 吸干各位劣质狗狗的钱包~ 价格60/1h 不涉三 可预约 出文记录 具体请敲门 门牌Q1430295633欢迎敲门 姐姐老婆@Sakura9OwO私人魅魔@Lily_520_Lily",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Sakura9OwO"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Lily_520_Lily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chessy80978858",
+                "end": 23,
+                "expanded_url": "http://t.me/chessy80978858",
+                "start": 0,
+                "url": "https://t.co/GOFdUIJm02"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "location": "踩在你心里~",
+        "name": "简妮喜欢支配♡（互推）",
+        "pinned_tweet_id": "1824816128667144206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794701523735441408/xw5Dw3fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 131,
+          "like_count": 1617,
+          "listed_count": 19,
+          "tweet_count": 3035
+        },
+        "url": "https://t.co/GOFdUIJm02",
+        "username": "chessy80978858",
+        "verified": false
+      }
+    ]
+  }
+}

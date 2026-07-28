@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2076322175498485811",
+    "created_at": "2026-07-12T15:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076322175498485811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832801209482387456",
+          "start": 3,
+          "username": "JinZhao1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076322175498485811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074762514362228790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JinZhao1123: 弱智肥母猪也配在地上喘气?🖤扭着坨恶心下垂的肥臀求亲爹关注 结果脑浆都被操得晃荡翻起死鱼眼吐舌失禁求饶却换来更恶劣的虐杀抽送🖤你这只廉价母豚彻底洗脑烂成一坨精液肉泥才认命吧🖤肏到失禁失神失脑爬不起来只懂抖着肥奶烂屄崇拜要命臭鸡巴做虐杀到升天的痴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2074762498587455488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsJf_mbcAAhKXk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2076322175498485811",
+        "created_at": "2026-07-12T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076322175498485811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832801209482387456",
+              "start": 3,
+              "username": "JinZhao1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076322175498485811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074762514362228790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JinZhao1123: 弱智肥母猪也配在地上喘气?🖤扭着坨恶心下垂的肥臀求亲爹关注 结果脑浆都被操得晃荡翻起死鱼眼吐舌失禁求饶却换来更恶劣的虐杀抽送🖤你这只廉价母豚彻底洗脑烂成一坨精液肉泥才认命吧🖤肏到失禁失神失脑爬不起来只懂抖着肥奶烂屄崇拜要命臭鸡巴做虐杀到升天的痴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074762498587455488"
+          ]
+        },
+        "author_id": "1832801209482387456",
+        "conversation_id": "2074762514362228790",
+        "created_at": "2026-07-08T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074762514362228790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "调教"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "母猪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUF4r7iwny",
+              "end": 167,
+              "expanded_url": "https://x.com/JinZhao1123/status/2074762514362228790/photo/1",
+              "media_key": "3_2074762498587455488",
+              "start": 144,
+              "url": "https://t.co/sUF4r7iwny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074762514362228790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 10813,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "弱智肥母猪也配在地上喘气?🖤扭着坨恶心下垂的肥臀求亲爹关注 结果脑浆都被操得晃荡翻起死鱼眼吐舌失禁求饶却换来更恶劣的虐杀抽送🖤你这只廉价母豚彻底洗脑烂成一坨精液肉泥才认命吧🖤肏到失禁失神失脑爬不起来只懂抖着肥奶烂屄崇拜要命臭鸡巴做虐杀到升天的痴呆肥尻是吗～傻屄💚～#文爱 #调教 #母猪 https://t.co/sUF4r7iwny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1141,
+          "like_count": 1761,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1677
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T15:20:44.000Z",
+        "description": "温柔系黑心男主🖤随便写写～顺手虐杀一下不知死活的母人和男娘🖤发情送屄的直接私信～甩卵的时候记得有礼貌一点哦宝贝～🖤\n🚪2062176062 #调教 #伪娘 #母猪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 70,
+                "tag": "调教"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "伪娘"
+              },
+              {
+                "end": 81,
+                "start": 78,
+                "tag": "母猪"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JinZhao1123",
+                "end": 23,
+                "expanded_url": "http://t.me/JinZhao1123",
+                "start": 0,
+                "url": "https://t.co/6WBAES9574"
+              }
+            ]
+          }
+        },
+        "id": "1832801209482387456",
+        "location": "11.5km",
+        "name": "禁沼アズレル🖤",
+        "pinned_tweet_id": "2030329227929903251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076313079193948160/q9ZTCWGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 38,
+          "like_count": 33,
+          "listed_count": 6,
+          "media_count": 45,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/6WBAES9574",
+        "username": "JinZhao1123",
+        "verified": false
+      }
+    ]
+  }
+}

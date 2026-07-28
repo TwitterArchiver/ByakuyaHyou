@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1938783727083233472",
+    "created_at": "2025-06-28T02:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T03:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938783727083233472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938783727083233472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938282739138236864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 亲爱的♡铃铃来目送你了哦~上班的路上，呜～一路顺风呐♡（白润的脸颊染上红晕~挥舞着的小手随着节律颤抖着~）\n铃铃很可爱吗~？嘻嘻♡穿着老公送给人家最喜欢的衣服哦~呜哦哦💚💚嗯，没有奇怪的声音啦，后面这个...是...是铃铃的“爸爸”♡哦~所以~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938783727083233472].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938783727083233472",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938783727083233472"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1938282732330881026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYp4CbbEAIviKO.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938282732330881026"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1938282739138236864",
+        "created_at": "2025-06-26T17:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T18:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938282739138236864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文媛"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrKJtFo6al",
+              "end": 173,
+              "expanded_url": "https://x.com/shiling7651/status/1938282739138236864/photo/1",
+              "media_key": "3_1938282732330881026",
+              "start": 150,
+              "url": "https://t.co/CrKJtFo6al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938282739138236864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2375,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的♡铃铃来目送你了哦~上班的路上，呜～一路顺风呐♡（白润的脸颊染上红晕~挥舞着的小手随着节律颤抖着~）\n铃铃很可爱吗~？嘻嘻♡穿着老公送给人家最喜欢的衣服哦~呜哦哦💚💚嗯，没有奇怪的声音啦，后面这个...是...是铃铃的“爸爸”♡哦~所以~亲爱的放心去上班吧，铃铃会乖乖等你的💚\n#文媛 #绿帽 https://t.co/CrKJtFo6al"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1480
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935003283078496256/ZxuHqpFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 124,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 418
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

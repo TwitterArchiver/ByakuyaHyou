@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833683725739315542",
+    "created_at": "2024-09-11T01:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T02:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833683725739315542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675953",
+          "start": 3,
+          "username": "YukinoAriar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833683725739315542",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833517884372619735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YukinoAriar: 这里是低贱的小糯米哒，一天不跟男友做爱就痒的不行，好像要大宝贝～❤\n现在只有文援业务\n糯米酱喜欢超多玩法，特别是带着血缘关系的那种~但是更喜欢纯爱！S/M都可以胜任哦！\n不可以黄金重口哦～要对小糯米温柔一些\n文媛是30min/35，1h/60…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833683725739315542].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833683725739315542",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833683725739315542"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833517874025271299"
+          ]
+        },
+        "author_id": "1490675953",
+        "conversation_id": "1833517884372619735",
+        "created_at": "2024-09-10T14:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T15:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833517884372619735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文媛"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "母狗"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nttxtiae7c",
+              "end": 161,
+              "expanded_url": "https://twitter.com/YukinoAriar/status/1833517884372619735/photo/1",
+              "media_key": "3_1833517874025271299",
+              "start": 138,
+              "url": "https://t.co/ntTXtiAe7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833517884372619735",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是低贱的小糯米哒，一天不跟男友做爱就痒的不行，好像要大宝贝～❤\n现在只有文援业务\n糯米酱喜欢超多玩法，特别是带着血缘关系的那种~但是更喜欢纯爱！S/M都可以胜任哦！\n不可以黄金重口哦～要对小糯米温柔一些\n文媛是30min/35，1h/60\n#文媛 #母狗 #文爱 #调教 https://t.co/ntTXtiAe7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 81,
+          "like_count": 460,
+          "listed_count": 0,
+          "tweet_count": 555
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-07T15:33:31.000Z",
+        "description": "这里是新出道小糯米~某只狗狗的贱奴老婆~不如来尝试一下嘛~什么？问姿势啊，不就是因为缺元子，什么姿势都得听你的嘛~🚪 2787209784（30min/35r）敲门记得备注一下推~",
+        "id": "1490675953",
+        "location": "你的心里",
+        "name": "文媛糯米♡（互推）",
+        "pinned_tweet_id": "1833517884372619735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723744286909530112/f9QA9iOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 153,
+          "like_count": 796,
+          "listed_count": 0,
+          "tweet_count": 921
+        },
+        "username": "YukinoAriar",
+        "verified": false
+      }
+    ]
+  }
+}

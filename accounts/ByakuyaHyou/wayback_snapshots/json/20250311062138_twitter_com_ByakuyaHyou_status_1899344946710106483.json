@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899344928926552064",
+        "3_1899344929123348480",
+        "3_1899344928939155456",
+        "3_1899344929215922176"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899344946710106483",
+    "created_at": "2025-03-11T06:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T07:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899344946710106483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LO25IQyPuA",
+          "end": 82,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1899344946710106483/photo/1",
+          "media_key": "3_1899344928926552064",
+          "start": 59,
+          "url": "https://t.co/LO25IQyPuA"
+        },
+        {
+          "display_url": "pic.x.com/LO25IQyPuA",
+          "end": 82,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1899344946710106483/photo/1",
+          "media_key": "3_1899344929123348480",
+          "start": 59,
+          "url": "https://t.co/LO25IQyPuA"
+        },
+        {
+          "display_url": "pic.x.com/LO25IQyPuA",
+          "end": 82,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1899344946710106483/photo/1",
+          "media_key": "3_1899344928939155456",
+          "start": 59,
+          "url": "https://t.co/LO25IQyPuA"
+        },
+        {
+          "display_url": "pic.x.com/LO25IQyPuA",
+          "end": 82,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1899344946710106483/photo/1",
+          "media_key": "3_1899344929215922176",
+          "start": 59,
+          "url": "https://t.co/LO25IQyPuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899344946710106483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是发骚逼竟然还不满足～还要曝光自己的脸照～\n果然是发情的母畜呢～只知道让更多的人看到自己，享受那被别人视奸的眼神～ https://t.co/LO25IQyPuA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899344946710106483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899344946710106483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899344946710106483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_1899344928926552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvUJlKbUAAqzTs.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1642,
+        "media_key": "3_1899344929123348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvUJl5WMAA8Rbo.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1714,
+        "media_key": "3_1899344928939155456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvUJlNboAAGj0j.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1789,
+        "media_key": "3_1899344929215922176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvUJmPawAAaytG.jpg",
+        "width": 1067
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 97,
+          "like_count": 818,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1003
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

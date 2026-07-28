@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2043978022542356946",
+    "created_at": "2026-04-26T13:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048399380294914237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820317614272303104",
+          "start": 0,
+          "username": "nightfly114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048399380294914237",
+    "in_reply_to_user_id": "1820317614272303104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043978022542356946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nightfly114 我喜欢你宝宝扩列加个QQ2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2043978009737342978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2rK58asAIjDsb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2043978022542356946",
+        "created_at": "2026-04-26T13:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048399380294914237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820317614272303104",
+              "start": 0,
+              "username": "nightfly114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048399380294914237",
+        "in_reply_to_user_id": "1820317614272303104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043978022542356946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nightfly114 我喜欢你宝宝扩列加个QQ2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043978009737342978"
+          ]
+        },
+        "author_id": "1820317614272303104",
+        "conversation_id": "2043978022542356946",
+        "created_at": "2026-04-14T09:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043978022542356946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAcdL0r3hP",
+              "end": 27,
+              "expanded_url": "https://x.com/nightfly114/status/2043978022542356946/photo/1",
+              "media_key": "3_2043978009737342978",
+              "start": 4,
+              "url": "https://t.co/FAcdL0r3hP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043978022542356946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 316,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶～☆ https://t.co/FAcdL0r3hP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 237,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1528
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T04:35:23.000Z",
+        "description": "",
+        "id": "1820317614272303104",
+        "name": "nightfly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820317767326642177/0j5RFIJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 100,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "username": "nightfly114",
+        "verified": false
+      }
+    ]
+  }
+}

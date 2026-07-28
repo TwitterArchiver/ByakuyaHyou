@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836769072488570925",
+    "created_at": "2024-09-19T14:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836769072488570925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836769072488570925",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836381715310481494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 废物傻逼公狗就应该被祖宗拽着狗绳活在鞋下的废物垃圾垫子～废物垃圾狗鸡巴精液只配射在鞋子里面的黑丝袜踩着🖤狗精被祖宗黑丝袜踩着碾碎倒在垃圾的狗脸好了🖤全是精的黑丝袜脚掌踩在你的狗脸好好舔干净～你的狗鸡巴就插到这鞋子顶射吧🖤被祖宗套着狗绳的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836769072488570925].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836769072488570925",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836769072488570925"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836381712865284096"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1836381715310481494",
+        "created_at": "2024-09-18T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836381715310481494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文爱"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "调教"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "女s"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9utyuewjq",
+              "end": 168,
+              "expanded_url": "https://twitter.com/kekejiangw44613/status/1836381715310481494/photo/1",
+              "media_key": "3_1836381712865284096",
+              "start": 145,
+              "url": "https://t.co/m9utyUewjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836381715310481494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1079,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "废物傻逼公狗就应该被祖宗拽着狗绳活在鞋下的废物垃圾垫子～废物垃圾狗鸡巴精液只配射在鞋子里面的黑丝袜踩着🖤狗精被祖宗黑丝袜踩着碾碎倒在垃圾的狗脸好了🖤全是精的黑丝袜脚掌踩在你的狗脸好好舔干净～你的狗鸡巴就插到这鞋子顶射吧🖤被祖宗套着狗绳的废物垃圾狗垫\n#文爱 #文援 #调教 #女s #贡奴 https://t.co/m9utyUewjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 82,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 645
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 门槛10r（有门槛 口嗨的真别加 真的很烦） ❤️新人文援 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔❤️（收长期atm奴 贡奴）",
+        "id": "1832618003478773760",
+        "location": "❤️",
+        "name": "可可酱（互推私）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 19,
+          "like_count": 34,
+          "listed_count": 1,
+          "tweet_count": 68
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

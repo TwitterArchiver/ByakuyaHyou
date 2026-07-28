@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828507765595390398",
+    "created_at": "2024-08-27T18:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T19:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828507765595390398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806365802670772224",
+          "start": 3,
+          "username": "Xzay477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828507765595390398",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824069091805860287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xzay477: 老公你终于来了啊～我当然知道今天是我们结婚的日子💚可是他的鸡吧真是太大了嘛…我怕和亲爱的你结婚后就再也品尝不到这么大的肉棒了 所以就💚你问我肚子里的孩子到底是不是你的？噗…废物老公…当然不是你的喽～作为一个肉便器当然是要为基因优质的大鸡吧男爹传宗接代了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828507765595390398].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828507765595390398",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828507765595390398"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824069059006382080",
+            "3_1824069058989539328"
+          ]
+        },
+        "author_id": "1806365802670772224",
+        "conversation_id": "1824069091805860287",
+        "created_at": "2024-08-15T13:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T14:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824069091805860287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/caj6e1elqe",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Xzay477/status/1824069091805860287/photo/1",
+              "media_key": "3_1824069059006382080",
+              "start": 140,
+              "url": "https://t.co/CaJ6E1ELQe"
+            },
+            {
+              "display_url": "pic.x.com/caj6e1elqe",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Xzay477/status/1824069091805860287/photo/1",
+              "media_key": "3_1824069058989539328",
+              "start": 140,
+              "url": "https://t.co/CaJ6E1ELQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824069091805860287",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1424,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "老公你终于来了啊～我当然知道今天是我们结婚的日子💚可是他的鸡吧真是太大了嘛…我怕和亲爱的你结婚后就再也品尝不到这么大的肉棒了 所以就💚你问我肚子里的孩子到底是不是你的？噗…废物老公…当然不是你的喽～作为一个肉便器当然是要为基因优质的大鸡吧男爹传宗接代了～你不会介意的对吧？老公💚 https://t.co/CaJ6E1ELQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 69,
+          "like_count": 310,
+          "listed_count": 0,
+          "tweet_count": 367
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T16:35:54.000Z",
+        "description": "是男孩子，是新人文媛全属性可伪娘可扶她（可接任何文笔，任何剧情都能接受，喜欢玩弄废物哥哥或者是痴女姐姐🖤，30r30min 50r 60min 每个单子都有配图的哦 可以提前告诉我你喜欢的角色我去收集 来更好的服务宝宝们 🐧 3928935242  #文爱 电报 https://t.co/yxghv18vXW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "文爱"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ZArti211",
+                "end": 155,
+                "expanded_url": "https://t.me/ZArti211",
+                "start": 132,
+                "url": "https://t.co/yxghv18vXW"
+              }
+            ]
+          }
+        },
+        "id": "1806365802670772224",
+        "name": "真迪🧡 新人求互推！",
+        "pinned_tweet_id": "1824462860778643516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820669903554367488/sASXI026_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 1,
+          "tweet_count": 134
+        },
+        "username": "Xzay477",
+        "verified": false
+      }
+    ]
+  }
+}

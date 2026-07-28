@@ -1,0 +1,102 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1845538630284255441",
+    "created_at": "2024-10-13T18:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-13T19:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845538630284255441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "id": "1845538630284255441",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845045673210867830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 盯着祖宗的透肉黑丝袜脚看爽不爽🖤被丝袜吊着的白痴脑残公狗狗头都被祖宗的包臀黑丝袜大腿裹住🖤汗水淋漓黑丝袜大腿夹着狗脑袋摩擦着给你狗脑子洗脑🖤被夹着狗脑子用丝袜浓郁的气味强奸废物白痴脑子🖤像发情的白痴公狗对丝袜撸鸡巴射精🖤\n#文爱  #文…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 87,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤文援复活版 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔🖤（收长期atm奴 贡奴）（35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 37,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 14,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可酱（互推私）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 25,
+          "like_count": 37,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 330
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

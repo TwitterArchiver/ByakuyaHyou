@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940696849998073926",
+    "created_at": "2025-07-03T08:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940696849998073926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940696849998073926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908679757145006114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 随着一声长长的喘息，眼前的少女此时像一只小猫一样乖巧的躺在床边～\n就那么随意的光着身子，双腿自然的分开，露出里面湿漉漉的小穴～\n播放着少女直播画面的手机挡住了少女的蜜穴，两片晶莹剔透的花瓣好似残留着一丝粘稠的爱液～\n浑圆的乳球没有衣物遮挡，如脱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940696849998073926].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940696849998073926",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940696849998073926"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1908679748164972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnz-Hkta8AAVApu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908679748164972544"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1908679757145006114",
+        "created_at": "2025-04-06T00:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T01:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908679757145006114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUPyE2faq3",
+              "end": 162,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1908679757145006114/photo/1",
+              "media_key": "3_1908679748164972544",
+              "start": 139,
+              "url": "https://t.co/JUPyE2faq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908679757145006114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1636,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "随着一声长长的喘息，眼前的少女此时像一只小猫一样乖巧的躺在床边～\n就那么随意的光着身子，双腿自然的分开，露出里面湿漉漉的小穴～\n播放着少女直播画面的手机挡住了少女的蜜穴，两片晶莹剔透的花瓣好似残留着一丝粘稠的爱液～\n浑圆的乳球没有衣物遮挡，如脱笼的玉兔向你充分展示曼妙的身材～ https://t.co/JUPyE2faq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1500
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2070634334701363645",
+    "created_at": "2026-06-27T04:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070729431430385921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967224723416518656",
+          "start": 0,
+          "username": "AyaseMiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070729431430385921",
+    "in_reply_to_user_id": "1967224723416518656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070710935195648116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaseMiya 你更可爱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2070634334701363645",
+        "created_at": "2026-06-27T04:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070729431430385921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967224723416518656",
+              "start": 0,
+              "username": "AyaseMiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070729431430385921",
+        "in_reply_to_user_id": "1967224723416518656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070710935195648116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaseMiya 你更可爱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967224723416518656",
+        "conversation_id": "2070634334701363645",
+        "created_at": "2026-06-27T03:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070710935195648116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070710935195648116",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070634334701363645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 美到哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 993,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T13:51:49.000Z",
+        "description": "这个人很懒，什么介绍都不想写",
+        "id": "1967224723416518656",
+        "name": "Miya",
+        "pinned_tweet_id": "2067963361749582026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189100071669760/XH2kiPDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 112,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "AyaseMiya",
+        "verified": false
+      }
+    ]
+  }
+}

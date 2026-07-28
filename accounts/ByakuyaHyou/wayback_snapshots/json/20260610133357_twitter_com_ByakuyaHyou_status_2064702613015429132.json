@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2064381233375883347",
+    "created_at": "2026-06-10T13:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064702613015429132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387437927731404804",
+          "start": 0,
+          "username": "xiaonan77041401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064702613015429132",
+    "in_reply_to_user_id": "1387437927731404804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064381233375883347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaonan77041401 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11747,
+        "height": 1280,
+        "media_key": "13_2064381080145375235",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064381080145375235/img/wFir9siZBxRpaoJq.jpg",
+        "public_metrics": {
+          "view_count": 343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064381080145375235/vid/avc1/320x568/UR_GipELJPkfEqj8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064381080145375235/vid/avc1/480x852/u4DXemnYKFhI3eCX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064381080145375235/vid/avc1/720x1280/oQj3i1oYWI6b4Dl9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064381080145375235/pl/uHCJYWRxtJzON01y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2064381233375883347",
+        "created_at": "2026-06-10T13:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064702613015429132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387437927731404804",
+              "start": 0,
+              "username": "xiaonan77041401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064702613015429132",
+        "in_reply_to_user_id": "1387437927731404804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064381233375883347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaonan77041401 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064381080145375235"
+          ]
+        },
+        "author_id": "1387437927731404804",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064381233375883347",
+        "created_at": "2026-06-09T16:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064381233375883347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "cosplay"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "chisa"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "鸣潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nD9jfIbTxD",
+              "end": 49,
+              "expanded_url": "https://x.com/xiaonan77041401/status/2064381233375883347/video/1",
+              "media_key": "13_2064381080145375235",
+              "start": 26,
+              "url": "https://t.co/nD9jfIbTxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064381233375883347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1894,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "千小妹吃饭 #cosplay #chisa #鸣潮 https://t.co/nD9jfIbTxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 751,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1625
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-28T16:06:02.000Z",
+        "description": "玩cos的小男梁一枚",
+        "id": "1387437927731404804",
+        "name": "仙男殿下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1387438048086958084/rjSfr8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 127,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 105
+        },
+        "username": "xiaonan77041401",
+        "verified": false
+      }
+    ]
+  }
+}

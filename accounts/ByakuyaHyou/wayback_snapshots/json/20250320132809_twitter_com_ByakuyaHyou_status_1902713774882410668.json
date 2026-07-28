@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902713774882410668",
+    "created_at": "2025-03-20T13:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T14:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902713774882410668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898294543180861440",
+          "start": 3,
+          "username": "sharkshark1250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902713774882410668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902693757134536981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sharkshark1250: 啊啦❤这是几天没有排精了呢？睾丸都肿胀的满满的了呢❤明明是个小弟弟却有着这么大的肉棒❤真是太可爱了❤\n来❤让姐姐我好好的疼爱一下你叭❤上次只是用脚稍微玩弄了几下就射了❤这次用手的话能坚持多久呢？\n要是在姐姐我的玩弄下坚持的时间让姐姐我满意…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902713774882410668].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902713774882410668",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902713774882410668"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_1902692293188145152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gme4j0xaUAAhrqh.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902692293188145152"
+          ]
+        },
+        "author_id": "1898294543180861440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1902693757134536981",
+        "created_at": "2025-03-20T12:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902693757134536981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBOBKZAYf9",
+              "end": 166,
+              "expanded_url": "https://x.com/sharkshark1250/status/1902693757134536981/photo/1",
+              "media_key": "3_1902692293188145152",
+              "start": 143,
+              "url": "https://t.co/XBOBKZAYf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902693757134536981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啦❤这是几天没有排精了呢？睾丸都肿胀的满满的了呢❤明明是个小弟弟却有着这么大的肉棒❤真是太可爱了❤\n来❤让姐姐我好好的疼爱一下你叭❤上次只是用脚稍微玩弄了几下就射了❤这次用手的话能坚持多久呢？\n要是在姐姐我的玩弄下坚持的时间让姐姐我满意的话可以考虑让你插进来内射哦❤\n嘘~开始了哦❤ https://t.co/XBOBKZAYf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 106,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1090
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T08:47:50.000Z",
+        "description": "是鲨鲨酱♡哦\n是新来的文媛一枚\n温柔大姐姐，邻家妹妹，懵懂小萝莉（你想要的我都可以）\n抖m抖s我都可以\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜百合贴贴～:\n@ByakuyaHyou\n 192786181（依奈可爱）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1898294543180861440",
+        "location": "赛博网络女鬼老婆",
+        "name": "鲨渔娘（文媛姬）",
+        "pinned_tweet_id": "1898313682645586315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898294779286528000/yse65cjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "username": "sharkshark1250",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2049473986623648133",
+    "created_at": "2026-04-30T00:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049643223203951023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470410046353858565",
+          "start": 0,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049643223203951023",
+    "in_reply_to_user_id": "1470410046353858565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049473986623648133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumcii 宝宝我喜欢你cpdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049473958467239936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHExtObagAAujpz.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2049473986623648133",
+        "created_at": "2026-04-30T00:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049643223203951023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049643223203951023",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049473986623648133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 宝宝我喜欢你cpdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049473958467239936"
+          ]
+        },
+        "author_id": "1470410046353858565",
+        "conversation_id": "2049473986623648133",
+        "created_at": "2026-04-29T13:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049473986623648133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUjuDMxqLG",
+              "end": 28,
+              "expanded_url": "https://x.com/miumcii/status/2049473986623648133/photo/1",
+              "media_key": "3_2049473958467239936",
+              "start": 5,
+              "url": "https://t.co/uUjuDMxqLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049473986623648133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2306,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "画质⬆️ https://t.co/uUjuDMxqLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 254,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1529
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "可是这些又有什么用呢",
+        "id": "1470410046353858565",
+        "name": "闵目🍉夕曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133022334410752/JblCpcUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35527,
+          "following_count": 321,
+          "like_count": 22336,
+          "listed_count": 108,
+          "media_count": 340,
+          "tweet_count": 12200
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

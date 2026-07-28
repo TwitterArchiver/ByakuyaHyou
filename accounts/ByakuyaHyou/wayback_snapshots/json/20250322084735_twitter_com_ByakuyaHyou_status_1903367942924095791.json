@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1903367942924095791",
+    "created_at": "2025-03-22T08:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T09:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903367942924095791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903367942924095791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903316658137264411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 旅行者败北日记第三季02\n在蒙德城外巡逻的安柏发现了被丘丘人围攻的荧妹，赶过来帮忙，然而丘丘人凭着人数优势，轻易的打败了安柏\n不要…你们这些怪物…住手…啊啊啊…不要…哈啊…好大…嗯啊…\n看着淫叫的安柏，荧妹无助的躺在地上，这个女人怎么这么淫荡啊…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903367942924095791].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903367942924095791",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903367942924095791"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1903316654764986368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmnwac5aEAA1p8Y.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903316654764986368"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1903316658137264411",
+        "created_at": "2025-03-22T05:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T06:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903316658137264411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "文爱"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文媛"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "败北"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVvEarRMyA",
+              "end": 162,
+              "expanded_url": "https://x.com/dnggu156261/status/1903316658137264411/photo/1",
+              "media_key": "3_1903316654764986368",
+              "start": 139,
+              "url": "https://t.co/UVvEarRMyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903316658137264411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 481,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "旅行者败北日记第三季02\n在蒙德城外巡逻的安柏发现了被丘丘人围攻的荧妹，赶过来帮忙，然而丘丘人凭着人数优势，轻易的打败了安柏\n不要…你们这些怪物…住手…啊啊啊…不要…哈啊…好大…嗯啊…\n看着淫叫的安柏，荧妹无助的躺在地上，这个女人怎么这么淫荡啊\n#文爱 #文媛 #败北 #剧情 https://t.co/UVvEarRMyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 105,
+          "like_count": 930,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1104
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，互推请加下好友，接单号3860669556，30r0.5h，不涉三，TG请QQ预约哦，姐妹 @guq1128649   杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "guq1128649"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1881712428624601327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3928,
+          "following_count": 118,
+          "like_count": 5135,
+          "listed_count": 16,
+          "media_count": 80,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

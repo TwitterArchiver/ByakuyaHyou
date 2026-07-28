@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896887671399878657",
+        "3_1896887671341125632",
+        "3_1896887672972419072"
+      ],
+      "media_source_tweet_id": [
+        "1896887676042973260",
+        "1896887676042973260",
+        "1896887676042973260"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897175489728667744",
+    "created_at": "2025-03-05T06:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897175489728667744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "怪物猎人荒野"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "太刀"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "女玩家"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "发癫"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "巨乳"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9sBXJyywiZ",
+          "end": 132,
+          "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+          "media_key": "3_1896887671399878657",
+          "start": 109,
+          "url": "https://t.co/9sBXJyywiZ"
+        },
+        {
+          "display_url": "pic.x.com/9sBXJyywiZ",
+          "end": 132,
+          "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+          "media_key": "3_1896887671341125632",
+          "start": 109,
+          "url": "https://t.co/9sBXJyywiZ"
+        },
+        {
+          "display_url": "pic.x.com/9sBXJyywiZ",
+          "end": 132,
+          "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+          "media_key": "3_1896887672972419072",
+          "start": 109,
+          "url": "https://t.co/9sBXJyywiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897175489728667744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896887676042973260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 太刀smam~就让我再来一次~就一次就好了~只要能放出《练气解放无双斩》就好了~♥\n【一位初出茅庐的虾头太刀女被锁刃龙爆锤神志不清之后的发言】\n#怪物猎人荒野 #太刀 #女玩家 #发癫 #巨乳 https://t.co/9sBXJyywiZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897175489728667744].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897175489728667744",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897175489728667744"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1896887671399878657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMZSXibkAEcxd0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1666,
+        "media_key": "3_1896887671341125632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMZSXUbEAApQzO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1986,
+        "media_key": "3_1896887672972419072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMZSdZWoAAxHfM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896887671399878657",
+            "3_1896887671341125632",
+            "3_1896887672972419072"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1896887676042973260",
+        "created_at": "2025-03-04T11:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896887676042973260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "怪物猎人荒野"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "太刀"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "女玩家"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "发癫"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sBXJyywiZ",
+              "end": 120,
+              "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+              "media_key": "3_1896887671399878657",
+              "start": 97,
+              "url": "https://t.co/9sBXJyywiZ"
+            },
+            {
+              "display_url": "pic.x.com/9sBXJyywiZ",
+              "end": 120,
+              "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+              "media_key": "3_1896887671341125632",
+              "start": 97,
+              "url": "https://t.co/9sBXJyywiZ"
+            },
+            {
+              "display_url": "pic.x.com/9sBXJyywiZ",
+              "end": 120,
+              "expanded_url": "https://x.com/mrfzxi/status/1896887676042973260/photo/1",
+              "media_key": "3_1896887672972419072",
+              "start": 97,
+              "url": "https://t.co/9sBXJyywiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896887676042973260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "太刀smam~就让我再来一次~就一次就好了~只要能放出《练气解放无双斩》就好了~♥\n【一位初出茅庐的虾头太刀女被锁刃龙爆锤神志不清之后的发言】\n#怪物猎人荒野 #太刀 #女玩家 #发癫 #巨乳 https://t.co/9sBXJyywiZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 88,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 905
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕♥互推文媛♥任何前来的人都会享受来自大炎风俗的至高待遇♥不需要考虑任何东西♥展现你内心纯粹的欲望吧♥QQ门牌：3875887471♥有需要互推的可以私信呢♥欢迎更多的母猪和男奴来找夕玩吧♥",
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎互推）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 115,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 323
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826253227064791381",
+    "created_at": "2024-08-21T13:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826253227064791381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782291909685444608",
+          "start": 3,
+          "username": "X1ranS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826253227064791381",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825478268193210653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1ranS: 快点爬过来哦～小狗狗❤️再快一点哦～再慢可就舔不到人家的黑丝臭酸脚了哦～❤️\n嘬嘬嘬～去把人家的鞋子叼回来～❤️这可是狗狗珍贵的饭盒呢～❤️不要忘了吸干鞋窝里的酸臭脚汗和残留在里面的脚泥哦～❤️\n清理完鞋子～接下来把你的狗脸贴到人家的黑丝脚底好好享用正餐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826253227064791381].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826253227064791381",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826253227064791381"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825478254113017857"
+          ]
+        },
+        "author_id": "1782291909685444608",
+        "conversation_id": "1825478268193210653",
+        "created_at": "2024-08-19T10:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825478268193210653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ln8pk50iea",
+              "end": 171,
+              "expanded_url": "https://twitter.com/X1ranS/status/1825478268193210653/photo/1",
+              "media_key": "3_1825478254113017857",
+              "start": 148,
+              "url": "https://t.co/ln8Pk50IEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825478268193210653",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15580,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "快点爬过来哦～小狗狗❤️再快一点哦～再慢可就舔不到人家的黑丝臭酸脚了哦～❤️\n嘬嘬嘬～去把人家的鞋子叼回来～❤️这可是狗狗珍贵的饭盒呢～❤️不要忘了吸干鞋窝里的酸臭脚汗和残留在里面的脚泥哦～❤️\n清理完鞋子～接下来把你的狗脸贴到人家的黑丝脚底好好享用正餐吧～❤️被人家的足臭入侵你的大脑丧志败北 https://t.co/ln8Pk50IEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 61,
+          "like_count": 186,
+          "listed_count": 0,
+          "tweet_count": 215
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:14:56.000Z",
+        "description": "〖所有推文图片如有侵权可联系删除〗是文援哦💕文爱价格是30r/0.5h～树洞聊天20r/0.5h～🖤欢迎各位痴臭白痴前来敲门哦🖤门牌3378895338（门槛10r不抵）💗\n老婆：@_Shogun_111\n\n💟小号：@MzX1ran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "_Shogun_111"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "MzX1ran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/X1ranS",
+                "end": 23,
+                "expanded_url": "http://t.me/X1ranS",
+                "start": 0,
+                "url": "https://t.co/Tku8LjVZpJ"
+              }
+            ]
+          }
+        },
+        "id": "1782291909685444608",
+        "name": "汐染sama💕（文援互推私）",
+        "pinned_tweet_id": "1825478268193210653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792815848115081216/AKSTJq2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 150,
+          "like_count": 2186,
+          "listed_count": 21,
+          "tweet_count": 2040
+        },
+        "url": "https://t.co/Tku8LjVZpJ",
+        "username": "X1ranS",
+        "verified": false
+      }
+    ]
+  }
+}

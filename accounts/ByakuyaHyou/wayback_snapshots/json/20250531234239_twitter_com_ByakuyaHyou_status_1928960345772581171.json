@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928960345772581171",
+    "created_at": "2025-05-31T23:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928960345772581171"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "报销奴"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "无脑贡"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "匿名贡"
+        },
+        {
+          "end": 76,
+          "start": 69,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "无脑畜牲"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "无脑贡畜"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "无脑丧志"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "账单奴"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "败北凌辱"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "贡奴"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "贡猪"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "死妈婊"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "女绿奴"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "貢ぎマゾ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928960345772581171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927354452857495639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 几条内裤会被傻逼贱畜们跪着报销多少次呢？能获得祖宗的收款码是贱畜们上辈子修的福气 #报销奴 #无脑贡 #匿名贡 #ATM打钱奴 #无脑畜牲 #无脑贡畜 #无脑丧志 #账单奴 #女性崇拜 #败北凌辱 #贡奴 #贡猪 #死妈婊 #女绿奴 #貢ぎマゾ #貢ぎ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928960345772581171].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928960345772581171",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928960345772581171"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927354422733987841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9WostWYAEePTp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927354422733987841"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927354452857495639",
+        "created_at": "2025-05-27T13:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927354452857495639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "报销奴"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "匿名贡"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "无脑畜牲"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "无脑贡畜"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "无脑丧志"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "账单奴"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "贡奴"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "贡猪"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "死妈婊"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "女绿奴"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "貢ぎ奴隷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uneVekTlul",
+              "end": 152,
+              "expanded_url": "https://x.com/yues666/status/1927354452857495639/photo/1",
+              "media_key": "3_1927354422733987841",
+              "start": 129,
+              "url": "https://t.co/uneVekTlul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927354452857495639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "几条内裤会被傻逼贱畜们跪着报销多少次呢？能获得祖宗的收款码是贱畜们上辈子修的福气 #报销奴 #无脑贡 #匿名贡 #ATM打钱奴 #无脑畜牲 #无脑贡畜 #无脑丧志 #账单奴 #女性崇拜 #败北凌辱 #贡奴 #贡猪 #死妈婊 #女绿奴 #貢ぎマゾ #貢ぎ奴隷 https://t.co/uneVekTlul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 119,
+          "like_count": 1246,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1451
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 12,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 275
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

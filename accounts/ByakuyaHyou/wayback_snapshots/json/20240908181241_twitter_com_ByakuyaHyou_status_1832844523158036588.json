@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831698122126585860"
+      ],
+      "media_source_tweet_id": [
+        "1831698141403607258"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1832844523158036588",
+    "created_at": "2024-09-08T18:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T19:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832844523158036588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1795368899833106432",
+          "start": 3,
+          "username": "BeachSophi19611"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtv5kbx1ol",
+          "end": 95,
+          "expanded_url": "https://twitter.com/BeachSophi19611/status/1831698141403607258/photo/1",
+          "media_key": "3_1831698122126585860",
+          "start": 72,
+          "url": "https://t.co/WTv5kbx1OL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832844523158036588",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831698141403607258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeachSophi19611: “怎么样刀客塔?我的黑丝美脚应你的要求在鞋里闷了好久，大概.....一周吧一直穿着，要不要闻闻看?” https://t.co/WTv5kbx1OL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832844523158036588].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832844523158036588",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832844523158036588"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1831698122126585860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWt_vMEa8AQT8G4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831698122126585860"
+          ]
+        },
+        "author_id": "1795368899833106432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1831698141403607258",
+        "created_at": "2024-09-05T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831698141403607258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtv5kbx1ol",
+              "end": 74,
+              "expanded_url": "https://twitter.com/BeachSophi19611/status/1831698141403607258/photo/1",
+              "media_key": "3_1831698122126585860",
+              "start": 51,
+              "url": "https://t.co/WTv5kbx1OL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831698141403607258",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“怎么样刀客塔?我的黑丝美脚应你的要求在鞋里闷了好久，大概.....一周吧一直穿着，要不要闻闻看?” https://t.co/WTv5kbx1OL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 81,
+          "like_count": 451,
+          "listed_count": 0,
+          "tweet_count": 542
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T08:18:05.000Z",
+        "description": "复活啦，咱还是那个媚黑(黑爹最棒)抖m喜欢靴子xp无下限的人，准男娘！欢迎大家骚扰我哦！帮你们处理性欲是我的责任呢",
+        "id": "1795368899833106432",
+        "name": "安兰尔(复活版)♠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947057002168320/cntDruNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 408,
+          "like_count": 411,
+          "listed_count": 0,
+          "tweet_count": 788
+        },
+        "username": "BeachSophi19611",
+        "verified": false
+      }
+    ]
+  }
+}

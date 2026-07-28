@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908398852732019179",
+    "created_at": "2025-04-05T05:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908398852732019179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "文援"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "绿帽"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908398852732019179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907923121266638852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 盯着你申鹤祖宗和甘雨亲妈的臭脚看你妈呢？～傻狗旅行者💚～狗眼睛又在偷瞟祖宗乳沟了吧？～你也只配看着祖宗的酸臭汗脚～意淫祖宗在男爹胯下扭腰的样子了💚～自己用狗嘴给祖宗脚心舔干净～祖宗一会还要去跟男爹做爱呢💚 #文援 #绿帽 #足控 #nt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908398852732019179].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908398852732019179",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908398852732019179"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1907923117437304832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnpN93mbQAA2-1I.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907923117437304832"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1907923121266638852",
+        "created_at": "2025-04-03T22:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T23:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907923121266638852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "文援"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "绿帽"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "足控"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "ntr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QE6IuEhCpS",
+              "end": 143,
+              "expanded_url": "https://x.com/KendallRat17471/status/1907923121266638852/photo/1",
+              "media_key": "3_1907923117437304832",
+              "start": 120,
+              "url": "https://t.co/QE6IuEhCpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907923121266638852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6976,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "盯着你申鹤祖宗和甘雨亲妈的臭脚看你妈呢？～傻狗旅行者💚～狗眼睛又在偷瞟祖宗乳沟了吧？～你也只配看着祖宗的酸臭汗脚～意淫祖宗在男爹胯下扭腰的样子了💚～自己用狗嘴给祖宗脚心舔干净～祖宗一会还要去跟男爹做爱呢💚 #文援 #绿帽 #足控 #ntr https://t.co/QE6IuEhCpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 112,
+          "like_count": 1029,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1202
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212～营业时间8点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1904213441641943166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1666,
+          "like_count": 17,
+          "listed_count": 9,
+          "media_count": 42,
+          "tweet_count": 779
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

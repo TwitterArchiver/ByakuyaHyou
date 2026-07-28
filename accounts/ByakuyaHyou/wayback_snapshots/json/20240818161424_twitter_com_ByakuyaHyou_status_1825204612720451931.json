@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1825204612720451931",
+    "created_at": "2024-08-18T16:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T17:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825204612720451931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "上贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818201196777402368",
+          "start": 3,
+          "username": "qiyuanziiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825204612720451931",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819054412813513097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiyuanziiii: 来吧～回到姐姐的脚下..？💗\n乖孩子，听我说，要记住💗一辈子都是姐姐的小狗呢..💜\n想不想和姐姐就这样一直沉沦下去呢💜..阿..这就射了吗..真的是废狗..💜让姐姐看看你的价值吧.💓仅有的脑浆和钱包混在一起上贡给姐姐吧..？\n  #上贡奴 #A…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1825204612720451931",
+        "created_at": "2024-08-18T16:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T17:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825204612720451931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "上贡奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818201196777402368",
+              "start": 3,
+              "username": "qiyuanziiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825204612720451931",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819054412813513097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiyuanziiii: 来吧～回到姐姐的脚下..？💗\n乖孩子，听我说，要记住💗一辈子都是姐姐的小狗呢..💜\n想不想和姐姐就这样一直沉沦下去呢💜..阿..这就射了吗..真的是废狗..💜让姐姐看看你的价值吧.💓仅有的脑浆和钱包混在一起上贡给姐姐吧..？\n  #上贡奴 #A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819054408472449024"
+          ]
+        },
+        "author_id": "1818201196777402368",
+        "conversation_id": "1819054412813513097",
+        "created_at": "2024-08-01T16:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T17:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819054412813513097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "ATM机"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "sm"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "姐姐"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhxgmffjrp",
+              "end": 161,
+              "expanded_url": "https://twitter.com/qiyuanziiii/status/1819054412813513097/photo/1",
+              "media_key": "3_1819054408472449024",
+              "start": 138,
+              "url": "https://t.co/jhxGmFFjrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819054412813513097",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 823,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "来吧～回到姐姐的脚下..？💗\n乖孩子，听我说，要记住💗一辈子都是姐姐的小狗呢..💜\n想不想和姐姐就这样一直沉沦下去呢💜..阿..这就射了吗..真的是废狗..💜让姐姐看看你的价值吧.💓仅有的脑浆和钱包混在一起上贡给姐姐吧..？\n  #上贡奴 #ATM机 #sm #姐姐 #文援 https://t.co/jhxGmFFjrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 44,
+          "like_count": 86,
+          "listed_count": 0,
+          "tweet_count": 97
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T08:25:38.000Z",
+        "description": "姐姐白天很忙的哦～周末全天营业\n请把一切交给念安姐姐吧💗让姐姐榨取乖孩子吧直到一滴也不剩～❤️放弃思想和生活变成只会在姐姐脚下发情的淫乱小狗吧..？足够乖的话可以随机掉落姐姐专属的语音条哦❤️门牌3263569325",
+        "id": "1818201196777402368",
+        "name": "文援💕念安姐姐（互推）💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818911340414877696/1xX9vHf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "qiyuanziiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2076632625368940801",
+    "created_at": "2026-07-14T15:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077054796683714912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051337616629616644",
+          "start": 0,
+          "username": "queencrimson47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077054796683714912",
+    "in_reply_to_user_id": "2051337616629616644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076632625368940801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queencrimson47 扩列！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6461,
+        "height": 1280,
+        "media_key": "13_2076632563020668928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076632563020668928/img/Umjr9frNGkggt5aM.jpg",
+        "public_metrics": {
+          "view_count": 356
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076632563020668928/vid/avc1/320x568/mfVfZiATIbU9qU3T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076632563020668928/vid/avc1/480x852/eMne5h7pE_JAmS5q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076632563020668928/vid/avc1/720x1280/Z4n5Yuj7bF534HEx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076632563020668928/pl/h7ULweI_P0sRs4HX.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076632563033219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGuUEiaoAAO9UN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2076632625368940801",
+        "created_at": "2026-07-14T15:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077054796683714912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051337616629616644",
+              "start": 0,
+              "username": "queencrimson47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077054796683714912",
+        "in_reply_to_user_id": "2051337616629616644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076632625368940801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queencrimson47 扩列！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076632563020668928",
+            "3_2076632563033219072"
+          ]
+        },
+        "author_id": "2051337616629616644",
+        "conversation_id": "2076632625368940801",
+        "created_at": "2026-07-13T11:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076632625368940801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FlNhzNfuzk",
+              "end": 36,
+              "expanded_url": "https://x.com/queencrimson47/status/2076632625368940801/video/1",
+              "media_key": "13_2076632563020668928",
+              "start": 13,
+              "url": "https://t.co/FlNhzNfuzk"
+            },
+            {
+              "display_url": "pic.x.com/FlNhzNfuzk",
+              "end": 36,
+              "expanded_url": "https://x.com/queencrimson47/status/2076632625368940801/video/1",
+              "media_key": "3_2076632563033219072",
+              "start": 13,
+              "url": "https://t.co/FlNhzNfuzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076632625368940801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1497,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感觉空气口交好涩\n#男娘 https://t.co/FlNhzNfuzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1156,
+          "like_count": 1763,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T16:32:05.000Z",
+        "description": "这里是黑白，希望得到各位的喜欢哦！\n希望大家能找我来扩列",
+        "id": "2051337616629616644",
+        "name": "普通的黑白魔法使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051339609767022592/RnSC1s48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 31,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "queencrimson47",
+        "verified": false
+      }
+    ]
+  }
+}

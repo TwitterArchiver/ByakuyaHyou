@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897177169845219328",
+        "3_1897177169849409537"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897177180729385212",
+    "created_at": "2025-03-05T06:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897177180729385212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "文媛"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "语调"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBJsaGG2kH",
+          "end": 154,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1897177180729385212/photo/1",
+          "media_key": "3_1897177169845219328",
+          "start": 131,
+          "url": "https://t.co/WBJsaGG2kH"
+        },
+        {
+          "display_url": "pic.x.com/WBJsaGG2kH",
+          "end": 154,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1897177180729385212/photo/1",
+          "media_key": "3_1897177169849409537",
+          "start": 131,
+          "url": "https://t.co/WBJsaGG2kH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897177180729385212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这边是依奈哦～\n一个为了生活奔波的苦逼大学牲趴(目前因为生病原因在调养喵)\n下面是新的菜单哦～\n还在找适合自己的方面啦～\ns向🖤m向❤️都可以哦～\n为了生活！要开始疯狂接单了呢\n依奈小姐期待着与你相见～\n拜托啦～喜欢依奈的话，可以随时过来哦～\n#文媛  #语调 https://t.co/WBJsaGG2kH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897177169845219328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQglZSa8AAc6X3.jpg",
+        "width": 922
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897177169849409537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQglZTa4AE5kGY.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897177169845219328",
+            "3_1897177169849409537"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897177180729385212",
+        "created_at": "2025-03-05T06:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897177180729385212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文媛"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "语调"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBJsaGG2kH",
+              "end": 154,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1897177180729385212/photo/1",
+              "media_key": "3_1897177169845219328",
+              "start": 131,
+              "url": "https://t.co/WBJsaGG2kH"
+            },
+            {
+              "display_url": "pic.x.com/WBJsaGG2kH",
+              "end": 154,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1897177180729385212/photo/1",
+              "media_key": "3_1897177169849409537",
+              "start": 131,
+              "url": "https://t.co/WBJsaGG2kH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897177180729385212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这边是依奈哦～\n一个为了生活奔波的苦逼大学牲趴(目前因为生病原因在调养喵)\n下面是新的菜单哦～\n还在找适合自己的方面啦～\ns向🖤m向❤️都可以哦～\n为了生活！要开始疯狂接单了呢\n依奈小姐期待着与你相见～\n拜托啦～喜欢依奈的话，可以随时过来哦～\n#文媛  #语调 https://t.co/WBJsaGG2kH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 88,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 907
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

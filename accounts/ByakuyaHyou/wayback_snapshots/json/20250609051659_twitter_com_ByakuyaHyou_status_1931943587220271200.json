@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1931943587220271200",
+    "created_at": "2025-06-09T05:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T06:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931943587220271200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "贡畜"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "贡号"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "贡猪"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "败北凌辱"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "母狗公厕"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "貢ぎマゾ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931943587220271200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930621470075662462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 不要小看每次的妥协，量变引起质变，心理学上有个大众化的名词“服从性测试”，一下把他不喜欢的东西都塞给他，当然是不行的，给他一堆很爱的东西夹杂着一个不喜欢的东西 #ATM奴 #贡畜 #贡号 #贡猪 #败北凌辱 #女性崇拜 #母狗公厕 #貢ぎマゾ #貢ぎ奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931943587220271200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931943587220271200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931943587220271200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_1930621413658185729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrx8mTb0AEVH6t.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930621413658185729"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1930621470075662462",
+        "created_at": "2025-06-05T13:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930621470075662462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "贡畜"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "贡号"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "贡猪"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "母狗公厕"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "貢ぎ奴隷"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "雌堕培训"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "雌堕洗脑"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "绿奴调教"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "厕奴开发"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "马桶奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMoDhHdPes",
+              "end": 180,
+              "expanded_url": "https://x.com/yues666/status/1930621470075662462/photo/1",
+              "media_key": "3_1930621413658185729",
+              "start": 157,
+              "url": "https://t.co/pMoDhHdPes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930621470075662462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1477,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "不要小看每次的妥协，量变引起质变，心理学上有个大众化的名词“服从性测试”，一下把他不喜欢的东西都塞给他，当然是不行的，给他一堆很爱的东西夹杂着一个不喜欢的东西 #ATM奴 #贡畜 #贡号 #贡猪 #败北凌辱 #女性崇拜 #母狗公厕 #貢ぎマゾ #貢ぎ奴隷 #雌堕培训 #雌堕洗脑 #绿奴调教 #厕奴开发 #马桶奴 https://t.co/pMoDhHdPes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1241,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1446
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 12,
+          "like_count": 331,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 297
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

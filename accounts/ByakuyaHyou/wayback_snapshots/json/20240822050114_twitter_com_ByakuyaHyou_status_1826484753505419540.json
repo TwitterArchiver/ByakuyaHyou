@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826484450747895808"
+      ],
+      "media_source_tweet_id": [
+        "1826484453415530519"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826484753505419540",
+    "created_at": "2024-08-22T05:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T06:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826484753505419540"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "文爱"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "文援姬"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "文援"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "ATM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1823934672948355075",
+          "start": 3,
+          "username": "m86054151758971"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnl3r5nfhr",
+          "end": 111,
+          "expanded_url": "https://twitter.com/m86054151758971/status/1826484453415530519/photo/1",
+          "media_key": "3_1826484450747895808",
+          "start": 88,
+          "url": "https://t.co/bNl3R5NFHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826484753505419540",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826484453415530519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m86054151758971: 不知道改写什么好呢，那就试试有没有贡奴给姐姐上贡吧～（应该会有人乖乖被姐姐钓的吧🖤）\n#文爱 #文援姬  #文援 #上贡奴 #ATM https://t.co/bNl3R5NFHr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826484753505419540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826484753505419540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826484753505419540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_1826484450747895808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVj57kqaUAA0rF6.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826484450747895808"
+          ]
+        },
+        "author_id": "1823934672948355075",
+        "conversation_id": "1826484453415530519",
+        "created_at": "2024-08-22T05:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T06:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826484453415530519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "文爱"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "文援姬"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "文援"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "ATM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnl3r5nfhr",
+              "end": 90,
+              "expanded_url": "https://twitter.com/m86054151758971/status/1826484453415530519/photo/1",
+              "media_key": "3_1826484450747895808",
+              "start": 67,
+              "url": "https://t.co/bNl3R5NFHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826484453415530519",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道改写什么好呢，那就试试有没有贡奴给姐姐上贡吧～（应该会有人乖乖被姐姐钓的吧🖤）\n#文爱 #文援姬  #文援 #上贡奴 #ATM https://t.co/bNl3R5NFHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 65,
+          "like_count": 218,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T04:08:16.000Z",
+        "description": "是文援姬～慕哦❤️也是一个卑微的文援姬啦，欢迎前辈来找慕聊天。基本上没有什么人气的说QAQ，也欢迎小家伙来找姐姐闲聊的哦。不过～姐姐可能会在闲聊的过程中～去玩弄小家伙哦❤️\n贱货贡奴和ATM奴乖乖的给姐姐吐钱吧🖤\n慕会用自己的文笔来征服每一位来找慕的小可爱呢\n慕的企鹅号：3993705909 PS：不涉三，纯文呢。",
+        "id": "1823934672948355075",
+        "name": "慕慕酱（文援姬）",
+        "pinned_tweet_id": "1825583690048753962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823934758201778179/KJiTS4NU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 20,
+          "like_count": 93,
+          "listed_count": 1,
+          "tweet_count": 106
+        },
+        "username": "m86054151758971",
+        "verified": false
+      }
+    ]
+  }
+}

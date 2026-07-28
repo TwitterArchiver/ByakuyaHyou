@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822813583694245888"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1822813626346189009",
+    "created_at": "2024-08-12T01:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T02:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822813626346189009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qddi9a9v0w",
+          "end": 96,
+          "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822813626346189009/photo/1",
+          "media_key": "3_1822813583694245888",
+          "start": 73,
+          "url": "https://t.co/QDdI9a9v0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822813626346189009",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "涩涩团记录~ 与杀人鬼谈恋爱吧~这里是导入部分哒 \n（虽然当时没有跑完呜，就把这边的描述发出来啦） \n（文笔感觉很差呜，有问题的点欢迎指出哒~） https://t.co/QDdI9a9v0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2414,
+        "media_key": "3_1822813583694245888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUvvS_PaMAAdtiZ.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822813583694245888"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1822813626346189009",
+        "created_at": "2024-08-12T01:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T02:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822813626346189009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qddi9a9v0w",
+              "end": 96,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822813626346189009/photo/1",
+              "media_key": "3_1822813583694245888",
+              "start": 73,
+              "url": "https://t.co/QDdI9a9v0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822813626346189009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "涩涩团记录~ 与杀人鬼谈恋爱吧~这里是导入部分哒 \n（虽然当时没有跑完呜，就把这边的描述发出来啦） \n（文笔感觉很差呜，有问题的点欢迎指出哒~） https://t.co/QDdI9a9v0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "喜欢文爱的女大学生一枚哦～\n新晋文媛一枚哦\n各类xp都可以接受哒~接受度高~\n期待与你的相遇哒~\n本体是可爱的史莱姆团团哦~可以变成样子哦~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572765943495008256/7pFsaSNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

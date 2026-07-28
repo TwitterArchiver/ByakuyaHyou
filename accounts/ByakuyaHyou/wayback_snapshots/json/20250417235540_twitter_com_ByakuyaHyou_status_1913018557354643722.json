@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912732979660492800",
+        "3_1912732986438459392",
+        "3_1912732973243265024",
+        "3_1912732994705494016"
+      ],
+      "media_source_tweet_id": [
+        "1912733006835470449",
+        "1912733006835470449",
+        "1912733006835470449",
+        "1912733006835470449"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913018557354643722",
+    "created_at": "2025-04-17T23:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913018557354643722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758111721368240128",
+          "start": 3,
+          "username": "domdomdom1213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3QFH07ZdBJ",
+          "end": 74,
+          "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+          "media_key": "3_1912732979660492800",
+          "start": 51,
+          "url": "https://t.co/3QFH07ZdBJ"
+        },
+        {
+          "display_url": "pic.x.com/3QFH07ZdBJ",
+          "end": 74,
+          "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+          "media_key": "3_1912732986438459392",
+          "start": 51,
+          "url": "https://t.co/3QFH07ZdBJ"
+        },
+        {
+          "display_url": "pic.x.com/3QFH07ZdBJ",
+          "end": 74,
+          "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+          "media_key": "3_1912732973243265024",
+          "start": 51,
+          "url": "https://t.co/3QFH07ZdBJ"
+        },
+        {
+          "display_url": "pic.x.com/3QFH07ZdBJ",
+          "end": 74,
+          "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+          "media_key": "3_1912732994705494016",
+          "start": 51,
+          "url": "https://t.co/3QFH07ZdBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913018557354643722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912733006835470449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @domdomdom1213: 昨日部分接单记录📋📋\n快点来找我鉴鸡\n可以双人鉴鸡or双人调教 https://t.co/3QFH07ZdBJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913018557354643722].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913018557354643722",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913018557354643722"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1912732979660492800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotkgsrWkAA8p_Z.jpg",
+        "width": 616
+      },
+      {
+        "height": 575,
+        "media_key": "3_1912732986438459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotkhF7WIAAgxcj.jpg",
+        "width": 617
+      },
+      {
+        "height": 1262,
+        "media_key": "3_1912732973243265024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotkgUxXcAALXAR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2063,
+        "media_key": "3_1912732994705494016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotkhkuXEAAcTF8.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912732979660492800",
+            "3_1912732986438459392",
+            "3_1912732973243265024",
+            "3_1912732994705494016"
+          ]
+        },
+        "author_id": "1758111721368240128",
+        "conversation_id": "1912733006835470449",
+        "created_at": "2025-04-17T05:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912733006835470449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QFH07ZdBJ",
+              "end": 55,
+              "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+              "media_key": "3_1912732979660492800",
+              "start": 32,
+              "url": "https://t.co/3QFH07ZdBJ"
+            },
+            {
+              "display_url": "pic.x.com/3QFH07ZdBJ",
+              "end": 55,
+              "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+              "media_key": "3_1912732986438459392",
+              "start": 32,
+              "url": "https://t.co/3QFH07ZdBJ"
+            },
+            {
+              "display_url": "pic.x.com/3QFH07ZdBJ",
+              "end": 55,
+              "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+              "media_key": "3_1912732973243265024",
+              "start": 32,
+              "url": "https://t.co/3QFH07ZdBJ"
+            },
+            {
+              "display_url": "pic.x.com/3QFH07ZdBJ",
+              "end": 55,
+              "expanded_url": "https://x.com/domdomdom1213/status/1912733006835470449/photo/1",
+              "media_key": "3_1912732994705494016",
+              "start": 32,
+              "url": "https://t.co/3QFH07ZdBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912733006835470449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "昨日部分接单记录📋📋\n快点来找我鉴鸡\n可以双人鉴鸡or双人调教 https://t.co/3QFH07ZdBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1267
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:51:33.000Z",
+        "description": "07播音生语音鉴鸡30块！至尊鉴+20米(更详细)，视频鉴+10米快来找我鉴！！！🚪30r，私信口令（可抵扣）多人鉴鸡加q咨询，还可以鉴颜，鉴女友，鉴b",
+        "id": "1758111721368240128",
+        "name": "清水（鉴🐔三十）",
+        "pinned_tweet_id": "1790292119187562828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758113466110619648/f89PIP_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4545,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 2986
+        },
+        "username": "domdomdom1213",
+        "verified": false
+      }
+    ]
+  }
+}

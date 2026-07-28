@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939301648242720863",
+    "created_at": "2025-06-29T12:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939301648242720863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299287463630839810",
+          "start": 3,
+          "username": "tangxitiaddh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939301648242720863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939186476564259140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangxitiaddh: 请乖乖的配合♡\n捆起来是为了不让小狗狗乱动的～\n…… 捆好了（四肢被静电胶带一圈一圈的捆成了小狗狗的样子）\n小肉棒都已经迫不及待了呢～\n（脱下丝袜撑开～涂满润滑液♡压在肉棒上面～）\n那我们开始吧♡拉动丝袜～\n身体已经在抖动了呢～这就受不了了嘛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939301648242720863].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939301648242720863",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939301648242720863"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939186471279185920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gulf0kXW0AACg5y.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939186471279185920"
+          ]
+        },
+        "author_id": "1299287463630839810",
+        "conversation_id": "1939186476564259140",
+        "created_at": "2025-06-29T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939186476564259140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MskCD5KdFC",
+              "end": 166,
+              "expanded_url": "https://x.com/tangxitiaddh/status/1939186476564259140/photo/1",
+              "media_key": "3_1939186471279185920",
+              "start": 143,
+              "url": "https://t.co/MskCD5KdFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939186476564259140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 489,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "请乖乖的配合♡\n捆起来是为了不让小狗狗乱动的～\n…… 捆好了（四肢被静电胶带一圈一圈的捆成了小狗狗的样子）\n小肉棒都已经迫不及待了呢～\n（脱下丝袜撑开～涂满润滑液♡压在肉棒上面～）\n那我们开始吧♡拉动丝袜～\n身体已经在抖动了呢～这就受不了了嘛～挣扎吧～扭动吧～\n咱可♡不会♡停下♡呢♡ https://t.co/MskCD5KdFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1492
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T10:07:45.000Z",
+        "description": "门牌号3162467594    大家好，我叫唐希tia\n可以叫我希希～ 被魅魔猫猫选中的人类呀，要负责每天上贡浓稠的牛奶、小鱼干、粗大的火腿肠、供我玩弄的小玩具还有...和咱玩「各种有趣的小游戏哦」\n瑟瑟的姐姐 @xingyuQAQ\n主人@Rindar_Guo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 107,
+                "username": "xingyuQAQ"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Rindar_Guo"
+              }
+            ]
+          }
+        },
+        "id": "1299287463630839810",
+        "location": "可爱",
+        "name": "❥唐希tia✨（希希）✨喵娘✨小号互推",
+        "pinned_tweet_id": "1894913285792948610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599626087147130881/rTwSD75Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 417,
+          "like_count": 890,
+          "listed_count": 7,
+          "media_count": 98,
+          "tweet_count": 1104
+        },
+        "username": "tangxitiaddh",
+        "verified": false
+      }
+    ]
+  }
+}

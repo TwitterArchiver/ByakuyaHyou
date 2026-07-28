@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828963483444252775",
+    "created_at": "2024-08-29T01:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T02:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828963483444252775"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "文援"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文爱"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "足交"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589542146998427649",
+          "start": 3,
+          "username": "xcwnaxida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828963483444252775",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828783392076578896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xcwnaxida: 大哥哥也不怎么样嘛～杂鱼～这么快就输给纳西妲了，那么作为惩罚，就乖乖的当纳西妲的鞋垫吧～欸～肉棒变得更硬了？真是变态，被踩着就这么让你感到兴奋吗？真恶心～变态杂鱼肉棒连插进女孩子小穴的资格都没有，只配在纳西妲的鞋底下发情呢～\n#文援 #文爱 #足交…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828963483444252775].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828963483444252775",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828963483444252775"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828783388611788800"
+          ]
+        },
+        "author_id": "1589542146998427649",
+        "conversation_id": "1828783392076578896",
+        "created_at": "2024-08-28T13:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T14:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828783392076578896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "文援"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "文爱"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "足交"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnzdjwamn0",
+              "end": 152,
+              "expanded_url": "https://twitter.com/xcwnaxida/status/1828783392076578896/photo/1",
+              "media_key": "3_1828783388611788800",
+              "start": 129,
+              "url": "https://t.co/gnzdjwAMN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828783392076578896",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1700,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥也不怎么样嘛～杂鱼～这么快就输给纳西妲了，那么作为惩罚，就乖乖的当纳西妲的鞋垫吧～欸～肉棒变得更硬了？真是变态，被踩着就这么让你感到兴奋吗？真恶心～变态杂鱼肉棒连插进女孩子小穴的资格都没有，只配在纳西妲的鞋底下发情呢～\n#文援 #文爱 #足交 #羞辱 https://t.co/gnzdjwAMN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 69,
+          "like_count": 336,
+          "listed_count": 0,
+          "tweet_count": 393
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T08:56:02.000Z",
+        "description": "初次见面，我叫纳西妲，我对你很感兴趣呢，如果可以的话，能够用我的知识换取你曾经历过的冒险吗？那一定会像小猫舔树莓汁一样有趣，那么，你可以成为我的贤者吗？智慧殿堂密信:3933020231，35/30分钟，60/1h，不涉三～额外：可接其他崩原角色。这是最杂鱼的杂鱼旅行者@dnggu156261",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "dnggu156261"
+              }
+            ]
+          }
+        },
+        "id": "1589542146998427649",
+        "name": "小吉祥草王纳西妲",
+        "pinned_tweet_id": "1781241746338283945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824876677635129344/P5wsd4J5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 21,
+          "like_count": 261,
+          "listed_count": 3,
+          "tweet_count": 303
+        },
+        "username": "xcwnaxida",
+        "verified": false
+      }
+    ]
+  }
+}

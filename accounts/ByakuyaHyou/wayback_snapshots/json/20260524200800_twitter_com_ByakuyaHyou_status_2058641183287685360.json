@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058218958432731446",
+    "created_at": "2026-05-24T20:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058641183287685360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014989014286454784",
+          "start": 0,
+          "username": "laozhaizhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058641183287685360",
+    "in_reply_to_user_id": "2014989014286454784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058218958432731446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozhaizhai 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058218958432731446",
+        "created_at": "2026-05-24T20:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058641183287685360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014989014286454784",
+              "start": 0,
+              "username": "laozhaizhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058641183287685360",
+        "in_reply_to_user_id": "2014989014286454784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058218958432731446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhaizhai 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014989014286454784",
+        "conversation_id": "2058218958432731446",
+        "created_at": "2026-05-23T16:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058218958432731446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058218958432731446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天终于可以休息了，连续上了半个月的班快要死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 603,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1598
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T09:10:07.000Z",
+        "description": "烤p、舞萌吃一枚，喜欢的角色是pjsk里面的宵崎奏还有《BanG Dream》里面的要乐奈，喜欢玩cosplay，平时也会经常健身和跑步",
+        "id": "2014989014286454784",
+        "location": "浙江",
+        "name": "牢宅宅宅宅宅",
+        "pinned_tweet_id": "2046627330580521396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046263562843324417/MxHOH5n9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 202,
+          "like_count": 870,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 340
+        },
+        "username": "laozhaizhai",
+        "verified": true
+      }
+    ]
+  }
+}

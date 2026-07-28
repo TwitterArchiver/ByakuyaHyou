@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1918849928589357489",
+    "created_at": "2025-05-04T02:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T03:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918849928589357489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918849928589357489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918639207981121985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “你是主人的rbq，你是喜欢吃臭鸡巴的母猪，是隔壁大叔的肉便器~”\n被大叔突然拿出来的神秘app吸走心神 眼睛变成圈圈眼 强行修改认知\n\n“哼哧哼哧，窝是母猪喵，主人有什么吩咐，需要人家的烂穴来处理性欲吗❤️”\n原本翘着粉白条纹袜足的嚣张少女呆…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1918849928589357489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1918849928589357489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918849928589357489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1918639204525092865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBgMO3bMAEjnYv.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918639204525092865"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1918639207981121985",
+        "created_at": "2025-05-03T12:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918639207981121985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "催眠"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "母猪"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文媛"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "文爱"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G724Vz7MaA",
+              "end": 178,
+              "expanded_url": "https://x.com/q3233788635/status/1918639207981121985/photo/1",
+              "media_key": "3_1918639204525092865",
+              "start": 155,
+              "url": "https://t.co/G724Vz7MaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918639207981121985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2909,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "“你是主人的rbq，你是喜欢吃臭鸡巴的母猪，是隔壁大叔的肉便器~”\n被大叔突然拿出来的神秘app吸走心神 眼睛变成圈圈眼 强行修改认知\n\n“哼哧哼哧，窝是母猪喵，主人有什么吩咐，需要人家的烂穴来处理性欲吗❤️”\n原本翘着粉白条纹袜足的嚣张少女呆滞下来，掰开嫩穴淫乱猪叫 #催眠 #母猪 #文媛 #文爱 #调教 https://t.co/G724Vz7MaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 117,
+          "like_count": 1163,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1371
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 457,
+          "like_count": 3209,
+          "listed_count": 10,
+          "media_count": 75,
+          "tweet_count": 3116
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897615416895352935",
+    "created_at": "2025-03-06T11:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897615416895352935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897615416895352935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897602046729064549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 骚逼贱狗！不是你刚刚让主人玩死你的嘛～🩷\n你忘记刚刚一边摇晃着小鸡巴一边乞求主人玩你的贱样了嘛～🩷怎么现在开始求饶了呢～🩷\n一直在高潮边缘的鸡巴～🩷被主人的丝袜臭脚狠狠玩弄～🩷\n已经快喷出来了吧～🩷不过看着你浪叫颤抖～🩷强迫自己不要蛇精…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897615416895352935].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897615416895352935",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897615416895352935"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897602036117508096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWi_3fXkAA40nb.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897602036033855488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWi_3LbIAAGJCn.jpg",
+        "width": 934
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897602036625264640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWi_5YbUAAp8pg.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897602036117508096",
+            "3_1897602036033855488",
+            "3_1897602036625264640"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1897602046729064549",
+        "created_at": "2025-03-06T10:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897602046729064549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UA03myevpy",
+              "end": 160,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897602046729064549/photo/1",
+              "media_key": "3_1897602036117508096",
+              "start": 137,
+              "url": "https://t.co/UA03myevpy"
+            },
+            {
+              "display_url": "pic.x.com/UA03myevpy",
+              "end": 160,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897602046729064549/photo/1",
+              "media_key": "3_1897602036033855488",
+              "start": 137,
+              "url": "https://t.co/UA03myevpy"
+            },
+            {
+              "display_url": "pic.x.com/UA03myevpy",
+              "end": 160,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897602046729064549/photo/1",
+              "media_key": "3_1897602036625264640",
+              "start": 137,
+              "url": "https://t.co/UA03myevpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897602046729064549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "骚逼贱狗！不是你刚刚让主人玩死你的嘛～🩷\n你忘记刚刚一边摇晃着小鸡巴一边乞求主人玩你的贱样了嘛～🩷怎么现在开始求饶了呢～🩷\n一直在高潮边缘的鸡巴～🩷被主人的丝袜臭脚狠狠玩弄～🩷\n已经快喷出来了吧～🩷不过看着你浪叫颤抖～🩷强迫自己不要蛇精的贱样🩷\n主人很喜欢呢～想不想蛇啊🩷 https://t.co/UA03myevpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 92,
+          "like_count": 753,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 942
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1888170530697830524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 90,
+          "like_count": 9,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 3004
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

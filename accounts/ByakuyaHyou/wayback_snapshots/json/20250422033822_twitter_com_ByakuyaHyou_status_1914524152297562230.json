@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914524152297562230",
+    "created_at": "2025-04-22T03:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914524152297562230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803981725686730753",
+          "start": 3,
+          "username": "Go5Io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914524152297562230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913952211111186826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Go5Io: 今天晚上展出的是，不自量力妄想对付正道的邪修母女。二贼长期占据山头为非作歹，欺压良善胡作非为，现被本宫缉拿归案，开始改恶从善正道♡\n\n用特殊的沉香木做成的人格纠正器将死死的锁住两头恶贼，让母女二人互相直视思过。再加上外部日夜诵经，相信二贼很快便能服务乡里改…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914524152297562230].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914524152297562230",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914524152297562230"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1913952208544243712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-5ZKNaoAAihaX.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913952208544243712"
+          ]
+        },
+        "author_id": "1803981725686730753",
+        "conversation_id": "1913952211111186826",
+        "created_at": "2025-04-20T13:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T14:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913952211111186826"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文爱"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMt8u0N9tt",
+              "end": 168,
+              "expanded_url": "https://x.com/Go5Io/status/1913952211111186826/photo/1",
+              "media_key": "3_1913952208544243712",
+              "start": 145,
+              "url": "https://t.co/PMt8u0N9tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913952211111186826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4051,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上展出的是，不自量力妄想对付正道的邪修母女。二贼长期占据山头为非作歹，欺压良善胡作非为，现被本宫缉拿归案，开始改恶从善正道♡\n\n用特殊的沉香木做成的人格纠正器将死死的锁住两头恶贼，让母女二人互相直视思过。再加上外部日夜诵经，相信二贼很快便能服务乡里改邪归正♡\n#文援 #文爱 #调教 https://t.co/PMt8u0N9tt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 115,
+          "like_count": 1084,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1287
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T02:42:21.000Z",
+        "description": "美熟正道盟主、阴阳仙后。前任皓月宫大宫主(现在的二宫主)。\n\n武功是皓月宫的嫡传心法，冰雪宝鉴。被她练到极致纯化升华成冰月神鉴，江湖中的武林神话。\n\n私信没回表示不感兴趣，感兴趣的会掉落门牌号。",
+        "id": "1803981725686730753",
+        "name": "倾雪圣母",
+        "pinned_tweet_id": "1831258519120576776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803986135112388608/Eg-aYd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4096,
+          "following_count": 0,
+          "like_count": 386,
+          "listed_count": 20,
+          "media_count": 144,
+          "tweet_count": 814
+        },
+        "username": "Go5Io",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841148224910082053"
+      ],
+      "media_source_tweet_id": [
+        "1841148231960707159"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841170559251726673",
+    "created_at": "2024-10-01T17:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170559251726673"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "女s"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1728807397056274432",
+          "start": 3,
+          "username": "DickersonS81155"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFMFDud8Pj",
+          "end": 54,
+          "expanded_url": "https://x.com/DickersonS81155/status/1841148231960707159/photo/1",
+          "media_key": "3_1841148224910082053",
+          "start": 31,
+          "url": "https://t.co/eFMFDud8Pj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170559251726673",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841148231960707159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DickersonS81155: 想骂傻逼了 #女s https://t.co/eFMFDud8Pj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_1841148224910082053",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY0SjkSbQAUMSRJ.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841148224910082053"
+          ],
+          "media_source_tweet_id": [
+            "1841148231960707159"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1841170559251726673",
+        "created_at": "2024-10-01T17:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T18:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841170559251726673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女s"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1728807397056274432",
+              "start": 3,
+              "username": "DickersonS81155"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFMFDud8Pj",
+              "end": 54,
+              "expanded_url": "https://x.com/DickersonS81155/status/1841148231960707159/photo/1",
+              "media_key": "3_1841148224910082053",
+              "start": 31,
+              "url": "https://t.co/eFMFDud8Pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841170559251726673",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841148231960707159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DickersonS81155: 想骂傻逼了 #女s https://t.co/eFMFDud8Pj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841148224910082053"
+          ]
+        },
+        "author_id": "1728807397056274432",
+        "conversation_id": "1841148231960707159",
+        "created_at": "2024-10-01T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841148231960707159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "女s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFMFDud8Pj",
+              "end": 33,
+              "expanded_url": "https://x.com/DickersonS81155/status/1841148231960707159/photo/1",
+              "media_key": "3_1841148224910082053",
+              "start": 10,
+              "url": "https://t.co/eFMFDud8Pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841148231960707159",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "想骂傻逼了 #女s https://t.co/eFMFDud8Pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 588,
+          "listed_count": 0,
+          "tweet_count": 735
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T16:06:37.000Z",
+        "description": "喜欢脑残提款机🏧/无脑大傻b/脑残白给机器 Qq 3685796971🚪28",
+        "id": "1728807397056274432",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751625086279589888/C6BGjlwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 46,
+          "like_count": 234,
+          "listed_count": 1,
+          "tweet_count": 769
+        },
+        "username": "DickersonS81155",
+        "verified": false
+      }
+    ]
+  }
+}

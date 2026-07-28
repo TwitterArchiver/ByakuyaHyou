@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830916745210605683",
+    "created_at": "2024-09-03T10:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T11:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830916745210605683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830916745210605683",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830895045060501667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 呼…1次🩷\r啊昂～2次🩷好舒服～\r求求主人调慢一点…3次🩷\r晓雨母狗受不了～啊～4次🩷\r好深啊啊！5次🩷求主人放过母狗！6次🩷\r呜呜一天之内高潮10次，母狗会坏掉的，7次🩷\n主人…母狗要喷了…啊哈～8次🩷\r晓雨是每天只会发情的骚狗…9次…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830916745210605683].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830916745210605683",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830916745210605683"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830895034633461764"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1830895045060501667",
+        "created_at": "2024-09-03T09:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T10:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830895045060501667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文援"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puhjol7dfz",
+              "end": 176,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1830895045060501667/photo/1",
+              "media_key": "3_1830895034633461764",
+              "start": 153,
+              "url": "https://t.co/pUHjOl7Dfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830895045060501667",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "呼…1次🩷\r啊昂～2次🩷好舒服～\r求求主人调慢一点…3次🩷\r晓雨母狗受不了～啊～4次🩷\r好深啊啊！5次🩷求主人放过母狗！6次🩷\r呜呜一天之内高潮10次，母狗会坏掉的，7次🩷\n主人…母狗要喷了…啊哈～8次🩷\r晓雨是每天只会发情的骚狗…9次🩷\r啊…10次🩷\r晓雨抽搐着倒在床上，身下一滩泥泞💦\r#文援 #母狗 https://t.co/pUHjOl7Dfz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 84,
+          "like_count": 411,
+          "listed_count": 0,
+          "tweet_count": 471
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱50/h，30/0.5h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 57,
+          "like_count": 188,
+          "listed_count": 1,
+          "tweet_count": 203
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

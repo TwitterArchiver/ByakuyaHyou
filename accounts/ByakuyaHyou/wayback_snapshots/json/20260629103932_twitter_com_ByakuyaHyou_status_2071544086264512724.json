@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2071340589401116724",
+    "created_at": "2026-06-29T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071544086264512724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1623026034080636928",
+          "start": 0,
+          "username": "sissyhr47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071544086264512724",
+    "in_reply_to_user_id": "1623026034080636928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071493558369210391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sissyhr47 宝宝你也可爱☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071544086264512724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1623026034080636928",
+              "start": 0,
+              "username": "sissyhr47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071544086264512724",
+        "in_reply_to_user_id": "1623026034080636928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071493558369210391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sissyhr47 宝宝你也可爱☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623026034080636928",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-29T07:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071493558369210391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071493558369210391",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071340589401116724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 姐姐好飒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1050,
+          "like_count": 1714,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T18:29:05.000Z",
+        "description": "20岁男大cd，性瘾婊子，长发中.ing，生殖崇拜，发情时思想会堕落，但是平时很正经，不要硬调戏哦\n偶尔上号\nQQ3934488286，ZN好友位🚪20",
+        "id": "1623026034080636928",
+        "location": "中华人民共和国 山西",
+        "name": "海子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623029411367772164/TngBV9s__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 207,
+          "like_count": 336,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "sissyhr47",
+        "verified": false
+      }
+    ]
+  }
+}

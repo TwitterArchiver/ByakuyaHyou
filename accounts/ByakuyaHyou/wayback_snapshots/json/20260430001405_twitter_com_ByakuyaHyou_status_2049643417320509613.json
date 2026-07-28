@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2049546561508786200",
+    "created_at": "2026-04-30T00:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049643417320509613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1535066149783621632",
+          "start": 0,
+          "username": "ruoyewuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049643417320509613",
+    "in_reply_to_user_id": "1535066149783621632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049546561508786200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoyewuye 我喜欢你cpdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2049546554487570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFzu3rbgAAxYru.jpg",
+        "width": 960
+      },
+      {
+        "height": 797,
+        "media_key": "3_2049546554483294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFzu3qaQAAPXyb.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2049546561508786200",
+        "created_at": "2026-04-30T00:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049643417320509613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1535066149783621632",
+              "start": 0,
+              "username": "ruoyewuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049643417320509613",
+        "in_reply_to_user_id": "1535066149783621632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049546561508786200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoyewuye 我喜欢你cpdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049546554487570432",
+            "3_2049546554483294208"
+          ]
+        },
+        "author_id": "1535066149783621632",
+        "conversation_id": "2049546561508786200",
+        "created_at": "2026-04-29T17:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049546561508786200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liYHMl0Yl8",
+              "end": 28,
+              "expanded_url": "https://x.com/ruoyewuye/status/2049546561508786200/photo/1",
+              "media_key": "3_2049546554487570432",
+              "start": 5,
+              "url": "https://t.co/liYHMl0Yl8"
+            },
+            {
+              "display_url": "pic.x.com/liYHMl0Yl8",
+              "end": 28,
+              "expanded_url": "https://x.com/ruoyewuye/status/2049546561508786200/photo/1",
+              "media_key": "3_2049546554483294208",
+              "start": 5,
+              "url": "https://t.co/liYHMl0Yl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049546561508786200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 410,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "并非复活 https://t.co/liYHMl0Yl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 255,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1530
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T01:08:18.000Z",
+        "description": "男，只是发发腿子，嗯，没有了",
+        "id": "1535066149783621632",
+        "location": "不告诉你",
+        "name": "若夜叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856918521231671296/2av7WE0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 348,
+          "like_count": 771,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 215
+        },
+        "username": "ruoyewuye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1904846324513832960",
+        "3_1904846324488691713"
+      ],
+      "media_source_tweet_id": [
+        "1904846379211776257",
+        "1904846379211776257"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905067506357907937",
+    "created_at": "2025-03-27T01:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T02:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905067506357907937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1895055897396953088",
+          "start": 3,
+          "username": "Angela057352466"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGBCE80GIZ",
+          "end": 114,
+          "expanded_url": "https://x.com/Angela057352466/status/1904846379211776257/video/1",
+          "media_key": "13_1904846324513832960",
+          "start": 91,
+          "url": "https://t.co/aGBCE80GIZ"
+        },
+        {
+          "display_url": "pic.x.com/aGBCE80GIZ",
+          "end": 114,
+          "expanded_url": "https://x.com/Angela057352466/status/1904846379211776257/video/1",
+          "media_key": "3_1904846324488691713",
+          "start": 91,
+          "url": "https://t.co/aGBCE80GIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905067506357907937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904846379211776257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angela057352466: 知道女主们为什么都爱拍脚底吗？因为合格的贱狗可以只看到脏鞋底就能一边磕头犯贱一边流出劣质精子，还露出恶心的表情跪舔，就说你呢，窥屏傻逼🖕️ https://t.co/aGBCE80GIZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905067506357907937].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905067506357907937",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905067506357907937"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3800,
+        "height": 1280,
+        "media_key": "13_1904846324513832960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1904846324513832960/img/xF0ESWY9JwJU5BV-.jpg",
+        "public_metrics": {
+          "view_count": 931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904846324513832960/vid/avc1/320x568/hvNAc67zBaESf-6R.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904846324513832960/vid/avc1/480x852/gk04fp4sveeUevP6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904846324513832960/vid/avc1/720x1280/np0Ng2K1gc6xHhaa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1904846324513832960/pl/iy2Sw9rnqEUg1OH3.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1904846324488691713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9fo8rbYAEalAM.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904846324513832960",
+            "3_1904846324488691713"
+          ]
+        },
+        "author_id": "1895055897396953088",
+        "conversation_id": "1904846379211776257",
+        "created_at": "2025-03-26T10:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904846379211776257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGBCE80GIZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Angela057352466/status/1904846379211776257/video/1",
+              "media_key": "13_1904846324513832960",
+              "start": 70,
+              "url": "https://t.co/aGBCE80GIZ"
+            },
+            {
+              "display_url": "pic.x.com/aGBCE80GIZ",
+              "end": 93,
+              "expanded_url": "https://x.com/Angela057352466/status/1904846379211776257/video/1",
+              "media_key": "3_1904846324488691713",
+              "start": 70,
+              "url": "https://t.co/aGBCE80GIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904846379211776257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5511,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "知道女主们为什么都爱拍脚底吗？因为合格的贱狗可以只看到脏鞋底就能一边磕头犯贱一边流出劣质精子，还露出恶心的表情跪舔，就说你呢，窥屏傻逼🖕️ https://t.co/aGBCE80GIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 105,
+          "like_count": 954,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1127
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T10:18:34.000Z",
+        "description": "吸榨黑压榨主，收傻逼提款机|无脑喷狗|压榨奴|工资奴|傻 逼贡畜|早泄绿王八 🚪30🐧 3850818872 大号@buchixiangcaisa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "buchixiangcaisa"
+              }
+            ]
+          }
+        },
+        "id": "1895055897396953088",
+        "name": "小软",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904835322112073730/RC_84gLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Angela057352466",
+        "verified": false
+      }
+    ]
+  }
+}

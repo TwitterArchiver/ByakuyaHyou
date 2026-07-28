@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832804903380812043",
+    "created_at": "2024-09-08T15:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T16:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832804903380812043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756046755525951488",
+          "start": 3,
+          "username": "V47ii41914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832804903380812043",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832253156451082656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @V47ii41914: 来一起喝杯茶吧…～不过你的那份可还要等下呢…（一丝不挂的男孩仰着头挺着那根细长的肉棒颤抖的用手撑着坐在地上，而面庞上早已被跨坐在自己身上身材丰满的熟女那黑丝包裹的硕大臀部包裹住并用嘴吸着小穴流出唾液，然后随着熟女身体一颤一股腥臭泛黄的热流渐渐的渗…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832804903380812043].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832804903380812043",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832804903380812043"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832253146707501056",
+            "3_1832253146523168771",
+            "3_1832253146556723200"
+          ]
+        },
+        "author_id": "1756046755525951488",
+        "conversation_id": "1832253156451082656",
+        "created_at": "2024-09-07T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832253156451082656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rujuhhxut",
+              "end": 164,
+              "expanded_url": "https://twitter.com/V47ii41914/status/1832253156451082656/photo/1",
+              "media_key": "3_1832253146707501056",
+              "start": 141,
+              "url": "https://t.co/4RUJuHHXuT"
+            },
+            {
+              "display_url": "pic.x.com/4rujuhhxut",
+              "end": 164,
+              "expanded_url": "https://twitter.com/V47ii41914/status/1832253156451082656/photo/1",
+              "media_key": "3_1832253146523168771",
+              "start": 141,
+              "url": "https://t.co/4RUJuHHXuT"
+            },
+            {
+              "display_url": "pic.x.com/4rujuhhxut",
+              "end": 164,
+              "expanded_url": "https://twitter.com/V47ii41914/status/1832253156451082656/photo/1",
+              "media_key": "3_1832253146556723200",
+              "start": 141,
+              "url": "https://t.co/4RUJuHHXuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832253156451082656",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1093,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "来一起喝杯茶吧…～不过你的那份可还要等下呢…（一丝不挂的男孩仰着头挺着那根细长的肉棒颤抖的用手撑着坐在地上，而面庞上早已被跨坐在自己身上身材丰满的熟女那黑丝包裹的硕大臀部包裹住并用嘴吸着小穴流出唾液，然后随着熟女身体一颤一股腥臭泛黄的热流渐渐的渗出来顺着男孩的躯体滑到地上）#文援 https://t.co/4RUJuHHXuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 80,
+          "like_count": 449,
+          "listed_count": 0,
+          "tweet_count": 537
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T20:06:02.000Z",
+        "description": "这里是全能沐沐是熟练精通s和m的双向文援姬哦~♥不仅是见到主人野爹大人们高贵肉屌就会瞬间发情丧志的傻屄母猪~♥也是会洗脑压榨公猪母畜的黑心亲妈不仅擅长寸止洗脑还会高潮剥夺哦~♥收费的话是早上9:00到晚上11:00为60h~11:00之后为65h~只要上交了金币沐沐就会满足一切需求哦❤️",
+        "id": "1756046755525951488",
+        "location": "门牌：3776319620（qq）营业时间：除了清晨和后半夜",
+        "name": "新人文援姬沐子",
+        "pinned_tweet_id": "1806378758074446251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806240438853976064/OdB23WBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "tweet_count": 437
+        },
+        "username": "V47ii41914",
+        "verified": false
+      }
+    ]
+  }
+}

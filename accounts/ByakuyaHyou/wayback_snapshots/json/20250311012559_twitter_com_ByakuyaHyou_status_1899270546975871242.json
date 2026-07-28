@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899270546975871242",
+    "created_at": "2025-03-11T01:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T02:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899270546975871242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898294543180861440",
+          "start": 3,
+          "username": "sharkshark1250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899270546975871242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899268172475511287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sharkshark1250: 废物杂鱼❤像你这样的废物杂鱼只能匍匐在地上被我用脚狠狠的蹂躏。\n你那短小的连正常尺寸都达不到的小别针也配享用我的小穴？像这样的东西只配被我用脚狠狠的踩在下面，光是这样子你都觉得很爽射出来了，不是废物杂鱼是什么？\n啧....真是恶心，像你这…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899270546975871242].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899270546975871242",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899270546975871242"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1899268115701387264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GluOSdmbUAAMAI0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899268115701387264"
+          ]
+        },
+        "author_id": "1898294543180861440",
+        "conversation_id": "1899268172475511287",
+        "created_at": "2025-03-11T01:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T02:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899268172475511287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFOmD8RNX8",
+              "end": 163,
+              "expanded_url": "https://x.com/sharkshark1250/status/1899268172475511287/photo/1",
+              "media_key": "3_1899268115701387264",
+              "start": 140,
+              "url": "https://t.co/wFOmD8RNX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899268172475511287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "废物杂鱼❤像你这样的废物杂鱼只能匍匐在地上被我用脚狠狠的蹂躏。\n你那短小的连正常尺寸都达不到的小别针也配享用我的小穴？像这样的东西只配被我用脚狠狠的踩在下面，光是这样子你都觉得很爽射出来了，不是废物杂鱼是什么？\n啧....真是恶心，像你这样的废物的劣质精液沾到一点我都觉得恶心。 https://t.co/wFOmD8RNX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 97,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 999
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T08:47:50.000Z",
+        "description": "是鲨鲨酱♡哦\n是新来的文媛一枚\n温柔大姐姐，邻家妹妹，懵懂小萝莉（你想要的我都可以）\n抖m抖s我都可以\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜百合贴贴～:\n@ByakuyaHyou\n 192786181（依奈可爱）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1898294543180861440",
+        "location": "赛博网络女鬼老婆",
+        "name": "鲨渔娘（文媛姬）",
+        "pinned_tweet_id": "1898313682645586315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898294779286528000/yse65cjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "sharkshark1250",
+        "verified": false
+      }
+    ]
+  }
+}

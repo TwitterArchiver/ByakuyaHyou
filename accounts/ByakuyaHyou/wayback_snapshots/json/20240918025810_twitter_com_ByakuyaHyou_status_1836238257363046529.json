@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836238257363046529",
+    "created_at": "2024-09-18T02:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T03:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836238257363046529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836238257363046529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836182300138311938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 这不是大名鼎鼎的星核猎手～♡那个危险，喜欢催眠别人的卡夫卡女士吗～🖤怎么现在衣不蔽体眼神呆滞～🧠像一个站街求肏的白给傻屄～❤️噫～你这母畜端着的是一盘什么呀🖤原来是你这个傻屄喷出来的人格啊～❤️罢了，这东西你也不需要了...像你现在这样也就只能…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836238257363046529].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836238257363046529",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836238257363046529"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836182297432985600"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1836182300138311938",
+        "created_at": "2024-09-17T23:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T00:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836182300138311938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "人格排泄"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "调教"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 141,
+              "id": "1832801209482387456",
+              "start": 129,
+              "username": "JinZhao1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6y6v36end",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1836182300138311938/photo/1",
+              "media_key": "3_1836182297432985600",
+              "start": 153,
+              "url": "https://t.co/o6y6V36eND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836182300138311938",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这不是大名鼎鼎的星核猎手～♡那个危险，喜欢催眠别人的卡夫卡女士吗～🖤怎么现在衣不蔽体眼神呆滞～🧠像一个站街求肏的白给傻屄～❤️噫～你这母畜端着的是一盘什么呀🖤原来是你这个傻屄喷出来的人格啊～❤️罢了，这东西你也不需要了...像你现在这样也就只能舔鸡吧了🖤💚\n@JinZhao1123 \n#人格排泄 #调教 https://t.co/o6y6V36eND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 81,
+          "like_count": 518,
+          "listed_count": 0,
+          "tweet_count": 626
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "【🚫败北于 @JinZhao1123 禁沼大人】\n这里是胧酱（也可以教我胧酱❤️），是一个可S可M的男娘文媛❤️喜欢剧情❤️指挥🖤调教🖤辱骂🖤榨精🖤上供🖤，什么内容胧酱都会去尽力满足的❤️营业时间为下午到晚上，凌晨想玩的自己滚出提前发消息🖤\n门牌:QQ3977285979\n已被禁沼大人改造为吸粉容器🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JinZhao1123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          }
+        },
+        "id": "1817852320375250944",
+        "location": "禁沼大人的袜下",
+        "name": "💙胧酱💙（互推）🖤",
+        "pinned_tweet_id": "1835178376824225833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833869906519142400/j2UFoRUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 168,
+          "like_count": 368,
+          "listed_count": 5,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/HXktQ7jLOK",
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

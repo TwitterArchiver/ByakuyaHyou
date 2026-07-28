@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838233056110670063",
+    "created_at": "2024-09-23T15:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838233056110670063"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "文爱"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "文媛"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "败北"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "轮奸"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838233056110670063",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838112908447985755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记25\n旅行者自己一个人前去营救杂鱼小草神，反倒中了贤者们的埋伏被抓住了，面对众多贤者的肉棒，结果可想而知\n这群家伙怎么这么厉害…咕…难怪杂鱼小草神…不要前后夹击…啊啊啊…感觉要被玩坏了…\n#文爱 #文媛 #败北 #轮奸 #剧情 h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838233056110670063].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838233056110670063",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838233056110670063"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838112898272616448",
+            "3_1838112898662760448"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1838112908447985755",
+        "created_at": "2024-09-23T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838112908447985755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "文爱"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "文媛"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "败北"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "轮奸"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kejzim29yn",
+              "end": 144,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838112908447985755/photo/1",
+              "media_key": "3_1838112898272616448",
+              "start": 121,
+              "url": "https://t.co/kejZiM29yn"
+            },
+            {
+              "display_url": "pic.x.com/kejzim29yn",
+              "end": 144,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838112908447985755/photo/1",
+              "media_key": "3_1838112898662760448",
+              "start": 121,
+              "url": "https://t.co/kejZiM29yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838112908447985755",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2283,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记25\n旅行者自己一个人前去营救杂鱼小草神，反倒中了贤者们的埋伏被抓住了，面对众多贤者的肉棒，结果可想而知\n这群家伙怎么这么厉害…咕…难怪杂鱼小草神…不要前后夹击…啊啊啊…感觉要被玩坏了…\n#文爱 #文媛 #败北 #轮奸 #剧情 https://t.co/kejZiM29yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 82,
+          "like_count": 559,
+          "listed_count": 0,
+          "tweet_count": 687
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "各种委托都样样精通的旅行者，旅行者总要有名字的，就叫冬瓜吧，可s可m，具体业务看置顶哦，接单号3102301701，不涉三，白天晚上皆可，30r0.5h，60r1h，主人 @fuxuan31473  姐妹 @guq1128649  伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "fuxuan31473"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "guq1128649"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "xcwnaxida"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "尘歌壶",
+        "name": "旅行者冬瓜（互推）",
+        "pinned_tweet_id": "1823239040210174343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814333574860144640/IvPmJtG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 135,
+          "like_count": 2387,
+          "listed_count": 9,
+          "tweet_count": 2584
+        },
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833779615850254715",
+    "created_at": "2024-09-11T08:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T09:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833779615850254715"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文援"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833779615850254715",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833700866823463380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 你看看你不争气的样子~康康人家黑爹大人，大大的呢~满满的食欲呢~感觉大战一晚上都不是问题哦~再看看你的小豆芽，稍微说你俩句就喷了~真是没用的废物呢~像你这种贱狗就在一边看着我和黑爹主人做爱 在一旁卑微的打手冲就行啦♡废物~ #文援 #文爱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833779615850254715].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833779615850254715",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833779615850254715"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833700853099941888"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1833700866823463380",
+        "created_at": "2024-09-11T02:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T03:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833700866823463380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "文援"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "文爱"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "媚黑"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "Qos"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "婊子"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "NTR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ix5wawqhkc",
+              "end": 161,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1833700866823463380/photo/1",
+              "media_key": "3_1833700853099941888",
+              "start": 138,
+              "url": "https://t.co/ix5wAwqHkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833700866823463380",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你看看你不争气的样子~康康人家黑爹大人，大大的呢~满满的食欲呢~感觉大战一晚上都不是问题哦~再看看你的小豆芽，稍微说你俩句就喷了~真是没用的废物呢~像你这种贱狗就在一边看着我和黑爹主人做爱 在一旁卑微的打手冲就行啦♡废物~ #文援 #文爱 #媚黑 #Qos #婊子 #NTR https://t.co/ix5wAwqHkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 81,
+          "like_count": 461,
+          "listed_count": 0,
+          "tweet_count": 560
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 4,
+          "tweet_count": 93
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

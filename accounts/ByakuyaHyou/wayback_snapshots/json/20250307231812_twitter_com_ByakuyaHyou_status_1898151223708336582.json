@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898151223708336582",
+    "created_at": "2025-03-07T23:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T00:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898151223708336582"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "鞋交"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898151223708336582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897988392895627660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 你肯定早就忍不住想把你那热乎乎的精液射上来，对不对🖤\n来嘛，别憋着，给我射满我的鞋子——我要你把那黏稠的东西灌进去，直到我的高跟鞋里满满当当都是你的味道，连鞋垫都湿透了，被你玷污得再也穿不下去🖤\n哎呀，小宝贝，你的眼神又开始躲闪了，这就受不了啦🖤\n#鞋交…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898151223708336582].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898151223708336582",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898151223708336582"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_1897988388197900288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcCYhJaIAAJsD3.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1090,
+        "media_key": "3_1897988388906844160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcCYjybwAAN80L.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897988388227366913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcCYhQbwAERm5z.jpg",
+        "width": 906
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897988388495773696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcCYiQbUAAgcCp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897988388197900288",
+            "3_1897988388906844160",
+            "3_1897988388227366913",
+            "3_1897988388495773696"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1897988392895627660",
+        "created_at": "2025-03-07T12:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897988392895627660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "鞋交"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "恋足"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "鞋底奴"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "射鞋打胶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIUr0gmyNS",
+              "end": 170,
+              "expanded_url": "https://x.com/mrfzxi/status/1897988392895627660/photo/1",
+              "media_key": "3_1897988388197900288",
+              "start": 147,
+              "url": "https://t.co/kIUr0gmyNS"
+            },
+            {
+              "display_url": "pic.x.com/kIUr0gmyNS",
+              "end": 170,
+              "expanded_url": "https://x.com/mrfzxi/status/1897988392895627660/photo/1",
+              "media_key": "3_1897988388906844160",
+              "start": 147,
+              "url": "https://t.co/kIUr0gmyNS"
+            },
+            {
+              "display_url": "pic.x.com/kIUr0gmyNS",
+              "end": 170,
+              "expanded_url": "https://x.com/mrfzxi/status/1897988392895627660/photo/1",
+              "media_key": "3_1897988388227366913",
+              "start": 147,
+              "url": "https://t.co/kIUr0gmyNS"
+            },
+            {
+              "display_url": "pic.x.com/kIUr0gmyNS",
+              "end": 170,
+              "expanded_url": "https://x.com/mrfzxi/status/1897988392895627660/photo/1",
+              "media_key": "3_1897988388495773696",
+              "start": 147,
+              "url": "https://t.co/kIUr0gmyNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897988392895627660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1319,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你肯定早就忍不住想把你那热乎乎的精液射上来，对不对🖤\n来嘛，别憋着，给我射满我的鞋子——我要你把那黏稠的东西灌进去，直到我的高跟鞋里满满当当都是你的味道，连鞋垫都湿透了，被你玷污得再也穿不下去🖤\n哎呀，小宝贝，你的眼神又开始躲闪了，这就受不了啦🖤\n#鞋交 #文爱 #恋足 #鞋底奴 #射鞋打胶 https://t.co/kIUr0gmyNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 95,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 964
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥pixiv上有自己的作品，可以看看哦♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 140,
+          "like_count": 203,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 420
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

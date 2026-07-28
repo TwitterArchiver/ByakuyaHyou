@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838636026258166123",
+    "created_at": "2024-09-24T17:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T18:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838636026258166123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838636026258166123",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838365135955726680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记26（大结局）\n被玩坏的旅行者被送到了壁炉之家，旅行者被眼前的一幕惊呆了，执行官仆人与琳妮特被疯狂的中出\n大家看着被送来的旅行者，纷纷亮出了自己硕大的肉棒，旅行者最终沦为了愚人众的肉便器\n嗯…啊啊啊…要去了…啊啊啊…好厉害…用力……"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838636026258166123].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838636026258166123",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838636026258166123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838365101457575936",
+            "3_1838365124731797504",
+            "3_1838365102879490048",
+            "3_1838365104905338880"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838365135955726680",
+        "created_at": "2024-09-23T23:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T00:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838365135955726680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文媛"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文爱"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "败北"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6meld8tmss",
+              "end": 167,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838365135955726680/photo/1",
+              "media_key": "3_1838365101457575936",
+              "start": 144,
+              "url": "https://t.co/6MeLD8TMSs"
+            },
+            {
+              "display_url": "pic.x.com/6meld8tmss",
+              "end": 167,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838365135955726680/photo/1",
+              "media_key": "3_1838365124731797504",
+              "start": 144,
+              "url": "https://t.co/6MeLD8TMSs"
+            },
+            {
+              "display_url": "pic.x.com/6meld8tmss",
+              "end": 167,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838365135955726680/photo/1",
+              "media_key": "3_1838365102879490048",
+              "start": 144,
+              "url": "https://t.co/6MeLD8TMSs"
+            },
+            {
+              "display_url": "pic.x.com/6meld8tmss",
+              "end": 167,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838365135955726680/photo/1",
+              "media_key": "3_1838365104905338880",
+              "start": 144,
+              "url": "https://t.co/6MeLD8TMSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838365135955726680",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3846,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记26（大结局）\n被玩坏的旅行者被送到了壁炉之家，旅行者被眼前的一幕惊呆了，执行官仆人与琳妮特被疯狂的中出\n大家看着被送来的旅行者，纷纷亮出了自己硕大的肉棒，旅行者最终沦为了愚人众的肉便器\n嗯…啊啊啊…要去了…啊啊啊…好厉害…用力…齁哦哦哦…\n#文媛 #文爱 #败北 #黑丝 https://t.co/6MeLD8TMSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 83,
+          "like_count": 567,
+          "listed_count": 0,
+          "tweet_count": 700
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "接单号3659414428，不涉三，白天晚上皆可，30r0.5h，60r1h，姐妹 @guq1128649  伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "guq1128649"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "尘歌壶",
+        "name": "旅行者冬瓜（互推）",
+        "pinned_tweet_id": "1823239040210174343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814333574860144640/IvPmJtG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 134,
+          "like_count": 2408,
+          "listed_count": 9,
+          "tweet_count": 2537
+        },
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

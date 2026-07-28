@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831600643875963111",
+    "created_at": "2024-09-05T07:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T08:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831600643875963111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        },
+        {
+          "end": 73,
+          "id": "1213454700495851520",
+          "start": 62,
+          "username": "Rindar_Guo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831600643875963111",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831586718589579358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 当窒息转化为快感，束缚转化为兴奋，每一次的触碰都是至高无上的赏赐……昨晚，很舒服呢@Rindar_Guo \r感谢大叔，晓雨母狗被调教成合格的口便器了呢❤️\r啊哈…想到昨天的情景，小母狗又忍不住发情流水了💦呜呜晓雨好想吃肉棒…\r主人喂晓雨…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831600643875963111].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831600643875963111",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831600643875963111"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831586707931570177",
+            "3_1831586707747303424",
+            "3_1831586707747319809",
+            "3_1831586707952521217"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1831586718589579358",
+        "created_at": "2024-09-05T06:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T07:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831586718589579358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "母狗"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1213454700495851520",
+              "start": 41,
+              "username": "Rindar_Guo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fi4zlmcoek",
+              "end": 170,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1831586718589579358/photo/1",
+              "media_key": "3_1831586707931570177",
+              "start": 147,
+              "url": "https://t.co/FI4ZLmCoEK"
+            },
+            {
+              "display_url": "pic.x.com/fi4zlmcoek",
+              "end": 170,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1831586718589579358/photo/1",
+              "media_key": "3_1831586707747303424",
+              "start": 147,
+              "url": "https://t.co/FI4ZLmCoEK"
+            },
+            {
+              "display_url": "pic.x.com/fi4zlmcoek",
+              "end": 170,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1831586718589579358/photo/1",
+              "media_key": "3_1831586707747319809",
+              "start": 147,
+              "url": "https://t.co/FI4ZLmCoEK"
+            },
+            {
+              "display_url": "pic.x.com/fi4zlmcoek",
+              "end": 170,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1831586718589579358/photo/1",
+              "media_key": "3_1831586707952521217",
+              "start": 147,
+              "url": "https://t.co/FI4ZLmCoEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831586718589579358",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "当窒息转化为快感，束缚转化为兴奋，每一次的触碰都是至高无上的赏赐……昨晚，很舒服呢@Rindar_Guo \r感谢大叔，晓雨母狗被调教成合格的口便器了呢❤️\r啊哈…想到昨天的情景，小母狗又忍不住发情流水了💦呜呜晓雨好想吃肉棒…\r主人喂晓雨吃好不好，晓雨母狗会好好伺候的👅\r#文援 #母狗 #文爱 https://t.co/FI4ZLmCoEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 85,
+          "like_count": 436,
+          "listed_count": 0,
+          "tweet_count": 507
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱50/h，30/0.5h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 60,
+          "like_count": 216,
+          "listed_count": 2,
+          "tweet_count": 231
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T13:38:49.000Z",
+        "description": "孑然一身的孑\n不择手段是豪杰，不忘初心真英雄\n我为曾拥有过勇敢的你而感到自豪！\n有在做文援，经营一家场馆【迷失之亭——The lost post】@Rindar_Mugi，联系方式私信获取\nBDSMer/Daddy Dom/男性文援\n文爱：40/半小时 75/一小时\n不好过啊这世道\n#文爱 #文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "文爱"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "文援"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Rindar_Mugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rindar_Caladbo…",
+                "end": 23,
+                "expanded_url": "https://t.me/Rindar_Caladbolg",
+                "start": 0,
+                "url": "https://t.co/bEN2Ts8kcX"
+              }
+            ]
+          }
+        },
+        "id": "1213454700495851520",
+        "location": "Melbourne, Victoria",
+        "name": "雨孑",
+        "pinned_tweet_id": "1830889199454822691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624387942163828739/Gk8t4v7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 302,
+          "like_count": 2437,
+          "listed_count": 14,
+          "tweet_count": 4905
+        },
+        "url": "https://t.co/bEN2Ts8kcX",
+        "username": "Rindar_Guo",
+        "verified": true
+      }
+    ]
+  }
+}

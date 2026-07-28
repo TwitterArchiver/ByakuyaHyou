@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824300861264118125",
+    "created_at": "2024-08-16T04:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T05:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824300861264118125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824300861264118125",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824278298513510761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 主人要把发情的晓雨关进笼子里吗…呜呜呜…母狗知道错了，可是晓雨好想吃主人的大鸡巴…唔嗯～手脚并用爬到笼子旁，双手抓住栏杆，大奶从栏杆缝隙间挤出来，乳头红的能滴出血来❤️\r“没有主人的允许，母狗不敢再偷偷摸骚穴了，主人把大肉棒插进母狗嘴里…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824300861264118125].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824300861264118125",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824300861264118125"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824278290452099072"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1824278298513510761",
+        "created_at": "2024-08-16T02:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T03:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824278298513510761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgzxpwmkib",
+              "end": 167,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1824278298513510761/photo/1",
+              "media_key": "3_1824278290452099072",
+              "start": 144,
+              "url": "https://t.co/hgzXpwMKib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824278298513510761",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主人要把发情的晓雨关进笼子里吗…呜呜呜…母狗知道错了，可是晓雨好想吃主人的大鸡巴…唔嗯～手脚并用爬到笼子旁，双手抓住栏杆，大奶从栏杆缝隙间挤出来，乳头红的能滴出血来❤️\r“没有主人的允许，母狗不敢再偷偷摸骚穴了，主人把大肉棒插进母狗嘴里吧💛让晓雨母狗一边流水一边服侍您🧡”#文援 #母狗 https://t.co/hgzXpwMKib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1824093422547771604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，m、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、3p等题材开发中…文爱50/h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "name": "晓雨",
+        "pinned_tweet_id": "1823379845952553278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 25,
+          "like_count": 15,
+          "listed_count": 0,
+          "tweet_count": 24
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

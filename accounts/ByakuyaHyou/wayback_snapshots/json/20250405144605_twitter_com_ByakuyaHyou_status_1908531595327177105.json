@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908531595327177105",
+    "created_at": "2025-04-05T14:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908531595327177105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "母猪"
+        },
+        {
+          "end": 100,
+          "start": 94,
+          "tag": "反差骚母狗"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "母人"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "重口sm"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "贡奴"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "母畜"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "无脑恶堕"
+        },
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "无脑畜牲"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "无脑发情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908531595327177105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907795017978229107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 学校里的体育生总是一身汗臭味，你这头母畜表面上一脸嫌弃，内心却想着猛嗅别人臭脚，渴望成为一头无脑发情的恋臭性奴，只要闻到男性身上的汗臭味就开始抠屄喷卵了 #母猪 #反差骚母狗 #母人 #重口sm #贡奴 #母畜 #无脑恶堕 #无脑畜牲 #无脑发情 #无…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908531595327177105].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908531595327177105",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908531595327177105"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1907794929679740928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnZYW_aMAAIYQ-.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907794929679740928"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1907795017978229107",
+        "created_at": "2025-04-03T13:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907795017978229107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "母猪"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "反差骚母狗"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "母人"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "重口sm"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "贡奴"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "母畜"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "无脑恶堕"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "无脑畜牲"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "无脑发情"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "猪屄母人"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "恋臭"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "厕奴调教"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqFp0dIJYu",
+              "end": 179,
+              "expanded_url": "https://x.com/yues666/status/1907795017978229107/photo/1",
+              "media_key": "3_1907794929679740928",
+              "start": 156,
+              "url": "https://t.co/AqFp0dIJYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907795017978229107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "学校里的体育生总是一身汗臭味，你这头母畜表面上一脸嫌弃，内心却想着猛嗅别人臭脚，渴望成为一头无脑发情的恋臭性奴，只要闻到男性身上的汗臭味就开始抠屄喷卵了 #母猪 #反差骚母狗 #母人 #重口sm #贡奴 #母畜 #无脑恶堕 #无脑畜牲 #无脑发情 #无脑上供 #败北凌辱 #猪屄母人 #恋臭 #厕奴调教 #母狗 https://t.co/AqFp0dIJYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 113,
+          "like_count": 1034,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1208
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！内容皆原创，君权神授，而教皇也不过是神的崇拜者，圣女只是能与神对话的神的奴隶，唯拥有斩龙弑神魔法的强大妖精及精灵可以与神对抗。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 132,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 109,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 8,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 157
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

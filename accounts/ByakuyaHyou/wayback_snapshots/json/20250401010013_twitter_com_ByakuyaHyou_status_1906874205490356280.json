@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906672863169703936"
+      ],
+      "media_source_tweet_id": [
+        "1906672866088894609"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1906874205490356280",
+    "created_at": "2025-04-01T01:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906874205490356280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "胁迫"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "文调"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "sm"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "字母圈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668855095348563973",
+          "start": 3,
+          "username": "yueyueSAMAx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CGkGWZdlZt",
+          "end": 74,
+          "expanded_url": "https://x.com/yueyueSAMAx/status/1906672866088894609/photo/1",
+          "media_key": "3_1906672863169703936",
+          "start": 51,
+          "url": "https://t.co/CGkGWZdlZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906874205490356280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906672866088894609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyueSAMAx: 被胁迫之后只能对主人唯命是从了哦。#胁迫 #文调 #sm #字母圈 https://t.co/CGkGWZdlZt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1906672863169703936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXc3fgbcAAPKjI.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906672863169703936"
+          ],
+          "media_source_tweet_id": [
+            "1906672866088894609"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1906874205490356280",
+        "created_at": "2025-04-01T01:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T02:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906874205490356280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "胁迫"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "文调"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "sm"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "字母圈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668855095348563973",
+              "start": 3,
+              "username": "yueyueSAMAx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGkGWZdlZt",
+              "end": 74,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1906672866088894609/photo/1",
+              "media_key": "3_1906672863169703936",
+              "start": 51,
+              "url": "https://t.co/CGkGWZdlZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906874205490356280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906672866088894609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyueSAMAx: 被胁迫之后只能对主人唯命是从了哦。#胁迫 #文调 #sm #字母圈 https://t.co/CGkGWZdlZt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906672863169703936"
+          ]
+        },
+        "author_id": "1668855095348563973",
+        "conversation_id": "1906672866088894609",
+        "created_at": "2025-03-31T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906672866088894609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "胁迫"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "文调"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "sm"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "字母圈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGkGWZdlZt",
+              "end": 57,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1906672866088894609/photo/1",
+              "media_key": "3_1906672863169703936",
+              "start": 34,
+              "url": "https://t.co/CGkGWZdlZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906672866088894609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1502,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "被胁迫之后只能对主人唯命是从了哦。#胁迫 #文调 #sm #字母圈 https://t.co/CGkGWZdlZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 108,
+          "like_count": 996,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1166
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T05:37:39.000Z",
+        "description": "喜欢胁迫调教🖤黑心压榨…接文调/寸止/胁迫/毁号/任务/小额/模拟胁迫/                                                       文调类价格30/0.5h🚪QQ1705684064",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 23,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 0,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          }
+        },
+        "id": "1668855095348563973",
+        "location": "做文游中……是小男娘…",
+        "name": "☁️月月sama🖤（互推）",
+        "pinned_tweet_id": "1849650772453331205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905994824081358848/5KwRm6t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 49,
+          "like_count": 51,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/9vgbcoM4Vh",
+        "username": "yueyueSAMAx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1838815291423494146",
+        "3_1838815328966709249"
+      ],
+      "media_source_tweet_id": [
+        "1838815334675185734",
+        "1838815334675185734"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838853736481034574",
+    "created_at": "2024-09-25T08:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T09:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838853736481034574"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "男m"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "女s"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "任务指令"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640902506313031681",
+          "start": 3,
+          "username": "hufford_1941"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/45in8wasmx",
+          "end": 116,
+          "expanded_url": "https://twitter.com/hufford_1941/status/1838815334675185734/video/1",
+          "media_key": "7_1838815291423494146",
+          "start": 93,
+          "url": "https://t.co/45IN8wasmx"
+        },
+        {
+          "display_url": "pic.x.com/45in8wasmx",
+          "end": 116,
+          "expanded_url": "https://twitter.com/hufford_1941/status/1838815334675185734/video/1",
+          "media_key": "3_1838815328966709249",
+          "start": 93,
+          "url": "https://t.co/45IN8wasmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838853736481034574",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838815334675185734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hufford_1941: 废物贱狗 媚袜大傻逼 脱下的袜子都能买你全家性命了 看一眼都能让你颅内高潮吧 没用的废物 进群被我们耍 给我们磕头请安  #男m #女s #任务指令 https://t.co/45IN8wasmx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838853736481034574].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838853736481034574",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838853736481034574"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31900,
+        "height": 1280,
+        "media_key": "7_1838815291423494146",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1838815291423494146/pu/img/C2VLGyHbDoz6Xvof.jpg",
+        "public_metrics": {
+          "view_count": 155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838815291423494146/pu/vid/avc1/320x568/NUC4SKQdrDuKGG5I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838815291423494146/pu/vid/avc1/480x852/Xn4mydx6ZPrivG-C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838815291423494146/pu/vid/avc1/720x1280/ZkxriULWUr24O-HT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1838815291423494146/pu/pl/3FBqzrYgXgQ0Gnqw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1838815328966709249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYTIzJqakAExawI.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838815291423494146",
+            "3_1838815328966709249"
+          ]
+        },
+        "author_id": "1640902506313031681",
+        "conversation_id": "1838815334675185734",
+        "created_at": "2024-09-25T05:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T06:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838815334675185734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "男m"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "女s"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "任务指令"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45in8wasmx",
+              "end": 98,
+              "expanded_url": "https://twitter.com/hufford_1941/status/1838815334675185734/video/1",
+              "media_key": "7_1838815291423494146",
+              "start": 75,
+              "url": "https://t.co/45IN8wasmx"
+            },
+            {
+              "display_url": "pic.x.com/45in8wasmx",
+              "end": 98,
+              "expanded_url": "https://twitter.com/hufford_1941/status/1838815334675185734/video/1",
+              "media_key": "3_1838815328966709249",
+              "start": 75,
+              "url": "https://t.co/45IN8wasmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838815334675185734",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 807,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "废物贱狗 媚袜大傻逼 脱下的袜子都能买你全家性命了 看一眼都能让你颅内高潮吧 没用的废物 进群被我们耍 给我们磕头请安  #男m #女s #任务指令 https://t.co/45IN8wasmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 84,
+          "like_count": 572,
+          "listed_count": 0,
+          "tweet_count": 706
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T02:23:43.000Z",
+        "description": "有门槛 Q592025058\n专业玩弄各种无脑大傻逼",
+        "id": "1640902506313031681",
+        "location": "Boulder",
+        "name": "菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836613348819111937/ci7qBo_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "hufford_1941",
+        "verified": false
+      }
+    ]
+  }
+}

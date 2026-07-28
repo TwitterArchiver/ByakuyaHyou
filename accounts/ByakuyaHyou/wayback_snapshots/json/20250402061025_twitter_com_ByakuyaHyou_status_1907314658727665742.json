@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907301157090787328",
+        "3_1907301163654909952",
+        "3_1907301169061359617",
+        "3_1907301177668055040"
+      ],
+      "media_source_tweet_id": [
+        "1907301191689634292",
+        "1907301191689634292",
+        "1907301191689634292",
+        "1907301191689634292"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907314658727665742",
+    "created_at": "2025-04-02T06:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907314658727665742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758111721368240128",
+          "start": 3,
+          "username": "domdomdom1213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/et6sOI8pfd",
+          "end": 72,
+          "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+          "media_key": "3_1907301157090787328",
+          "start": 49,
+          "url": "https://t.co/et6sOI8pfd"
+        },
+        {
+          "display_url": "pic.x.com/et6sOI8pfd",
+          "end": 72,
+          "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+          "media_key": "3_1907301163654909952",
+          "start": 49,
+          "url": "https://t.co/et6sOI8pfd"
+        },
+        {
+          "display_url": "pic.x.com/et6sOI8pfd",
+          "end": 72,
+          "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+          "media_key": "3_1907301169061359617",
+          "start": 49,
+          "url": "https://t.co/et6sOI8pfd"
+        },
+        {
+          "display_url": "pic.x.com/et6sOI8pfd",
+          "end": 72,
+          "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+          "media_key": "3_1907301177668055040",
+          "start": 49,
+          "url": "https://t.co/et6sOI8pfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907314658727665742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907301191689634292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @domdomdom1213: 昨天部分接单记录\n快点来找我鉴鸡\n可以双人调教or双人鉴鸡 https://t.co/et6sOI8pfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_1907301157090787328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngYTAwWgAAjg-s.jpg",
+        "width": 620
+      },
+      {
+        "height": 1061,
+        "media_key": "3_1907301163654909952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngYTZNXEAAPSxA.jpg",
+        "width": 614
+      },
+      {
+        "height": 758,
+        "media_key": "3_1907301169061359617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngYTtWW8AEjYJ5.jpg",
+        "width": 620
+      },
+      {
+        "height": 1841,
+        "media_key": "3_1907301177668055040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngYUNaWsAAXEsH.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907301157090787328",
+            "3_1907301163654909952",
+            "3_1907301169061359617",
+            "3_1907301177668055040"
+          ],
+          "media_source_tweet_id": [
+            "1907301191689634292",
+            "1907301191689634292",
+            "1907301191689634292",
+            "1907301191689634292"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1907314658727665742",
+        "created_at": "2025-04-02T06:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907314658727665742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1758111721368240128",
+              "start": 3,
+              "username": "domdomdom1213"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 72,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301157090787328",
+              "start": 49,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 72,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301163654909952",
+              "start": 49,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 72,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301169061359617",
+              "start": 49,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 72,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301177668055040",
+              "start": 49,
+              "url": "https://t.co/et6sOI8pfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907314658727665742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907301191689634292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @domdomdom1213: 昨天部分接单记录\n快点来找我鉴鸡\n可以双人调教or双人鉴鸡 https://t.co/et6sOI8pfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907301157090787328",
+            "3_1907301163654909952",
+            "3_1907301169061359617",
+            "3_1907301177668055040"
+          ]
+        },
+        "author_id": "1758111721368240128",
+        "conversation_id": "1907301191689634292",
+        "created_at": "2025-04-02T05:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T06:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907301191689634292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 53,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301157090787328",
+              "start": 30,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 53,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301163654909952",
+              "start": 30,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 53,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301169061359617",
+              "start": 30,
+              "url": "https://t.co/et6sOI8pfd"
+            },
+            {
+              "display_url": "pic.x.com/et6sOI8pfd",
+              "end": 53,
+              "expanded_url": "https://x.com/domdomdom1213/status/1907301191689634292/photo/1",
+              "media_key": "3_1907301177668055040",
+              "start": 30,
+              "url": "https://t.co/et6sOI8pfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907301191689634292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天部分接单记录\n快点来找我鉴鸡\n可以双人调教or双人鉴鸡 https://t.co/et6sOI8pfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 109,
+          "like_count": 1010,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1181
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:51:33.000Z",
+        "description": "07播音生语音鉴鸡30块！至尊鉴+20米(更详细)，视频鉴+10米快来找我鉴！！！🚪30r，私信口令（可抵扣）多人鉴鸡加q咨询，还可以鉴颜，鉴女友，鉴b",
+        "id": "1758111721368240128",
+        "name": "清水（鉴🐔三十）",
+        "pinned_tweet_id": "1790292119187562828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758113466110619648/f89PIP_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 7,
+          "media_count": 355,
+          "tweet_count": 2826
+        },
+        "username": "domdomdom1213",
+        "verified": false
+      }
+    ]
+  }
+}

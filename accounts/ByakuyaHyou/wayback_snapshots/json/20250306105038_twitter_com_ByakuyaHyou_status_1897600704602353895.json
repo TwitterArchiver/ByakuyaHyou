@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897600704602353895",
+    "created_at": "2025-03-06T10:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T11:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897600704602353895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897600704602353895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897225091739718115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 让亲妈玩废你这个短信没用早泄滑精的牙签小鸡巴～🩷变成被妈妈踩着玩的小玩具～🩷涂上妈妈的口水～🩷专门给妈妈清理鞋底～🩷\n这么短小的废物几把～刚好可以清理鞋底沟壑里的污垢呢～🩷\n清理干净～在伸进贱狗的嘴巴里～🩷\n用你的狗舌头好好舔🩷\n酸臭的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897225087373471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRMKj_a8AACw7i.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897225087704817668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRMKlOa4AQPT7O.jpg",
+        "width": 969
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897225087654486017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRMKlCa4AE5Ek5.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897600704602353895",
+        "created_at": "2025-03-06T10:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897600704602353895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797965883312369664",
+              "start": 3,
+              "username": "Dear34585171693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897600704602353895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897225091739718115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Dear34585171693: 让亲妈玩废你这个短信没用早泄滑精的牙签小鸡巴～🩷变成被妈妈踩着玩的小玩具～🩷涂上妈妈的口水～🩷专门给妈妈清理鞋底～🩷\n这么短小的废物几把～刚好可以清理鞋底沟壑里的污垢呢～🩷\n清理干净～在伸进贱狗的嘴巴里～🩷\n用你的狗舌头好好舔🩷\n酸臭的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897225087373471744",
+            "3_1897225087704817668",
+            "3_1897225087654486017"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1897225091739718115",
+        "created_at": "2025-03-05T09:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897225091739718115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5kErBPVAy",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897225091739718115/photo/1",
+              "media_key": "3_1897225087373471744",
+              "start": 140,
+              "url": "https://t.co/w5kErBPVAy"
+            },
+            {
+              "display_url": "pic.x.com/w5kErBPVAy",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897225091739718115/photo/1",
+              "media_key": "3_1897225087704817668",
+              "start": 140,
+              "url": "https://t.co/w5kErBPVAy"
+            },
+            {
+              "display_url": "pic.x.com/w5kErBPVAy",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897225091739718115/photo/1",
+              "media_key": "3_1897225087654486017",
+              "start": 140,
+              "url": "https://t.co/w5kErBPVAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897225091739718115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1286,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "following",
+        "text": "让亲妈玩废你这个短信没用早泄滑精的牙签小鸡巴～🩷变成被妈妈踩着玩的小玩具～🩷涂上妈妈的口水～🩷专门给妈妈清理鞋底～🩷\n这么短小的废物几把～刚好可以清理鞋底沟壑里的污垢呢～🩷\n清理干净～在伸进贱狗的嘴巴里～🩷\n用你的狗舌头好好舔🩷\n酸臭的味道混合着自己鸡巴的骚味～🩷\n爽死了吧～🩷 https://t.co/w5kErBPVAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 92,
+          "like_count": 752,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 941
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1888170530697830524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 90,
+          "like_count": 9,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 2999
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2067898877781676434",
+    "created_at": "2026-06-19T10:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067914536158625881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559716543188963328",
+          "start": 0,
+          "username": "lesle665704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067914536158625881",
+    "in_reply_to_user_id": "1559716543188963328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067898877781676434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesle665704 没事，艾do就可以了你不用动的😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067897948458172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmOlmbwAAJr4g.jpg",
+        "width": 1135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2067898877781676434",
+        "created_at": "2026-06-19T10:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067914536158625881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559716543188963328",
+              "start": 0,
+              "username": "lesle665704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067914536158625881",
+        "in_reply_to_user_id": "1559716543188963328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898877781676434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesle665704 没事，艾do就可以了你不用动的😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067897948458172416"
+          ]
+        },
+        "author_id": "1559716543188963328",
+        "conversation_id": "2067898877781676434",
+        "created_at": "2026-06-19T09:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067898877781676434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "avemujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/taEhYMHFWy",
+              "end": 111,
+              "expanded_url": "https://x.com/lesle665704/status/2067898877781676434/photo/1",
+              "media_key": "3_2067897948458172416",
+              "start": 88,
+              "url": "https://t.co/taEhYMHFWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898877781676434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 282,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #丰川祥子 #avemujica\n我去，那种白天逛一整天漫展，晚上回酒店，还能拍一堆照片，顺便do一顿爱的人，真的是人类吗，我从漫展回来就已经快不省人事了，脚痛的要死 https://t.co/taEhYMHFWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 887,
+          "like_count": 1571,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1643
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T01:39:43.000Z",
+        "description": "会死的\n生理心理男，无门槛不约不卖\nhttps://t.co/K9ZDMXef7o 提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lesil12",
+                "end": 41,
+                "expanded_url": "https://ngl.link/lesil12",
+                "start": 18,
+                "url": "https://t.co/K9ZDMXef7o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+86jX57UQ6WQ3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+86jX57UQ6WQ3YzE1",
+                "start": 0,
+                "url": "https://t.co/Be15X62SVA"
+              }
+            ]
+          }
+        },
+        "id": "1559716543188963328",
+        "name": "乐死了",
+        "pinned_tweet_id": "2054237851496370352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020016208805036032/D-WVW_CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 2186,
+          "like_count": 10699,
+          "listed_count": 8,
+          "media_count": 81,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/Be15X62SVA",
+        "username": "lesle665704",
+        "verified": false
+      }
+    ]
+  }
+}

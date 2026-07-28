@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902934074597241022",
+    "created_at": "2025-03-21T04:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T05:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902934074597241022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902934074597241022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902920406333522115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 大脑中的「存储空间」可是相当有限的呢♫合理安排之后才能正常运转~\n为了容纳更多的「❤️」➹把理智和判断卸载完毕的话~再强大的意志也架不住堕落的舒服哟💋\n伴随着咔哒咔哒脑子坏掉的声音💜用极其下流的动作获得了舒服🖤\n呐~再多给人家一点空间~让人家「挤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902934074597241022].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902934074597241022",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902934074597241022"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_1902920403145854976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmiIBklaEAAV-UB.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902920403145854976"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1902920406333522115",
+        "created_at": "2025-03-21T03:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T04:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902920406333522115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "催眠洗脑"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "精神控制"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "温柔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1FiH6F3mg",
+              "end": 170,
+              "expanded_url": "https://x.com/amianjiang/status/1902920406333522115/photo/1",
+              "media_key": "3_1902920403145854976",
+              "start": 147,
+              "url": "https://t.co/q1FiH6F3mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902920406333522115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大脑中的「存储空间」可是相当有限的呢♫合理安排之后才能正常运转~\n为了容纳更多的「❤️」➹把理智和判断卸载完毕的话~再强大的意志也架不住堕落的舒服哟💋\n伴随着咔哒咔哒脑子坏掉的声音💜用极其下流的动作获得了舒服🖤\n呐~再多给人家一点空间~让人家「挤进去」好不好💗\n#催眠洗脑 #精神控制 #温柔 https://t.co/q1FiH6F3mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 105,
+          "like_count": 922,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1095
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 33,
+          "like_count": 425,
+          "listed_count": 12,
+          "media_count": 178,
+          "tweet_count": 456
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

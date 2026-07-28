@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1917086198545453376",
+    "created_at": "2025-04-29T07:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T08:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917115336715080095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481669872161800192",
+          "start": 0,
+          "username": "KROSwaSIlZ2dVjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917115336715080095",
+    "in_reply_to_user_id": "1481669872161800192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917086198545453376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KROSwaSIlZ2dVjx 小张姐姐加油喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917085035439759360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gprarr2aoAAHu2F.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1917086198545453376",
+        "created_at": "2025-04-29T07:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917115336715080095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481669872161800192",
+              "start": 0,
+              "username": "KROSwaSIlZ2dVjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917115336715080095",
+        "in_reply_to_user_id": "1481669872161800192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917086198545453376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KROSwaSIlZ2dVjx 小张姐姐加油喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917085035439759360"
+          ]
+        },
+        "author_id": "1481669872161800192",
+        "conversation_id": "1917086198545453376",
+        "created_at": "2025-04-29T05:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917086198545453376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3mno2HYWh",
+              "end": 42,
+              "expanded_url": "https://x.com/KROSwaSIlZ2dVjx/status/1917086198545453376/photo/1",
+              "media_key": "3_1917085035439759360",
+              "start": 19,
+              "url": "https://t.co/x3mno2HYWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917086198545453376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不会放弃单手抱女友这个目标的💪🏻 https://t.co/x3mno2HYWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 117,
+          "like_count": 1156,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1362
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T16:50:08.000Z",
+        "description": "想要屠龙🐉\n先天抽象圣体\n183 87 24 ENFP 有伴侣\n门牌3695770136",
+        "id": "1481669872161800192",
+        "name": "小张：好快的刀",
+        "pinned_tweet_id": "1912353069100413252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655406548792012805/eHuITGc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 286,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1680
+        },
+        "username": "KROSwaSIlZ2dVjx",
+        "verified": true
+      }
+    ]
+  }
+}

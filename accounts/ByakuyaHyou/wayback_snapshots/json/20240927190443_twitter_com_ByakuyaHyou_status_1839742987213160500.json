@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839742987213160500",
+    "created_at": "2024-09-27T19:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T20:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839742987213160500"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "文爱"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "剧情"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "文媛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839742987213160500",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839502152693317702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: 在学校的三好学生，放学回家都就开始刷着推文对着主人的推文扣屄发骚意淫主人玩爆你这个傻屄母狗？🖤，完全没有一点乖乖女的样子呢，彻头彻尾的反差傻屄母狗，乖乖脱光衣服把学生证放在骚逼上对着主人献媚自曝发情葬送人生吧🖤\n#文爱 #剧情 #文媛 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839742987213160500].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839742987213160500",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839742987213160500"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839502141796519937"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1839502152693317702",
+        "created_at": "2024-09-27T03:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839502152693317702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "文爱"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "剧情"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izy1qgry5j",
+              "end": 141,
+              "expanded_url": "https://twitter.com/xhai5200/status/1839502152693317702/photo/1",
+              "media_key": "3_1839502141796519937",
+              "start": 118,
+              "url": "https://t.co/IzY1qGRY5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839502152693317702",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3468,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "在学校的三好学生，放学回家都就开始刷着推文对着主人的推文扣屄发骚意淫主人玩爆你这个傻屄母狗？🖤，完全没有一点乖乖女的样子呢，彻头彻尾的反差傻屄母狗，乖乖脱光衣服把学生证放在骚逼上对着主人献媚自曝发情葬送人生吧🖤\n#文爱 #剧情 #文媛 https://t.co/IzY1qGRY5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 580,
+          "listed_count": 0,
+          "tweet_count": 724
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "黑心小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受无情爆扣了呢♡~，毕竟你只是头傻屄母人呢，通常晚上在线哦～专属母猪姐姐@QoS_bitch_nx819  可爱的小母狗@shnk578104电报https://t.co/TmPuXMG0vb，企鹅门牌3986205058（收母猪 ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "QoS_bitch_nx819"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "shnk578104"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 141,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 118,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "傻屄母人的脑袋上🖤",
+        "name": "小伊🖤（雌畜猎手版）",
+        "pinned_tweet_id": "1838103815700242722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833510727191302148/P1jFV7HX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 267,
+          "like_count": 557,
+          "listed_count": 7,
+          "tweet_count": 381
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

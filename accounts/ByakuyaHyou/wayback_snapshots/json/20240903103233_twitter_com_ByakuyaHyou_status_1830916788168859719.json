@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830873135144673280"
+      ],
+      "media_source_tweet_id": [
+        "1830873143302312311"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830916788168859719",
+    "created_at": "2024-09-03T10:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T11:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830916788168859719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "女s"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "男m"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "辱骂"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "调教男奴"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "羞辱"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "粗口"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "贱狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725708713326178304",
+          "start": 3,
+          "username": "Elimelech16dedu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l991bymogy",
+          "end": 105,
+          "expanded_url": "https://twitter.com/Elimelech16dedu/status/1830873143302312311/photo/1",
+          "media_key": "3_1830873135144673280",
+          "start": 82,
+          "url": "https://t.co/l991BYMoGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830916788168859719",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830873143302312311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elimelech16dedu: 无聊来条贱狗挨骂当我出气桶！ #女s #男m #上贡奴  #ATM打钱奴  #辱骂 #调教男奴 #羞辱 #粗口  #贱狗 https://t.co/l991BYMoGY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830916788168859719].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830916788168859719",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830916788168859719"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1830873135144673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWiRaoEaoAAO1CA.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830873135144673280"
+          ]
+        },
+        "author_id": "1725708713326178304",
+        "conversation_id": "1830873143302312311",
+        "created_at": "2024-09-03T07:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T08:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830873143302312311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女s"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男m"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "辱骂"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "调教男奴"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "羞辱"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "粗口"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "贱狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l991bymogy",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Elimelech16dedu/status/1830873143302312311/photo/1",
+              "media_key": "3_1830873135144673280",
+              "start": 61,
+              "url": "https://t.co/l991BYMoGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830873143302312311",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "无聊来条贱狗挨骂当我出气桶！ #女s #男m #上贡奴  #ATM打钱奴  #辱骂 #调教男奴 #羞辱 #粗口  #贱狗 https://t.co/l991BYMoGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 84,
+          "like_count": 411,
+          "listed_count": 0,
+          "tweet_count": 472
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T02:53:20.000Z",
+        "description": "带门加好友",
+        "id": "1725708713326178304",
+        "location": "Elk Grove",
+        "name": "柯儿s（收贱狗）",
+        "pinned_tweet_id": "1819692979751428148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829193428208635904/w2CCftI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Elimelech16dedu",
+        "verified": false
+      }
+    ]
+  }
+}

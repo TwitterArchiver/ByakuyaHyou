@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1934114589375168744",
+    "created_at": "2025-06-15T05:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T06:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934114589375168744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934114589375168744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932712756941369350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 贱狗制裁\n很喜欢撸管嘛\n把自己的工作抛在一边\n把自己的尊严丢在一边\n既然作为人类这么渴望犯贱\n放弃人权\n奖励你永久做贱狗好了\n头低下，很少能这么近距离的，看到祖宗的脚背吧\n是奖励，所以，汪汪的，叫出来，然后给祖宗上贡，求主人收下，下贱的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1932712753934053381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJgAn8bMAUNJM4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1934114589375168744",
+        "created_at": "2025-06-15T05:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934114589375168744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832618003478773760",
+              "start": 3,
+              "username": "kekejiangw44613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934114589375168744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932712756941369350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekejiangw44613: 贱狗制裁\n很喜欢撸管嘛\n把自己的工作抛在一边\n把自己的尊严丢在一边\n既然作为人类这么渴望犯贱\n放弃人权\n奖励你永久做贱狗好了\n头低下，很少能这么近距离的，看到祖宗的脚背吧\n是奖励，所以，汪汪的，叫出来，然后给祖宗上贡，求主人收下，下贱的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932712753934053381"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1932712756941369350",
+        "created_at": "2025-06-11T08:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932712756941369350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "调教"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文援"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "洗脑"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "败北"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NVWNJOgxZ",
+              "end": 160,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1932712756941369350/photo/1",
+              "media_key": "3_1932712753934053381",
+              "start": 137,
+              "url": "https://t.co/8NVWNJOgxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932712756941369350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3046,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "贱狗制裁\n很喜欢撸管嘛\n把自己的工作抛在一边\n把自己的尊严丢在一边\n既然作为人类这么渴望犯贱\n放弃人权\n奖励你永久做贱狗好了\n头低下，很少能这么近距离的，看到祖宗的脚背吧\n是奖励，所以，汪汪的，叫出来，然后给祖宗上贡，求主人收下，下贱的畜生\n#调教 #文援 #洗脑 #败北 https://t.co/8NVWNJOgxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 120,
+          "like_count": 1255,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1462
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤 压榨...止寸...调教...忍不住的贡狗欢迎来上贡呢废物🖤（收长期atm奴 贡奴）欢迎文援来扩列哦（文爱35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 37,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 14,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可🖤（互推私）",
+        "pinned_tweet_id": "1931287307409367359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885004780101332992/dI3Ntg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 33,
+          "like_count": 27,
+          "listed_count": 8,
+          "media_count": 45,
+          "tweet_count": 963
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

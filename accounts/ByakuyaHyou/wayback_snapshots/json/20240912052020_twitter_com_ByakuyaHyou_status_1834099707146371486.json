@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834099707146371486",
+    "created_at": "2024-09-12T05:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T06:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834099707146371486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834099707146371486",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833724014545772745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 什么呀...♡\n火急火燎地叫人家过来帮你「治疗」\n结果「症状」只是肉棒瘙痒和忍不住想要跪下？🖤\n嘻嘻🖤\n伴随着肉棒上的挤压和些微疼痛感~鼻子上也感受到温热而有些刺激的气体~\n别担心喔~只是人家穿了几天的袜子~不过对于哥哥是有些致命的媚药…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834099707146371486].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834099707146371486",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834099707146371486"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833724006090059776"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1833724014545772745",
+        "created_at": "2024-09-11T04:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T05:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833724014545772745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vm43oipppz",
+              "end": 172,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1833724014545772745/photo/1",
+              "media_key": "3_1833724006090059776",
+              "start": 149,
+              "url": "https://t.co/Vm43OipPPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833724014545772745",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 608,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "什么呀...♡\n火急火燎地叫人家过来帮你「治疗」\n结果「症状」只是肉棒瘙痒和忍不住想要跪下？🖤\n嘻嘻🖤\n伴随着肉棒上的挤压和些微疼痛感~鼻子上也感受到温热而有些刺激的气体~\n别担心喔~只是人家穿了几天的袜子~不过对于哥哥是有些致命的媚药罢了🖤\n脑子~又空荡荡地只剩下发情的余温了吧\n#文爱 #洗脑 https://t.co/Vm43OipPPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 80,
+          "like_count": 467,
+          "listed_count": 0,
+          "tweet_count": 568
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 20,
+          "like_count": 91,
+          "listed_count": 4,
+          "tweet_count": 107
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

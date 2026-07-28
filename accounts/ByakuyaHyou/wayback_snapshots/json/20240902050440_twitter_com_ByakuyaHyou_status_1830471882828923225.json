@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830471882828923225",
+    "created_at": "2024-09-02T05:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T06:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830471882828923225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830471882828923225",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830438430884708689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 告诉各位小❤️处男一个小❤️知识喔\n只有超级可爱迷你的小♡鸡鸡才会因为想要证明自己而频繁地在手部挤压❤️摩擦❤️运动下biu~一下子泄出淡淡的精子喔❤️但是不要自卑呢~♡早泄♡小处男♡也很棒喔~乖乖带着自己发情勃起的小小❤️肉芽来阿眠这…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830471882828923225].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830471882828923225",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830471882828923225"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830438420973596672"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1830438430884708689",
+        "created_at": "2024-09-02T02:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T03:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830438430884708689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文爱"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "女S"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "羞辱洗脑"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "早泄"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igmtgmwcyd",
+              "end": 170,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1830438430884708689/photo/1",
+              "media_key": "3_1830438420973596672",
+              "start": 147,
+              "url": "https://t.co/iGmtgMWCyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830438430884708689",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "告诉各位小❤️处男一个小❤️知识喔\n只有超级可爱迷你的小♡鸡鸡才会因为想要证明自己而频繁地在手部挤压❤️摩擦❤️运动下biu~一下子泄出淡淡的精子喔❤️但是不要自卑呢~♡早泄♡小处男♡也很棒喔~乖乖带着自己发情勃起的小小❤️肉芽来阿眠这边一下子早泄出来叭♡\n#文爱 #女S #羞辱洗脑 #早泄 https://t.co/iGmtgMWCyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 86,
+          "like_count": 409,
+          "listed_count": 0,
+          "tweet_count": 469
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 45/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 19,
+          "like_count": 56,
+          "listed_count": 3,
+          "tweet_count": 74
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

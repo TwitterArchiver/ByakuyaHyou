@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2046406284610781672",
+    "created_at": "2026-04-26T03:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048249355937993157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696700014293311488",
+          "start": 0,
+          "username": "momomajiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048249355937993157",
+    "in_reply_to_user_id": "1696700014293311488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046406284610781672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momomajiu 我喜欢你宝宝cpdd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2046406284610781672",
+        "created_at": "2026-04-26T03:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048249355937993157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696700014293311488",
+              "start": 0,
+              "username": "momomajiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048249355937993157",
+        "in_reply_to_user_id": "1696700014293311488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046406284610781672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momomajiu 我喜欢你宝宝cpdd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696700014293311488",
+        "conversation_id": "2046406284610781672",
+        "created_at": "2026-04-21T01:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046406284610781672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046406284610781672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果回到小时候你对我说，你是一个男娘。我多半会气的想和你打一架。\n但是现在我会说我想当女孩子🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 237,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1521
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T01:43:13.000Z",
+        "description": "♂/163 53\n想要变得可爱……\n线下……大概也是可以的吧",
+        "id": "1696700014293311488",
+        "name": "Mom9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047878690206597120/pTDEMfrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 645,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "momomajiu",
+        "verified": false
+      }
+    ]
+  }
+}

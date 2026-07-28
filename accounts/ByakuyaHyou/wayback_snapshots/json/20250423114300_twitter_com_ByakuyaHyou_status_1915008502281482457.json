@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915008502281482457",
+    "created_at": "2025-04-23T11:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915008502281482457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915008502281482457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914626782202093892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @RngPirdOe434191: \"主、主人...晓雨这样...好羞耻...\"穿着黑色兔女郎装的晓雨趴在办公桌上，渔网袜包裹的美腿不安地蹭动着，毛茸茸的兔耳发箍随着晓雨的颤抖轻轻摇晃。\n主人的手指突然探入紧身衣下摆，晓雨\"呀！\"地惊叫出声，脸颊瞬间染上绯红。\"不要...…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915008502281482457].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915008502281482457",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915008502281482457"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_1914626771129131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpIe53qa4AAjs69.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914626771129131008"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1914626782202093892",
+        "created_at": "2025-04-22T10:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T11:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914626782202093892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rq9ffFyEA",
+              "end": 170,
+              "expanded_url": "https://x.com/RngPirdOe434191/status/1914626782202093892/photo/1",
+              "media_key": "3_1914626771129131008",
+              "start": 147,
+              "url": "https://t.co/6rq9ffFyEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914626782202093892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"主、主人...晓雨这样...好羞耻...\"穿着黑色兔女郎装的晓雨趴在办公桌上，渔网袜包裹的美腿不安地蹭动着，毛茸茸的兔耳发箍随着晓雨的颤抖轻轻摇晃。\n主人的手指突然探入紧身衣下摆，晓雨\"呀！\"地惊叫出声，脸颊瞬间染上绯红。\"不要...在、在这里...\"晓雨试图并拢双腿，却被主人强势地分开。\n主人的手指隔着薄薄的布料恶意揉弄，晓雨咬着下唇发出甜腻的呜咽。渔网袜下的肌肤泛起诱人的粉色，随着手指的深入，晓雨的腰肢不自觉地塌陷下去。\n\"啊...主、主人的手指...好厉害...\"晓雨的前胸紧贴着冰凉桌面，黑色紧身衣被蹭得凌乱不堪。当指尖突然加速抽插时，晓雨终于失控地哭喊出来：\"要、要去了...呜...！\"\n晶莹的液体浸湿了桌面，晓雨浑身瘫软地喘息着，兔耳发箍歪在一边。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1256,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "\"主、主人...晓雨这样...好羞耻...\"穿着黑色兔女郎装的晓雨趴在办公桌上，渔网袜包裹的美腿不安地蹭动着，毛茸茸的兔耳发箍随着晓雨的颤抖轻轻摇晃。\n主人的手指突然探入紧身衣下摆，晓雨\"呀！\"地惊叫出声，脸颊瞬间染上绯红。\"不要...在、在这里...\"晓雨试图并拢双腿，却被主人强势地分开。 https://t.co/6rq9ffFyEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1102,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1308
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱60/h，35/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～电报小飞机：https://t.co/PZw0eBHcVT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dawn_drizzle",
+                "end": 124,
+                "expanded_url": "https://t.me/dawn_drizzle",
+                "start": 101,
+                "url": "https://t.co/PZw0eBHcVT"
+              }
+            ]
+          }
+        },
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1897920362190717002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 152,
+          "like_count": 602,
+          "listed_count": 20,
+          "media_count": 103,
+          "tweet_count": 1732
+        },
+        "username": "RngPirdOe434191",
+        "verified": true
+      }
+    ]
+  }
+}

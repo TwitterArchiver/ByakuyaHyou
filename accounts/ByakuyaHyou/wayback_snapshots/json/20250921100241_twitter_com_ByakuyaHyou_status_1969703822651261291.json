@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909266903861956608"
+      ],
+      "media_source_tweet_id": [
+        "1909266916323324029"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1969703822651261291",
+    "created_at": "2025-09-21T10:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T11:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969703822651261291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1909265297498165248",
+          "start": 3,
+          "username": "vivi18680361906"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4uCB58Hem",
+          "end": 65,
+          "expanded_url": "https://x.com/vivi18680361906/status/1909266916323324029/photo/1",
+          "media_key": "3_1909266903861956608",
+          "start": 42,
+          "url": "https://t.co/C4uCB58Hem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969703822651261291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909266916323324029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vivi18680361906: 新人男娘加入推特☆～\n希望得到很多关注捏 https://t.co/C4uCB58Hem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909266903861956608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8UIiIaEAAVt1u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909266903861956608"
+          ],
+          "media_source_tweet_id": [
+            "1909266916323324029"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1969703822651261291",
+        "created_at": "2025-09-21T10:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969703822651261291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1909265297498165248",
+              "start": 3,
+              "username": "vivi18680361906"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4uCB58Hem",
+              "end": 65,
+              "expanded_url": "https://x.com/vivi18680361906/status/1909266916323324029/photo/1",
+              "media_key": "3_1909266903861956608",
+              "start": 42,
+              "url": "https://t.co/C4uCB58Hem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969703822651261291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909266916323324029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vivi18680361906: 新人男娘加入推特☆～\n希望得到很多关注捏 https://t.co/C4uCB58Hem"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909266903861956608"
+          ]
+        },
+        "author_id": "1909265297498165248",
+        "conversation_id": "1909266916323324029",
+        "created_at": "2025-04-07T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909266916323324029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4uCB58Hem",
+              "end": 44,
+              "expanded_url": "https://x.com/vivi18680361906/status/1909266916323324029/photo/1",
+              "media_key": "3_1909266903861956608",
+              "start": 21,
+              "url": "https://t.co/C4uCB58Hem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909266916323324029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新人男娘加入推特☆～\n希望得到很多关注捏 https://t.co/C4uCB58Hem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 186,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1525
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:21:44.000Z",
+        "description": "是个超～～～寂寞的男娘\n想被大家调戏♡，被大家当性奴♡，被大家用下流的目光打量♡\n求求大家来看看人家♡～",
+        "id": "1909265297498165248",
+        "name": "vivi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968606472281145344/IYe3GSCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "vivi18680361906",
+        "verified": false
+      }
+    ]
+  }
+}

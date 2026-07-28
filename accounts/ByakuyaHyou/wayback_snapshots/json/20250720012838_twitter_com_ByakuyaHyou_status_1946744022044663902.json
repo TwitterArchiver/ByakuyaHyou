@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946744022044663902",
+    "created_at": "2025-07-20T01:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946744022044663902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912020341100339200",
+          "start": 3,
+          "username": "GaoGaoLove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946744022044663902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946589336776184023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaoGaoLove_: 小钱包正在缓慢增长中……\n每星期5.2r的负债~会让你们更加兴奋叭♡能体验到上贡的害怕和被命令的快感~但是却不用付出很多\n甚至有可能免费被糕糕调教哦~？\n也有宝贝已经主动把自己升级成✨✨级的小钱包呢♡\n你想知道现在有多少小钱包吗？要自己切身感受…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946744022044663902].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946744022044663902",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946744022044663902"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_1946589328622157825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOsrlAXAAEBllw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946589328622157825"
+          ]
+        },
+        "author_id": "1912020341100339200",
+        "conversation_id": "1946589336776184023",
+        "created_at": "2025-07-19T15:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946589336776184023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "上贡"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "小额"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "调教"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "控制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qh9uxfApCL",
+              "end": 172,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/1946589336776184023/photo/1",
+              "media_key": "3_1946589328622157825",
+              "start": 149,
+              "url": "https://t.co/Qh9uxfApCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946589336776184023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2155,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "小钱包正在缓慢增长中……\n每星期5.2r的负债~会让你们更加兴奋叭♡能体验到上贡的害怕和被命令的快感~但是却不用付出很多\n甚至有可能免费被糕糕调教哦~？\n也有宝贝已经主动把自己升级成✨✨级的小钱包呢♡\n你想知道现在有多少小钱包吗？要自己切身感受以后才能告诉你哦❤️\n#上贡 #小额 #调教 #控制 https://t.co/Qh9uxfApCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 132,
+          "like_count": 1328,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1524
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T05:49:27.000Z",
+        "description": "这里是邻家大姐姐糕糕哦，平时会接待一些小可爱进行“上贡教学”❤️当然无脑发情送死也可呢～\n \n🚪20  私信随机掉落神秘数字♡（私信不了可能是因为没有关注？）\n\n小提示：更喜欢被叫姐姐喔♡ 会读心的姐姐@QingMian0819  可爱的弟弟：@Eru_Thatcher",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 101,
+                "username": "QingMian0819"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Eru_Thatcher"
+              }
+            ]
+          }
+        },
+        "id": "1912020341100339200",
+        "location": "🖤黑心贡主培养所🖤",
+        "name": "巧克力糕🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933192578884890624/qv3n_jSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 71,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 416
+        },
+        "username": "GaoGaoLove_",
+        "verified": false
+      }
+    ]
+  }
+}

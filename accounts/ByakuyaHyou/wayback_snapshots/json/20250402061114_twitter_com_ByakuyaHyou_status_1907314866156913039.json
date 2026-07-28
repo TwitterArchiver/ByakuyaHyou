@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907314866156913039",
+    "created_at": "2025-04-02T06:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907314866156913039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/baI",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/baI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907314866156913039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907314425163571448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 柠檬的一个杂谈群，有时候会在里面透露公演的第一手信息，也有一些文援和很有趣的小可爱呢\n（当然～如果你是有那种癖好的话～也可以进群去膜拜一下柠檬主人哦🖤希望不会被柠檬～彻底变成柠檬身边的一条“小可爱吧”/狗狗） https://t.co/baI…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907314866156913039].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907314866156913039",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907314866156913039"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907314417634820096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngkW4IawAABDHU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907314417634820096"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1907314425163571448",
+        "created_at": "2025-04-02T06:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907314425163571448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baIBNvYx2M",
+              "end": 128,
+              "expanded_url": "https://x.com/ningmeng1245/status/1907314425163571448/photo/1",
+              "media_key": "3_1907314417634820096",
+              "start": 105,
+              "url": "https://t.co/baIBNvYx2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907314425163571448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "柠檬的一个杂谈群，有时候会在里面透露公演的第一手信息，也有一些文援和很有趣的小可爱呢\n（当然～如果你是有那种癖好的话～也可以进群去膜拜一下柠檬主人哦🖤希望不会被柠檬～彻底变成柠檬身边的一条“小可爱吧”/狗狗） https://t.co/baIBNvYx2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 110,
+          "like_count": 1012,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1183
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "柠檬会在你入睡时会温柔地踏入你的梦境之中，与你交媾❤️为你带来天国般的快乐，洗除一身的疲劳，并同时把你的恶梦吞食，代价仅为一点点精气❤️\n柠檬的企鹅号：3993705909🚪槛：10/r\n PS：不涉三，纯文字，轻微sm，轻微重口\n姐姐：@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849672276704362496/T1yi3w_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 81,
+          "like_count": 24,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 1251
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

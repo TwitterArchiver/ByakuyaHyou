@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908505960009626018",
+    "created_at": "2025-04-05T13:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T14:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908505960009626018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908505960009626018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908154201609290170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 想～试试柠檬腋下的气味嘛？\n对哦～就是在偷窥柠檬帖子自慰的小～变～态呢🖤\n怎么？这么害怕柠檬嘛，既然害怕的话为什么还要偷窥呢🖤\n对呢～就这样慢慢的凑近把脸颊埋入在柠檬的腋下🖤深呼吸～柠檬会温热的把你的脑子溶解掉的🖤\n就这样～沉浸在柠檬温热的显…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908505960009626018].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908505960009626018",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908505960009626018"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1908154198333747200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnsgIjBacAAZaxp.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908154198333747200"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1908154201609290170",
+        "created_at": "2025-04-04T13:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908154201609290170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文援"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "气味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tf6Rvv3cmN",
+              "end": 159,
+              "expanded_url": "https://x.com/ningmeng1245/status/1908154201609290170/photo/1",
+              "media_key": "3_1908154198333747200",
+              "start": 136,
+              "url": "https://t.co/Tf6Rvv3cmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908154201609290170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1424,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "想～试试柠檬腋下的气味嘛？\n对哦～就是在偷窥柠檬帖子自慰的小～变～态呢🖤\n怎么？这么害怕柠檬嘛，既然害怕的话为什么还要偷窥呢🖤\n对呢～就这样慢慢的凑近把脸颊埋入在柠檬的腋下🖤深呼吸～柠檬会温热的把你的脑子溶解掉的🖤\n就这样～沉浸在柠檬温热的显陷阱里面吧🖤\n#文援 #气味 https://t.co/Tf6Rvv3cmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 112,
+          "like_count": 1031,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1204
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "柠檬会在你入睡时会温柔地踏入你的梦境之中，与你交媾❤️为你带来天国般的快乐，洗除一身的疲劳，并同时把你的恶梦吞食，代价仅为一点点精气❤️\n柠檬的企鹅号：3993705909🚪槛：10/r\n PS：不涉三，纯文字，轻微sm，轻微重口\n备用号：3931225020\n姐姐：@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 134,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849672276704362496/T1yi3w_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 83,
+          "like_count": 26,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 1307
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

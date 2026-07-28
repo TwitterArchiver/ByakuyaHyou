@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047657776172933319",
+    "created_at": "2026-04-25T02:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047871107391467845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020258573641740289",
+          "start": 0,
+          "username": "kawa1877793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047871107391467845",
+    "in_reply_to_user_id": "2020258573641740289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047657776172933319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa1877793 肏死你喵肏死你肏死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14842,
+        "height": 1280,
+        "media_key": "7_2047657744086585344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047657744086585344/pu/img/k6LzXLymuk7aQiz8.jpg",
+        "public_metrics": {
+          "view_count": 123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047657744086585344/pu/vid/avc1/320x710/aDZnKX2VJnRJUaAt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047657744086585344/pu/vid/avc1/480x1066/M--HbaXFi03mHj0x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047657744086585344/pu/vid/avc1/576x1280/_a_gQCnx5_n8699t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047657744086585344/pu/pl/UMpoAEcg7zgcRQ-3.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047657776172933319",
+        "created_at": "2026-04-25T02:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047871107391467845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020258573641740289",
+              "start": 0,
+              "username": "kawa1877793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047871107391467845",
+        "in_reply_to_user_id": "2020258573641740289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047657776172933319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa1877793 肏死你喵肏死你肏死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047657744086585344"
+          ]
+        },
+        "author_id": "2020258573641740289",
+        "conversation_id": "2047657776172933319",
+        "created_at": "2026-04-24T12:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047657776172933319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "羽毛笔"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "足底"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtiNUppfve",
+              "end": 44,
+              "expanded_url": "https://x.com/kawa1877793/status/2047657776172933319/video/1",
+              "media_key": "7_2047657744086585344",
+              "start": 21,
+              "url": "https://t.co/dtiNUppfve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047657776172933319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 425,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "足技\n\n#羽毛笔 #男娘 #伪娘 #足底 https://t.co/dtiNUppfve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 235,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1516
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T22:09:31.000Z",
+        "description": "一般路过男性♂大概或许可能是男娘，会发点色图，粥p，足控但是不是臭脚控",
+        "id": "2020258573641740289",
+        "name": "mika爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046604241444478977/FvbdDUMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "username": "kawa1877793",
+        "verified": false
+      }
+    ]
+  }
+}

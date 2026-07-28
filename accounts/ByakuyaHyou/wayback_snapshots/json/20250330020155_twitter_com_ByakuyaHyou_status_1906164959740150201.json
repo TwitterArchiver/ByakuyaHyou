@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1906164959740150201",
+    "created_at": "2025-03-30T02:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T03:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906164959740150201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1667823436918562816",
+          "start": 3,
+          "username": "HanasiroKeishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906164959740150201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905612814913614168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanasiroKeishi: 我最怕的是妳的沉默。\n什麼都不說，衹是把孱弱的我按在床上，急躁的縛住我的雙手。\n驚慌的我試圖透過掙扎來給自己認清當然狀況的時間，但妳連這樣的時間都強硬的奪走…\n你的吻就像暗藏蛇毒的蜜糖，用最甜的方式將我麻醉制服；我嘗試溫柔地回應，祈求蛇的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906164959740150201].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906164959740150201",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906164959740150201"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1905612758017867778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIYtQEbgAIMGfJ.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905612758017867778"
+          ]
+        },
+        "author_id": "1667823436918562816",
+        "conversation_id": "1905612814913614168",
+        "created_at": "2025-03-28T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905612814913614168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vp9teTy6sz",
+              "end": 164,
+              "expanded_url": "https://x.com/HanasiroKeishi/status/1905612814913614168/photo/1",
+              "media_key": "3_1905612758017867778",
+              "start": 141,
+              "url": "https://t.co/Vp9teTy6sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905612814913614168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我最怕的是妳的沉默。\n什麼都不說，衹是把孱弱的我按在床上，急躁的縛住我的雙手。\n驚慌的我試圖透過掙扎來給自己認清當然狀況的時間，但妳連這樣的時間都強硬的奪走…\n你的吻就像暗藏蛇毒的蜜糖，用最甜的方式將我麻醉制服；我嘗試溫柔地回應，祈求蛇的憐憫，換來的卻是她更為貪婪的啃咬…\n#百合 https://t.co/Vp9teTy6sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 108,
+          "like_count": 987,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1158
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T09:18:00.000Z",
+        "description": "Why?為什麼你反而不敢跟親密的人講這些事呢？那些看似親密的人，其暗流湧動反而裹挾了你吧？\n我？我又是誰？我就是那個你可以訴說一切的陌生人，那個見證人生百態，通達事故情愛、你離開了就可以隨意唾棄的青樓女子。\n隨緣上工訂制文及文援，營業價格40cny/30min或5cny一個來回，門牌：309459865，門檻40可抵扣",
+        "id": "1667823436918562816",
+        "location": "JitaIV-Moon4-Caldari Navy AP",
+        "name": "摩卡少女莫奈兒",
+        "pinned_tweet_id": "1895764827743928482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856507608150265856/81cgdOrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 267,
+          "like_count": 3101,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 1656
+        },
+        "username": "HanasiroKeishi",
+        "verified": false
+      }
+    ]
+  }
+}

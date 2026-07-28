@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946085793006841870",
+    "created_at": "2025-07-18T08:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946124783776600351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1301075030323933185",
+          "start": 0,
+          "username": "yang23699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946124783776600351",
+    "in_reply_to_user_id": "1301075030323933185",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946085793006841870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang23699 66"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1946085793006841870",
+        "created_at": "2025-07-18T08:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946124783776600351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1301075030323933185",
+              "start": 0,
+              "username": "yang23699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946124783776600351",
+        "in_reply_to_user_id": "1301075030323933185",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946085793006841870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang23699 66"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301075030323933185",
+        "conversation_id": "1946085793006841870",
+        "created_at": "2025-07-18T05:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946085793006841870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946085793006841870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20975,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "第四次犬交成功\n真的被🐶🐶内了 好恶心 我想吐🥵\n录了2个小视频时长20多分钟\n想看 点赞和评论扣66秒回 马上发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦(暂停营业)\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 119,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1509
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-02T08:31:00.000Z",
+        "description": "00年泌尿科护士/自己喜欢做一些色色的事^_ ^对男生的身体极度敏感，谁来和我一起色色(只宠粉，没有关注不回私信)",
+        "id": "1301075030323933185",
+        "name": "护士小杨杨",
+        "pinned_tweet_id": "1946080298921550136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691390329403125760/8CpaaJCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151587,
+          "following_count": 17,
+          "like_count": 898,
+          "listed_count": 41,
+          "media_count": 213,
+          "tweet_count": 4065
+        },
+        "username": "yang23699",
+        "verified": false
+      }
+    ]
+  }
+}

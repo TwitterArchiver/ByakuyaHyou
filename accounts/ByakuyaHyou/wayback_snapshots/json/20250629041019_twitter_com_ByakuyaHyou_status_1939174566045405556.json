@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939140650919763968"
+      ],
+      "media_source_tweet_id": [
+        "1939141745738162581"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939174566045405556",
+    "created_at": "2025-06-29T04:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T05:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939174566045405556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "文媛"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "日记"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1919058718433427456",
+          "start": 3,
+          "username": "angeltudolove2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBGnqyjD6m",
+          "end": 129,
+          "expanded_url": "https://x.com/angeltudolove2/status/1939141745738162581/photo/1",
+          "media_key": "3_1939140650919763968",
+          "start": 106,
+          "url": "https://t.co/sBGnqyjD6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939174566045405556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939141745738162581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angeltudolove2: 呜哦哦哦~💕对不起，我是个只喜欢钱的坏女人，我已经深刻意识到自己的错误了，请主人狠狠地用大~肉~棒~惩罚我~噫哦哦哦……♥️♥️♥️\n（牌号在个人介绍里）\n#文媛 #日记 https://t.co/sBGnqyjD6m"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939174566045405556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939174566045405556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939174566045405556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1939140650919763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guk2JeOXoAAf176.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939140650919763968"
+          ]
+        },
+        "author_id": "1919058718433427456",
+        "conversation_id": "1939141745738162581",
+        "created_at": "2025-06-29T01:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939141745738162581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "文媛"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBGnqyjD6m",
+              "end": 109,
+              "expanded_url": "https://x.com/angeltudolove2/status/1939141745738162581/photo/1",
+              "media_key": "3_1939140650919763968",
+              "start": 86,
+              "url": "https://t.co/sBGnqyjD6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939141745738162581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜哦哦哦~💕对不起，我是个只喜欢钱的坏女人，我已经深刻意识到自己的错误了，请主人狠狠地用大~肉~棒~惩罚我~噫哦哦哦……♥️♥️♥️\n（牌号在个人介绍里）\n#文媛 #日记 https://t.co/sBGnqyjD6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1488
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:57:17.000Z",
+        "description": "呼呼~💕无论是s还是m的先生，女士，还是母猪，小狗，蕾娜丝这里都欢迎哦~要和我做一些快乐的事情么？\n3499505433（炸号）\n3901512055（新号）\n2473975157（咱的抖M奴奴媛）\n这个是QQ哦，亲爱的💋\n❤️喜欢请转发我的帖子！♥️",
+        "id": "1919058718433427456",
+        "location": "人家在你心里哦~♥️",
+        "name": "蕾娜丝（文媛）（互推）",
+        "pinned_tweet_id": "1929936128087601286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939144260105940992/NS20FGRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 48,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 34
+        },
+        "username": "angeltudolove2",
+        "verified": false
+      }
+    ]
+  }
+}

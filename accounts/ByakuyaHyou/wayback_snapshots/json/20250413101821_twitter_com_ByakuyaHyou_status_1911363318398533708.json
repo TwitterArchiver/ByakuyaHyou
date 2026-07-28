@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911363318398533708",
+    "created_at": "2025-04-13T10:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T11:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911363318398533708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911363318398533708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911329220380496126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 哈啊...♡ 老公你在那边看着吗，没关系哦...💚 人家正开心的跟闺蜜一起，和大鸡吧主人们幸福的做艾呢💚 \n没办法嘛... 他们的鸡巴太粗太长了 一下子就把咱俩折服了呢💚 已经变成肥头大耳男爹们胯下 只会嗯嗯啊啊♡淫叫的母犬了..💚\n老公下次也…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911363318398533708].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911363318398533708",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911363318398533708"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_1911329217142312960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZny9yX0AAyeCb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911329217142312960"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1911329220380496126",
+        "created_at": "2025-04-13T08:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T09:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911329220380496126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "NTR"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "多人"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "文援"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "文媛"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "绿奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ue74pNXk4U",
+              "end": 181,
+              "expanded_url": "https://x.com/q3233788635/status/1911329220380496126/photo/1",
+              "media_key": "3_1911329217142312960",
+              "start": 158,
+              "url": "https://t.co/ue74pNXk4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911329220380496126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "哈啊...♡ 老公你在那边看着吗，没关系哦...💚 人家正开心的跟闺蜜一起，和大鸡吧主人们幸福的做艾呢💚 \n没办法嘛... 他们的鸡巴太粗太长了 一下子就把咱俩折服了呢💚 已经变成肥头大耳男爹们胯下 只会嗯嗯啊啊♡淫叫的母犬了..💚\n老公下次也来一起服侍主人们叭💚\n#NTR #多人 #文爱 #文援 #文媛 #绿奴 https://t.co/ue74pNXk4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 113,
+          "like_count": 1065,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1256
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 459,
+          "like_count": 3129,
+          "listed_count": 10,
+          "media_count": 65,
+          "tweet_count": 2631
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

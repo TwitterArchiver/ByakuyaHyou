@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836771334975877237",
+    "created_at": "2024-09-19T14:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836771334975877237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836771334975877237",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834307590186213819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 是羽月的软糯肥尻哦~由于屁股太肉吊带都勒进臀肉里面了呢♡只是在一旁吞咽口水看着不想来试试手感吗~亦或者~被人家颜面骑乘♡一边感受着肥腻臀肉挤压自己脸庞的触感~一边大口呼吸着人家胯下的气味~在享受和耻辱的交织快感下喷精高潮♡就这样沦为除臭坐垫度…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836771334975877237].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836771334975877237",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836771334975877237"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834307166184112128"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1834307590186213819",
+        "created_at": "2024-09-12T19:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834307590186213819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文爱"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "丝袜"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "肉臀"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qt38niji7",
+              "end": 169,
+              "expanded_url": "https://twitter.com/shigongyuyue/status/1834307590186213819/photo/1",
+              "media_key": "3_1834307166184112128",
+              "start": 146,
+              "url": "https://t.co/2qT38nijI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834307590186213819",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1791,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "是羽月的软糯肥尻哦~由于屁股太肉吊带都勒进臀肉里面了呢♡只是在一旁吞咽口水看着不想来试试手感吗~亦或者~被人家颜面骑乘♡一边感受着肥腻臀肉挤压自己脸庞的触感~一边大口呼吸着人家胯下的气味~在享受和耻辱的交织快感下喷精高潮♡就这样沦为除臭坐垫度过余生♡ #文爱 #文援 #丝袜 #肉臀 #调教 https://t.co/2qT38nijI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 80,
+          "like_count": 537,
+          "listed_count": 0,
+          "tweet_count": 656
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族大妖——时宫羽月大人 ，虽然是外表看上去与雌性别无二致的男娘~但其实有着很厉害的肉棒哦~♡千万不要听信外界那些人家被稍微调戏一下就会变成发情肉便器免费侍奉的谣言!!!很欢迎不知好歹的雄性或者雌性杂鱼来挑战人家~♡ 🚪2783735641",
+        "id": "1388652214395150339",
+        "location": "非常精神病院",
+        "name": "时宫羽月（发情の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451218641723162624/Np6rTPgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1392,
+          "like_count": 6998,
+          "listed_count": 5,
+          "tweet_count": 3662
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

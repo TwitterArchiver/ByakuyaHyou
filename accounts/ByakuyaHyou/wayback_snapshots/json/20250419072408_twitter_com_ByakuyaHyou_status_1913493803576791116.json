@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1913104063610462208"
+      ],
+      "media_source_tweet_id": [
+        "1913104117314293856"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913493803576791116",
+    "created_at": "2025-04-19T07:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T08:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913493803576791116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354563078700949505",
+          "start": 3,
+          "username": "1999ZMZM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r2mZzRzukG",
+          "end": 78,
+          "expanded_url": "https://x.com/1999ZMZM/status/1913104117314293856/video/1",
+          "media_key": "7_1913104063610462208",
+          "start": 55,
+          "url": "https://t.co/r2mZzRzukG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913493803576791116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913104117314293856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1999ZMZM: 玩贞操锁的都是什么样的奴呀？是不是都是喜欢看自己老婆和别人做 自己在旁边跪着看。 https://t.co/r2mZzRzukG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913493803576791116].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913493803576791116",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913493803576791116"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27455,
+        "height": 960,
+        "media_key": "7_1913104063610462208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913104063610462208/pu/img/Cet3xmPsAAOVWufn.jpg",
+        "public_metrics": {
+          "view_count": 1195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913104063610462208/pu/vid/avc1/320x568/_CCjU9yFns6c2Z94.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913104063610462208/pu/vid/avc1/480x852/fbXGGISx6a2St1oL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913104063610462208/pu/vid/avc1/540x960/qqsqXa6PPcu4glWp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913104063610462208/pu/pl/ufKfccn-H5HcQ6RQ.m3u8?tag=12&v=f0f"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913104063610462208"
+          ]
+        },
+        "author_id": "1354563078700949505",
+        "conversation_id": "1913104117314293856",
+        "created_at": "2025-04-18T05:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T06:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913104117314293856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2mZzRzukG",
+              "end": 64,
+              "expanded_url": "https://x.com/1999ZMZM/status/1913104117314293856/video/1",
+              "media_key": "7_1913104063610462208",
+              "start": 41,
+              "url": "https://t.co/r2mZzRzukG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913104117314293856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5817,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "玩贞操锁的都是什么样的奴呀？是不是都是喜欢看自己老婆和别人做 自己在旁边跪着看。 https://t.co/r2mZzRzukG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1276
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣sama",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10528,
+          "following_count": 191,
+          "like_count": 53,
+          "listed_count": 27,
+          "media_count": 44,
+          "tweet_count": 79
+        },
+        "username": "1999ZMZM",
+        "verified": true
+      }
+    ]
+  }
+}

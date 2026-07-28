@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069012061867442176",
+        "3_2069012062039343104",
+        "3_2069012062039429120",
+        "3_2069012195300802560"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2069012221783597219",
+    "created_at": "2026-06-22T10:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069012221783597219"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "男孩子"
+        },
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "cosplay"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "德克萨斯"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUyE0n8pPC",
+          "end": 74,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+          "media_key": "3_2069012061867442176",
+          "start": 51,
+          "url": "https://t.co/GUyE0n8pPC"
+        },
+        {
+          "display_url": "pic.x.com/GUyE0n8pPC",
+          "end": 74,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+          "media_key": "3_2069012062039343104",
+          "start": 51,
+          "url": "https://t.co/GUyE0n8pPC"
+        },
+        {
+          "display_url": "pic.x.com/GUyE0n8pPC",
+          "end": 74,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+          "media_key": "3_2069012062039429120",
+          "start": 51,
+          "url": "https://t.co/GUyE0n8pPC"
+        },
+        {
+          "display_url": "pic.x.com/GUyE0n8pPC",
+          "end": 74,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+          "media_key": "3_2069012195300802560",
+          "start": 51,
+          "url": "https://t.co/GUyE0n8pPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069012221783597219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ps：第一次出cos，低质量coser\n\n#明日方舟 #男孩子 #cosplay #德克萨斯 #女装 https://t.co/GUyE0n8pPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2069012061867442176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLabghebgAA880g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 938,
+        "media_key": "3_2069012062039343104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLabgiHagAANwEO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 938,
+        "media_key": "3_2069012062039429120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLabgiHb0AA26f-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1902,
+        "media_key": "3_2069012195300802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaboSjbAAAVGdz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069012061867442176",
+            "3_2069012062039343104",
+            "3_2069012062039429120",
+            "3_2069012195300802560"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2069012221783597219",
+        "created_at": "2026-06-22T10:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069012221783597219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "男孩子"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "cosplay"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "德克萨斯"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUyE0n8pPC",
+              "end": 74,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+              "media_key": "3_2069012061867442176",
+              "start": 51,
+              "url": "https://t.co/GUyE0n8pPC"
+            },
+            {
+              "display_url": "pic.x.com/GUyE0n8pPC",
+              "end": 74,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+              "media_key": "3_2069012062039343104",
+              "start": 51,
+              "url": "https://t.co/GUyE0n8pPC"
+            },
+            {
+              "display_url": "pic.x.com/GUyE0n8pPC",
+              "end": 74,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+              "media_key": "3_2069012062039429120",
+              "start": 51,
+              "url": "https://t.co/GUyE0n8pPC"
+            },
+            {
+              "display_url": "pic.x.com/GUyE0n8pPC",
+              "end": 74,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2069012221783597219/photo/1",
+              "media_key": "3_2069012195300802560",
+              "start": 51,
+              "url": "https://t.co/GUyE0n8pPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069012221783597219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ps：第一次出cos，低质量coser\n\n#明日方舟 #男孩子 #cosplay #德克萨斯 #女装 https://t.co/GUyE0n8pPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 906,
+          "like_count": 1578,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

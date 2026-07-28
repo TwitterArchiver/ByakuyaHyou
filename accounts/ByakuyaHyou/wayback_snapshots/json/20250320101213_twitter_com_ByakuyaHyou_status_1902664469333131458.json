@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902664469333131458",
+    "created_at": "2025-03-20T10:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T11:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902664469333131458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898382046042767361",
+          "start": 3,
+          "username": "Syrann1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902664469333131458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902033102345756780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syrann1: 原来你这跟肉虫还硬的起来啊，思然还以为你是一只对女人硬不起来的软屌废物公狗呢~\n高贵的黑色高跟鞋底踩在肉棒上，鞋尖对着龟头碾压♡被本小姐的黑丝高跟靴底搓两下就硬成这个样子嗯？只会对鞋底发情的垃圾，给我流精啊废物，满足不了自己女人的短小肉芽，就该被大小姐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902664469333131458].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902664469333131458",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902664469333131458"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1902033094653423616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVhBa3asAA25Eo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902033094653423616"
+          ]
+        },
+        "author_id": "1898382046042767361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1902033102345756780",
+        "created_at": "2025-03-18T16:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902033102345756780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIlRHUPFW1",
+              "end": 166,
+              "expanded_url": "https://x.com/Syrann1/status/1902033102345756780/photo/1",
+              "media_key": "3_1902033094653423616",
+              "start": 143,
+              "url": "https://t.co/eIlRHUPFW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902033102345756780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原来你这跟肉虫还硬的起来啊，思然还以为你是一只对女人硬不起来的软屌废物公狗呢~\n高贵的黑色高跟鞋底踩在肉棒上，鞋尖对着龟头碾压♡被本小姐的黑丝高跟靴底搓两下就硬成这个样子嗯？只会对鞋底发情的垃圾，给我流精啊废物，满足不了自己女人的短小肉芽，就该被大小姐的高跟靴一脚踢爆♡#文援 #羞辱 https://t.co/eIlRHUPFW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 106,
+          "like_count": 915,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1087
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T14:35:31.000Z",
+        "description": "是想见识高贵大小姐的【足艺】吗？无论是脚趾抓握还是足底摩擦…思然从记事起就在练习呢~相应的，准备好【吐】出价值和脑子了吗？白色的浓汤和香喷喷的钞票🖤 \n温柔向S系文援，嫩足/羞辱/压榨/绿帽/ATM/媚黑。思然会玩的还有很多，可惜变态足控只配接受这些♡ 置顶门牌封了，临时门牌：3932828799。本体女可验证哦~",
+        "id": "1898382046042767361",
+        "location": "雨不会一直下，但是头会。",
+        "name": "足艺大小姐♠️思然𝙎𝙮𝙧𝙖𝙣𝙣（互推）",
+        "pinned_tweet_id": "1901499211574886448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899141348185493504/N52aBnj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 6,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "username": "Syrann1",
+        "verified": false
+      }
+    ]
+  }
+}

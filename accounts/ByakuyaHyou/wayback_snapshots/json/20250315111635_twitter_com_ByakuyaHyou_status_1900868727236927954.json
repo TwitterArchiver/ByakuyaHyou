@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1900868727236927954",
+    "created_at": "2025-03-15T11:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T12:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900868727236927954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900868727236927954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900836354210361481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 扶她罗德岛热门产物—擬牝台\n各位可以看到呢~我们罗德岛性药公司的扶她员工都很喜欢这个设备呢~♥\n在我们罗德岛研制的性药下干员们的阴茎和性欲都指数上升呢~♥\n这般粗大的阴茎和喷射出来的精液量~♥\n想要了解更多罗德岛的最新研制的性药或者想要订购的话~♥罗德岛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900868727236927954].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900868727236927954",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900868727236927954"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900836029743169536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmEgTEkbAAAvhaY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900836350607478784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmEglv4b0AADR_m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900836029743169536",
+            "3_1900836350607478784"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1900836354210361481",
+        "created_at": "2025-03-15T09:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T10:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900836354210361481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "大量精液"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "扶她"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRNNJ74W00",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1900836354210361481/photo/1",
+              "media_key": "3_1900836029743169536",
+              "start": 149,
+              "url": "https://t.co/MRNNJ74W00"
+            },
+            {
+              "display_url": "pic.x.com/MRNNJ74W00",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1900836354210361481/photo/1",
+              "media_key": "3_1900836350607478784",
+              "start": 149,
+              "url": "https://t.co/MRNNJ74W00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900836354210361481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "大量精液"
+              },
+              {
+                "end": 147,
+                "start": 144,
+                "tag": "扶她"
+              },
+              {
+                "end": 152,
+                "start": 148,
+                "tag": "擬牝台"
+              },
+              {
+                "end": 156,
+                "start": 153,
+                "tag": "文爱"
+              },
+              {
+                "end": 162,
+                "start": 157,
+                "tag": "明日方舟"
+              },
+              {
+                "end": 167,
+                "start": 163,
+                "tag": "阿米娅"
+              },
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "铃兰"
+              }
+            ]
+          },
+          "text": "扶她罗德岛热门产物—擬牝台\n各位可以看到呢~我们罗德岛性药公司的扶她员工都很喜欢这个设备呢~♥\n在我们罗德岛研制的性药下干员们的阴茎和性欲都指数上升呢~♥\n这般粗大的阴茎和喷射出来的精液量~♥\n想要了解更多罗德岛的最新研制的性药或者想要订购的话~♥罗德岛电台持续为您更新~♥\n#大量精液 #扶她 #擬牝台 #文爱 #明日方舟 #阿米娅 #铃兰"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 420,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "扶她罗德岛热门产物—擬牝台\n各位可以看到呢~我们罗德岛性药公司的扶她员工都很喜欢这个设备呢~♥\n在我们罗德岛研制的性药下干员们的阴茎和性欲都指数上升呢~♥\n这般粗大的阴茎和喷射出来的精液量~♥\n想要了解更多罗德岛的最新研制的性药或者想要订购的话~♥罗德岛电台持续为您更新~♥\n#大量精液 #扶她… https://t.co/MRNNJ74W00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 97,
+          "like_count": 848,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1033
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，可树洞聊天，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥好弟弟@warfarin_bf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "ByakuyaHyou"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "warfarin_bf"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1899806369383055814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 204,
+          "like_count": 316,
+          "listed_count": 5,
+          "media_count": 66,
+          "tweet_count": 661
+        },
+        "username": "mrfzxi",
+        "verified": true
+      }
+    ]
+  }
+}

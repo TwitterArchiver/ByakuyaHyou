@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2008876888970924053",
+    "created_at": "2026-01-08T23:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009411157002494007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400782081505038343",
+          "start": 0,
+          "username": "Spicy_Rebar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009411157002494007",
+    "in_reply_to_user_id": "1400782081505038343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008876888970924053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spicy_Rebar 可以……撅吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80434,
+        "height": 1920,
+        "media_key": "13_2008872191635689472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008872191635689472/img/Fw5uY82JUYFDThHZ.jpg",
+        "public_metrics": {
+          "view_count": 624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008872191635689472/vid/avc1/320x568/dSF-MtwM0mH_Udw7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008872191635689472/vid/avc1/480x852/qbFJowPdQMwBh6a7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008872191635689472/vid/avc1/720x1280/MmUSKVBfEi_JXrue.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008872191635689472/pl/yIZLuzXynZhreaLj.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2008876888970924053",
+        "created_at": "2026-01-08T23:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009411157002494007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400782081505038343",
+              "start": 0,
+              "username": "Spicy_Rebar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009411157002494007",
+        "in_reply_to_user_id": "1400782081505038343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008876888970924053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spicy_Rebar 可以……撅吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008872191635689472"
+          ]
+        },
+        "author_id": "1400782081505038343",
+        "conversation_id": "2008876888970924053",
+        "created_at": "2026-01-07T12:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008876888970924053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "latex"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "Furina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi1YXopOS8",
+              "end": 144,
+              "expanded_url": "https://x.com/Spicy_Rebar/status/2008876888970924053/video/1",
+              "media_key": "13_2008872191635689472",
+              "start": 121,
+              "url": "https://t.co/qi1YXopOS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008876888970924053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 1622,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "绝缘套芙芙😋\n面对来源不明的神秘装备，芙芙的选择是......\n（后面是一点碎碎念，只是黑胶，涩涩的内容其实没怎么搞，后面得琢磨一下了，然后因为本体近视，所以比较依赖手机来观察，有点呆呆）\n#kigurumi  #latex #Furina https://t.co/qi1YXopOS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 214,
+          "like_count": 1368,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1522
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T11:50:59.000Z",
+        "description": "是萌新kiger，角色是芙宁娜，喜欢kigurumi胶衣，不定时戴锁中",
+        "id": "1400782081505038343",
+        "name": "土豆丝炒姜丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005298886823624704/ESMq5eaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 404,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 33
+        },
+        "username": "Spicy_Rebar",
+        "verified": false
+      }
+    ]
+  }
+}

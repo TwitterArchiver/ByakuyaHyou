@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079723871373316096"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2079724486698688984",
+    "created_at": "2026-07-22T00:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079724486698688984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "Arknights"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "普瑞赛斯"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "女装"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "cos"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "男娘"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "源石计划"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rjYTnsMm22",
+          "end": 95,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2079724486698688984/photo/1",
+          "media_key": "3_2079723871373316096",
+          "start": 72,
+          "url": "https://t.co/rjYTnsMm22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079724486698688984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "源石计划……必须推进……文明的火种……永世长存\n\n#Arknights #明日方舟 #普瑞赛斯 #女装 #cos #男娘 #源石计划 #男孩子 https://t.co/rjYTnsMm22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079723871373316096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyp15gbUAAd0--.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079723871373316096"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2079724486698688984",
+        "created_at": "2026-07-22T00:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079724486698688984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Arknights"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "普瑞赛斯"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "女装"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "cos"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "男娘"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "源石计划"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjYTnsMm22",
+              "end": 95,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2079724486698688984/photo/1",
+              "media_key": "3_2079723871373316096",
+              "start": 72,
+              "url": "https://t.co/rjYTnsMm22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079724486698688984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "源石计划……必须推进……文明的火种……永世长存\n\n#Arknights #明日方舟 #普瑞赛斯 #女装 #cos #男娘 #源石计划 #男孩子 https://t.co/rjYTnsMm22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 1154,
+          "like_count": 1761,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1685
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

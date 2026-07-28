@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832787852826177836",
+    "created_at": "2024-09-08T14:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T15:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832787852826177836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "文援"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "女仆"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677641309123928065",
+          "start": 3,
+          "username": "Anyanyanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832787852826177836",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832698228757918149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anyanyanako: “啊呀，难道是在偷看吗？”\n面前少女的裙摆被风吹起，露出堪称绝对诱惑的白色蕾丝内裤，透肉的白色花纹挤压出自己的肉缝，紧身而严密防守的前段则是勾勒出了那狭小的沟渠♡\n“废物主人还真是控制不住自己的欲望啊。”\n#文援 #女仆 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832787852826177836].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832787852826177836",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832787852826177836"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832698225524174848"
+          ]
+        },
+        "author_id": "1677641309123928065",
+        "conversation_id": "1832698228757918149",
+        "created_at": "2024-09-08T08:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T09:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832698228757918149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "文援"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "女仆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/boi7xcw5ja",
+              "end": 134,
+              "expanded_url": "https://twitter.com/Anyanyanako/status/1832698228757918149/photo/1",
+              "media_key": "3_1832698225524174848",
+              "start": 111,
+              "url": "https://t.co/boI7xcW5JA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832698228757918149",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“啊呀，难道是在偷看吗？”\n面前少女的裙摆被风吹起，露出堪称绝对诱惑的白色蕾丝内裤，透肉的白色花纹挤压出自己的肉缝，紧身而严密防守的前段则是勾勒出了那狭小的沟渠♡\n“废物主人还真是控制不住自己的欲望啊。”\n#文援 #女仆 https://t.co/boI7xcW5JA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 80,
+          "like_count": 446,
+          "listed_count": 0,
+          "tweet_count": 533
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T11:30:46.000Z",
+        "description": "肮脏的废物童贞们只配下跪看着香礼大人撸管哦♡会将各位发情低等生物的体液与钱包全部榨取干净♡人家会在你的小脑瓜里注满幸福哦～",
+        "id": "1677641309123928065",
+        "location": "姬馆",
+        "name": "文援♡香礼(互推)",
+        "pinned_tweet_id": "1830509493253513463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818162538829520896/aN6oI3w3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 20,
+          "like_count": 164,
+          "listed_count": 0,
+          "tweet_count": 237
+        },
+        "username": "Anyanyanako",
+        "verified": false
+      }
+    ]
+  }
+}

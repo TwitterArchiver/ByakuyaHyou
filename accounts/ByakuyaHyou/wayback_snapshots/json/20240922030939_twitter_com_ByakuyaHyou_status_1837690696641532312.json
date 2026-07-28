@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837690696641532312",
+    "created_at": "2024-09-22T03:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T04:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837690696641532312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837690696641532312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825500575225479665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 欢迎来到教堂，小狗狗，想要向圣女大姐姐忏悔嘛～\n光鲜亮丽的圣女殿下，此刻正跨坐着男奴的鸡巴之上，垂下的布片刚好挡住了自己的乳尖与淫穴❤️\n迷途的羔羊～接受圣乳的洗礼吧～\n这是我为你赐下的淫乳爱液～喝下它，把罪恶的种子，送到我的体内吧～真诚的向我…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837690696641532312].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837690696641532312",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837690696641532312"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825500572025520128"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1825500575225479665",
+        "created_at": "2024-08-19T11:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825500575225479665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文媛"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npar6j5vcp",
+              "end": 167,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1825500575225479665/photo/1",
+              "media_key": "3_1825500572025520128",
+              "start": 144,
+              "url": "https://t.co/npaR6j5VcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825500575225479665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1262,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到教堂，小狗狗，想要向圣女大姐姐忏悔嘛～\n光鲜亮丽的圣女殿下，此刻正跨坐着男奴的鸡巴之上，垂下的布片刚好挡住了自己的乳尖与淫穴❤️\n迷途的羔羊～接受圣乳的洗礼吧～\n这是我为你赐下的淫乳爱液～喝下它，把罪恶的种子，送到我的体内吧～真诚的向我忏悔吧，你的罪孽将由我净化\n#文媛 #文爱 https://t.co/npaR6j5VcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 81,
+          "like_count": 547,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

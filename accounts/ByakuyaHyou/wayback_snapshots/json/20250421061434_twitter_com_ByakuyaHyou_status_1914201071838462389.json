@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914201071838462389",
+    "created_at": "2025-04-21T06:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914201071838462389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354563078700949505",
+          "start": 3,
+          "username": "1999ZMZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914201071838462389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913885953371914295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1999ZMZM: 你们这些狗只配活在主人高贵的脚下…妈妈吐口痰你们都要用嘴接着…你把你狗鸡用贞操锁狠狠的锁住 \nYou slaves deserve to live under the noble feet of your master...You should ca…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914201071838462389].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914201071838462389",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914201071838462389"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48042,
+        "height": 1280,
+        "media_key": "7_1913885809893367808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913885809893367808/pu/img/lU55KucFBIuPx2do.jpg",
+        "public_metrics": {
+          "view_count": 1330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913885809893367808/pu/vid/avc1/320x568/zk8TTrzgezXv8VaI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913885809893367808/pu/vid/avc1/480x852/PNl1VQUABLeQvF85.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913885809893367808/pu/vid/avc1/720x1280/37Vn7ySXrPbYO9o5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913885809893367808/pu/pl/xWaCBZyDvdOxV3Qw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913885809893367808"
+          ]
+        },
+        "author_id": "1354563078700949505",
+        "conversation_id": "1913885953371914295",
+        "created_at": "2025-04-20T09:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T10:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913885953371914295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BAVk4dILP",
+              "end": 257,
+              "expanded_url": "https://x.com/1999ZMZM/status/1913885953371914295/video/1",
+              "media_key": "7_1913885809893367808",
+              "start": 234,
+              "url": "https://t.co/7BAVk4dILP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913885953371914295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9002,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些狗只配活在主人高贵的脚下…妈妈吐口痰你们都要用嘴接着…你把你狗鸡用贞操锁狠狠的锁住 \nYou slaves deserve to live under the noble feet of your master...You should catch the spit of your mother with your mouth...You should lock your dog's cock tightly with the chastity lock https://t.co/7BAVk4dILP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1281
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣sama",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10624,
+          "following_count": 191,
+          "like_count": 54,
+          "listed_count": 28,
+          "media_count": 49,
+          "tweet_count": 85
+        },
+        "username": "1999ZMZM",
+        "verified": true
+      }
+    ]
+  }
+}

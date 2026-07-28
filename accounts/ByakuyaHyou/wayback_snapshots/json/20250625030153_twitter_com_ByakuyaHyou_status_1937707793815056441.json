@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1937707793815056441",
+    "created_at": "2025-06-25T03:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937707793815056441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "匿名贡"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "贡奴"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "贡畜"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "无脑贡"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "败北凌辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937707793815056441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936048449444835420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 告诉你们哦！月月白天要上课，半夜也一般不会上推，贡⃤瘾⃤上来又不想有金钱损失的贱畜们，可以发口令红包私信哦！然后自己把红包领了，领一次就发傻逼逃脱成功一次（也可发其他贱称），领了几次就发XX成功逃脱几次 #匿名贡 #贡奴 #贡畜 #无脑贡 #败北凌辱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937707793815056441].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937707793815056441",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937707793815056441"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1936048430368833536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt45yjAWQAAjlGJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936048430368833536"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1936048449444835420",
+        "created_at": "2025-06-20T13:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936048449444835420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "匿名贡"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "贡奴"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "贡畜"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "貢ぎ奴隷"
+            },
+            {
+              "end": 145,
+              "start": 138,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "女绿奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nt4XVHYg8a",
+              "end": 174,
+              "expanded_url": "https://x.com/yues666/status/1936048449444835420/photo/1",
+              "media_key": "3_1936048430368833536",
+              "start": 151,
+              "url": "https://t.co/Nt4XVHYg8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936048449444835420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "告诉你们哦！月月白天要上课，半夜也一般不会上推，贡⃤瘾⃤上来又不想有金钱损失的贱畜们，可以发口令红包私信哦！然后自己把红包领了，领一次就发傻逼逃脱成功一次（也可发其他贱称），领了几次就发XX成功逃脱几次 #匿名贡 #贡奴 #贡畜 #无脑贡 #败北凌辱 #貢ぎマゾ #貢ぎ奴隷 #ATM打钱奴 #女绿奴 https://t.co/Nt4XVHYg8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 119,
+          "like_count": 1268,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1475
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 12,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 350
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

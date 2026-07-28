@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1906254628095766558",
+    "created_at": "2025-03-30T07:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T08:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906254628095766558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/tVvz",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/tVvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906254628095766558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906196057278788034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 哈喽哈喽，这里是可爱的荧妹，新人文媛，才不是什么杂鱼呢，欢迎大家来找我玩\n荧妹会尽力满足大家的，荧妹可不是什么乖乖女，服从是不可能服从的，喜欢荧妹的可以加一下小群，有审核的哦\n接单号3860669556，TG https://t.co/tVvz…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906254628095766558].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906254628095766558",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906254628095766558"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1906196042791751680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQrM5LbkAAea9c.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906196054116352000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQrNjXbQAAjIkB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906196042791751680",
+            "3_1906196054116352000"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1906196057278788034",
+        "created_at": "2025-03-30T04:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906196057278788034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @xmgdg right away.",
+              "display_url": "t.me/xmgdg",
+              "end": 128,
+              "expanded_url": "http://t.me/xmgdg",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1904948084834177024/O7FnT0Yb?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1904948084834177024/O7FnT0Yb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "荧妹",
+              "unwound_url": "https://t.me/xmgdg",
+              "url": "https://t.co/tVvzgZZU7p"
+            },
+            {
+              "display_url": "pic.x.com/lj8DMcc47r",
+              "end": 180,
+              "expanded_url": "https://x.com/dnggu156261/status/1906196057278788034/photo/1",
+              "media_key": "3_1906196042791751680",
+              "start": 157,
+              "url": "https://t.co/lj8DMcc47r"
+            },
+            {
+              "display_url": "pic.x.com/lj8DMcc47r",
+              "end": 180,
+              "expanded_url": "https://x.com/dnggu156261/status/1906196057278788034/photo/1",
+              "media_key": "3_1906196054116352000",
+              "start": 157,
+              "url": "https://t.co/lj8DMcc47r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906196057278788034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽哈喽，这里是可爱的荧妹，新人文媛，才不是什么杂鱼呢，欢迎大家来找我玩\n荧妹会尽力满足大家的，荧妹可不是什么乖乖女，服从是不可能服从的，喜欢荧妹的可以加一下小群，有审核的哦\n接单号3860669556，TG https://t.co/tVvzgZZU7p  30r0.5h，不接语音单哦，不涉三，重口的可以试试 https://t.co/lj8DMcc47r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 108,
+          "like_count": 989,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1159
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 119,
+          "like_count": 5258,
+          "listed_count": 17,
+          "media_count": 81,
+          "tweet_count": 5459
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

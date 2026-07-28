@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915255542198710429",
+    "created_at": "2025-04-24T04:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915255542198710429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669539094853210112",
+          "start": 3,
+          "username": "36Dxiaomihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915255542198710429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915230174079312069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @36Dxiaomihu: (慢悠悠踢掉一只运动鞋，露出湿热的白袜，足臭瞬间弥漫在空气中。故意伸开腿，脚底在你面前晃，脚趾在袜子里动了动，恶劣的勾引男生） \n喂~笨蛋，干嘛偷瞄我的脚呀？\n是不是~闻到了什么喜欢的味道啦？再凑近点？\n来嘛~人家的脚香可是限量版哦w\n（挑逗着…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915255542198710429].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915255542198710429",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915255542198710429"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_1915230082807062530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRDnOzbYAI9jtS.png",
+        "width": 528
+      },
+      {
+        "height": 989,
+        "media_key": "3_1915230083884998657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRDnS0bYAEuIL1.jpg",
+        "width": 735
+      },
+      {
+        "height": 1074,
+        "media_key": "3_1915230082828034049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRDnO4bYAEMVQJ.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915230082807062530",
+            "3_1915230083884998657",
+            "3_1915230082828034049"
+          ]
+        },
+        "author_id": "1669539094853210112",
+        "conversation_id": "1915230174079312069",
+        "created_at": "2025-04-24T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915230174079312069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ljj8ghi06J",
+              "end": 167,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1915230174079312069/photo/1",
+              "media_key": "3_1915230082807062530",
+              "start": 144,
+              "url": "https://t.co/Ljj8ghi06J"
+            },
+            {
+              "display_url": "pic.x.com/Ljj8ghi06J",
+              "end": 167,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1915230174079312069/photo/1",
+              "media_key": "3_1915230083884998657",
+              "start": 144,
+              "url": "https://t.co/Ljj8ghi06J"
+            },
+            {
+              "display_url": "pic.x.com/Ljj8ghi06J",
+              "end": 167,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1915230174079312069/photo/1",
+              "media_key": "3_1915230082828034049",
+              "start": 144,
+              "url": "https://t.co/Ljj8ghi06J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915230174079312069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 426,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "(慢悠悠踢掉一只运动鞋，露出湿热的白袜，足臭瞬间弥漫在空气中。故意伸开腿，脚底在你面前晃，脚趾在袜子里动了动，恶劣的勾引男生） \n喂~笨蛋，干嘛偷瞄我的脚呀？\n是不是~闻到了什么喜欢的味道啦？再凑近点？\n来嘛~人家的脚香可是限量版哦w\n（挑逗着脱下袜子，甩到你身边，汗湿的脚底踩在边上） https://t.co/Ljj8ghi06J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1311
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T02:55:26.000Z",
+        "description": "欢迎小可爱们私信互推和扩列哦♡\n欢迎小狗们来兔兔的脚底下单发情♡\n让人家用脚把你这个垃圾贱种的肉棒踩坏♡\n你的低级的贱种基因在兔兔的足下碾碎♡\n给人家臭脚除臭♡让气味进入你的大脑里♡\n成为人家的脚垫奴隶w被迫吸着足臭噴精\n臭脚踩脸♡气味洗脑♡羞辱蹂躏♡\n兔兔的门牌Q：2757227747 门费：20r",
+        "id": "1669539094853210112",
+        "name": "兔子小姐🔞",
+        "pinned_tweet_id": "1915230174079312069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820375164997292032/op9-8-hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 770,
+          "like_count": 1345,
+          "listed_count": 20,
+          "media_count": 61,
+          "tweet_count": 262
+        },
+        "username": "36Dxiaomihu",
+        "verified": false
+      }
+    ]
+  }
+}

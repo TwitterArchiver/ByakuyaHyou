@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Recruitment",
+          "id": "961961812492148736",
+          "name": "Recruitment"
+        }
+      }
+    ],
+    "conversation_id": "1936427623711973606",
+    "created_at": "2025-06-21T14:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936427623711973606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936427623711973606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935501883977908458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 看见软糯雪白玉足就走不动路、发情点开放大偷舔视奸白丝雪糕的样子真是好笑~\n是不是已经迫不及待想要敲上门跪求人家用可爱香嫩小脚踩你那满脑子都是的东西了呀~🧡\n（慢慢把粉嫩透肉足底踏在脸上🧡）杂鱼处男贱狗真是没用~对着本小姐的丝足败北丧志一辈子好了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936427623711973606].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936427623711973606",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936427623711973606"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1935501879724646400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtxItHMWoAAl3Xx.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935501879724646400"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          }
+        ],
+        "conversation_id": "1935501883977908458",
+        "created_at": "2025-06-19T00:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T01:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935501883977908458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "羞辱"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "调教"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "足控"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "小狗"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "m男"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJ7XXkaUls",
+              "end": 172,
+              "expanded_url": "https://x.com/q3233788635/status/1935501883977908458/photo/1",
+              "media_key": "3_1935501879724646400",
+              "start": 149,
+              "url": "https://t.co/vJ7XXkaUls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935501883977908458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5555,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "看见软糯雪白玉足就走不动路、发情点开放大偷舔视奸白丝雪糕的样子真是好笑~\n是不是已经迫不及待想要敲上门跪求人家用可爱香嫩小脚踩你那满脑子都是的东西了呀~🧡\n（慢慢把粉嫩透肉足底踏在脸上🧡）杂鱼处男贱狗真是没用~对着本小姐的丝足败北丧志一辈子好了~🧡\n#羞辱 #调教 #足控 #小狗 #m男 #文媛 https://t.co/vJ7XXkaUls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1264,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1472
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 459,
+          "like_count": 3375,
+          "listed_count": 14,
+          "media_count": 92,
+          "tweet_count": 4025
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838914075918794752"
+      ],
+      "media_source_tweet_id": [
+        "1838914085691519291"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839006163029078060",
+    "created_at": "2024-09-25T18:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T19:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839006163029078060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "女s"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "男m"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 52,
+          "start": 45,
+          "tag": "ATM打钱奴"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "榨金"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "报销奴"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "舔脚"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "舔狗"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "黑丝控"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "女尊男卑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640248618580946945",
+          "start": 3,
+          "username": "funk_19973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhrq1ufrvn",
+          "end": 104,
+          "expanded_url": "https://twitter.com/funk_19973/status/1838914085691519291/photo/1",
+          "media_key": "3_1838914075918794752",
+          "start": 81,
+          "url": "https://t.co/uHrq1uFRvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839006163029078060",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838914085691519291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @funk_19973: 想挨骂被管理🐔巴的贱狗滚过来👇 #女s #男m #上贡奴 #ATM打钱奴 #榨金 #报销奴 #舔脚 #舔狗 #黑丝控 #女尊男卑 https://t.co/uHrq1uFRvn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_1838914075918794752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYUim-ubAAAUTu3.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838914075918794752"
+          ],
+          "media_source_tweet_id": [
+            "1838914085691519291"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1839006163029078060",
+        "created_at": "2024-09-25T18:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T19:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839006163029078060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "女s"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男m"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "榨金"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "报销奴"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "舔脚"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "舔狗"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "黑丝控"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "女尊男卑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640248618580946945",
+              "start": 3,
+              "username": "funk_19973"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhrq1ufrvn",
+              "end": 104,
+              "expanded_url": "https://twitter.com/funk_19973/status/1838914085691519291/photo/1",
+              "media_key": "3_1838914075918794752",
+              "start": 81,
+              "url": "https://t.co/uHrq1uFRvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839006163029078060",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838914085691519291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @funk_19973: 想挨骂被管理🐔巴的贱狗滚过来👇 #女s #男m #上贡奴 #ATM打钱奴 #榨金 #报销奴 #舔脚 #舔狗 #黑丝控 #女尊男卑 https://t.co/uHrq1uFRvn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838914075918794752"
+          ]
+        },
+        "author_id": "1640248618580946945",
+        "conversation_id": "1838914085691519291",
+        "created_at": "2024-09-25T12:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838914085691519291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "女s"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男m"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "榨金"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "报销奴"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "舔脚"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "舔狗"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "黑丝控"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "女尊男卑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhrq1ufrvn",
+              "end": 88,
+              "expanded_url": "https://twitter.com/funk_19973/status/1838914085691519291/photo/1",
+              "media_key": "3_1838914075918794752",
+              "start": 65,
+              "url": "https://t.co/uHrq1uFRvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838914085691519291",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2511,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "想挨骂被管理🐔巴的贱狗滚过来👇 #女s #男m #上贡奴 #ATM打钱奴 #榨金 #报销奴 #舔脚 #舔狗 #黑丝控 #女尊男卑 https://t.co/uHrq1uFRvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 84,
+          "like_count": 572,
+          "listed_count": 0,
+          "tweet_count": 707
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T07:05:23.000Z",
+        "description": "🚪28大号@xnuch6347976561",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "xnuch6347976561"
+              }
+            ]
+          }
+        },
+        "id": "1640248618580946945",
+        "location": "Daytona Beach",
+        "name": "妤祖宗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836336554899574788/SWIRqC0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "funk_19973",
+        "verified": false
+      }
+    ]
+  }
+}

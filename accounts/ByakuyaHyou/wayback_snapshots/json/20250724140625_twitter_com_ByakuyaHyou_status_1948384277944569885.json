@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936388758817124352",
+        "3_1936388758775209984"
+      ],
+      "media_source_tweet_id": [
+        "1936388761459605666",
+        "1936388761459605666"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1948384277944569885",
+    "created_at": "2025-07-24T14:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948384277944569885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826220596595994624",
+          "start": 3,
+          "username": "hu3150001376658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9S4sWUB8Tv",
+          "end": 61,
+          "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+          "media_key": "3_1936388758817124352",
+          "start": 38,
+          "url": "https://t.co/9S4sWUB8Tv"
+        },
+        {
+          "display_url": "pic.x.com/9S4sWUB8Tv",
+          "end": 61,
+          "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+          "media_key": "3_1936388758775209984",
+          "start": 38,
+          "url": "https://t.co/9S4sWUB8Tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948384277944569885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936388761459605666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu3150001376658: 有主人要小男娘吗？新人～＃小男娘 https://t.co/9S4sWUB8Tv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1936388758817124352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9vURRasAATsbZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1490,
+        "media_key": "3_1936388758775209984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9vURHbIAAk4uF.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936388758817124352",
+            "3_1936388758775209984"
+          ],
+          "media_source_tweet_id": [
+            "1936388761459605666",
+            "1936388761459605666"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1948384277944569885",
+        "created_at": "2025-07-24T14:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948384277944569885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1826220596595994624",
+              "start": 3,
+              "username": "hu3150001376658"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9S4sWUB8Tv",
+              "end": 61,
+              "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+              "media_key": "3_1936388758817124352",
+              "start": 38,
+              "url": "https://t.co/9S4sWUB8Tv"
+            },
+            {
+              "display_url": "pic.x.com/9S4sWUB8Tv",
+              "end": 61,
+              "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+              "media_key": "3_1936388758775209984",
+              "start": 38,
+              "url": "https://t.co/9S4sWUB8Tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948384277944569885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936388761459605666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu3150001376658: 有主人要小男娘吗？新人～＃小男娘 https://t.co/9S4sWUB8Tv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936388758817124352",
+            "3_1936388758775209984"
+          ]
+        },
+        "author_id": "1826220596595994624",
+        "conversation_id": "1936388761459605666",
+        "created_at": "2025-06-21T11:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936388761459605666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9S4sWUB8Tv",
+              "end": 40,
+              "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+              "media_key": "3_1936388758817124352",
+              "start": 17,
+              "url": "https://t.co/9S4sWUB8Tv"
+            },
+            {
+              "display_url": "pic.x.com/9S4sWUB8Tv",
+              "end": 40,
+              "expanded_url": "https://x.com/hu3150001376658/status/1936388761459605666/photo/1",
+              "media_key": "3_1936388758775209984",
+              "start": 17,
+              "url": "https://t.co/9S4sWUB8Tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936388761459605666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3148,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有主人要小男娘吗？新人～＃小男娘 https://t.co/9S4sWUB8Tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 142,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1531
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:31:42.000Z",
+        "description": "新人男娘，请多关照，可以扩列～",
+        "id": "1826220596595994624",
+        "name": "可露希尔♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936389865102299136/t56T-jDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "hu3150001376658",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831982452438704556",
+    "created_at": "2024-09-06T09:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T10:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831982452438704556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "文爱"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "文媛"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "碧蓝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831982452438704556",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831975265318408251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 唉呀~丝袜破了，有点麻烦了的说♡。唔♡，主人~盯着咱看干什么呀~是被咱迷住了吗♡~嘿嘿~眼睛一直盯着咱的身子♡，咱有那么涩嘛♡…（一只手抱着胸♡，一只手提着丝袜♡）主人♡~要给您好好欣赏一下吗♡……\n#文爱 #文媛 #碧蓝 https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831982452438704556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831982452438704556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831982452438704556"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831975262172676096"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1831975265318408251",
+        "created_at": "2024-09-06T08:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T09:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831975265318408251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "文爱"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "文媛"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "碧蓝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqwtlifopd",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1831975265318408251/photo/1",
+              "media_key": "3_1831975262172676096",
+              "start": 112,
+              "url": "https://t.co/iQWTliFopd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831975265318408251",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "唉呀~丝袜破了，有点麻烦了的说♡。唔♡，主人~盯着咱看干什么呀~是被咱迷住了吗♡~嘿嘿~眼睛一直盯着咱的身子♡，咱有那么涩嘛♡…（一只手抱着胸♡，一只手提着丝袜♡）主人♡~要给您好好欣赏一下吗♡……\n#文爱 #文媛 #碧蓝 https://t.co/iQWTliFopd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 85,
+          "like_count": 437,
+          "listed_count": 0,
+          "tweet_count": 515
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "门牌号3988413447   你好呀，咱是胧酱~一个喜欢各种色色玩法的，小色鬼~（文媛设定女，本体为男娘~），属性是Switch，求支喵~，不涉三喵~",
+        "id": "1817852320375250944",
+        "location": "月月月月",
+        "name": "胧酱💖（互推）",
+        "pinned_tweet_id": "1831260592113672382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817853994263568384/10z8ZHgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 112,
+          "like_count": 125,
+          "listed_count": 0,
+          "tweet_count": 317
+        },
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838853660950040708",
+    "created_at": "2024-09-25T08:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T09:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838853660950040708"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "文媛"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "文爱"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "百合"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "扶她"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "剧情"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "败北"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "拘束"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "轮奸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838853660950040708",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838813047118533078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 因为杂鱼旅行者被玩坏了，现在是重生的枫丹人气明星芙宁娜，欢迎大家来找我玩，可以闲聊的呢，快来加入到芙芙的门下吧，电报请QQ预约哦\n重口也可以来哦，毕竟你觉得重口的我可能都不看在眼里\n#文媛 #文爱 #百合 #扶她 #剧情 #败北 #拘束 #轮奸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1838853660950040708",
+        "created_at": "2024-09-25T08:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T09:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838853660950040708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "文媛"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "文爱"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "百合"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "扶她"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "剧情"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "败北"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "拘束"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "轮奸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1737361690306686976",
+              "start": 3,
+              "username": "dnggu156261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838853660950040708",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838813047118533078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dnggu156261: 因为杂鱼旅行者被玩坏了，现在是重生的枫丹人气明星芙宁娜，欢迎大家来找我玩，可以闲聊的呢，快来加入到芙芙的门下吧，电报请QQ预约哦\n重口也可以来哦，毕竟你觉得重口的我可能都不看在眼里\n#文媛 #文爱 #百合 #扶她 #剧情 #败北 #拘束 #轮奸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838813033390616576"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1838813047118533078",
+        "created_at": "2024-09-25T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838813047118533078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "文媛"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "文爱"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "百合"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "扶她"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "剧情"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "败北"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "拘束"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "轮奸"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "ntr"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "四爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjc5yuc5pi",
+              "end": 159,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1838813047118533078/photo/1",
+              "media_key": "3_1838813033390616576",
+              "start": 136,
+              "url": "https://t.co/mjc5Yuc5pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838813047118533078",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 826,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "因为杂鱼旅行者被玩坏了，现在是重生的枫丹人气明星芙宁娜，欢迎大家来找我玩，可以闲聊的呢，快来加入到芙芙的门下吧，电报请QQ预约哦\n重口也可以来哦，毕竟你觉得重口的我可能都不看在眼里\n#文媛 #文爱 #百合 #扶她 #剧情 #败北 #拘束 #轮奸 #ntr #四爱 #黑丝 https://t.co/mjc5Yuc5pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 84,
+          "like_count": 572,
+          "listed_count": 0,
+          "tweet_count": 705
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "大家好呀，这里是枫丹最高人气明星，芙宁娜小姐，欢迎来找我玩哦，可以闲聊的哦，接单号3659414428，不涉三，不接语音条，白天晚上皆可，30r0.5h，60r1h，电报请QQ预约哦，姐妹 @guq1128649  伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida 姐姐 @WLisRBQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "guq1128649"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "xcwnaxida"
+              },
+              {
+                "end": 158,
+                "start": 150,
+                "username": "WLisRBQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://t.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/c22kbZ5Nwt"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "枫丹城内环独栋小别墅",
+        "name": "芙宁娜（互推）",
+        "pinned_tweet_id": "1838813047118533078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838777508478717952/A6Qt-R7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 135,
+          "like_count": 2422,
+          "listed_count": 10,
+          "tweet_count": 2551
+        },
+        "url": "https://t.co/c22kbZ5Nwt",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

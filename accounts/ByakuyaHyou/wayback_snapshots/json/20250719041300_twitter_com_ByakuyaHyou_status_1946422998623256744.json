@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946422998623256744",
+    "created_at": "2025-07-19T04:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946422998623256744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902039494632853504",
+          "start": 3,
+          "username": "sama164423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946422998623256744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946190652049428695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama164423: （咕叽♡咕叽♡）先生--快点biu~biu~的射出来吧♡虽然不知道为什么要我带着皮手套，但你一定很喜欢这样吧？（指尖扣弄尿道口）原来是这里♡啊对了，不要射到我的身体上，后面还有购买足交服务的客人--还有，您预约了明天的足交榨金吧--但不要忘记了这…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946422998623256744].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946422998623256744",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946422998623256744"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1946190648882900992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJCFXPaMAAzo2M.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946190648882900992"
+          ]
+        },
+        "author_id": "1902039494632853504",
+        "conversation_id": "1946190652049428695",
+        "created_at": "2025-07-18T12:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946190652049428695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "榨金"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "手冲"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文媛"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "冷脸撸屌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b33NNwmWvK",
+              "end": 176,
+              "expanded_url": "https://x.com/sama164423/status/1946190652049428695/photo/1",
+              "media_key": "3_1946190648882900992",
+              "start": 153,
+              "url": "https://t.co/b33NNwmWvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946190652049428695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2179,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "（咕叽♡咕叽♡）先生--快点biu~biu~的射出来吧♡虽然不知道为什么要我带着皮手套，但你一定很喜欢这样吧？（指尖扣弄尿道口）原来是这里♡啊对了，不要射到我的身体上，后面还有购买足交服务的客人--还有，您预约了明天的足交榨金吧--但不要忘记了这次打飞机的费用...\n#榨金  #手冲 #文媛 #冷脸撸屌 https://t.co/b33NNwmWvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 118,
+          "like_count": 1316,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1515
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T16:49:01.000Z",
+        "description": "是一名圈龄超长的，丰乳肥臀文媛♡关于xp的话涉猎面比较广泛，雷点:重口，血腥暴力，媚外，琉璃是一名圈龄七年的大s，目前会接双属性单子，也会有双人单的业务哦~绝对会让弟弟/哥哥们舒服的升天♡！\n菜单如下:\n门槛20r可抵扣\n文单70/1h\n双人单150/1h\n图文85/1h\n包月包周等其余服务请加q私聊哦~",
+        "id": "1902039494632853504",
+        "location": "客人们的上面♡",
+        "name": "琉璃sama🖤💚❤️（门牌号：3764246058）",
+        "pinned_tweet_id": "1943890561716375739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902039685083639808/2xiz2phN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 508,
+          "like_count": 75,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 236
+        },
+        "username": "sama164423",
+        "verified": false
+      }
+    ]
+  }
+}

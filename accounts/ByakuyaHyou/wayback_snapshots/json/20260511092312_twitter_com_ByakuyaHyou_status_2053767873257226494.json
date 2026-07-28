@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2053084364867879085",
+    "created_at": "2026-05-11T09:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053767873257226494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049563283464818688",
+          "start": 0,
+          "username": "QingYou12166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053767873257226494",
+    "in_reply_to_user_id": "2049563283464818688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053084364867879085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingYou12166 可爱扩列加个QQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2053084351190175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4FVvaakAA82uN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2053084364867879085",
+        "created_at": "2026-05-11T09:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053767873257226494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049563283464818688",
+              "start": 0,
+              "username": "QingYou12166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053767873257226494",
+        "in_reply_to_user_id": "2049563283464818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053084364867879085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingYou12166 可爱扩列加个QQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053084351190175744"
+          ]
+        },
+        "author_id": "2049563283464818688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2053084364867879085",
+        "created_at": "2026-05-09T12:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053084364867879085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "cos"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "镜音连"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "腿控"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "小男孩"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "男同"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "正太"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "cosplay"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "镜音连cos"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "少年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0tJTUZkYe",
+              "end": 76,
+              "expanded_url": "https://x.com/QingYou12166/status/2053084364867879085/photo/1",
+              "media_key": "3_2053084351190175744",
+              "start": 53,
+              "url": "https://t.co/l0tJTUZkYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053084364867879085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5506,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "可爱连宝 #cos #镜音连 #腿控 #小男孩 #男同 #正太 #cosplay #镜音连cos #少年 https://t.co/l0tJTUZkYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 286,
+          "like_count": 1381,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1561
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T18:57:14.000Z",
+        "description": "重生的第10086遍",
+        "id": "2049563283464818688",
+        "name": "青柚",
+        "pinned_tweet_id": "2053356197475148185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053053387391049728/mV61dg5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 49,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "username": "QingYou12166",
+        "verified": false
+      }
+    ]
+  }
+}

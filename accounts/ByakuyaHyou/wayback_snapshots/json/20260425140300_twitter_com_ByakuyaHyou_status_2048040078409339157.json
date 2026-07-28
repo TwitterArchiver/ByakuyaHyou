@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047712347494797713",
+    "created_at": "2026-04-25T14:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048040078409339157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844642649011302400",
+          "start": 0,
+          "username": "Rainsnows_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048040078409339157",
+    "in_reply_to_user_id": "1844642649011302400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047919312237900150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainsnows_ 肏死你肏死你肏死你肏死你肏死你肏死你肏死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047712347494797713",
+        "created_at": "2026-04-25T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048040078409339157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844642649011302400",
+              "start": 0,
+              "username": "Rainsnows_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048040078409339157",
+        "in_reply_to_user_id": "1844642649011302400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047919312237900150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainsnows_ 肏死你肏死你肏死你肏死你肏死你肏死你肏死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844642649011302400",
+        "conversation_id": "2047712347494797713",
+        "created_at": "2026-04-25T06:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047919312237900150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047919312237900150",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047815035741991002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 好咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 236,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1519
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T07:34:29.000Z",
+        "description": "北宫 霙  姑且算是没什么存在感吧。\n18   168cm 45.5kg\n\n                  漫画やアニメを描いたり、日本語を習得する、お金を稼いだりするのが夢です…      \n   …店員になった……                              没时间学日语了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/75649754",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/75649754",
+                "start": 0,
+                "url": "https://t.co/HNO4U3RAwC"
+              }
+            ]
+          }
+        },
+        "id": "1844642649011302400",
+        "location": "中国",
+        "name": "霙~",
+        "pinned_tweet_id": "1845967788520972635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844642762437820416/XuW-vGsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 13,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/HNO4U3RAwC",
+        "username": "Rainsnows_",
+        "verified": false
+      }
+    ]
+  }
+}

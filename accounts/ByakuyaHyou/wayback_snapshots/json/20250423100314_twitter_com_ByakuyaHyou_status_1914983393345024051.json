@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914983393345024051",
+    "created_at": "2025-04-23T10:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T11:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914983393345024051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914983393345024051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914915879315497313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 文媛日记：大叔没有说话，只是一味地吃奶，并给了个好评。社会人的工作也不容易吖，人家是不是也要搞个活动什么的……\n\n备注：昨天大叔给我介绍了tg，怕我的企鹅号在某天爆炸，但是我还不太会用……！\n价格：R18一小时15，一周无限畅聊100\nps：十分抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914915703590936577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMlr89a4AEkWYg.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1914983393345024051",
+        "created_at": "2025-04-23T10:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914983393345024051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896222648524587008",
+              "start": 3,
+              "username": "Achengqqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914983393345024051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914915879315497313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Achengqqq: 文媛日记：大叔没有说话，只是一味地吃奶，并给了个好评。社会人的工作也不容易吖，人家是不是也要搞个活动什么的……\n\n备注：昨天大叔给我介绍了tg，怕我的企鹅号在某天爆炸，但是我还不太会用……！\n价格：R18一小时15，一周无限畅聊100\nps：十分抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914915703590936577"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1914915879315497313",
+        "created_at": "2025-04-23T05:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914915879315497313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOeNUFwCEO",
+              "end": 162,
+              "expanded_url": "https://x.com/Achengqqq/status/1914915879315497313/photo/1",
+              "media_key": "3_1914915703590936577",
+              "start": 139,
+              "url": "https://t.co/LOeNUFwCEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914915879315497313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文媛日记：大叔没有说话，只是一味地吃奶，并给了个好评。社会人的工作也不容易吖，人家是不是也要搞个活动什么的……\n\n备注：昨天大叔给我介绍了tg，怕我的企鹅号在某天爆炸，但是我还不太会用……！\n价格：R18一小时15，一周无限畅聊100\nps：十分抱歉用这张照片，但是太可爱了！ https://t.co/LOeNUFwCEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 115,
+          "like_count": 1088,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1293
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~",
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1896226886340227240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

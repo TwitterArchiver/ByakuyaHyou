@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1903727641053762046",
+    "created_at": "2025-03-23T08:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T09:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903727641053762046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1652398510275166210",
+          "start": 3,
+          "username": "mrfzxi1956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903727641053762046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903695741979349030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi1956: 避孕套这个东西就没必要了吧…与其说是防护…我还是更想和你做的更舒服呢♥\n什么♥要我亲口帮你摘下来吗…这…那好吧…你可不许偷拍哦…♥\n可…可真是难摘呀♥这么大的肉棒，避孕套都已经牢牢的吸附上去了…♥话说这不是最大尺寸的嘛…在你这上面还显得很小很紧♥…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903727641053762046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903727641053762046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903727641053762046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1903695739676676096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmtJMGPaUAAnQKB.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903695739676676096"
+          ]
+        },
+        "author_id": "1652398510275166210",
+        "conversation_id": "1903695741979349030",
+        "created_at": "2025-03-23T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903695741979349030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jopGkptnF",
+              "end": 166,
+              "expanded_url": "https://x.com/mrfzxi1956/status/1903695741979349030/photo/1",
+              "media_key": "3_1903695739676676096",
+              "start": 143,
+              "url": "https://t.co/6jopGkptnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903695741979349030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "避孕套这个东西就没必要了吧…与其说是防护…我还是更想和你做的更舒服呢♥\n什么♥要我亲口帮你摘下来吗…这…那好吧…你可不许偷拍哦…♥\n可…可真是难摘呀♥这么大的肉棒，避孕套都已经牢牢的吸附上去了…♥话说这不是最大尺寸的嘛…在你这上面还显得很小很紧♥\n说好了一份精液味的棒棒糖…♥\n#文爱 https://t.co/6jopGkptnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 106,
+          "like_count": 936,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1109
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T19:45:03.000Z",
+        "description": "这里是夕宝♥萌新文援♥复活版本（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛15/半小时35，一小时65，可树洞聊天，不抵押，不收语言，只收微信的赞赏码)qq🚪牌号：3875887471",
+        "id": "1652398510275166210",
+        "location": "Kowloon City District",
+        "name": "夕宝（复活版本）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901963522243985408/oMvO2ay4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 41,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "username": "mrfzxi1956",
+        "verified": false
+      }
+    ]
+  }
+}

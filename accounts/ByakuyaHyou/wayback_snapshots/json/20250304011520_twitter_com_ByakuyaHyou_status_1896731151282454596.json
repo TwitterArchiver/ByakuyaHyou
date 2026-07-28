@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896731143170625536"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1896731151282454596",
+    "created_at": "2025-03-04T01:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T02:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896731151282454596"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "文媛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUZakMBwsT",
+          "end": 115,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1896731151282454596/photo/1",
+          "media_key": "3_1896731143170625536",
+          "start": 92,
+          "url": "https://t.co/AUZakMBwsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896731151282454596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵～千秋可以复出啦～\n但是目前只能作为文媛哦\n音媛目前来说不行啦，但是可以抽空录制音频，活跃时间应该是每天晚上10点以后啦喵～\n有需求可以来找依奈哦～\n白天时间不定时复活喵～\n#文媛 https://t.co/AUZakMBwsT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1896731143170625536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKK7OcbEAAIgIE.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896731143170625536"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1896731151282454596",
+        "created_at": "2025-03-04T01:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T02:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896731151282454596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUZakMBwsT",
+              "end": 115,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1896731151282454596/photo/1",
+              "media_key": "3_1896731143170625536",
+              "start": 92,
+              "url": "https://t.co/AUZakMBwsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896731151282454596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵～千秋可以复出啦～\n但是目前只能作为文媛哦\n音媛目前来说不行啦，但是可以抽空录制音频，活跃时间应该是每天晚上10点以后啦喵～\n有需求可以来找依奈哦～\n白天时间不定时复活喵～\n#文媛 https://t.co/AUZakMBwsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 85,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 891
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

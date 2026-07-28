@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831594260228870145",
+        "3_1831594260816142336"
+      ],
+      "media_source_tweet_id": [
+        "1831594705454596376",
+        "1831594705454596376"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831630010631041269",
+    "created_at": "2024-09-05T09:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T10:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831630010631041269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508700225501761540",
+          "start": 3,
+          "username": "QAQ877"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jftc0hd5wd",
+          "end": 58,
+          "expanded_url": "https://twitter.com/QAQ877/status/1831594705454596376/photo/1",
+          "media_key": "3_1831594260228870145",
+          "start": 35,
+          "url": "https://t.co/jFTc0HD5wD"
+        },
+        {
+          "display_url": "pic.x.com/jftc0hd5wd",
+          "end": 58,
+          "expanded_url": "https://twitter.com/QAQ877/status/1831594705454596376/photo/1",
+          "media_key": "3_1831594260816142336",
+          "start": 35,
+          "url": "https://t.co/jFTc0HD5wD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831630010631041269",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831594705454596376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @QAQ877: 商场试衣间自拍，此刻好想突然被男人拉开帘子~ https://t.co/jFTc0HD5wD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831630010631041269].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831630010631041269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831630010631041269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1831594260228870145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWshRoWWEAEmmf-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1831594260816142336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWshRqiXIAA-h9U.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831594260228870145",
+            "3_1831594260816142336"
+          ]
+        },
+        "author_id": "1508700225501761540",
+        "conversation_id": "1831594705454596376",
+        "created_at": "2024-09-05T07:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T08:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831594705454596376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jftc0hd5wd",
+              "end": 46,
+              "expanded_url": "https://twitter.com/QAQ877/status/1831594705454596376/photo/1",
+              "media_key": "3_1831594260228870145",
+              "start": 23,
+              "url": "https://t.co/jFTc0HD5wD"
+            },
+            {
+              "display_url": "pic.x.com/jftc0hd5wd",
+              "end": 46,
+              "expanded_url": "https://twitter.com/QAQ877/status/1831594705454596376/photo/1",
+              "media_key": "3_1831594260816142336",
+              "start": 23,
+              "url": "https://t.co/jFTc0HD5wD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831594705454596376",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "商场试衣间自拍，此刻好想突然被男人拉开帘子~ https://t.co/jFTc0HD5wD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 85,
+          "like_count": 437,
+          "listed_count": 0,
+          "tweet_count": 509
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T06:59:15.000Z",
+        "description": "18+ 小姨妈很疯狂，喜欢的留个关注吧，会分享自己以及自己喜欢看的作品哦，如有侵权，请联系删除⚠️「广告及转推内容自行分辨」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/av6679",
+                "end": 23,
+                "expanded_url": "https://t.me/av6679",
+                "start": 0,
+                "url": "https://t.co/Z8Y6Uyl5KO"
+              }
+            ]
+          }
+        },
+        "id": "1508700225501761540",
+        "location": "精品福利电报群➡️",
+        "name": "性瘾患者小姨妈",
+        "pinned_tweet_id": "1768805390970683788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767799396614512640/fjszFe4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41624,
+          "following_count": 33,
+          "like_count": 263,
+          "listed_count": 195,
+          "tweet_count": 33163
+        },
+        "url": "https://t.co/Z8Y6Uyl5KO",
+        "username": "QAQ877",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

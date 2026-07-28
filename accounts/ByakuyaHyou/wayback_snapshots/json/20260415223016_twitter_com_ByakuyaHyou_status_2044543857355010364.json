@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2044330857041932537",
+    "created_at": "2026-04-15T22:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T23:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044543857355010364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886575769364914182",
+          "start": 0,
+          "username": "Latex_Nimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044543857355010364",
+    "in_reply_to_user_id": "1886575769364914182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044330857041932537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Latex_Nimo 不会哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2044330837597138945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7sEMJasAEhedG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2044330857041932537",
+        "created_at": "2026-04-15T22:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044543857355010364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886575769364914182",
+              "start": 0,
+              "username": "Latex_Nimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044543857355010364",
+        "in_reply_to_user_id": "1886575769364914182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044330857041932537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Latex_Nimo 不会哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044330837597138945"
+          ]
+        },
+        "author_id": "1886575769364914182",
+        "conversation_id": "2044330857041932537",
+        "created_at": "2026-04-15T08:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044330857041932537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idLai23LOz",
+              "end": 62,
+              "expanded_url": "https://x.com/Latex_Nimo/status/2044330857041932537/photo/1",
+              "media_key": "3_2044330837597138945",
+              "start": 39,
+              "url": "https://t.co/idLai23LOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044330857041932537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 311,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好 请问我可以每天给你发我的照片吗？通常这样会被别人觉得是在骚扰(._.) https://t.co/idLai23LOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 228,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1501
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:41:46.000Z",
+        "description": "已断🍬/女s空位中/乳胶中毒患者/女仆长/神秘大祭司/m/女胶募集中/录音室歌手/生活太无趣，想要交朋友，也喜欢有素质的人",
+        "id": "1886575769364914182",
+        "location": "he fei",
+        "name": "Nimo",
+        "pinned_tweet_id": "1926908410580136295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928509542817767424/3VoBruTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 670,
+          "like_count": 687,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1380
+        },
+        "username": "Latex_Nimo",
+        "verified": false
+      }
+    ]
+  }
+}

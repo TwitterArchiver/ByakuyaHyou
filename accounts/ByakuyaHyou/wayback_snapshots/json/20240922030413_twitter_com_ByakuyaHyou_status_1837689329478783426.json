@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837524078175178752"
+      ],
+      "media_source_tweet_id": [
+        "1837524081887138175"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837689329478783426",
+    "created_at": "2024-09-22T03:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T04:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837689329478783426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1544169488542990336",
+          "start": 3,
+          "username": "chaofengshiwusu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsoxu1tmys",
+          "end": 109,
+          "expanded_url": "https://twitter.com/chaofengshiwusu/status/1837524081887138175/photo/1",
+          "media_key": "3_1837524078175178752",
+          "start": 86,
+          "url": "https://t.co/nSOxu1tMyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837689329478783426",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837524081887138175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaofengshiwusu: 嘲风事务所正式开张！全场免费！门槛全无，虽然文笔不是很好，但还是期待大家的光临……（虽然以后会收费）那么，请大家助我，开业大吉！ https://t.co/nSOxu1tMyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1837524078175178752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAyadnb0AA2M3R.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837524078175178752"
+          ],
+          "media_source_tweet_id": [
+            "1837524081887138175"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1837689329478783426",
+        "created_at": "2024-09-22T03:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T04:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837689329478783426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1544169488542990336",
+              "start": 3,
+              "username": "chaofengshiwusu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsoxu1tmys",
+              "end": 109,
+              "expanded_url": "https://twitter.com/chaofengshiwusu/status/1837524081887138175/photo/1",
+              "media_key": "3_1837524078175178752",
+              "start": 86,
+              "url": "https://t.co/nSOxu1tMyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837689329478783426",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837524081887138175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaofengshiwusu: 嘲风事务所正式开张！全场免费！门槛全无，虽然文笔不是很好，但还是期待大家的光临……（虽然以后会收费）那么，请大家助我，开业大吉！ https://t.co/nSOxu1tMyS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837524078175178752"
+          ]
+        },
+        "author_id": "1544169488542990336",
+        "conversation_id": "1837524081887138175",
+        "created_at": "2024-09-21T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837524081887138175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsoxu1tmys",
+              "end": 88,
+              "expanded_url": "https://twitter.com/chaofengshiwusu/status/1837524081887138175/photo/1",
+              "media_key": "3_1837524078175178752",
+              "start": 65,
+              "url": "https://t.co/nSOxu1tMyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837524081887138175",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘲风事务所正式开张！全场免费！门槛全无，虽然文笔不是很好，但还是期待大家的光临……（虽然以后会收费）那么，请大家助我，开业大吉！ https://t.co/nSOxu1tMyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 81,
+          "like_count": 546,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:01:20.000Z",
+        "description": "龙生九子，各有不同，在下就是第三子嘲风啦，诶……力量消失了耶……看来需要找一些“能量”来补充喽～那么，今日起！正式开张！这里是嘲风事务所，用仅剩的力量给诸位带来快乐和休憩，开张福利就是……全场免费！诶？没有吸引力的嘛？这样子的话，再写一些人设给大家怎么样？🐧：3922139202\n（实际上是因为没有钱花来当文媛的…）",
+        "id": "1544169488542990336",
+        "location": "不告诉你哦～",
+        "name": "嘲风 新来的文媛（不涉三哦～）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837521741272522752/NbkoSD8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 125,
+          "like_count": 105,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "chaofengshiwusu",
+        "verified": false
+      }
+    ]
+  }
+}

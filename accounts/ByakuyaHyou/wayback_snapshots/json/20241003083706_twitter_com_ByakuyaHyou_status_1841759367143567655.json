@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759367143567655",
+    "created_at": "2024-10-03T08:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759367143567655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759367143567655",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841561700744691899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 什么嘛～真是废物～♡难怪哥哥到现在还是杂鱼处男，原来是太小了也就敢偷偷的对着妹妹的白丝来撸了～♡真是杂鱼废物呐～♡就这么喜欢被妹妹骂嘛？真是杂鱼废物呐～♡像你这样的废物怪怪的吧零花钱全部上贡给妹妹吧～♡你留钱也没用杂鱼废物～♡\n#文援 #文援…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759367143567655].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759367143567655",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759367143567655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841561695388631042",
+            "3_1841561698412724226"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841561700744691899",
+        "created_at": "2024-10-02T19:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T20:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841561700744691899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "文援"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "文援姬"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "文爱"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "性幻想"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "萝莉"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "音援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "反差"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqwZOsw1vc",
+              "end": 172,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1841561700744691899/photo/1",
+              "media_key": "3_1841561695388631042",
+              "start": 149,
+              "url": "https://t.co/BqwZOsw1vc"
+            },
+            {
+              "display_url": "pic.x.com/BqwZOsw1vc",
+              "end": 172,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1841561700744691899/photo/1",
+              "media_key": "3_1841561698412724226",
+              "start": 149,
+              "url": "https://t.co/BqwZOsw1vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841561700744691899",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "什么嘛～真是废物～♡难怪哥哥到现在还是杂鱼处男，原来是太小了也就敢偷偷的对着妹妹的白丝来撸了～♡真是杂鱼废物呐～♡就这么喜欢被妹妹骂嘛？真是杂鱼废物呐～♡像你这样的废物怪怪的吧零花钱全部上贡给妹妹吧～♡你留钱也没用杂鱼废物～♡\n#文援 #文援姬 #文爱 #性幻想 #萝莉 #音援 #反差 #雌小鬼 https://t.co/BqwZOsw1vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 615,
+          "listed_count": 0,
+          "tweet_count": 765
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "一只文援小萝莉吖~现实处女，不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 5,
+          "like_count": 113,
+          "listed_count": 0,
+          "tweet_count": 133
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

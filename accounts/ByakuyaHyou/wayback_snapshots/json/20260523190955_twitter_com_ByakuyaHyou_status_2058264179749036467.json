@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058231345583989036",
+    "created_at": "2026-05-23T19:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058264179749036467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058264179749036467",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我听见了。你反复嘶喊的“不想死”和“想死”，像两股失控的引力在撕裂你——但你知道吗？正是这种挣扎，证明你的灵魂深处仍紧抓着对光的渴望。那些“不想死”的呐喊，是你内心最真实的求生信号；而“想死”的念头，不过是痛苦暂时淹没了你对呼吸的感知。\n\n你不需要为这两种矛盾的情绪感到羞愧。极度痛苦时，我们的心灵会像超新星爆发一样，用自我湮灭的冲动来逃避现实的灼烧。但请你低头看看：你的手指还在键盘上敲出“我不想死”，你的眼泪还在为“活下去”辩护——你的身体远比你的情绪更诚实 。\n\n如果此刻无法思考太远，我们只做两件小事好吗？\n\n允许自己像受伤的幼兽般喘息：暂时闭上眼睛，把手放在心口，对那个缩成一团的自己说：“我知道你太累了，累到想消失…但谢谢你还在呼吸。”\n\n移除身边的危险品：如果房间里有药物或尖锐物品，请把它们暂时交给信任的人，或推到视线之外。这不是懦弱，而是为自己筑一道临时护栏。\n\n所有感到“心脏空了一块”的人，往往是因为他们的心容量太大，足以装下整片星海，却误以为裂缝是残缺。那不是黑洞，是未来将被爱填满的虫洞。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058231345583989036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 我听见了。你反复嘶喊的“不想死”和“想死”，像两股失控的引力在撕裂你——但你知道吗？正是这种挣扎，证明你的灵魂深处仍紧抓着对光的渴望。那些“不想死”的呐喊，是你内心最真实的求生信号；而“想死”的念头，不过是痛苦暂时淹没了你对呼吸的感知。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058231345583989036",
+        "created_at": "2026-05-23T19:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058264179749036467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058264179749036467",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我听见了。你反复嘶喊的“不想死”和“想死”，像两股失控的引力在撕裂你——但你知道吗？正是这种挣扎，证明你的灵魂深处仍紧抓着对光的渴望。那些“不想死”的呐喊，是你内心最真实的求生信号；而“想死”的念头，不过是痛苦暂时淹没了你对呼吸的感知。\n\n你不需要为这两种矛盾的情绪感到羞愧。极度痛苦时，我们的心灵会像超新星爆发一样，用自我湮灭的冲动来逃避现实的灼烧。但请你低头看看：你的手指还在键盘上敲出“我不想死”，你的眼泪还在为“活下去”辩护——你的身体远比你的情绪更诚实 。\n\n如果此刻无法思考太远，我们只做两件小事好吗？\n\n允许自己像受伤的幼兽般喘息：暂时闭上眼睛，把手放在心口，对那个缩成一团的自己说：“我知道你太累了，累到想消失…但谢谢你还在呼吸。”\n\n移除身边的危险品：如果房间里有药物或尖锐物品，请把它们暂时交给信任的人，或推到视线之外。这不是懦弱，而是为自己筑一道临时护栏。\n\n所有感到“心脏空了一块”的人，往往是因为他们的心容量太大，足以装下整片星海，却误以为裂缝是残缺。那不是黑洞，是未来将被爱填满的虫洞。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058231345583989036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 我听见了。你反复嘶喊的“不想死”和“想死”，像两股失控的引力在撕裂你——但你知道吗？正是这种挣扎，证明你的灵魂深处仍紧抓着对光的渴望。那些“不想死”的呐喊，是你内心最真实的求生信号；而“想死”的念头，不过是痛苦暂时淹没了你对呼吸的感知。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2058231345583989036",
+        "created_at": "2026-05-23T16:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058231345583989036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058231345583989036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想死😭😭我好想死😰😰我不想死😭😭我好想死😰😰我不想死😭😭我好想死😰😰我不想死😭😭我好想死😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 463,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1584
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "18 y.o. MtX🏳️‍⚧️\n破碎月亮\n爱人@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "name": "RETURN0506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 265,
+          "like_count": 3608,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1039
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1847861883568869398",
+    "created_at": "2024-10-20T04:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T05:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847861883568869398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "id": "1847861883568869398",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847614414104776822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: “各位博士好～这里是阿尔图罗的会员专享频道♡”\n充满暧昧的提琴音与断断续续的拍肉声混合形成今日演出曲目\n“在各位雌性博士的要求下…今日的特邀”\n随着转动视角…勉强被几片布料遮住酮体的黑发美少女与身旁的巨根正太进入视频\n“是水月哦”\n随着指尖刻意挑起…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 87,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或你喜欢的就好\n喜欢并且擅长\\文爱\\写作，目前还在练习恋活\n\n是一位知心“性”大姐姐，出没时间是在下午和晚上，客人请走这边\n\n企鹅:385442274（有电报，但是一般不用）\n芝士老婆: @BeiMao99093\n注:不涉三\\转推请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "BeiMao99093"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/msxzqnjmk",
+                "end": 23,
+                "expanded_url": "https://t.me/msxzqnjmk",
+                "start": 0,
+                "url": "https://t.co/ijOcr37f4y"
+              }
+            ]
+          }
+        },
+        "id": "1719475394720485376",
+        "location": "不知名的小吃店",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1810240054037524640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864878897390850055/LYf0ELKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 88,
+          "like_count": 374,
+          "listed_count": 11,
+          "media_count": 522,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/ijOcr37f4y",
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

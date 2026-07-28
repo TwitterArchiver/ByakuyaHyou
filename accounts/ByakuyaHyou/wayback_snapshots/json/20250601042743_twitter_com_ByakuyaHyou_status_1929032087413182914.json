@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1929032087413182914",
+    "created_at": "2025-06-01T04:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929032087413182914"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "文爱"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "文援"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "文爱剧情"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "文爱记录"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "捆绑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801843298375766017",
+          "start": 3,
+          "username": "ralap123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929032087413182914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929017843737108801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ralap123: 虽然发挥程度是可以改变的，但是我会有自己的舒适区间，在舒适区间玩才是完全的享受w，当然，那是单子以外的事了。\n另外，最近营业号封啦，就先不接单了，加我但是没同意的抱歉哦。\n#文爱  #文援  #文爱剧情 #文爱记录 #捆绑 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929032087413182914].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929032087413182914",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929032087413182914"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929017829380255744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsU_ftWa8AAcQFS.jpg",
+        "width": 357
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929017830068072448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsU_fv6aMAABjc9.jpg",
+        "width": 307
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929017830483415040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsU_fxdb0AAMack.jpg",
+        "width": 392
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929017830500184064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsU_fxhbsAAfPPE.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929017829380255744",
+            "3_1929017830068072448",
+            "3_1929017830483415040",
+            "3_1929017830500184064"
+          ]
+        },
+        "author_id": "1801843298375766017",
+        "conversation_id": "1929017843737108801",
+        "created_at": "2025-06-01T03:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T04:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929017843737108801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "文爱"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "文援"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "文爱剧情"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "文爱记录"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "捆绑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Z49EO26GR",
+              "end": 135,
+              "expanded_url": "https://x.com/ralap123/status/1929017843737108801/photo/1",
+              "media_key": "3_1929017829380255744",
+              "start": 112,
+              "url": "https://t.co/8Z49EO26GR"
+            },
+            {
+              "display_url": "pic.x.com/8Z49EO26GR",
+              "end": 135,
+              "expanded_url": "https://x.com/ralap123/status/1929017843737108801/photo/1",
+              "media_key": "3_1929017830068072448",
+              "start": 112,
+              "url": "https://t.co/8Z49EO26GR"
+            },
+            {
+              "display_url": "pic.x.com/8Z49EO26GR",
+              "end": 135,
+              "expanded_url": "https://x.com/ralap123/status/1929017843737108801/photo/1",
+              "media_key": "3_1929017830483415040",
+              "start": 112,
+              "url": "https://t.co/8Z49EO26GR"
+            },
+            {
+              "display_url": "pic.x.com/8Z49EO26GR",
+              "end": 135,
+              "expanded_url": "https://x.com/ralap123/status/1929017843737108801/photo/1",
+              "media_key": "3_1929017830500184064",
+              "start": 112,
+              "url": "https://t.co/8Z49EO26GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929017843737108801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然发挥程度是可以改变的，但是我会有自己的舒适区间，在舒适区间玩才是完全的享受w，当然，那是单子以外的事了。\n另外，最近营业号封啦，就先不接单了，加我但是没同意的抱歉哦。\n#文爱  #文援  #文爱剧情 #文爱记录 #捆绑 https://t.co/8Z49EO26GR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 119,
+          "like_count": 1247,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1452
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:05:05.000Z",
+        "description": "可爱的腹黑男生，文爱玩家。 | 足/腿控 |触手/多人/异种姦/机械姦|tk/乳首责| 放置play｜二次元同人/现代都市/科幻/玄幻|    通常是温柔s，不擅长扮演大叔，不擅长和熟女玩。喜欢嘴硬的brat，不喜欢主动的。 这里只有服务，没有陪伴，联系方式请见置顶推。如果觉得我发的有趣，请点个关注吧～",
+        "id": "1801843298375766017",
+        "name": "Ralap雷尔夫✰",
+        "pinned_tweet_id": "1924136865793462489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836978971604336640/PJJ0dzkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 452,
+          "like_count": 10542,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 547
+        },
+        "username": "ralap123",
+        "verified": false
+      }
+    ]
+  }
+}

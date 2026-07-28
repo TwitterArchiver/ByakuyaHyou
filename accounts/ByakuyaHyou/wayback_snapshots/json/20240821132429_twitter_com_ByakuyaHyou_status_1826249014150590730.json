@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826249014150590730",
+    "created_at": "2024-08-21T13:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826249014150590730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826249014150590730",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826234056394391579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: “哈♡~注意一点，这丛林里有这种催情的植物♡…还有这个，这个植物里的酸液会腐蚀衣物♡~但对人体无害♡，也就是让皮肤变得敏感♡跟着我走就没什么问题…”\n…\n“鞥哈♡~奇怪…这里的植物好像比之前路上的还多♡…唔姆♡~你…你干什么♡，蹭到那些植物的汁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826249014150590730].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826249014150590730",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826249014150590730"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826234052837326848"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1826234056394391579",
+        "created_at": "2024-08-21T12:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T13:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826234056394391579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwkjapw4aj",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1826234056394391579/photo/1",
+              "media_key": "3_1826234052837326848",
+              "start": 146,
+              "url": "https://t.co/dwKJApW4aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826234056394391579",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“哈♡~注意一点，这丛林里有这种催情的植物♡…还有这个，这个植物里的酸液会腐蚀衣物♡~但对人体无害♡，也就是让皮肤变得敏感♡跟着我走就没什么问题…”\n…\n“鞥哈♡~奇怪…这里的植物好像比之前路上的还多♡…唔姆♡~你…你干什么♡，蹭到那些植物的汁液了吗♡唔没办法了我给你解决一下吧…”\n#文爱 https://t.co/dwKJApW4aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 61,
+          "like_count": 181,
+          "listed_count": 0,
+          "tweet_count": 209
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "门牌号3988413447   你好呀，咱是胧酱~一个喜欢各种色色玩法的，小色鬼~（文媛设定女，本体为男娘~），属性是Switch，求支喵~，不涉三喵~",
+        "id": "1817852320375250944",
+        "location": "月月月月",
+        "name": "胧酱💖（互推）",
+        "pinned_tweet_id": "1822956098036679117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817853994263568384/10z8ZHgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 104,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 168
+        },
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

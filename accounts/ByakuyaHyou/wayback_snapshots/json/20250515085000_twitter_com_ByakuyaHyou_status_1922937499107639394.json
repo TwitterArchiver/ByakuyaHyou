@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922937499107639394",
+    "created_at": "2025-05-15T08:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T09:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922937499107639394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908183909277609984",
+          "start": 3,
+          "username": "yun1952110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ctt.ac/iA821",
+          "end": 73,
+          "expanded_url": "https://ctt.ac/iA821",
+          "start": 50,
+          "status": 200,
+          "title": "我是自愿点击链接🔗送死的傻逼 我自愿成为 @yun1952110 亲妈的提款机 亲妈只要在主页看到这条推文就能随意提款傻逼 傻逼承诺：点击链接🔗发布即生效 不得反抗，必须服从，只能上贡♡",
+          "unwound_url": "https://clicktotweet.com/iA821",
+          "url": "https://t.co/1UqSRsZghV"
+        },
+        {
+          "display_url": "t.co/P",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922937499107639394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921884054611181818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yun1952110: 转发点赞此推文,意味着你愿意成为yun大人的廉价工具人🖤\n入职点击：https://t.co/1UqSRsZghV\n自愿跪下崇拜yun大人，做卑微的舔狗🖤\n自愿为yun大人赠予金钱🖤\n评论留言推文即代表你祈求被使用🖤 https://t.co/P…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922937499107639394].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922937499107639394",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922937499107639394"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1921884051553869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvnXMBbYAAbc7C.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921884051553869824"
+          ]
+        },
+        "author_id": "1908183909277609984",
+        "conversation_id": "1921884054611181818",
+        "created_at": "2025-05-12T11:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921884054611181818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ctt.ac/iA821",
+              "end": 57,
+              "expanded_url": "https://ctt.ac/iA821",
+              "start": 34,
+              "status": 200,
+              "title": "我是自愿点击链接🔗送死的傻逼 我自愿成为 @yun1952110 亲妈的提款机 亲妈只要在主页看到这条推文就能随意提款傻逼 傻逼承诺：点击链接🔗发布即生效 不得反抗，必须服从，只能上贡♡",
+              "unwound_url": "https://clicktotweet.com/iA821",
+              "url": "https://t.co/1UqSRsZghV"
+            },
+            {
+              "display_url": "pic.x.com/PfFMVRpxhl",
+              "end": 132,
+              "expanded_url": "https://x.com/yun1952110/status/1921884054611181818/photo/1",
+              "media_key": "3_1921884051553869824",
+              "start": 109,
+              "url": "https://t.co/PfFMVRpxhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921884054611181818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3919,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "转发点赞此推文,意味着你愿意成为yun大人的廉价工具人🖤\n入职点击：https://t.co/1UqSRsZghV\n自愿跪下崇拜yun大人，做卑微的舔狗🖤\n自愿为yun大人赠予金钱🖤\n评论留言推文即代表你祈求被使用🖤 https://t.co/PfFMVRpxhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1212,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1420
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T15:45:12.000Z",
+        "description": "🖤 无底线🖤洗脑❤️ 会用色情的语言清空傻逼处男的钱包呢🖤\n门牌3023421569",
+        "id": "1908183909277609984",
+        "name": "yun（互推）",
+        "pinned_tweet_id": "1921884054611181818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913812063031332864/pB_CrWhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 21,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 74
+        },
+        "username": "yun1952110",
+        "verified": false
+      }
+    ]
+  }
+}

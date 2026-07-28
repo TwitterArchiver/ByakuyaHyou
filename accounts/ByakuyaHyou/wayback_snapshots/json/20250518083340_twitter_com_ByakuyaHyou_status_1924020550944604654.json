@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1924020550944604654",
+    "created_at": "2025-05-18T08:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T09:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924020550944604654"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "文爱"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文愛"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "泳裝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924020550944604654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923975546301710744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「老师… 这样的姿势对练习游泳有什么帮助吗？」\n\n紫灵穿着深蓝色的死库水，依你的吩咐趴在沙滩上翘高屁股，感受着细沙的触感侧过头向你询问\n殊不知你只是想看看可爱的学生摆出这样显露身材的姿势♡\n\n「等等… 不许拍照哇!!」\n\n#文爱 #文愛 #泳裝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1923975543659126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNVkDRXYAAb2hg.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1924020550944604654",
+        "created_at": "2025-05-18T08:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T09:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924020550944604654"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文愛"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "泳裝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818321272440565760",
+              "start": 3,
+              "username": "ZiYing12494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924020550944604654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923975546301710744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZiYing12494: 「老师… 这样的姿势对练习游泳有什么帮助吗？」\n\n紫灵穿着深蓝色的死库水，依你的吩咐趴在沙滩上翘高屁股，感受着细沙的触感侧过头向你询问\n殊不知你只是想看看可爱的学生摆出这样显露身材的姿势♡\n\n「等等… 不许拍照哇!!」\n\n#文爱 #文愛 #泳裝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923975543659126784"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1923975546301710744",
+        "created_at": "2025-05-18T05:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T06:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923975546301710744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文爱"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文愛"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "泳裝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfasH5ENNh",
+              "end": 146,
+              "expanded_url": "https://x.com/ZiYing12494/status/1923975546301710744/photo/1",
+              "media_key": "3_1923975543659126784",
+              "start": 123,
+              "url": "https://t.co/NfasH5ENNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923975546301710744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "「老师… 这样的姿势对练习游泳有什么帮助吗？」\n\n紫灵穿着深蓝色的死库水，依你的吩咐趴在沙滩上翘高屁股，感受着细沙的触感侧过头向你询问\n殊不知你只是想看看可爱的学生摆出这样显露身材的姿势♡\n\n「等等… 不许拍照哇!!」\n\n#文爱 #文愛 #泳裝 https://t.co/NfasH5ENNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1218,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1430
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 73,
+          "like_count": 748,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 479
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

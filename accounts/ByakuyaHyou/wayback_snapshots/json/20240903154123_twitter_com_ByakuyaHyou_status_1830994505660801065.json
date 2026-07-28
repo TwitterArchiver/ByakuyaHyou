@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830994505660801065",
+    "created_at": "2024-09-03T15:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T16:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830994505660801065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825723644934500356",
+          "start": 3,
+          "username": "mumudaren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830994505660801065",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830989938671620357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mumudaren_: “歪…！看什麼看…没…沒看見本小姐在發情中嘛…！（可惡居然被看光…可是屁穴痒痒的真實忍不了了齁齁…💗）”\n\n“過…過來…！說的就是你…！就…就命令你負責給本小姐的屁穴除痒！還…還愣著幹嘛…！裤裆都漲成那個样子了还在等什麼！真是有夠噁心的…”\n\n打…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830994505660801065].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830994505660801065",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830994505660801065"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830989927175147521"
+          ]
+        },
+        "author_id": "1825723644934500356",
+        "conversation_id": "1830989938671620357",
+        "created_at": "2024-09-03T15:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T16:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830989938671620357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文媛"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "发情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnud4601y3",
+              "end": 172,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1830989938671620357/photo/1",
+              "media_key": "3_1830989927175147521",
+              "start": 149,
+              "url": "https://t.co/LnUd4601y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830989938671620357",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“歪…！看什麼看…没…沒看見本小姐在發情中嘛…！（可惡居然被看光…可是屁穴痒痒的真實忍不了了齁齁…💗）”\n\n“過…過來…！說的就是你…！就…就命令你負責給本小姐的屁穴除痒！還…還愣著幹嘛…！裤裆都漲成那個样子了还在等什麼！真是有夠噁心的…”\n\n打開推文點擊圖片上的ALT查看詳情\n\n#文媛 #发情 https://t.co/LnUd4601y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 84,
+          "like_count": 415,
+          "listed_count": 0,
+          "tweet_count": 482
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T02:37:11.000Z",
+        "description": "——警告⚠️‼️——警告⚠️‼️——警告⚠️‼️——请耐心阅读以下内容避免引起严重后果 ❗️ 不设三文媛🖤是一只常以s向显露的婊子🖤（虽然被发现弱点后极其容易败北）欢迎有实力的小鬼前来挑战咱呢🖤千万小心把🧠榨干哦😈 电报在下方网址一栏 门牌：3840955610 母上大人@wymng2643248919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "wymng2643248919"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/mumudaren",
+                "end": 23,
+                "expanded_url": "http://telegram.me/mumudaren",
+                "start": 0,
+                "url": "https://t.co/Fz0ia6B4ay"
+              }
+            ]
+          }
+        },
+        "id": "1825723644934500356",
+        "location": "由于文字限制剩余部分放在图片介绍里进入推文点击alt查看🖤",
+        "name": "沐沐大人🖤（互推d，欢迎打扰🖤）（限流摆烂中～）",
+        "pinned_tweet_id": "1826497197883732025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825724311732367361/8EzbNTPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 123,
+          "like_count": 178,
+          "listed_count": 1,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/Fz0ia6B4ay",
+        "username": "mumudaren_",
+        "verified": false
+      }
+    ]
+  }
+}

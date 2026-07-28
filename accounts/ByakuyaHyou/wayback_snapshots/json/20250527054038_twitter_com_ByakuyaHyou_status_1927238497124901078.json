@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1927238497124901078",
+    "created_at": "2025-05-27T05:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T06:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927238497124901078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927238497124901078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927001625232642406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 杂鱼勇者~♡~不是说要来讨伐魅魔吗~♡ 怎么~光是闻着铃铃的魅魔香味就白给败北了呐♡（萝莉魅魔骑乘在身上 稚嫩柔软的蜜穴抵着肉棒上来回蹭弄♡心形的尾巴末端指着棒身稍稍挑逗♡）勇者大人~这是♡5秒内射精就会连exp一并射出来的榨精魔法哦~会坚持住…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927238497124901078].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927238497124901078",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927238497124901078"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1927001620434288640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4Vw5uWgAAE7xl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927001620434288640"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1927001625232642406",
+        "created_at": "2025-05-26T13:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927001625232642406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "魅魔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdVAlFYlFm",
+              "end": 174,
+              "expanded_url": "https://x.com/shiling7651/status/1927001625232642406/photo/1",
+              "media_key": "3_1927001620434288640",
+              "start": 151,
+              "url": "https://t.co/LdVAlFYlFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927001625232642406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1467,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼勇者~♡~不是说要来讨伐魅魔吗~♡ 怎么~光是闻着铃铃的魅魔香味就白给败北了呐♡（萝莉魅魔骑乘在身上 稚嫩柔软的蜜穴抵着肉棒上来回蹭弄♡心形的尾巴末端指着棒身稍稍挑逗♡）勇者大人~这是♡5秒内射精就会连exp一并射出来的榨精魔法哦~会坚持住的吧 5~4~3♡啊~这就射了吗♡废物早泄肉棒~\n#魅魔 https://t.co/LdVAlFYlFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1447
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 94,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 113
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

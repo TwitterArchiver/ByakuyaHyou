@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907574732737896713",
+    "created_at": "2025-04-02T23:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T00:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907574732737896713"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "文调"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "胁迫"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "sm"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "上贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668855095348563973",
+          "start": 3,
+          "username": "yueyueSAMAx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/WAQfu8uI",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/WAQfu8uI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907574732737896713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907483438242001337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyueSAMAx: 你就是那个没脑子的贱货？被主人踩在脚底之后爽的什么秘密都吐露得一干二净了呀？身体也全都交给主人随意处置。\n就像只发情的公狗，主人一声令下你就兴奋得喷精？还真是无药可救。\n#文调 #胁迫 #sm #上贡 https://t.co/WAQfu8uI…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907574732737896713].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907574732737896713",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907574732737896713"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907483434844643328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gni-E-TbYAA4szU.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907483434844643328"
+          ]
+        },
+        "author_id": "1668855095348563973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907483438242001337",
+        "created_at": "2025-04-02T17:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907483438242001337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "文调"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "胁迫"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "sm"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAQfu8uIqw",
+              "end": 124,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1907483438242001337/photo/1",
+              "media_key": "3_1907483434844643328",
+              "start": 101,
+              "url": "https://t.co/WAQfu8uIqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907483438242001337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就是那个没脑子的贱货？被主人踩在脚底之后爽的什么秘密都吐露得一干二净了呀？身体也全都交给主人随意处置。\n就像只发情的公狗，主人一声令下你就兴奋得喷精？还真是无药可救。\n#文调 #胁迫 #sm #上贡 https://t.co/WAQfu8uIqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 111,
+          "like_count": 1017,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1190
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T05:37:39.000Z",
+        "description": "喜欢胁迫调教🖤黑心压榨…接任务文调/寸止/绿帽/胁迫/毁号/任务/小额压榨/模拟胁迫/模拟上贡/       文调类价格30/0.5h🚪QQ1705684064",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 23,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 0,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          }
+        },
+        "id": "1668855095348563973",
+        "location": "做文游中……是小男娘…",
+        "name": "☁️月月sama🖤（互推）",
+        "pinned_tweet_id": "1849650772453331205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905994824081358848/5KwRm6t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 49,
+          "like_count": 52,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/9vgbcoM4Vh",
+        "username": "yueyueSAMAx",
+        "verified": false
+      }
+    ]
+  }
+}

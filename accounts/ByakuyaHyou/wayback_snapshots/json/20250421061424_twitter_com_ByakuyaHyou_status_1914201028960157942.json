@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914201028960157942",
+    "created_at": "2025-04-21T06:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914201028960157942"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "不停撞機"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "可無套"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "可內射"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "找固炮"
+        },
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "跟隨私訊報名"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "台灣約愛"
+        },
+        {
+          "end": 124,
+          "start": 116,
+          "tag": "跟隨我報名密我"
+        },
+        {
+          "end": 135,
+          "start": 126,
+          "tag": "點心轉推優先回復"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1881606138451419136",
+          "start": 3,
+          "username": "Lisa67177561986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914201028960157942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910526304509976958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lisa67177561986: 有些人說我的乳暈很大很好看 \n有些人說我的胸型好看很性感\n\n聽閨蜜說X這裡有很多色哥哥 \n請問是不是這樣發才有人約😳\n#不停撞機 #可無套 #可內射 #找固炮 \n#跟隨私訊報名 #台灣約愛 #跟隨我報名密我 \n#點心轉推優先回復 #留言…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914201028960157942].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914201028960157942",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914201028960157942"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_1910524878756995075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOMQTzbYAMEexT.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910524878756995075"
+          ]
+        },
+        "author_id": "1881606138451419136",
+        "conversation_id": "1910526304509976958",
+        "created_at": "2025-04-11T02:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T03:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910526304509976958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "不停撞機"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "可無套"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "可內射"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "找固炮"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "跟隨私訊報名"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "台灣約愛"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "跟隨我報名密我"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "點心轉推優先回復"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "留言告訴我"
+            },
+            {
+              "end": 130,
+              "start": 124,
+              "tag": "约爱爱找伴"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "喜歡被操"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "跟隨可約"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "想破處"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCu4eTn0af",
+              "end": 171,
+              "expanded_url": "https://x.com/Lisa67177561986/status/1910526304509976958/photo/1",
+              "media_key": "3_1910524878756995075",
+              "start": 148,
+              "url": "https://t.co/kCu4eTn0af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910526304509976958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16198,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "有些人說我的乳暈很大很好看 \n有些人說我的胸型好看很性感\n\n聽閨蜜說X這裡有很多色哥哥 \n請問是不是這樣發才有人約😳\n#不停撞機 #可無套 #可內射 #找固炮 \n#跟隨私訊報名 #台灣約愛 #跟隨我報名密我 \n#點心轉推優先回復 #留言告訴我  \n#约爱爱找伴 #喜歡被操 #跟隨可約 #想破處 https://t.co/kCu4eTn0af"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1280
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T07:34:11.000Z",
+        "description": "想找可以長期一起的男生 \n做你的奶茶\n讓你吸又讓你插\n要約會的話請禮貌唷🎀",
+        "id": "1881606138451419136",
+        "location": "taiwan",
+        "name": "Lis-a",
+        "pinned_tweet_id": "1910526304509976958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905465049038397440/RaYIrZWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "Lisa67177561986",
+        "verified": false
+      }
+    ]
+  }
+}

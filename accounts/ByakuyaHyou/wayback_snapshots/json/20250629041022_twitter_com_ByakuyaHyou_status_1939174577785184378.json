@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938481118619308037",
+        "3_1938481118648668165"
+      ],
+      "media_source_tweet_id": [
+        "1938481435574493502",
+        "1938481435574493502"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939174577785184378",
+    "created_at": "2025-06-29T04:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T05:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939174577785184378"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "文媛"
+        },
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "伪娘の日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1919058718433427456",
+          "start": 3,
+          "username": "angeltudolove2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKzvqMXUga",
+          "end": 79,
+          "expanded_url": "https://x.com/angeltudolove2/status/1938481435574493502/photo/1",
+          "media_key": "3_1938481118619308037",
+          "start": 56,
+          "url": "https://t.co/DKzvqMXUga"
+        },
+        {
+          "display_url": "pic.x.com/DKzvqMXUga",
+          "end": 79,
+          "expanded_url": "https://x.com/angeltudolove2/status/1938481435574493502/photo/1",
+          "media_key": "3_1938481118648668165",
+          "start": 56,
+          "url": "https://t.co/DKzvqMXUga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939174577785184378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938481435574493502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angeltudolove2: 坏消息：小土豆不是女孩子\n好消息：这是小土豆~💕\n#文媛 #伪娘の日常 https://t.co/DKzvqMXUga"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939174577785184378].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939174577785184378",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939174577785184378"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938481118619308037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubeTo8bEAU9b_t.jpg",
+        "width": 1833
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938481118648668165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubeTpDbEAUmfES.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938481118619308037",
+            "3_1938481118648668165"
+          ]
+        },
+        "author_id": "1919058718433427456",
+        "conversation_id": "1938481435574493502",
+        "created_at": "2025-06-27T06:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938481435574493502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "文媛"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "伪娘の日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKzvqMXUga",
+              "end": 59,
+              "expanded_url": "https://x.com/angeltudolove2/status/1938481435574493502/photo/1",
+              "media_key": "3_1938481118619308037",
+              "start": 36,
+              "url": "https://t.co/DKzvqMXUga"
+            },
+            {
+              "display_url": "pic.x.com/DKzvqMXUga",
+              "end": 59,
+              "expanded_url": "https://x.com/angeltudolove2/status/1938481435574493502/photo/1",
+              "media_key": "3_1938481118648668165",
+              "start": 36,
+              "url": "https://t.co/DKzvqMXUga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938481435574493502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息：小土豆不是女孩子\n好消息：这是小土豆~💕\n#文媛 #伪娘の日常 https://t.co/DKzvqMXUga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1488
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:57:17.000Z",
+        "description": "呼呼~💕无论是s还是m的先生，女士，还是母猪，小狗，蕾娜丝这里都欢迎哦~要和我做一些快乐的事情么？\n3499505433（炸号）\n3901512055（新号）\n2473975157（咱的抖M奴奴媛）\n这个是QQ哦，亲爱的💋\n❤️喜欢请转发我的帖子！♥️",
+        "id": "1919058718433427456",
+        "location": "人家在你心里哦~♥️",
+        "name": "蕾娜丝（文媛）（互推）",
+        "pinned_tweet_id": "1929936128087601286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939144260105940992/NS20FGRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 48,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 34
+        },
+        "username": "angeltudolove2",
+        "verified": false
+      }
+    ]
+  }
+}

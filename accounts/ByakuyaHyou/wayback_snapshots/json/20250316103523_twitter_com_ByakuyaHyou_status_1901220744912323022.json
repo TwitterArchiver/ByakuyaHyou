@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1901220744912323022",
+    "created_at": "2025-03-16T10:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T11:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901220744912323022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901220744912323022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901219096722833425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 喜报~喜报~♥\n罗德岛的涩情网站已经建立~♥在这里可以看到各种女干员的淫靡生活呢~♥\n在宿舍内的隐形摄像头内看到这般涩情的话肯定会让您产生各种想法吧~♥\n罗德岛也提供线下妓女上门服务呢~♥在这里可以有各种尺寸的扶她妓女供您选择~♥\n罗德岛在让您体会到宾至…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901220744912323022].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901220744912323022",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901220744912323022"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1960,
+        "media_key": "3_1901219091630989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJ8sNTbIAAvf15.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1901219091102543872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJ8sLVbsAATNER.jpg",
+        "width": 872
+      },
+      {
+        "height": 1242,
+        "media_key": "3_1901219091630927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJ8sNTaMAAVMyH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1463,
+        "media_key": "3_1901219093703004160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmJ8sVBbkAAs0sy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901219091630989312",
+            "3_1901219091102543872",
+            "3_1901219091630927872",
+            "3_1901219093703004160"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901219096722833425",
+        "created_at": "2025-03-16T10:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T11:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901219096722833425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "扶她"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "妓女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA8sWVXRU1",
+              "end": 173,
+              "expanded_url": "https://x.com/mrfzxi/status/1901219096722833425/photo/1",
+              "media_key": "3_1901219091630989312",
+              "start": 150,
+              "url": "https://t.co/wA8sWVXRU1"
+            },
+            {
+              "display_url": "pic.x.com/wA8sWVXRU1",
+              "end": 173,
+              "expanded_url": "https://x.com/mrfzxi/status/1901219096722833425/photo/1",
+              "media_key": "3_1901219091102543872",
+              "start": 150,
+              "url": "https://t.co/wA8sWVXRU1"
+            },
+            {
+              "display_url": "pic.x.com/wA8sWVXRU1",
+              "end": 173,
+              "expanded_url": "https://x.com/mrfzxi/status/1901219096722833425/photo/1",
+              "media_key": "3_1901219091630927872",
+              "start": 150,
+              "url": "https://t.co/wA8sWVXRU1"
+            },
+            {
+              "display_url": "pic.x.com/wA8sWVXRU1",
+              "end": 173,
+              "expanded_url": "https://x.com/mrfzxi/status/1901219096722833425/photo/1",
+              "media_key": "3_1901219093703004160",
+              "start": 150,
+              "url": "https://t.co/wA8sWVXRU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901219096722833425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "明日方舟"
+              },
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "扶她"
+              },
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "妓女"
+              },
+              {
+                "end": 152,
+                "start": 149,
+                "tag": "文爱"
+              },
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "肉便器"
+              },
+              {
+                "end": 161,
+                "start": 158,
+                "tag": "奴隶"
+              },
+              {
+                "end": 167,
+                "start": 162,
+                "tag": "媚黑绿帽"
+              }
+            ]
+          },
+          "text": "喜报~喜报~♥\n罗德岛的涩情网站已经建立~♥在这里可以看到各种女干员的淫靡生活呢~♥\n在宿舍内的隐形摄像头内看到这般涩情的话肯定会让您产生各种想法吧~♥\n罗德岛也提供线下妓女上门服务呢~♥在这里可以有各种尺寸的扶她妓女供您选择~♥\n罗德岛在让您体会到宾至如归的生活~♥\n#明日方舟 #扶她 #妓女 #文爱 #肉便器 #奴隶 #媚黑绿帽"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "喜报~喜报~♥\n罗德岛的涩情网站已经建立~♥在这里可以看到各种女干员的淫靡生活呢~♥\n在宿舍内的隐形摄像头内看到这般涩情的话肯定会让您产生各种想法吧~♥\n罗德岛也提供线下妓女上门服务呢~♥在这里可以有各种尺寸的扶她妓女供您选择~♥\n罗德岛在让您体会到宾至如归的生活~♥\n#明日方舟 #扶她 #妓女… https://t.co/wA8sWVXRU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 98,
+          "like_count": 859,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1042
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，可树洞聊天，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥好弟弟@warfarin_bf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "ByakuyaHyou"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "warfarin_bf"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1899806369383055814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900941716687081472/oqr0J6Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 205,
+          "like_count": 329,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 677
+        },
+        "username": "mrfzxi",
+        "verified": true
+      }
+    ]
+  }
+}

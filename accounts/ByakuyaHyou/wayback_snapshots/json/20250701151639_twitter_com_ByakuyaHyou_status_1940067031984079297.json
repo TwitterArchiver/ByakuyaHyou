@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940067031984079297",
+    "created_at": "2025-07-01T15:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T16:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940067031984079297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1674132412098576384",
+          "start": 3,
+          "username": "meiyoushishen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940067031984079297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939287663460413784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyoushishen: “咕啾♡～好妹妹，要乖一点哦～♡”\n纤密睫毛微抖，倾身让软糯唇瓣交叠，趁着偷袭的慌乱在人口中淫秽地搅动，让甜腻的津液混合得更加糜烂。\n“呜～♡姐姐.....”\n想要反抗，但姐姐眼底闪过一丝黠意，轻抬纤手恶狠狠捏住妹妹的白嫩手腕，强硬地用白嫩…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940067031984079297].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940067031984079297",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940067031984079297"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_1939287655163871232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum72PtXwAAs4W2.jpg",
+        "width": 1700
+      },
+      {
+        "height": 1314,
+        "media_key": "3_1939287659769155584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum72g3W0AAc7P_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939287655163871232",
+            "3_1939287659769155584"
+          ]
+        },
+        "author_id": "1674132412098576384",
+        "conversation_id": "1939287663460413784",
+        "created_at": "2025-06-29T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939287663460413784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文援"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "定制文"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hjo2I5jiV",
+              "end": 173,
+              "expanded_url": "https://x.com/meiyoushishen/status/1939287663460413784/photo/1",
+              "media_key": "3_1939287655163871232",
+              "start": 150,
+              "url": "https://t.co/7hjo2I5jiV"
+            },
+            {
+              "display_url": "pic.x.com/7hjo2I5jiV",
+              "end": 173,
+              "expanded_url": "https://x.com/meiyoushishen/status/1939287663460413784/photo/1",
+              "media_key": "3_1939287659769155584",
+              "start": 150,
+              "url": "https://t.co/7hjo2I5jiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939287663460413784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 563,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“咕啾♡～好妹妹，要乖一点哦～♡”\n纤密睫毛微抖，倾身让软糯唇瓣交叠，趁着偷袭的慌乱在人口中淫秽地搅动，让甜腻的津液混合得更加糜烂。\n“呜～♡姐姐.....”\n想要反抗，但姐姐眼底闪过一丝黠意，轻抬纤手恶狠狠捏住妹妹的白嫩手腕，强硬地用白嫩葱指交织，带着‘侵犯’的架势十指相扣。\n\n#文援 #定制文 https://t.co/7hjo2I5jiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 120,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1496
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T19:07:36.000Z",
+        "description": "擅长各种设定paly！或者剧情向角色扮演w~ 能攻能受呜~喵♡  ~欢迎客人敲门哦w文爱：60r/h R18定制文：50r/千字（价格可具体商议）\n拒绝血腥！！拒绝涉三！以上！\n营业时间：基本晚上！偶尔白天！！\nQ:1969343552\nP站：https://t.co/KnbCSh2xQN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96800172",
+                "end": 145,
+                "expanded_url": "https://www.pixiv.net/users/96800172",
+                "start": 122,
+                "url": "https://t.co/KnbCSh2xQN"
+              }
+            ]
+          }
+        },
+        "id": "1674132412098576384",
+        "name": "白雪姬♡（文援x定制文）",
+        "pinned_tweet_id": "1939287663460413784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891771786708254721/eaGMAJjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 294,
+          "like_count": 1868,
+          "listed_count": 12,
+          "media_count": 112,
+          "tweet_count": 3466
+        },
+        "username": "meiyoushishen",
+        "verified": false
+      }
+    ]
+  }
+}

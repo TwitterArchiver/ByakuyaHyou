@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058914699975282688",
+        "3_2058914700361191424",
+        "7_2058914730887286784"
+      ],
+      "media_source_tweet_id": [
+        "2058914810130313319",
+        "2058914810130313319",
+        "2058914810130313319"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2059210666737807626",
+    "created_at": "2026-05-26T09:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059210666737807626"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "男娘"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "femboy"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "男の娘"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "线下"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "作战记录"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "南宁"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "广西"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "小楠娘"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "伪娘"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "榨精"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022604806817492992",
+          "start": 3,
+          "username": "ytu119073"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JaMJncszjm",
+          "end": 98,
+          "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+          "media_key": "3_2058914699975282688",
+          "start": 75,
+          "url": "https://t.co/JaMJncszjm"
+        },
+        {
+          "display_url": "pic.x.com/JaMJncszjm",
+          "end": 98,
+          "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+          "media_key": "3_2058914700361191424",
+          "start": 75,
+          "url": "https://t.co/JaMJncszjm"
+        },
+        {
+          "display_url": "pic.x.com/JaMJncszjm",
+          "end": 98,
+          "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+          "media_key": "7_2058914730887286784",
+          "start": 75,
+          "url": "https://t.co/JaMJncszjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059210666737807626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058914810130313319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ytu119073: 老师妃咲开始上课了~\n\n#男娘 #femboy #男の娘 #线下 #作战记录 #南宁 #广西 #小楠娘 #伪娘 #榨精 https://t.co/JaMJncszjm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059210666737807626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059210666737807626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059210666737807626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058914699975282688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK8AtLbUAAkT3Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058914700361191424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK8Aunb0AAoVod.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 55966,
+        "height": 720,
+        "media_key": "7_2058914730887286784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058914730887286784/pu/img/QC-PVFRAVIZE395a.jpg",
+        "public_metrics": {
+          "view_count": 971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058914730887286784/pu/vid/avc1/480x270/sa2T9j4fdD3RCyio.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058914730887286784/pu/vid/avc1/640x360/2wuXihvmeDogZtYs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058914730887286784/pu/vid/avc1/1280x720/fwcqj_zq76KUDe1l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058914730887286784/pu/pl/0MtYXkOAq6BNbky8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058914699975282688",
+            "3_2058914700361191424",
+            "7_2058914730887286784"
+          ]
+        },
+        "author_id": "2022604806817492992",
+        "conversation_id": "2058914810130313319",
+        "created_at": "2026-05-25T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058914810130313319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "femboy"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "男の娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "线下"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "作战记录"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "南宁"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "广西"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "小楠娘"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "伪娘"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "榨精"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaMJncszjm",
+              "end": 83,
+              "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+              "media_key": "3_2058914699975282688",
+              "start": 60,
+              "url": "https://t.co/JaMJncszjm"
+            },
+            {
+              "display_url": "pic.x.com/JaMJncszjm",
+              "end": 83,
+              "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+              "media_key": "3_2058914700361191424",
+              "start": 60,
+              "url": "https://t.co/JaMJncszjm"
+            },
+            {
+              "display_url": "pic.x.com/JaMJncszjm",
+              "end": 83,
+              "expanded_url": "https://x.com/ytu119073/status/2058914810130313319/video/1",
+              "media_key": "7_2058914730887286784",
+              "start": 60,
+              "url": "https://t.co/JaMJncszjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058914810130313319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3199,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "老师妃咲开始上课了~\n\n#男娘 #femboy #男の娘 #线下 #作战记录 #南宁 #广西 #小楠娘 #伪娘 #榨精 https://t.co/JaMJncszjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 638,
+          "like_count": 1467,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1607
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T09:32:33.000Z",
+        "description": "爱去漫展在南宁🤓互推直接转，看到会回推\nQQ2964472023加QQ了解课表哦~",
+        "id": "2022604806817492992",
+        "location": "南宁",
+        "name": "芋头（互推）",
+        "pinned_tweet_id": "2057723849894932754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022605132521967616/fe4ccczF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 136,
+          "like_count": 111,
+          "listed_count": 15,
+          "media_count": 21,
+          "tweet_count": 134
+        },
+        "username": "ytu119073",
+        "verified": false
+      }
+    ]
+  }
+}

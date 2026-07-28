@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915007798162964929",
+    "created_at": "2025-04-23T11:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915007798162964929"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文爱"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "文媛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915007798162964929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914884109232648552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 旅行者败北日记第三季09\n荧妹为了证明自己不是杀害帝君的凶手，出发去奥藏山寻找大仙鸟，在穿过一处丘丘人营地时，被丘丘人发现并拦了下来\n该死…怎么丘丘人这么厉害…嗯啊…我还回来的…啊啊啊…怎么这么大啊…这个尺寸…哈啊…要坏掉了…\n\n#文爱 #文媛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915007798162964929].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915007798162964929",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915007798162964929"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1914884106313457665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMI8v7a4AEXD05.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914884106313457665"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1914884109232648552",
+        "created_at": "2025-04-23T03:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914884109232648552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文爱"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "文媛"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "败北"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4ZW1ZWMJW",
+              "end": 154,
+              "expanded_url": "https://x.com/dnggu156261/status/1914884109232648552/photo/1",
+              "media_key": "3_1914884106313457665",
+              "start": 131,
+              "url": "https://t.co/F4ZW1ZWMJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914884109232648552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1413,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "following",
+        "text": "旅行者败北日记第三季09\n荧妹为了证明自己不是杀害帝君的凶手，出发去奥藏山寻找大仙鸟，在穿过一处丘丘人营地时，被丘丘人发现并拦了下来\n该死…怎么丘丘人这么厉害…嗯啊…我还回来的…啊啊啊…怎么这么大啊…这个尺寸…哈啊…要坏掉了…\n\n#文爱 #文媛 #败北 #剧情 https://t.co/F4ZW1ZWMJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1092,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1297
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 128,
+          "like_count": 5608,
+          "listed_count": 18,
+          "media_count": 87,
+          "tweet_count": 5819
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

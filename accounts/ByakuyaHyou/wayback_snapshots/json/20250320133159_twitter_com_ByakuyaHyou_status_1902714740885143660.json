@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902714740885143660",
+    "created_at": "2025-03-20T13:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T14:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902714740885143660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902714740885143660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898733113255362901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 靠着浴池躺下了少女，用手舀起水泼到头上。被水打湿的黑色长发一绺绺地垂在水中，泛着柔和的光晕。\n身上的衣服早就在之前的玩耍中散落，仅有两片三角形的胸衣左右遮住粉嫩的乳头，堪堪掩住一半雪白的乳肉。\n那双被水湿润的白丝过膝袜。丝足随着水面轻轻摇晃，拨…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902714740885143660].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902714740885143660",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902714740885143660"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1898733109690109953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlmntA5aEAEy33W.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898733109690109953"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1898733113255362901",
+        "created_at": "2025-03-09T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898733113255362901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMHOhvgtdA",
+              "end": 164,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1898733113255362901/photo/1",
+              "media_key": "3_1898733109690109953",
+              "start": 141,
+              "url": "https://t.co/DMHOhvgtdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898733113255362901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2506,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "靠着浴池躺下了少女，用手舀起水泼到头上。被水打湿的黑色长发一绺绺地垂在水中，泛着柔和的光晕。\n身上的衣服早就在之前的玩耍中散落，仅有两片三角形的胸衣左右遮住粉嫩的乳头，堪堪掩住一半雪白的乳肉。\n那双被水湿润的白丝过膝袜。丝足随着水面轻轻摇晃，拨动银镜般的水面，留下道道涟漪\n#文爱 https://t.co/DMHOhvgtdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 106,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1092
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

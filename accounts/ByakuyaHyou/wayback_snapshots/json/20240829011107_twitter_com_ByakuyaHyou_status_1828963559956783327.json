@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828963559956783327",
+    "created_at": "2024-08-29T01:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T02:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828963559956783327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741810993616101376",
+          "start": 3,
+          "username": "xiaoxinyiever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828963559956783327",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828757370736116015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxinyiever: 那个～不想无套的话…安全词什么的就快点说吧💜我听不到哦…什么～绳子太紧了吗💚没有吧～傻逼🖕拖拖拉拉的我们可不会等你哦…没事吧…阳痿💜看来你的傻逼小屌没什么意见呢～那我们待会就开始了哦…反正是你自己希望默认这样的吧🖤短小的贱种…呵💚肯定会怀孕…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828963559956783327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828963559956783327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828963559956783327"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828757367883702272"
+          ]
+        },
+        "author_id": "1741810993616101376",
+        "conversation_id": "1828757370736116015",
+        "created_at": "2024-08-28T11:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T12:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828757370736116015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "ntr"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文媛"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sclksralmb",
+              "end": 168,
+              "expanded_url": "https://twitter.com/xiaoxinyiever/status/1828757370736116015/photo/1",
+              "media_key": "3_1828757367883702272",
+              "start": 145,
+              "url": "https://t.co/sclKsrALMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828757370736116015",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3448,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "那个～不想无套的话…安全词什么的就快点说吧💜我听不到哦…什么～绳子太紧了吗💚没有吧～傻逼🖕拖拖拉拉的我们可不会等你哦…没事吧…阳痿💜看来你的傻逼小屌没什么意见呢～那我们待会就开始了哦…反正是你自己希望默认这样的吧🖤短小的贱种…呵💚肯定会怀孕的吧…别怪我哦…老公💜\n#ntr #文媛 #绿帽 https://t.co/sclKsrALMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 69,
+          "like_count": 338,
+          "listed_count": 0,
+          "tweet_count": 395
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:18:17.000Z",
+        "description": "这里是擅长玩废你小鸡吧烂屌的馨怡🖤短句文调耍喷小屌单次30r💚文字无下暴骂羞辱绿帽，小屌锁奴（婊），媚黑，臭脚控等半小时30r💜鉴屌15r，阳痿雌堕训练/锁奴管理/深化xp（锁，绿，足，臀等）三天100七天200💚qq号：639001889 TG号：@xinyitwo购买足图语音点下方链接进tg群（不语音）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "xinyitwo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+bWphzBCWgw5hM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+bWphzBCWgw5hMzhl",
+                "start": 0,
+                "url": "https://t.co/7T2hqb8W1B"
+              }
+            ]
+          }
+        },
+        "id": "1741810993616101376",
+        "name": "馨怡（文媛欢迎互推）💚🖤",
+        "pinned_tweet_id": "1820722539393380729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741811833756151808/4ldG0lBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8589,
+          "following_count": 152,
+          "like_count": 1405,
+          "listed_count": 45,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/7T2hqb8W1B",
+        "username": "xiaoxinyiever",
+        "verified": false
+      }
+    ]
+  }
+}

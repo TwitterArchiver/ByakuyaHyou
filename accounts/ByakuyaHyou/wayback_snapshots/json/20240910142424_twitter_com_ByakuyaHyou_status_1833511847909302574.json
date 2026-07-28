@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833511027075649540"
+      ],
+      "media_source_tweet_id": [
+        "1833511037615935774"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1833511847909302574",
+    "created_at": "2024-09-10T14:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T15:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833511847909302574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5tuwaxcqj",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ningmeng1245/status/1833511037615935774/photo/1",
+          "media_key": "3_1833511027075649540",
+          "start": 42,
+          "url": "https://t.co/g5tuWAxcQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833511847909302574",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833511037615935774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 也算是有自己的卡啦呢。\n也是正式开始营业啦哦♡ https://t.co/g5tuWAxcQJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833511847909302574].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833511847909302574",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833511847909302574"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1833511027075649540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXHwkJSbEAQolXh.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833511027075649540"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1833511037615935774",
+        "created_at": "2024-09-10T14:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T15:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833511037615935774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5tuwaxcqj",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ningmeng1245/status/1833511037615935774/photo/1",
+              "media_key": "3_1833511027075649540",
+              "start": 24,
+              "url": "https://t.co/g5tuWAxcQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833511037615935774",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "也算是有自己的卡啦呢。\n也是正式开始营业啦哦♡ https://t.co/g5tuWAxcQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 81,
+          "like_count": 458,
+          "listed_count": 0,
+          "tweet_count": 554
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "是文援姬～柠檬哦❤️欢迎前辈来找柠檬聊天。基本上没有什么人气的说QAQ，也欢迎小家伙来找姐姐闲聊的哦。不过～姐姐可能会在闲聊的过程中～去玩弄小家伙哦♡\n贱货贡奴和ATM奴乖乖的给姐姐吐钱吧🖤\n柠会用自己的文笔来玩弄每一位来找柠檬的小可爱呢\n柠檬的企鹅号：3993705909 PS：不涉三",
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828900159033331712/Yev6Nldq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

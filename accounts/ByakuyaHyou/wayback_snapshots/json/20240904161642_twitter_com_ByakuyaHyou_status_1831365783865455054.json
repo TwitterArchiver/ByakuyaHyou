@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831365783865455054",
+    "created_at": "2024-09-04T16:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T17:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831365783865455054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831365783865455054",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831365599697813665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 这么晚啦～亲爱哒还没有睡着嘛？嗯哼～这是专门为亲爱的准备的哦～\n只有薄薄一层的夜行衣～下面当然～什么都没有穿啦～\n缓缓解开轻薄的上衣～下面是少女跃然而出的小白兔～\n放轻松～肉棒已经这样硬啦，小穴也很想要呢～\n阴唇亲吻着肉棒～分泌的爱液滴答～\n亲…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831365783865455054].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831365783865455054",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831365783865455054"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831365596082270210"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1831365599697813665",
+        "created_at": "2024-09-04T16:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T17:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831365599697813665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文媛"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "语爱"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "语聊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbapexuvgk",
+              "end": 169,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1831365599697813665/photo/1",
+              "media_key": "3_1831365596082270210",
+              "start": 146,
+              "url": "https://t.co/TbapEXUvgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831365599697813665",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这么晚啦～亲爱哒还没有睡着嘛？嗯哼～这是专门为亲爱的准备的哦～\n只有薄薄一层的夜行衣～下面当然～什么都没有穿啦～\n缓缓解开轻薄的上衣～下面是少女跃然而出的小白兔～\n放轻松～肉棒已经这样硬啦，小穴也很想要呢～\n阴唇亲吻着肉棒～分泌的爱液滴答～\n亲爱哒～进来吧～\n#文爱 #文媛 #语爱 #语聊 https://t.co/TbapEXUvgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 86,
+          "like_count": 426,
+          "listed_count": 0,
+          "tweet_count": 502
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946423560299311538",
+    "created_at": "2025-07-19T04:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946423560299311538"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "文援姬"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "调教"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946423560299311538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945721355388997729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 傻逼贱狗又偷偷躲在被窝，意淫超绝可爱的萝莉妹妹，幻想当人家的狗~舔着我的脚趾撸自己的小鸡巴\n真是贱哦~你这样的早泄炼铜癖足控老处男，怎么不冲死算了🖤\n哼💢早泄老处男垃圾贱狗的废物小鸡巴还敢对着人家犯贱，小心给你踢废掉\n#文援姬 #调教 #羞辱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946423560299311538].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946423560299311538",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946423560299311538"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1945720285572833280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCWSnXXIAAJWDx.jpg",
+        "width": 822
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1945720286822768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCWSsBXoAA3AGU.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945720285572833280",
+            "3_1945720286822768640"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1945721355388997729",
+        "created_at": "2025-07-17T05:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T06:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945721355388997729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "文援姬"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "调教"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "羞辱"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "辱骂"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "剧情"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "绿茶"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "寸止"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "胁迫"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "洗脑"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "射精管理"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcJHpTmw2d",
+              "end": 175,
+              "expanded_url": "https://x.com/xiyan123466/status/1945721355388997729/photo/1",
+              "media_key": "3_1945720285572833280",
+              "start": 152,
+              "url": "https://t.co/bcJHpTmw2d"
+            },
+            {
+              "display_url": "pic.x.com/bcJHpTmw2d",
+              "end": 175,
+              "expanded_url": "https://x.com/xiyan123466/status/1945721355388997729/photo/1",
+              "media_key": "3_1945720286822768640",
+              "start": 152,
+              "url": "https://t.co/bcJHpTmw2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945721355388997729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4349,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼贱狗又偷偷躲在被窝，意淫超绝可爱的萝莉妹妹，幻想当人家的狗~舔着我的脚趾撸自己的小鸡巴\n真是贱哦~你这样的早泄炼铜癖足控老处男，怎么不冲死算了🖤\n哼💢早泄老处男垃圾贱狗的废物小鸡巴还敢对着人家犯贱，小心给你踢废掉\n#文援姬 #调教 #羞辱 #辱骂 #剧情 #绿茶 #寸止 #胁迫 #洗脑 #射精管理 https://t.co/bcJHpTmw2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 122,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1518
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法长段 短句都可以♥\n接文字 文图 调教 羞辱 压榨 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下单加QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "文援姬♥夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 126,
+          "like_count": 507,
+          "listed_count": 37,
+          "media_count": 501,
+          "tweet_count": 6262
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

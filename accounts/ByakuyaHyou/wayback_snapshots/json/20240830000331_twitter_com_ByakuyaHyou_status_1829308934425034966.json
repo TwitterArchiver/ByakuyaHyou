@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829195150498942976"
+      ],
+      "media_source_tweet_id": [
+        "1829195158400970905"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829308934425034966",
+    "created_at": "2024-08-30T00:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T01:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829308934425034966"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "女s"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "男m"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "调教"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "贱狗"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "报销奴"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "贡奴"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "女尊男卑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725708713326178304",
+          "start": 3,
+          "username": "Elimelech16dedu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9c7fo18pd",
+          "end": 117,
+          "expanded_url": "https://twitter.com/Elimelech16dedu/status/1829195158400970905/photo/1",
+          "media_key": "3_1829195150498942976",
+          "start": 94,
+          "url": "https://t.co/P9c7fO18Pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829308934425034966",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829195158400970905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elimelech16dedu: 别往下翻了傻逼！一条贱公狗发情了就老实跪着低下头乖乖爬过来挨骂！👇 #女s #男m #调教  #贱狗 #ATM奴 #报销奴 #贡奴  #女尊男卑 https://t.co/P9c7fO18Pd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829308934425034966].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829308934425034966",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829308934425034966"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1829195150498942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWKbTEJbUAAn9_v.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829195150498942976"
+          ]
+        },
+        "author_id": "1725708713326178304",
+        "conversation_id": "1829195158400970905",
+        "created_at": "2024-08-29T16:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T17:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829195158400970905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "女s"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男m"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "调教"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "贱狗"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "报销奴"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "贡奴"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "女尊男卑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9c7fo18pd",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Elimelech16dedu/status/1829195158400970905/photo/1",
+              "media_key": "3_1829195150498942976",
+              "start": 73,
+              "url": "https://t.co/P9c7fO18Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829195158400970905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1446,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "别往下翻了傻逼！一条贱公狗发情了就老实跪着低下头乖乖爬过来挨骂！👇 #女s #男m #调教  #贱狗 #ATM奴 #报销奴 #贡奴  #女尊男卑 https://t.co/P9c7fO18Pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 81,
+          "like_count": 378,
+          "listed_count": 0,
+          "tweet_count": 434
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T02:53:20.000Z",
+        "description": "带门加好友",
+        "id": "1725708713326178304",
+        "location": "Elk Grove",
+        "name": "柯儿s（收贱狗）",
+        "pinned_tweet_id": "1819692979751428148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829193428208635904/w2CCftI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Elimelech16dedu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897877017431097349"
+      ],
+      "media_source_tweet_id": [
+        "1897877021310816363"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897882562745581801",
+    "created_at": "2025-03-07T05:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T06:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897882562745581801"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "文爱"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "文媛"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLw7tQBUWv",
+          "end": 132,
+          "expanded_url": "https://x.com/dnggu156261/status/1897877021310816363/photo/1",
+          "media_key": "3_1897877017431097349",
+          "start": 109,
+          "url": "https://t.co/gLw7tQBUWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897882562745581801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897877021310816363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dnggu156261: 旅行者败北日记第二季14\n今天是女仆装荧妹哦，怎么样主人，还满意吧，荧妹会好好伺候你的为主人服务，是贱狗的荣幸\n就是一会主人舒服完，是不是就轮到荧妹当主人了呢\n#文爱 #文媛 #剧情 https://t.co/gLw7tQBUWv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897882562745581801].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897882562745581801",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897882562745581801"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1897877017431097349",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GladF4tbwAU6XIN.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897877017431097349"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1897877021310816363",
+        "created_at": "2025-03-07T05:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897877021310816363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "文爱"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "文媛"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLw7tQBUWv",
+              "end": 115,
+              "expanded_url": "https://x.com/dnggu156261/status/1897877021310816363/photo/1",
+              "media_key": "3_1897877017431097349",
+              "start": 92,
+              "url": "https://t.co/gLw7tQBUWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897877021310816363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "旅行者败北日记第二季14\n今天是女仆装荧妹哦，怎么样主人，还满意吧，荧妹会好好伺候你的为主人服务，是贱狗的荣幸\n就是一会主人舒服完，是不是就轮到荧妹当主人了呢\n#文爱 #文媛 #剧情 https://t.co/gLw7tQBUWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 93,
+          "like_count": 764,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 956
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，TG请QQ预约哦，欢迎扩列，互推麻烦私信一下，文爱搭子可以看看我，姐妹 @guq1128649   杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "guq1128649"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推私发哦）",
+        "pinned_tweet_id": "1881712428624601327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3814,
+          "following_count": 114,
+          "like_count": 4895,
+          "listed_count": 16,
+          "media_count": 74,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

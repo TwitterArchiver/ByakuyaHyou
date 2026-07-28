@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851598753398206464",
+        "3_1851598753402421248"
+      ],
+      "media_source_tweet_id": [
+        "1851598761606476279",
+        "1851598761606476279"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1851612945568145475",
+    "created_at": "2024-10-30T13:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T14:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851612945568145475"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "女s"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "男m"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "ATM"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "报销奴"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "榨金"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "榨精"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "鞋底奴"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "恋足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1640493744360427520",
+          "start": 3,
+          "username": "gona_194307"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7FjF2X2zuI",
+          "end": 100,
+          "expanded_url": "https://x.com/gona_194307/status/1851598761606476279/photo/1",
+          "media_key": "3_1851598753398206464",
+          "start": 77,
+          "url": "https://t.co/7FjF2X2zuI"
+        },
+        {
+          "display_url": "pic.x.com/7FjF2X2zuI",
+          "end": 100,
+          "expanded_url": "https://x.com/gona_194307/status/1851598761606476279/photo/1",
+          "media_key": "3_1851598753402421248",
+          "start": 77,
+          "url": "https://t.co/7FjF2X2zuI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851612945568145475",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851598761606476279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gona_194307: 想挨骂做任务的贱狗滚过来 #女s #男m #女尊男卑 #ATM #上贡奴 #报销奴  #榨金 #榨精 #鞋底奴 #恋足 https://t.co/7FjF2X2zuI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851612945568145475].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851612945568145475",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851612945568145475"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_1851598753398206464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbIzQYrbMAANGcT.jpg",
+        "width": 915
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1851598753402421248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbIzQYsbgAA9H9F.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851598753398206464",
+            "3_1851598753402421248"
+          ]
+        },
+        "author_id": "1640493744360427520",
+        "conversation_id": "1851598761606476279",
+        "created_at": "2024-10-30T12:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T13:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851598761606476279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "女s"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男m"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "ATM"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "报销奴"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "榨金"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "榨精"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "鞋底奴"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "恋足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FjF2X2zuI",
+              "end": 83,
+              "expanded_url": "https://x.com/gona_194307/status/1851598761606476279/photo/1",
+              "media_key": "3_1851598753398206464",
+              "start": 60,
+              "url": "https://t.co/7FjF2X2zuI"
+            },
+            {
+              "display_url": "pic.x.com/7FjF2X2zuI",
+              "end": 83,
+              "expanded_url": "https://x.com/gona_194307/status/1851598761606476279/photo/1",
+              "media_key": "3_1851598753402421248",
+              "start": 60,
+              "url": "https://t.co/7FjF2X2zuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851598761606476279",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "想挨骂做任务的贱狗滚过来 #女s #男m #女尊男卑 #ATM #上贡奴 #报销奴  #榨金 #榨精 #鞋底奴 #恋足 https://t.co/7FjF2X2zuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 88,
+          "like_count": 701,
+          "listed_count": 0,
+          "tweet_count": 885
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T23:19:25.000Z",
+        "description": "🚪28",
+        "id": "1640493744360427520",
+        "location": "Belize",
+        "name": "珂儿s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851593099841335296/CsB0i4Zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "gona_194307",
+        "verified": false
+      }
+    ]
+  }
+}

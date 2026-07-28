@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833396152844095967",
+    "created_at": "2024-09-10T06:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T07:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833396152844095967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833396152844095967",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833294565056647461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 客户约稿\n噫噫噫～🖤废物狗奴，居然主动把自己的废物鸡吧给永久锁死了🖤这辈子只能流精了啊，虽然你那3cm的废物鸡吧也射不出来就是了～🖤看吧，你手里这跟正在拍打你废物下体假鸡吧🖤这才叫鸡吧～看着吧，你的对象正在被这样的大鸡吧肏着💚而你这个废物锁狗只…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833396152844095967].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833396152844095967",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833396152844095967"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833294560325505024"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1833294565056647461",
+        "created_at": "2024-09-10T00:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T01:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833294565056647461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "锁奴"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "约稿"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/den8f3wyvt",
+              "end": 168,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1833294565056647461/photo/1",
+              "media_key": "3_1833294560325505024",
+              "start": 145,
+              "url": "https://t.co/DEN8f3wyvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833294565056647461",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 563,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "客户约稿\n噫噫噫～🖤废物狗奴，居然主动把自己的废物鸡吧给永久锁死了🖤这辈子只能流精了啊，虽然你那3cm的废物鸡吧也射不出来就是了～🖤看吧，你手里这跟正在拍打你废物下体假鸡吧🖤这才叫鸡吧～看着吧，你的对象正在被这样的大鸡吧肏着💚而你这个废物锁狗只能在一旁看着流精～🖤\n#锁奴 #约稿 #文媛 https://t.co/DEN8f3wyvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 81,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 547
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "这里是胧酱（也可以叫我胧月❤），是一个可S可M的男娘文媛❤️喜欢剧情❤️指挥🖤调教🖤辱骂🖤榨精🖤上供🖤，什么内容胧酱都会去尽力满足的❤️营业时间为下午到晚上，凌晨想玩的自己滚出提前发消息🖤\n门牌:QQ3988413447，电报https://t.co/HXktQ7jLOK   \n💜主人💜 @sbgznc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 145,
+                "username": "sbgznc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 136,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 113,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          }
+        },
+        "id": "1817852320375250944",
+        "location": "淫荡的压在你身上❤️",
+        "name": "💙胧酱💙（互推）🖤",
+        "pinned_tweet_id": "1832984472461189128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832088963479179265/Gwb2GyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 138,
+          "like_count": 223,
+          "listed_count": 1,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/HXktQ7jLOK",
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

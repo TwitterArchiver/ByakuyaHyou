@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914875928909578614",
+    "created_at": "2025-04-23T02:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914875928909578614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914875928909578614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914569051613094324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 文媛日记：因为太便宜文笔不错加上福利多多而被爸爸们狠狠喜欢。不过会不会被同行的大姐姐们针对？我觉得不会啦，因为人家还要上课，接不了那么多客人啦，而且纯文。\n嗯…大家都很喜欢反差呢，我也喜欢~比方说表面纯洁可爱，但是眼里有一种隐藏的欲望然后展现出来就…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914875928909578614].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914875928909578614",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914875928909578614"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_1914568491098906624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHp5hobIAAobHA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914568491098906624"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1914569051613094324",
+        "created_at": "2025-04-22T06:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914569051613094324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzAMQHidwJ",
+              "end": 154,
+              "expanded_url": "https://x.com/Achengqqq/status/1914569051613094324/photo/1",
+              "media_key": "3_1914568491098906624",
+              "start": 131,
+              "url": "https://t.co/vzAMQHidwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914569051613094324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文媛日记：因为太便宜文笔不错加上福利多多而被爸爸们狠狠喜欢。不过会不会被同行的大姐姐们针对？我觉得不会啦，因为人家还要上课，接不了那么多客人啦，而且纯文。\n嗯…大家都很喜欢反差呢，我也喜欢~比方说表面纯洁可爱，但是眼里有一种隐藏的欲望然后展现出来就会十分的色。 https://t.co/vzAMQHidwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 115,
+          "like_count": 1086,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1290
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~",
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1896226886340227240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

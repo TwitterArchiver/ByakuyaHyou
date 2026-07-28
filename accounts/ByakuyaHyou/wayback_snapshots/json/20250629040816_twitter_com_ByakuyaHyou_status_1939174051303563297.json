@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939174051303563297",
+    "created_at": "2025-06-29T04:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T05:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939174051303563297"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "妹控"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "可爱"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "勾引"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "萝莉"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "真空"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "幼女"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "文媛"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "文爱"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939174051303563297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938973116857979150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 尼酱~ 别玩游戏了~ 来玩窝叭💕💘\n（扑上来趴在你身上挡住电子屏幕，软乎丝腿腿根夹着你的大腿摩挲勾引，幼嫩私密处和胸口的可口酥软小馒头从衣物里‘滑落’展露在你面前）\n#妹控 #可爱 #勾引 #萝莉 #真空 #幼女 #文媛 #文爱 #文援 htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939174051303563297].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939174051303563297",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939174051303563297"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938973113997275136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuidxijXMAAIFLa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938973113997275136"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1938973116857979150",
+        "created_at": "2025-06-28T14:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938973116857979150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "妹控"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "可爱"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "勾引"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "萝莉"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "真空"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "幼女"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "文媛"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文爱"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIUBmg6Vx3",
+              "end": 142,
+              "expanded_url": "https://x.com/q3233788635/status/1938973116857979150/photo/1",
+              "media_key": "3_1938973113997275136",
+              "start": 119,
+              "url": "https://t.co/fIUBmg6Vx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938973116857979150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2933,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "尼酱~ 别玩游戏了~ 来玩窝叭💕💘\n（扑上来趴在你身上挡住电子屏幕，软乎丝腿腿根夹着你的大腿摩挲勾引，幼嫩私密处和胸口的可口酥软小馒头从衣物里‘滑落’展露在你面前）\n#妹控 #可爱 #勾引 #萝莉 #真空 #幼女 #文媛 #文爱 #文援 https://t.co/fIUBmg6Vx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1278,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1483
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 459,
+          "like_count": 3390,
+          "listed_count": 14,
+          "media_count": 94,
+          "tweet_count": 4176
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

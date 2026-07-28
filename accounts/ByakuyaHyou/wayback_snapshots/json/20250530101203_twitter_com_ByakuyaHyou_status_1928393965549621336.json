@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928234417270706176"
+      ],
+      "media_source_tweet_id": [
+        "1928234425612964337"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928393965549621336",
+    "created_at": "2025-05-30T10:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928393965549621336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1864708808385404928",
+          "start": 3,
+          "username": "shigongyuyue_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Adj3vnUgHu",
+          "end": 43,
+          "expanded_url": "https://x.com/shigongyuyue_2/status/1928234425612964337/photo/1",
+          "media_key": "3_1928234417270706176",
+          "start": 20,
+          "url": "https://t.co/Adj3vnUgHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928393965549621336",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928234425612964337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue_2: https://t.co/Adj3vnUgHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_1928234417270706176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsJ2_H0aUAA2TF5.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928234417270706176"
+          ],
+          "media_source_tweet_id": [
+            "1928234425612964337"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1928393965549621336",
+        "created_at": "2025-05-30T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928393965549621336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1864708808385404928",
+              "start": 3,
+              "username": "shigongyuyue_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Adj3vnUgHu",
+              "end": 43,
+              "expanded_url": "https://x.com/shigongyuyue_2/status/1928234425612964337/photo/1",
+              "media_key": "3_1928234417270706176",
+              "start": 20,
+              "url": "https://t.co/Adj3vnUgHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928393965549621336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928234425612964337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigongyuyue_2: https://t.co/Adj3vnUgHu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928234417270706176"
+          ]
+        },
+        "author_id": "1864708808385404928",
+        "conversation_id": "1928234425612964337",
+        "created_at": "2025-05-29T23:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928234425612964337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Adj3vnUgHu",
+              "end": 23,
+              "expanded_url": "https://x.com/shigongyuyue_2/status/1928234425612964337/photo/1",
+              "media_key": "3_1928234417270706176",
+              "start": 0,
+              "url": "https://t.co/Adj3vnUgHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928234425612964337",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Adj3vnUgHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 119,
+          "like_count": 1250,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1453
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T16:30:07.000Z",
+        "description": "狐仙大人の副人格，亦是恶欲存放之地",
+        "id": "1864708808385404928",
+        "location": "营业主号@shigongyuyue",
+        "name": "时宫羽月（淫乱の狐妖）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865664551108354048/nEYCJ6ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 29,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 206
+        },
+        "username": "shigongyuyue_2",
+        "verified": false
+      }
+    ]
+  }
+}

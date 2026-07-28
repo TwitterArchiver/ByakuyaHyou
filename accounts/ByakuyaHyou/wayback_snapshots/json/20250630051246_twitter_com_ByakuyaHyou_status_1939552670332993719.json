@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939483033968472064"
+      ],
+      "media_source_tweet_id": [
+        "1939483036384694281"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939552670332993719",
+    "created_at": "2025-06-30T05:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939552670332993719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P9acaGUNcV",
+          "end": 91,
+          "expanded_url": "https://x.com/yuan_wen4527/status/1939483036384694281/photo/1",
+          "media_key": "3_1939483033968472064",
+          "start": 68,
+          "url": "https://t.co/P9acaGUNcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939552670332993719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939483036384694281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 你们的妈妈马上就要恢复咯ww～噗嗤一想到一群贱狗的那副迫不及待想要被调教的贱货样子就想笑～噌噌噌～ https://t.co/P9acaGUNcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_1939483033968472064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuptiyeWcAAqoXN.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939483033968472064"
+          ],
+          "media_source_tweet_id": [
+            "1939483036384694281"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939552670332993719",
+        "created_at": "2025-06-30T05:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939552670332993719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9acaGUNcV",
+              "end": 91,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1939483036384694281/photo/1",
+              "media_key": "3_1939483033968472064",
+              "start": 68,
+              "url": "https://t.co/P9acaGUNcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939552670332993719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939483036384694281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 你们的妈妈马上就要恢复咯ww～噗嗤一想到一群贱狗的那副迫不及待想要被调教的贱货样子就想笑～噌噌噌～ https://t.co/P9acaGUNcV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939483033968472064"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939483036384694281",
+        "created_at": "2025-06-30T00:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939483036384694281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9acaGUNcV",
+              "end": 73,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1939483036384694281/photo/1",
+              "media_key": "3_1939483033968472064",
+              "start": 50,
+              "url": "https://t.co/P9acaGUNcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939483036384694281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们的妈妈马上就要恢复咯ww～噗嗤一想到一群贱狗的那副迫不及待想要被调教的贱货样子就想笑～噌噌噌～ https://t.co/P9acaGUNcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 120,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1495
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 12,
+          "like_count": 3976,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 4846
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

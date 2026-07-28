@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921983883983388674",
+        "3_1921983883912044544"
+      ],
+      "media_source_tweet_id": [
+        "1921983886793359465",
+        "1921983886793359465"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922443193372557596",
+    "created_at": "2025-05-14T00:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922443193372557596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shilingww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbddAJ0vRT",
+          "end": 48,
+          "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+          "media_key": "3_1921983883983388674",
+          "start": 25,
+          "url": "https://t.co/XbddAJ0vRT"
+        },
+        {
+          "display_url": "pic.x.com/XbddAJ0vRT",
+          "end": 48,
+          "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+          "media_key": "3_1921983883912044544",
+          "start": 25,
+          "url": "https://t.co/XbddAJ0vRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922443193372557596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921983886793359465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shilingww: 以下是接单项目哦~ https://t.co/XbddAJ0vRT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922443193372557596].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922443193372557596",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922443193372557596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_1921983883983388674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqxCKMzbAAIvv1A.jpg",
+        "width": 1260
+      },
+      {
+        "height": 720,
+        "media_key": "3_1921983883912044544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqxCKMiaYAAJx8y.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921983883983388674",
+            "3_1921983883912044544"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1921983886793359465",
+        "created_at": "2025-05-12T17:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921983886793359465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbddAJ0vRT",
+              "end": 33,
+              "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+              "media_key": "3_1921983883983388674",
+              "start": 10,
+              "url": "https://t.co/XbddAJ0vRT"
+            },
+            {
+              "display_url": "pic.x.com/XbddAJ0vRT",
+              "end": 33,
+              "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+              "media_key": "3_1921983883912044544",
+              "start": 10,
+              "url": "https://t.co/XbddAJ0vRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921983886793359465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以下是接单项目哦~ https://t.co/XbddAJ0vRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 120,
+          "like_count": 1202,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1409
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌3800716151",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 63,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "shilingww",
+        "verified": false
+      }
+    ]
+  }
+}

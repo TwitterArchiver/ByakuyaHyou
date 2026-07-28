@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914875940380999931",
+    "created_at": "2025-04-23T02:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914875940380999931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914875940380999931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913849363258085732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 金主爸爸问我为什么一天15这么便宜，我说我要上学时间很零碎~于是被包了周，还打了优惠~\n因为晚上有时间结果每天晚上被爆肏两个小时……\n不过爸爸对我可好了~♡每次肏完我还给我30块的打赏\n/点我看门牌号，18+内容一天15保底一个小时的连续时间~/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_1913849332190892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go9b097bUAAldNR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1914875940380999931",
+        "created_at": "2025-04-23T02:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914875940380999931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896222648524587008",
+              "start": 3,
+              "username": "Achengqqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914875940380999931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913849363258085732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Achengqqq: 金主爸爸问我为什么一天15这么便宜，我说我要上学时间很零碎~于是被包了周，还打了优惠~\n因为晚上有时间结果每天晚上被爆肏两个小时……\n不过爸爸对我可好了~♡每次肏完我还给我30块的打赏\n/点我看门牌号，18+内容一天15保底一个小时的连续时间~/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913849332190892032"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1913849363258085732",
+        "created_at": "2025-04-20T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913849363258085732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78il1UwtAj",
+              "end": 147,
+              "expanded_url": "https://x.com/Achengqqq/status/1913849363258085732/photo/1",
+              "media_key": "3_1913849332190892032",
+              "start": 124,
+              "url": "https://t.co/78il1UwtAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913849363258085732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "金主爸爸问我为什么一天15这么便宜，我说我要上学时间很零碎~于是被包了周，还打了优惠~\n因为晚上有时间结果每天晚上被爆肏两个小时……\n不过爸爸对我可好了~♡每次肏完我还给我30块的打赏\n/点我看门牌号，18+内容一天15保底一个小时的连续时间~/ https://t.co/78il1UwtAj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 115,
+          "like_count": 1087,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1291
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~",
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1896226886340227240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

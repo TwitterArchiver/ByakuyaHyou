@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1993330706127503572",
+    "created_at": "2025-11-25T16:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993357087985091041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1967266378530041856",
+          "start": 0,
+          "username": "gGlcykQYc935312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993357087985091041",
+    "in_reply_to_user_id": "1967266378530041856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993330706127503572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gGlcykQYc935312 可爱扩列"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993330412899516419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m7cwzbwAM8bQ_.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 12654,
+        "height": 720,
+        "media_key": "7_1993330434483404804",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993330434483404804/pu/img/KX92TIXFf66dlnLh.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993330434483404804/pu/vid/avc1/480x270/UcZpLff4ePwIqPwg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993330434483404804/pu/vid/avc1/640x360/lCWiMgn2tZ7sur5S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993330434483404804/pu/vid/avc1/1280x720/QDa8zlDHH7DqCk_c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993330434483404804/pu/pl/KHxgZuvicEjEHxTR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1993330706127503572",
+        "created_at": "2025-11-25T16:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993357087985091041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1967266378530041856",
+              "start": 0,
+              "username": "gGlcykQYc935312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993357087985091041",
+        "in_reply_to_user_id": "1967266378530041856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993330706127503572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gGlcykQYc935312 可爱扩列"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993330412899516419",
+            "7_1993330434483404804"
+          ]
+        },
+        "author_id": "1967266378530041856",
+        "conversation_id": "1993330706127503572",
+        "created_at": "2025-11-25T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993330706127503572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "伪娘骚货"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "男娘调教"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "憋尿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqIS3CK3G0",
+              "end": 89,
+              "expanded_url": "https://x.com/gGlcykQYc935312/status/1993330706127503572/video/1",
+              "media_key": "3_1993330412899516419",
+              "start": 66,
+              "url": "https://t.co/HqIS3CK3G0"
+            },
+            {
+              "display_url": "pic.x.com/HqIS3CK3G0",
+              "end": 89,
+              "expanded_url": "https://x.com/gGlcykQYc935312/status/1993330706127503572/video/1",
+              "media_key": "7_1993330434483404804",
+              "start": 66,
+              "url": "https://t.co/HqIS3CK3G0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993330706127503572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘骚货 #男娘调教 #憋尿 攒了6小时的东方树叶有人喝吗……🥵我已经很用力在挤了……😭20分钟才挤完，这个顶的我尿不出来🥵🥵🥵 https://t.co/HqIS3CK3G0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 217,
+          "like_count": 1367,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1520
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:37:26.000Z",
+        "description": "16岁职校学生，交友Q私信，也玩点玩具(正常😨)😋我只是个卖自己视频的，但对我说15一分钱已经很贵了🥵",
+        "id": "1967266378530041856",
+        "name": "懂懂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992916632931635200/uXuWz-Fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "username": "gGlcykQYc935312",
+        "verified": false
+      }
+    ]
+  }
+}

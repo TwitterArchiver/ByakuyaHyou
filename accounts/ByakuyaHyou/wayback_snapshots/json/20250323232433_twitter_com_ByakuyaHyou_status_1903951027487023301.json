@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1903870057861828975",
+    "created_at": "2025-03-23T23:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T00:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903951027487023301"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜安",
+          "probability": 0.889,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863831061991682048",
+          "start": 0,
+          "username": "anan040219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903951027487023301",
+    "in_reply_to_user_id": "1863831061991682048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903870057861828975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anan040219 恭喜安安喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_1903870052727955456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmvnuc9aoAAVz-4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1903870057861828975",
+        "created_at": "2025-03-23T23:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T00:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903951027487023301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜安",
+              "probability": 0.889,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863831061991682048",
+              "start": 0,
+              "username": "anan040219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903951027487023301",
+        "in_reply_to_user_id": "1863831061991682048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903870057861828975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anan040219 恭喜安安喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903870052727955456"
+          ]
+        },
+        "author_id": "1863831061991682048",
+        "conversation_id": "1903870057861828975",
+        "created_at": "2025-03-23T18:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903870057861828975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "安安抽獎帖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K89kv2jqZM",
+              "end": 158,
+              "expanded_url": "https://x.com/anan040219/status/1903870057861828975/photo/1",
+              "media_key": "3_1903870052727955456",
+              "start": 135,
+              "url": "https://t.co/K89kv2jqZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903870057861828975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 354,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#安安抽獎帖\n想要衝衝衝500Fo!\n 只要轉推本推文，追隨安安，按愛心就可以抽獎！  （時間到4/10號）\n\n獎項 \n半年份的星期四一位（1350RMB）\n文愛包月一位\n一個月份的星期四三位（200RMB)\n文愛抵用卷一小時*5\n\n絕不黑幕！ 黑幕的人會遭天打雷劈！ https://t.co/K89kv2jqZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 105,
+          "like_count": 941,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1114
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T06:22:41.000Z",
+        "description": "來自台灣的文援～（不支持台灣銀行轉帳，付款）QQ號： 156654647不建政，會分享自我生活～以及各種好吃台灣美食，偶爾也會有色色推！♡歡迎各位來消費～",
+        "id": "1863831061991682048",
+        "location": "Taiwan",
+        "name": "火爆呆萌灣娘安安",
+        "pinned_tweet_id": "1893201594092831084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864003531784830976/2SZevw0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 43,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 113
+        },
+        "username": "anan040219",
+        "verified": true
+      }
+    ]
+  }
+}

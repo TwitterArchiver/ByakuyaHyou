@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917582439133954048"
+      ],
+      "media_source_tweet_id": [
+        "1917582442304790706"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1919265361330905397",
+    "created_at": "2025-05-05T05:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T06:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919265361330905397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875877580714512385",
+          "start": 3,
+          "username": "lyts111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEsph7Hj79",
+          "end": 122,
+          "expanded_url": "https://x.com/lyts111/status/1917582442304790706/photo/1",
+          "media_key": "3_1917582439133954048",
+          "start": 99,
+          "url": "https://t.co/nEsph7Hj79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919265361330905397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917582442304790706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyts111: 是新人文媛芷羽哦，欢迎各位客人来下单呢～可s可m～绝大多数xp都是能够驾驭的呢～面前的话价格暂定30/0.5h，55/1h哦希望能给客人一个好的体验呢，不过忌媚黑和媚日哦 https://t.co/nEsph7Hj79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_1917582439133954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpyfEZAbQAAHKnq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917582439133954048"
+          ],
+          "media_source_tweet_id": [
+            "1917582442304790706"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919265361330905397",
+        "created_at": "2025-05-05T05:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919265361330905397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875877580714512385",
+              "start": 3,
+              "username": "lyts111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEsph7Hj79",
+              "end": 122,
+              "expanded_url": "https://x.com/lyts111/status/1917582442304790706/photo/1",
+              "media_key": "3_1917582439133954048",
+              "start": 99,
+              "url": "https://t.co/nEsph7Hj79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919265361330905397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917582442304790706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyts111: 是新人文媛芷羽哦，欢迎各位客人来下单呢～可s可m～绝大多数xp都是能够驾驭的呢～面前的话价格暂定30/0.5h，55/1h哦希望能给客人一个好的体验呢，不过忌媚黑和媚日哦 https://t.co/nEsph7Hj79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917582439133954048"
+          ]
+        },
+        "author_id": "1875877580714512385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917582442304790706",
+        "created_at": "2025-04-30T14:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T15:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917582442304790706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEsph7Hj79",
+              "end": 109,
+              "expanded_url": "https://x.com/lyts111/status/1917582442304790706/photo/1",
+              "media_key": "3_1917582439133954048",
+              "start": 86,
+              "url": "https://t.co/nEsph7Hj79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917582442304790706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "是新人文媛芷羽哦，欢迎各位客人来下单呢～可s可m～绝大多数xp都是能够驾驭的呢～面前的话价格暂定30/0.5h，55/1h哦希望能给客人一个好的体验呢，不过忌媚黑和媚日哦 https://t.co/nEsph7Hj79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 119,
+          "like_count": 1170,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1380
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T12:10:50.000Z",
+        "description": "是一个新人文媛哦，可s可m，绝大多数人设都是能够接受的呢，价格的话暂定30/0.5h，55/1h吧，欢迎敲门哦🚪3954795291希望每个来下单的都能有个好的体验呢（禁涉三哦）",
+        "id": "1875877580714512385",
+        "name": "芷羽",
+        "pinned_tweet_id": "1917582442304790706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917155891302068224/5HIQF2Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "lyts111",
+        "verified": false
+      }
+    ]
+  }
+}

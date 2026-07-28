@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1934982646398066995",
+    "created_at": "2025-06-17T14:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934982646398066995"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "母猪"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "母狗公厕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934982646398066995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889467416847196644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 来，母猪，该扒开猪屄上贡了，你最近好像收了很多傻逼伪S和奴下奴啊！还都是主动犯贱送上门的，它们有些貌似知道你也是头母猪，或许这样能让它们内心的贱得到释放吧！所谓败北只是找个理由犯贱罢了，只有身为主人的我才感受到身居高位者的孤独 #母猪 #母狗公厕 #败…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934982646398066995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934982646398066995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934982646398066995"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_1889467397708640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gji8ll8a8AArmq5.jpg",
+        "width": 1180
+      },
+      {
+        "height": 567,
+        "media_key": "3_1889467408810909699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gji8mPTaIAMqheY.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889467397708640256",
+            "3_1889467408810909699"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1889467416847196644",
+        "created_at": "2025-02-12T00:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T01:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889467416847196644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "母猪"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "母狗公厕"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "败北"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "伪S"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "贡畜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaVBxhCHgt",
+              "end": 170,
+              "expanded_url": "https://x.com/yues666/status/1889467416847196644/photo/1",
+              "media_key": "3_1889467397708640256",
+              "start": 147,
+              "url": "https://t.co/YaVBxhCHgt"
+            },
+            {
+              "display_url": "pic.x.com/YaVBxhCHgt",
+              "end": 170,
+              "expanded_url": "https://x.com/yues666/status/1889467416847196644/photo/1",
+              "media_key": "3_1889467408810909699",
+              "start": 147,
+              "url": "https://t.co/YaVBxhCHgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889467416847196644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1072,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "来，母猪，该扒开猪屄上贡了，你最近好像收了很多傻逼伪S和奴下奴啊！还都是主动犯贱送上门的，它们有些貌似知道你也是头母猪，或许这样能让它们内心的贱得到释放吧！所谓败北只是找个理由犯贱罢了，只有身为主人的我才感受到身居高位者的孤独 #母猪 #母狗公厕 #败北凌辱 #败北 #伪S #奴下奴 #贡畜 https://t.co/YaVBxhCHgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 120,
+          "like_count": 1259,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1465
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 12,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 312
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

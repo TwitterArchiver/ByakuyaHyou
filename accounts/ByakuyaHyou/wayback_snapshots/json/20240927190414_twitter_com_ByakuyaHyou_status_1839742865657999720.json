@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839742865657999720",
+    "created_at": "2024-09-27T19:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T20:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839742865657999720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839742865657999720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839635058748965357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 把脚下的黑丝脱下套在贱屌上，身下承责者的恐惧与颤抖是主人最大的快感来源🖤\n看着快被拉坏的贱畜，努力的挣扎换来更多的责罚，贱狗在发情时果然只有爽和快感呢🖤\n在一次一次龟头责中感受，最终沦落为只知道快感的精畜🖤 https://t.co/3EfvOn…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839742865657999720].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839742865657999720",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839742865657999720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839635052801695744"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1839635058748965357",
+        "created_at": "2024-09-27T11:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T12:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839635058748965357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3efvonlq1h",
+              "end": 127,
+              "expanded_url": "https://twitter.com/xxx1172303/status/1839635058748965357/photo/1",
+              "media_key": "3_1839635052801695744",
+              "start": 104,
+              "url": "https://t.co/3EfvOnLQ1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839635058748965357",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1841,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "把脚下的黑丝脱下套在贱屌上，身下承责者的恐惧与颤抖是主人最大的快感来源🖤\n看着快被拉坏的贱畜，努力的挣扎换来更多的责罚，贱狗在发情时果然只有爽和快感呢🖤\n在一次一次龟头责中感受，最终沦落为只知道快感的精畜🖤 https://t.co/3EfvOnLQ1h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 579,
+          "listed_count": 0,
+          "tweet_count": 721
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、音频、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 55,
+          "like_count": 294,
+          "listed_count": 7,
+          "tweet_count": 354
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

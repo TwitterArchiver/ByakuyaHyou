@@ -1,0 +1,89 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1849482649976651920",
+    "created_at": "2024-10-24T16:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T17:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849482649976651920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1727376444047667200",
+          "start": 3,
+          "username": "EarleneS10869"
+        }
+      ]
+    },
+    "id": "1849482649976651920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847901057822982565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EarleneS10869: 想一脚踩死你这贱狗又怕你这傻逼嗦我脚趾头，所以你这傻逼还是跪好了挨骂被女神玩烂吧！#舔鞋底 #脏鞋底 #男m  #上贡 #女s #榨金 #压榨奴  #辱骂 #羞辱 #大学生 #恋足  #调教   #贱狗 #贱货 #舔脚 #sm #洗脑 #女…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 87,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T17:20:16.000Z",
+        "description": "🚪28 qq3685796971",
+        "id": "1727376444047667200",
+        "location": "Visalia",
+        "name": "雨晴s",
+        "pinned_tweet_id": "1862395249085358254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844994956898992128/6Pp4j_x4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "username": "EarleneS10869",
+        "verified": false
+      }
+    ]
+  }
+}

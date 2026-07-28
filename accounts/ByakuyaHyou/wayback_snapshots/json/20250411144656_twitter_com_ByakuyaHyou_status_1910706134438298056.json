@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1910648321359962113"
+      ],
+      "media_source_tweet_id": [
+        "1910648409117385079"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1910706134438298056",
+    "created_at": "2025-04-11T14:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T15:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910706134438298056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354563078700949505",
+          "start": 3,
+          "username": "1999ZMZM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZqcHb8dfN",
+          "end": 103,
+          "expanded_url": "https://x.com/1999ZMZM/status/1910648409117385079/video/1",
+          "media_key": "7_1910648321359962113",
+          "start": 80,
+          "url": "https://t.co/0ZqcHb8dfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910706134438298056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910648409117385079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1999ZMZM: 玩贞操锁的锁奴 是不是内心都有一种纠葛感，又想撸 又想一直锁着自己的废物鸡巴，喜欢被锁后被妈妈玩弄，有感觉了又没法自己解决的快感. https://t.co/0ZqcHb8dfN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910706134438298056].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910706134438298056",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910706134438298056"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55542,
+        "height": 854,
+        "media_key": "7_1910648321359962113",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1910648321359962113/pu/img/YtXHGwZe9gdFJC-L.jpg",
+        "public_metrics": {
+          "view_count": 394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910648321359962113/pu/vid/avc1/320x568/4yEk5Bzmh9Q2tc-_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910648321359962113/pu/vid/avc1/480x854/o4KO1H7lVtV7ADvO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1910648321359962113/pu/pl/B5sTX_EMNigYQsMr.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1910648321359962113"
+          ]
+        },
+        "author_id": "1354563078700949505",
+        "conversation_id": "1910648409117385079",
+        "created_at": "2025-04-11T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T11:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910648409117385079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZqcHb8dfN",
+              "end": 89,
+              "expanded_url": "https://x.com/1999ZMZM/status/1910648409117385079/video/1",
+              "media_key": "7_1910648321359962113",
+              "start": 66,
+              "url": "https://t.co/0ZqcHb8dfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910648409117385079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2084,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "玩贞操锁的锁奴 是不是内心都有一种纠葛感，又想撸 又想一直锁着自己的废物鸡巴，喜欢被锁后被妈妈玩弄，有感觉了又没法自己解决的快感. https://t.co/0ZqcHb8dfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 114,
+          "like_count": 1061,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1247
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣s (大号被封1w多粉丝)",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10001,
+          "following_count": 191,
+          "like_count": 52,
+          "listed_count": 28,
+          "media_count": 41,
+          "tweet_count": 71
+        },
+        "username": "1999ZMZM",
+        "verified": false
+      }
+    ]
+  }
+}

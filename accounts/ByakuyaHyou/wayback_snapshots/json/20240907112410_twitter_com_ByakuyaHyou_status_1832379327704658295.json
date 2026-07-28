@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832379327704658295",
+    "created_at": "2024-09-07T11:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T12:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832379327704658295"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832105277459681280",
+          "start": 3,
+          "username": "R4AVEn_R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832379327704658295",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832358675908063447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4AVEn_R4: 原本一本正经的年上OL姐姐竟然会骑在小孩子的鸡鸡上无脑晃着奶子扭腰~♡\n\n噗呲……哈哈哈♪\n\n真是可笑呢~\n\n拼尽全力也要把鸡鸡吞进更深处呢♪\n\n最后只能雌服在人家的滚烫精液中出之下翻着白眼赞叹：\n\n“小孩子的鸡鸡实在太厉害了啊……❤️”♪\n#文爱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832379327704658295].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832379327704658295",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832379327704658295"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832358672435200000",
+            "3_1832358671738638336"
+          ]
+        },
+        "author_id": "1832105277459681280",
+        "conversation_id": "1832358675908063447",
+        "created_at": "2024-09-07T10:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T11:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832358675908063447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "文爱"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文援"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文媛"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "雌伏"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "雌豚"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "母猪"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "强制高潮"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "中出"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybpwbexxe4",
+              "end": 178,
+              "expanded_url": "https://twitter.com/R4AVEn_R4/status/1832358675908063447/photo/1",
+              "media_key": "3_1832358672435200000",
+              "start": 155,
+              "url": "https://t.co/YBPWbEXxe4"
+            },
+            {
+              "display_url": "pic.x.com/ybpwbexxe4",
+              "end": 178,
+              "expanded_url": "https://twitter.com/R4AVEn_R4/status/1832358675908063447/photo/1",
+              "media_key": "3_1832358671738638336",
+              "start": 155,
+              "url": "https://t.co/YBPWbEXxe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832358675908063447",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "原本一本正经的年上OL姐姐竟然会骑在小孩子的鸡鸡上无脑晃着奶子扭腰~♡\n\n噗呲……哈哈哈♪\n\n真是可笑呢~\n\n拼尽全力也要把鸡鸡吞进更深处呢♪\n\n最后只能雌服在人家的滚烫精液中出之下翻着白眼赞叹：\n\n“小孩子的鸡鸡实在太厉害了啊……❤️”♪\n#文爱 #文援 #文媛 #雌伏 #雌豚 #母猪 #强制高潮 #中出 https://t.co/YBPWbEXxe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 85,
+          "like_count": 438,
+          "listed_count": 0,
+          "tweet_count": 522
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T17:15:21.000Z",
+        "description": "这里是喜好压榨成年熟女，年上姐姐，寂寞人妻的巨屌正太雄小鬼小轩，擅长：小马开大车，温柔压榨，温柔PUA~\n欢迎各位屌套姐姐们前来送死哦~\n小轩一定会以最温柔的方式让姐姐们深刻意识到自己的本能哦~\n咦~姐姐，你刚刚是喷卵了吗~♪\n真是好笑呢~🖤\n神秘代码：3194258786（欢迎骚扰）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WuR4A",
+                "end": 23,
+                "expanded_url": "http://t.me/WuR4A",
+                "start": 0,
+                "url": "https://t.co/XKH1PXLx7a"
+              }
+            ]
+          }
+        },
+        "id": "1832105277459681280",
+        "location": "小轩的秘密房间👉🏻",
+        "name": "小轩（互推私）",
+        "pinned_tweet_id": "1832314196249473064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832284629304287232/VAAAd-Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/XKH1PXLx7a",
+        "username": "R4AVEn_R4",
+        "verified": false
+      }
+    ]
+  }
+}

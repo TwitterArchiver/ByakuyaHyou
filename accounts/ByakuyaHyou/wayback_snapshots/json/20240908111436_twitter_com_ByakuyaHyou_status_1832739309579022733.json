@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832739309579022733",
+    "created_at": "2024-09-08T11:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T12:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832739309579022733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832739309579022733",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832675898652324064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: “说词”\n“呜呜…是，小母狗是喜欢被主人牵着散步的暴露狂淫贱母狗…”\n被主人捏着相机胁迫的少女被迫在校园里全裸露出♡母狗一样跟着栓绳牵引蹒跚前行…白嫩娇小的身子除了项圈丝袜一丝不挂♡遥控器开到最大，抵着花心的跳蛋嗡嗡震个不停♡拉丝的淫液留…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832739309579022733].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832739309579022733",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832739309579022733"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832675893443022848"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "conversation_id": "1832675898652324064",
+        "created_at": "2024-09-08T07:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T08:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832675898652324064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v651navlzx",
+              "end": 167,
+              "expanded_url": "https://twitter.com/loveforallLoli/status/1832675898652324064/photo/1",
+              "media_key": "3_1832675893443022848",
+              "start": 144,
+              "url": "https://t.co/v651NAvlZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832675898652324064",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 705,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "“说词”\n“呜呜…是，小母狗是喜欢被主人牵着散步的暴露狂淫贱母狗…”\n被主人捏着相机胁迫的少女被迫在校园里全裸露出♡母狗一样跟着栓绳牵引蹒跚前行…白嫩娇小的身子除了项圈丝袜一丝不挂♡遥控器开到最大，抵着花心的跳蛋嗡嗡震个不停♡拉丝的淫液留下一路水渍，全身羞耻的通红发烫…生怕被别人发现♡ https://t.co/v651NAvlZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 80,
+          "like_count": 444,
+          "listed_count": 0,
+          "tweet_count": 531
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号：QQ：3325582407 纸飞机：\nhttps://t.co/ECeDcQcZJg 30元/30分，sm皆可，早上至晚上2点营业的网络幽灵~\n呀吼~~杂鱼们，这里是伊诺，虚空触手萝莉♡，从今天开始就是大家的主人sama了哦♡跪在地上舔着伊诺大人的脚献上你们的金币还有精液叭♡然后看到伊诺的人还不快关注！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 46,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 23,
+                "url": "https://t.co/ECeDcQcZJg"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "name": "伊诺sama~♡（互推）",
+        "pinned_tweet_id": "1805156691383828667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 108,
+          "like_count": 1061,
+          "listed_count": 7,
+          "tweet_count": 1202
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

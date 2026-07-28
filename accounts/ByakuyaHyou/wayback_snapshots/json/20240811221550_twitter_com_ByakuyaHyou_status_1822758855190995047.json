@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1822567747114713537",
+    "created_at": "2024-08-11T22:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T23:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822758855190995047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771069958845550592",
+          "start": 0,
+          "username": "XXYSlil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822758855190995047",
+    "in_reply_to_user_id": "1771069958845550592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822699302533443881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXYSlil 艾多～都可以带带啦～（虽然可能是新人，然后把控不好时间，带团时候总喜欢说废话呜）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1822567747114713537",
+        "created_at": "2024-08-11T22:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T23:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822758855190995047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771069958845550592",
+              "start": 0,
+              "username": "XXYSlil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822758855190995047",
+        "in_reply_to_user_id": "1771069958845550592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822699302533443881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXYSlil 艾多～都可以带带啦～（虽然可能是新人，然后把控不好时间，带团时候总喜欢说废话呜）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771069958845550592",
+        "conversation_id": "1822567747114713537",
+        "created_at": "2024-08-11T18:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T19:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822699302533443881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822699302533443881",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822567747114713537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou ！哇靠，跑团文媛，nb啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "喜欢文爱的女大学生一枚哦～\n新晋文媛一枚哦\n各类xp都可以接受哒~接受度高~\n期待与你的相遇哒~\n本体是可爱的史莱姆团团哦~可以变成样子哦~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1822567747114713537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572765943495008256/7pFsaSNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T07:02:52.000Z",
+        "description": "性癖重口但梦想纯爱，怎么会这样？",
+        "id": "1771069958845550592",
+        "location": "呼和浩特",
+        "name": "XXYS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771070197530861568/t-PhebgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 532,
+          "like_count": 2470,
+          "listed_count": 0,
+          "tweet_count": 181
+        },
+        "username": "XXYSlil",
+        "verified": false
+      }
+    ]
+  }
+}

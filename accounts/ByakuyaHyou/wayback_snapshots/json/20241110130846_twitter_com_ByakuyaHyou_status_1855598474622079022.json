@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1855598474622079022",
+    "created_at": "2024-11-10T13:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T14:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855598474622079022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855598474622079022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855529854957171192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: “今天,也来做吗?”“不...不了吧,上次做得...已经下不来床了。”“没关系啦～这次温柔点就好啦～”\n......\n“不要...再动了,已经高潮三次了,快停下啊。”“肥美的淫臀,丰满的双乳,滴下口水的舌头和潮红的脸蛋。这么完美的身体不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1855598474622079022].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1855598474622079022",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1855598474622079022"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855529852318949376"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1855529854957171192",
+        "created_at": "2024-11-10T08:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855529854957171192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "文爱"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "百合"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "性奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODZVpLQsLk",
+              "end": 184,
+              "expanded_url": "https://x.com/bmEwUNVRXcP5w53/status/1855529854957171192/photo/1",
+              "media_key": "3_1855529852318949376",
+              "start": 161,
+              "url": "https://t.co/ODZVpLQsLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855529854957171192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 426,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "“今天,也来做吗?”“不...不了吧,上次做得...已经下不来床了。”“没关系啦～这次温柔点就好啦～”\n......\n“不要...再动了,已经高潮三次了,快停下啊。”“肥美的淫臀,丰满的双乳,滴下口水的舌头和潮红的脸蛋。这么完美的身体不好好蹂躏一番,我可是会嫉妒死的~快点动起来,你这只淫荡的母狗”＃文爱 #百合 ＃性奴 https://t.co/ODZVpLQsLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 87,
+          "like_count": 715,
+          "listed_count": 0,
+          "tweet_count": 899
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "贱畜永远是贱畜，把自己的一切贡献出去只图面前的主人一笑。在情欲的深渊中不断堕落，直到灭亡。想要救赎的，我给他们指引到伊甸园去；追求自毁的，我接他们到火海中来。展示自己最真实的一面，不用对自己或别人撒谎，否则将不得善终。价目30元/0.5h，50元/1h。门牌号:3838186618 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 155,
+                "start": 152,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla（互推）",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844527176105984001/jl_E4h_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 134,
+          "like_count": 537,
+          "listed_count": 2,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

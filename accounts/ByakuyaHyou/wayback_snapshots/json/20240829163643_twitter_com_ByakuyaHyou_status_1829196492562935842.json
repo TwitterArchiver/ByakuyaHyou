@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826810779292835840"
+      ],
+      "media_source_tweet_id": [
+        "1826810788297994675"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829196492562935842",
+    "created_at": "2024-08-29T16:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T17:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829196492562935842"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "文爱"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "文援"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "futa"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675953",
+          "start": 3,
+          "username": "YukinoAriar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0uwrxje1wf",
+          "end": 122,
+          "expanded_url": "https://twitter.com/YukinoAriar/status/1826810788297994675/photo/1",
+          "media_key": "3_1826810779292835840",
+          "start": 99,
+          "url": "https://t.co/0uwrXJe1Wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829196492562935842",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826810788297994675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YukinoAriar: futa被肏到喷精也好色，糯米也想试试作为futa的身体被调教到只要被插入就会忍不住喷出来的感觉啊，没有肉棒根本就活不下去了！\n#文爱 #文援 #futa #母狗 https://t.co/0uwrXJe1Wf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829196492562935842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829196492562935842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829196492562935842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1826810779292835840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVoiuZOaoAA5XcF.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826810779292835840"
+          ]
+        },
+        "author_id": "1490675953",
+        "conversation_id": "1826810788297994675",
+        "created_at": "2024-08-23T02:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T03:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826810788297994675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "文爱"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "文援"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "futa"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uwrxje1wf",
+              "end": 105,
+              "expanded_url": "https://twitter.com/YukinoAriar/status/1826810788297994675/photo/1",
+              "media_key": "3_1826810779292835840",
+              "start": 82,
+              "url": "https://t.co/0uwrXJe1Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826810788297994675",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1272,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "futa被肏到喷精也好色，糯米也想试试作为futa的身体被调教到只要被插入就会忍不住喷出来的感觉啊，没有肉棒根本就活不下去了！\n#文爱 #文援 #futa #母狗 https://t.co/0uwrXJe1Wf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 81,
+          "like_count": 376,
+          "listed_count": 0,
+          "tweet_count": 433
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-07T15:33:31.000Z",
+        "description": "这里是新出道小糯米~某只狗狗的贱奴老婆~不如来尝试一下嘛~什么？问姿势啊，不就是因为缺元子，什么姿势都得听你的嘛~🚪 2787209784（30min/25r）敲门记得备注一下推~",
+        "id": "1490675953",
+        "location": "你的心里",
+        "name": "文媛糯米♡（互推）",
+        "pinned_tweet_id": "1721621635009245240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723744286909530112/f9QA9iOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 13,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 873
+        },
+        "username": "YukinoAriar",
+        "verified": false
+      }
+    ]
+  }
+}

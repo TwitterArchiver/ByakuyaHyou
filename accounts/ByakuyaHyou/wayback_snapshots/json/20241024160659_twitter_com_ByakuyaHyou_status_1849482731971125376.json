@@ -1,0 +1,101 @@
+{
+  "data": {
+    "author_id": "1572765868425383936",
+    "conversation_id": "1849482731971125376",
+    "created_at": "2024-10-24T16:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T17:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849482731971125376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840389044649308160",
+          "start": 3,
+          "username": "Serala_45"
+        }
+      ]
+    },
+    "id": "1849482731971125376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848681851160039495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serala_45: 看什么呢～🖤傻屄脚垫子，看见主人的高跟鞋底就忍不住跪下了吗～🖤看着主人的高跟鞋底发情吐舌❤️，看着主人的丝袜美腿失智🧠自慰～撸动着你那可笑的肉芽～🖤幻想着主人的后跟插进你的马眼里～在几次抽插中将自己的脑浆和废精喷射出来～🖤❤️\n#足垫 #女性崇拜…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 87,
+          "like_count": 710,
+          "listed_count": 0,
+          "tweet_count": 898
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T13:52:22.000Z",
+        "description": "吾乃，昔拉💜Seral🖤～是一名高贵的恶魔少女～💕喜欢收集眷属～🖤，操控傻屄🖤，让那些不知死活的傻屄们跪倒在我的脚底下～🖤欢迎各位不知死活的小家伙们来找我～💗变成我可爱的眷属💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/m7nlYHbiRb"
+              }
+            ]
+          }
+        },
+        "id": "1840389044649308160",
+        "location": "傻屄坐垫上～🖤",
+        "name": "昔拉💜Seral🖤（休息结束）",
+        "pinned_tweet_id": "1847544216475640176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840694220916764672/fiE77ek-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 162,
+          "like_count": 496,
+          "listed_count": 12,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/m7nlYHbiRb",
+        "username": "Serala_45",
+        "verified": false
+      }
+    ]
+  }
+}

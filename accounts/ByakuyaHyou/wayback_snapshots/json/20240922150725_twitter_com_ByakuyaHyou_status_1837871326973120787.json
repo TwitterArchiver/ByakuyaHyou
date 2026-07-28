@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837871326973120787",
+    "created_at": "2024-09-22T15:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T16:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837871326973120787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "文援"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "文爱"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "性幻想"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837871326973120787",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837811235175518331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 好巧哦，小哥，又碰见了呢。昨天也是在这里遇见你，然后度过了愉快的一晚，最后还是我送你回了家。今晚要不要继续呢，还是我来善后哦~没有这回事？那就从现在开始，创造我们的“那一晚”吧~❤️\n#文援 #文爱 #性幻想 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837871326973120787].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837871326973120787",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837871326973120787"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837811231824269312"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1837811235175518331",
+        "created_at": "2024-09-22T11:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T12:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837811235175518331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "文援"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "文爱"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqegvkith3",
+              "end": 128,
+              "expanded_url": "https://twitter.com/bmEwUNVRXcP5w53/status/1837811235175518331/photo/1",
+              "media_key": "3_1837811231824269312",
+              "start": 105,
+              "url": "https://t.co/bQegVkIth3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837811235175518331",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好巧哦，小哥，又碰见了呢。昨天也是在这里遇见你，然后度过了愉快的一晚，最后还是我送你回了家。今晚要不要继续呢，还是我来善后哦~没有这回事？那就从现在开始，创造我们的“那一晚”吧~❤️\n#文援 #文爱 #性幻想 https://t.co/bQegVkIth3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 82,
+          "like_count": 550,
+          "listed_count": 0,
+          "tweet_count": 675
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2697026136 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 106,
+          "like_count": 157,
+          "listed_count": 0,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

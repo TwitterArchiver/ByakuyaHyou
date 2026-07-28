@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905761095819690399",
+    "created_at": "2025-03-28T23:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T00:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905761095819690399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622476405568339969",
+          "start": 3,
+          "username": "kusurinekoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905761095819690399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905606027355279825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusurinekoya: 脖颈上戴着一条宠物项圈被人拖拽，全裸的身体交互抬着雪白的大腿爬行，在柔和的光影下反射着羞红的神色，小穴噗嗤一下喷溅出圣水。\n“咦咦咦♡杂鱼小穴又漏尿了....请各位主人看着母狗夹不住尿口的骚穴~想要主人高贵粗壮的肉棒帮母狗堵住这没有规矩的杂鱼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905761095819690399].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905761095819690399",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905761095819690399"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_1905606023907606530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnISlRjbgAInoVn.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905606023907606530"
+          ]
+        },
+        "author_id": "1622476405568339969",
+        "conversation_id": "1905606027355279825",
+        "created_at": "2025-03-28T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905606027355279825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0Aq07cCYQ",
+              "end": 155,
+              "expanded_url": "https://x.com/kusurinekoya/status/1905606027355279825/photo/1",
+              "media_key": "3_1905606023907606530",
+              "start": 132,
+              "url": "https://t.co/f0Aq07cCYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905606027355279825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "脖颈上戴着一条宠物项圈被人拖拽，全裸的身体交互抬着雪白的大腿爬行，在柔和的光影下反射着羞红的神色，小穴噗嗤一下喷溅出圣水。\n“咦咦咦♡杂鱼小穴又漏尿了....请各位主人看着母狗夹不住尿口的骚穴~想要主人高贵粗壮的肉棒帮母狗堵住这没有规矩的杂鱼小穴汪~♡”\n#文媛 https://t.co/f0Aq07cCYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 972,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1146
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T06:05:05.000Z",
+        "description": "这里是九尾狐仙妖绫，拥有随意修复，重生，或者变身新的身体能力，意念即现实，心念即法则，可随意跨越时空满足来访者的每一个奇思妙想，如果想来找狐仙大人许愿的话，门牌号235/068/7260",
+        "id": "1622476405568339969",
+        "name": "妖绫（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825851343518695425/cK_jOl23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 24,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 55
+        },
+        "username": "kusurinekoya",
+        "verified": false
+      }
+    ]
+  }
+}

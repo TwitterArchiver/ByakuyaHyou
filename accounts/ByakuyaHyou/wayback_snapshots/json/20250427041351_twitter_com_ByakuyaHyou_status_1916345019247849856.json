@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916345019247849856",
+    "created_at": "2025-04-27T04:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916345019247849856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1548952686996983808",
+          "start": 3,
+          "username": "Yuki_snow_kira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916345019247849856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915778815575683303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_snow_kira: 雪雪最近开通了一项新项目哦～\n名字叫💗脑修复服务💗\n主要迎接对象有以下几种\n1 一看到xp色图就会勃起的白痴小雏男\n2 被坏女人玩坏脑子无法控制肉棒的贱狗\n3 完全无法对淫腿玉足反抗的足奴\n4 自认为大脑受损智商下降的舔狗\n5 大脑人格灵…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916345019247849856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916345019247849856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916345019247849856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1915778803101728768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpY2q9MaAAAQof4.jpg",
+        "width": 1226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915778803101728768"
+          ]
+        },
+        "author_id": "1548952686996983808",
+        "conversation_id": "1915778815575683303",
+        "created_at": "2025-04-25T14:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915778815575683303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhmGcTwUBp",
+              "end": 174,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1915778815575683303/photo/1",
+              "media_key": "3_1915778803101728768",
+              "start": 151,
+              "url": "https://t.co/NhmGcTwUBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915778815575683303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2924,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "雪雪最近开通了一项新项目哦～\n名字叫💗脑修复服务💗\n主要迎接对象有以下几种\n1 一看到xp色图就会勃起的白痴小雏男\n2 被坏女人玩坏脑子无法控制肉棒的贱狗\n3 完全无法对淫腿玉足反抗的足奴\n4 自认为大脑受损智商下降的舔狗\n5 大脑人格灵魂都被打上雪奴印记的雪雪专属奴隶\n想要体验的话就来找雪雪咨询吧 https://t.co/NhmGcTwUBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1126,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1334
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:48:27.000Z",
+        "description": "这里是温柔的可爱伪娘魅魔雪雪哦～\n白痴贱狗处刑官（已处死  32 ）\n想拜访雪雪的话需要13.14r的门票呢～\n修道院地址：3496682071\n小小小分院：334316657",
+        "id": "1548952686996983808",
+        "location": "与你-18cm❤️",
+        "name": "魅魔雪雪",
+        "pinned_tweet_id": "1805039064749666357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724408257794723840/U0SR1Ny5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9352,
+          "following_count": 798,
+          "like_count": 1429,
+          "listed_count": 37,
+          "media_count": 253,
+          "tweet_count": 1405
+        },
+        "username": "Yuki_snow_kira",
+        "verified": false
+      }
+    ]
+  }
+}

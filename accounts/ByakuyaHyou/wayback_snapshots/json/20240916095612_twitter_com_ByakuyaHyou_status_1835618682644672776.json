@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833953564529692672"
+      ],
+      "media_source_tweet_id": [
+        "1833953583592816723"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835618682644672776",
+    "created_at": "2024-09-16T09:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T10:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835618682644672776"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "文援"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "音援"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "文爱"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "女喘"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "雌小鬼"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "萝莉"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "白丝"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "性幻想"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p792eiiedd",
+          "end": 122,
+          "expanded_url": "https://twitter.com/yuan_wen4527/status/1833953583592816723/video/1",
+          "media_key": "7_1833953564529692672",
+          "start": 99,
+          "url": "https://t.co/p792EIIEDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835618682644672776",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833953583592816723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 唔…什么嘛…变态…呐…就稍微舔一下～唔…还…还要玩弄…呜那轻点哈啊～♡不是说轻点嘛…真是的…\n#文援 #音援 #文爱 #女喘 #雌小鬼 #萝莉 #白丝 #性幻想 https://t.co/p792EIIEDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76506,
+        "height": 1280,
+        "media_key": "7_1833953564529692672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833953564529692672/pu/img/SxR6n_bWYhruCGkk.jpg",
+        "public_metrics": {
+          "view_count": 266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833953564529692672/pu/vid/avc1/320x710/fR-ydyiu5a8AL__7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833953564529692672/pu/vid/avc1/480x1066/OC-MdLJMaU_duEem.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833953564529692672/pu/vid/avc1/576x1280/Yej_-8FC5OGPBRrL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833953564529692672/pu/pl/aulFwkg2poET1guk.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833953564529692672"
+          ],
+          "media_source_tweet_id": [
+            "1833953583592816723"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1835618682644672776",
+        "created_at": "2024-09-16T09:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835618682644672776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "文援"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "音援"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "文爱"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "女喘"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "萝莉"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "白丝"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "性幻想"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p792eiiedd",
+              "end": 122,
+              "expanded_url": "https://twitter.com/yuan_wen4527/status/1833953583592816723/video/1",
+              "media_key": "7_1833953564529692672",
+              "start": 99,
+              "url": "https://t.co/p792EIIEDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835618682644672776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833953583592816723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 唔…什么嘛…变态…呐…就稍微舔一下～唔…还…还要玩弄…呜那轻点哈啊～♡不是说轻点嘛…真是的…\n#文援 #音援 #文爱 #女喘 #雌小鬼 #萝莉 #白丝 #性幻想 https://t.co/p792EIIEDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833953564529692672"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1833953583592816723",
+        "created_at": "2024-09-11T19:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T20:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833953583592816723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "文援"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "音援"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "文爱"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "女喘"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "萝莉"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "白丝"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p792eiiedd",
+              "end": 104,
+              "expanded_url": "https://twitter.com/yuan_wen4527/status/1833953583592816723/video/1",
+              "media_key": "7_1833953564529692672",
+              "start": 81,
+              "url": "https://t.co/p792EIIEDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833953583592816723",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 922,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "唔…什么嘛…变态…呐…就稍微舔一下～唔…还…还要玩弄…呜那轻点哈啊～♡不是说轻点嘛…真是的…\n#文援 #音援 #文爱 #女喘 #雌小鬼 #萝莉 #白丝 #性幻想 https://t.co/p792EIIEDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 623
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "一只文援小萝莉吖~现实处女，不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 5,
+          "like_count": 13,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

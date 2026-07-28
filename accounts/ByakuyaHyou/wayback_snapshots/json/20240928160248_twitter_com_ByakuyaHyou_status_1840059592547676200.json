@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1840059592547676200",
+    "created_at": "2024-09-28T16:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T17:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840059592547676200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840059592547676200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839887119185261023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: “哦？带着主人来这就是为了主人把你的脑袋当做尿壶便器一样使用嘛傻屄婊子🖤，只是看到主人的鸡巴就已经分开双腿扣逼，嘴角流下臭水了贱货？🖤那小伊主人只好满足你这个口便器母猪了呢🖤”\n（粗大的鸡巴插入口穴，龟头顶着喉咙抱着脑袋当做飞机杯一样操弄着🖤）傻屄🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1840059592547676200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1840059592547676200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1840059592547676200"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839887113996906499"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1839887119185261023",
+        "created_at": "2024-09-28T04:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T05:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839887119185261023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文爱"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzwgbygebz",
+              "end": 157,
+              "expanded_url": "https://twitter.com/xhai5200/status/1839887119185261023/photo/1",
+              "media_key": "3_1839887113996906499",
+              "start": 134,
+              "url": "https://t.co/rzwGBYGEbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839887119185261023",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2150,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "“哦？带着主人来这就是为了主人把你的脑袋当做尿壶便器一样使用嘛傻屄婊子🖤，只是看到主人的鸡巴就已经分开双腿扣逼，嘴角流下臭水了贱货？🖤那小伊主人只好满足你这个口便器母猪了呢🖤”\n（粗大的鸡巴插入口穴，龟头顶着喉咙抱着脑袋当做飞机杯一样操弄着🖤）傻屄🖤\n#文爱 #剧情 https://t.co/rzwGBYGEbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 85,
+          "like_count": 586,
+          "listed_count": 0,
+          "tweet_count": 732
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "黑心小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受无情爆扣了呢♡~，毕竟你只是头傻屄母人呢，通常晚上在线哦～专属母猪姐姐@QoS_bitch_nx819  可爱的小母狗@shnk578104电报https://t.co/TmPuXMG0vb，企鹅门牌3986205058（收母猪 ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "QoS_bitch_nx819"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "shnk578104"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 141,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 118,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "傻屄母人的脑袋上🖤",
+        "name": "小伊🖤（二选一的错误项版）",
+        "pinned_tweet_id": "1838103815700242722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833510727191302148/P1jFV7HX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 271,
+          "like_count": 563,
+          "listed_count": 7,
+          "tweet_count": 389
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841170625785970884",
+    "created_at": "2024-10-01T17:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170625785970884"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "文爱"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文援"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "剧情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170625785970884",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841055364663689645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 看着穿黑丝袜的脚掌就发情想扑上来果然是个弱智吧🖤还想被人家的包臀黑丝袜屁股坐在你的狗脸上闷是吧但是废物白痴被黑丝袜脚踩就早泄射精了🖤现在只能做丝袜脚垫然后意淫着肥臀屁股🖤狗脸都闷在张开脚趾的黑丝袜脚掌下面射精吧🖤\n#文爱 #文援 #剧情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1841170625785970884",
+        "created_at": "2024-10-01T17:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T18:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841170625785970884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文援"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "剧情"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832618003478773760",
+              "start": 3,
+              "username": "kekejiangw44613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841170625785970884",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841055364663689645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekejiangw44613: 看着穿黑丝袜的脚掌就发情想扑上来果然是个弱智吧🖤还想被人家的包臀黑丝袜屁股坐在你的狗脸上闷是吧但是废物白痴被黑丝袜脚踩就早泄射精了🖤现在只能做丝袜脚垫然后意淫着肥臀屁股🖤狗脸都闷在张开脚趾的黑丝袜脚掌下面射精吧🖤\n#文爱 #文援 #剧情…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841055361694117888"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841055364663689645",
+        "created_at": "2024-10-01T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841055364663689645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "文爱"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文援"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "剧情"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "调教"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "女s"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28KmBcZIZv",
+              "end": 154,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1841055364663689645/photo/1",
+              "media_key": "3_1841055361694117888",
+              "start": 131,
+              "url": "https://t.co/28KmBcZIZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841055364663689645",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "看着穿黑丝袜的脚掌就发情想扑上来果然是个弱智吧🖤还想被人家的包臀黑丝袜屁股坐在你的狗脸上闷是吧但是废物白痴被黑丝袜脚踩就早泄射精了🖤现在只能做丝袜脚垫然后意淫着肥臀屁股🖤狗脸都闷在张开脚趾的黑丝袜脚掌下面射精吧🖤\n#文爱 #文援 #剧情 #调教 #女s #贡奴 https://t.co/28KmBcZIZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 589,
+          "listed_count": 0,
+          "tweet_count": 737
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） ❤️新人文援 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔❤️（收长期atm奴 贡奴）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 25,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 2,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "QQ被封了电报联系或者私信",
+        "name": "可可酱（互推私）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 22,
+          "like_count": 36,
+          "listed_count": 2,
+          "tweet_count": 176
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

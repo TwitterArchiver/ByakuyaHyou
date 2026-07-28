@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1924019825493541035",
+    "created_at": "2025-05-18T08:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T09:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924019825493541035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924019825493541035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923529347425763641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 呐..窥探妾身沐浴之人，是否已欣赏够妾身身姿呢~\n总是会有你这种无礼之徒~\n也能理解~毕竟~妾身的美貌可谓天下一等\n丰腴软糯的焖汗黏腻黑丝肉尻~纤细妖娆的腰肢~可被一手握住把玩的白皙乳球~以及最为诱人的妩媚萝莉婊脸和勾魂美眸~\n但~依旧要被惩…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924019825493541035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924019825493541035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924019825493541035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1923529336507764736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrG_vYGWkAAfXbZ.jpg",
+        "width": 1322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923529336507764736"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1923529347425763641",
+        "created_at": "2025-05-17T00:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T01:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923529347425763641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文爱"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqVULACg5a",
+              "end": 175,
+              "expanded_url": "https://x.com/shigongyuyue/status/1923529347425763641/photo/1",
+              "media_key": "3_1923529336507764736",
+              "start": 152,
+              "url": "https://t.co/TqVULACg5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923529347425763641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4246,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "呐..窥探妾身沐浴之人，是否已欣赏够妾身身姿呢~\n总是会有你这种无礼之徒~\n也能理解~毕竟~妾身的美貌可谓天下一等\n丰腴软糯的焖汗黏腻黑丝肉尻~纤细妖娆的腰肢~可被一手握住把玩的白皙乳球~以及最为诱人的妩媚萝莉婊脸和勾魂美眸~\n但~依旧要被惩罚哦\n对你们的惩罚只有一种\n【金/精尽人亡】\n#文爱 #文援 https://t.co/TqVULACg5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1425
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4469,
+          "following_count": 2561,
+          "like_count": 14945,
+          "listed_count": 19,
+          "media_count": 871,
+          "tweet_count": 7320
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

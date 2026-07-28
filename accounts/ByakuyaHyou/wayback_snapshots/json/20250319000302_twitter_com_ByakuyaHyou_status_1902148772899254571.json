@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902148772899254571",
+    "created_at": "2025-03-19T00:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T01:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902148772899254571"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "雌小鬼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902148772899254571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902089448726360322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 阿拉～废物贱狗可真是差劲～🖤竟然偷偷躲在床下面可真是没有的贱狗呢噗嗤～🖤这么喜欢在床下偷看着你的萝莉妈妈换衣服嘛～🖤没用的狗狗就应该去死知道嘛～这么喜欢看的话～🖤狗狗可要上贡你的零花钱了呢～🖤狗狗只需要无脑吐就好了～🖤不需要思考嘻嘻\n#雌小鬼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902148772899254571].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902148772899254571",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902148772899254571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902089446302085122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmWURhHa8AIyCMF.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902089446302085122"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1902089448726360322",
+        "created_at": "2025-03-18T20:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T21:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902089448726360322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文援"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "音援"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "女s"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "温柔"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "粗口"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "ntr"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "胁迫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9iNVDbU89",
+              "end": 174,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1902089448726360322/photo/1",
+              "media_key": "3_1902089446302085122",
+              "start": 151,
+              "url": "https://t.co/L9iNVDbU89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902089448726360322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "阿拉～废物贱狗可真是差劲～🖤竟然偷偷躲在床下面可真是没有的贱狗呢噗嗤～🖤这么喜欢在床下偷看着你的萝莉妈妈换衣服嘛～🖤没用的狗狗就应该去死知道嘛～这么喜欢看的话～🖤狗狗可要上贡你的零花钱了呢～🖤狗狗只需要无脑吐就好了～🖤不需要思考嘻嘻\n#雌小鬼 #文援 #音援 #女s #温柔 #粗口 #ntr #胁迫 https://t.co/L9iNVDbU89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 103,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1065
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 13,
+          "like_count": 2890,
+          "listed_count": 7,
+          "media_count": 100,
+          "tweet_count": 3660
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

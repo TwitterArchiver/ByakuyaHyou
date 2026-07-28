@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824092881742864384"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824090969228382491",
+    "created_at": "2024-08-15T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824092935396462656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vkbboxqifo",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ByakuyaHyou/status/1824092935396462656/video/1",
+          "media_key": "7_1824092881742864384",
+          "start": 5,
+          "url": "https://t.co/vKBBoxQiFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824092935396462656",
+    "in_reply_to_user_id": "1572765868425383936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824090969228382491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二部分 https://t.co/vKBBoxQiFO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140016,
+        "height": 838,
+        "media_key": "7_1824092881742864384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824092881742864384/pu/img/VW9EKoxXxCjZRouZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824092881742864384/pu/vid/avc1/320x372/KQ_Hh686uZXB79TK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824092881742864384/pu/vid/avc1/480x558/0L6sUzwzXfEHbi7C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824092881742864384/pu/vid/avc1/720x838/xdDiA5XtNGZ-iizE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824092881742864384/pu/pl/7tuLYaO6iVZ9Ly2e.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824092881742864384"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1824090969228382491",
+        "created_at": "2024-08-15T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824092935396462656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkbboxqifo",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1824092935396462656/video/1",
+              "media_key": "7_1824092881742864384",
+              "start": 5,
+              "url": "https://t.co/vKBBoxQiFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824092935396462656",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824090969228382491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二部分 https://t.co/vKBBoxQiFO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824090895135956992"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1824090969228382491",
+        "created_at": "2024-08-15T14:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T15:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824090969228382491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "文援"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "文爱"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "语爱"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "连麦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qew4uffcdi",
+              "end": 132,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1824090969228382491/video/1",
+              "media_key": "7_1824090895135956992",
+              "start": 109,
+              "url": "https://t.co/qeW4ufFCdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824090969228382491",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艾多……第一次发这种，感觉唱歌有些没有放开的说呜……\n如果喜欢的话可以给孩子点点关注和转发嘛！非常感谢！\n也可以接单哒！为了零花钱我什么都愿意做的（bushi）\n唱的不是很好请见谅啦呜\n#文援 #文爱 #语爱 #连麦 https://t.co/qeW4ufFCdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 50
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

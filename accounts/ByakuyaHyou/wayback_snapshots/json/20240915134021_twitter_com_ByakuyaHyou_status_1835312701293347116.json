@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835312701293347116",
+    "created_at": "2024-09-15T13:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T14:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835312701293347116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835312701293347116",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835305707836731568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 地上的贱狗，被女仆姐姐掌控的感觉一定很爽吧🖤\n看着姐姐的饱满圆润的双峰，黑丝过膝袜一定会忍不住发情的吧？可是那的废物鸡吧却只能顶锁呢，毕竟这是你亲手把自己锁上把钥匙交给姐姐随意处置呢🖤\n所以在没有让我玩弄到满意之前，锁里的废物东西一定会不停的顶锁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835312701293347116].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835312701293347116",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835312701293347116"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835305700530208768"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1835305707836731568",
+        "created_at": "2024-09-15T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835305707836731568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttbgmtvewl",
+              "end": 152,
+              "expanded_url": "https://twitter.com/xxx1172303/status/1835305707836731568/photo/1",
+              "media_key": "3_1835305700530208768",
+              "start": 129,
+              "url": "https://t.co/ttBgmTvEwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835305707836731568",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "地上的贱狗，被女仆姐姐掌控的感觉一定很爽吧🖤\n看着姐姐的饱满圆润的双峰，黑丝过膝袜一定会忍不住发情的吧？可是那的废物鸡吧却只能顶锁呢，毕竟这是你亲手把自己锁上把钥匙交给姐姐随意处置呢🖤\n所以在没有让我玩弄到满意之前，锁里的废物东西一定会不停的顶锁流精吧？🖤 https://t.co/ttBgmTvEwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 81,
+          "like_count": 503,
+          "listed_count": 0,
+          "tweet_count": 612
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、音频、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 47,
+          "like_count": 207,
+          "listed_count": 4,
+          "tweet_count": 248
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

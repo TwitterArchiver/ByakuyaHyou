@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838232815084945878",
+    "created_at": "2024-09-23T15:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838232815084945878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838232815084945878",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838031677828075738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 供奉全部身家来换取做人家脚下的贡奴？勉勉强强吧🖤本女神同意了，废物肉棒好好被我的玉足踩到射出来🖤（让你短小的鸡巴插进踩脚袜里面 小鸡巴被踩脚袜紧紧的压在脚心上 在脚掌和丝袜同时挤压的刺激下废物鸡巴瞬间就开始射精）全部身家就换来了几分钟呢…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838232815084945878].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838232815084945878",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838232815084945878"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838031674233499648"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1838031677828075738",
+        "created_at": "2024-09-23T01:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T02:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838031677828075738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文爱"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文援"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "剧情"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "女s"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "贡奴"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "胁迫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/otidlhidn9",
+              "end": 171,
+              "expanded_url": "https://twitter.com/kekejiangw44613/status/1838031677828075738/photo/1",
+              "media_key": "3_1838031674233499648",
+              "start": 148,
+              "url": "https://t.co/OtiDLHIDN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838031677828075738",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1349,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "供奉全部身家来换取做人家脚下的贡奴？勉勉强强吧🖤本女神同意了，废物肉棒好好被我的玉足踩到射出来🖤（让你短小的鸡巴插进踩脚袜里面 小鸡巴被踩脚袜紧紧的压在脚心上 在脚掌和丝袜同时挤压的刺激下废物鸡巴瞬间就开始射精）全部身家就换来了几分钟呢废物贡狗🖤\n#文爱 #文援 #剧情 #女s #贡奴 #胁迫 https://t.co/OtiDLHIDN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 82,
+          "like_count": 556,
+          "listed_count": 0,
+          "tweet_count": 682
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 门槛10r（有门槛 口嗨的真别加 真的很烦） ❤️新人文援 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔❤️（收长期atm奴 贡奴）",
+        "id": "1832618003478773760",
+        "location": "❤️",
+        "name": "可可酱（互推私）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 22,
+          "like_count": 45,
+          "listed_count": 1,
+          "tweet_count": 111
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

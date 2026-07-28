@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824044626950656036",
+    "created_at": "2024-08-15T11:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T12:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824044626950656036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1389102699346489349",
+          "start": 3,
+          "username": "Qiuling0062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824044626950656036",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823981779633819836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiuling0062: “舰长大人♡对不起嘛~昨天都是主人黑爹的命令～才不是因为肏的太爽了♡”\n饱满的双乳压向胸膛，将自己被黑爹玩弄的照片滑动给舰长看，柔嫩小手覆在龟头上搓捏♡\n“爱莉希雅永远爱着您喔♡就这样在爱莉希雅的手上啾噜啾噜的射出来吧♡毕竟舰长大人是看到妻子出…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824044626950656036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824044626950656036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824044626950656036"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823981770687307779",
+            "3_1823981770695667712"
+          ]
+        },
+        "author_id": "1389102699346489349",
+        "conversation_id": "1823981779633819836",
+        "created_at": "2024-08-15T07:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T08:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823981779633819836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "ntr"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ejjz0gy0e",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Qiuling0062/status/1823981779633819836/photo/1",
+              "media_key": "3_1823981770687307779",
+              "start": 149,
+              "url": "https://t.co/5ejjZ0gY0e"
+            },
+            {
+              "display_url": "pic.x.com/5ejjz0gy0e",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Qiuling0062/status/1823981779633819836/photo/1",
+              "media_key": "3_1823981770695667712",
+              "start": 149,
+              "url": "https://t.co/5ejjZ0gY0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823981779633819836",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 363,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "“舰长大人♡对不起嘛~昨天都是主人黑爹的命令～才不是因为肏的太爽了♡”\n饱满的双乳压向胸膛，将自己被黑爹玩弄的照片滑动给舰长看，柔嫩小手覆在龟头上搓捏♡\n“爱莉希雅永远爱着您喔♡就这样在爱莉希雅的手上啾噜啾噜的射出来吧♡毕竟舰长大人是看到妻子出轨就会兴奋的变态绿奴呢♡”\n#文爱 #ntr #文媛 https://t.co/5ejjZ0gY0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 24,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 42
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T06:21:18.000Z",
+        "description": "秋绫，叫我秋秋就好❤本体女大~ S/M均可❤xp除r18g全能❤️️擅长少女或巨乳姐系角色~可以套皮米哈游和碧蓝航线，8年语c皮气正推荐喔💕也接游戏陪玩/树洞陪聊/电子女友/绿帽CP/定制短文。营业时间中午~凌晨三点。门牌：3191603627（不涉三不语图，门槛解锁初始好感度❤️）",
+        "id": "1389102699346489349",
+        "location": "当然是主人的胯下～",
+        "name": "文媛姬❤️秋绫（互推～）",
+        "pinned_tweet_id": "1822528192676262230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822874071018971136/Fx9FG3bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 44,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "Qiuling0062",
+        "verified": false
+      }
+    ]
+  }
+}

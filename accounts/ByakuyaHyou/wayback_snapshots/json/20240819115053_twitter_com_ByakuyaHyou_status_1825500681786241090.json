@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1825500681786241090",
+    "created_at": "2024-08-19T11:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T12:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825500681786241090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756274696440745984",
+          "start": 3,
+          "username": "Jiey020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825500681786241090",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825243176527179800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Jiey020: 💕现在才看清你的女友完完全全的闷骚性瘾反差痴媚贱婊吗？💞\n💚没有任何反抗或者拒绝的小穴像是最棒的名器一样被抽插着💚兴奋的鸡巴变得又粗了一圈塞的也更满了\n💕潮红发情媚贱崩坏雌颜纵情吐舌猛翻白眼外加被鸡巴顶出的母畜痴淫猪鼻❤️💕全部丧志自毁想要无脑雌伏献媚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1825500681786241090].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1825500681786241090",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1825500681786241090"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825243171242323968"
+          ]
+        },
+        "author_id": "1756274696440745984",
+        "conversation_id": "1825243176527179800",
+        "created_at": "2024-08-18T18:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T19:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825243176527179800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "羞辱媚黑"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3xv25snfs",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Jiey020/status/1825243176527179800/photo/1",
+              "media_key": "3_1825243171242323968",
+              "start": 144,
+              "url": "https://t.co/U3Xv25SNfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825243176527179800",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 458,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "💕现在才看清你的女友完完全全的闷骚性瘾反差痴媚贱婊吗？💞\n💚没有任何反抗或者拒绝的小穴像是最棒的名器一样被抽插着💚兴奋的鸡巴变得又粗了一圈塞的也更满了\n💕潮红发情媚贱崩坏雌颜纵情吐舌猛翻白眼外加被鸡巴顶出的母畜痴淫猪鼻❤️💕全部丧志自毁想要无脑雌伏献媚认主了\n#羞辱媚黑 #文爱 #剧情 https://t.co/U3Xv25SNfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 49,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 116
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T11:12:20.000Z",
+        "description": "小狗狗💜想被羞辱或者疼爱了吗？ 来~~~看这里 电报✈️：https://t.co/LI14GTWBkC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huilimeixiang",
+                "end": 52,
+                "expanded_url": "https://t.me/huilimeixiang",
+                "start": 29,
+                "url": "https://t.co/LI14GTWBkC"
+              }
+            ]
+          }
+        },
+        "id": "1756274696440745984",
+        "name": "绘 梨 美 香（互推 ）",
+        "pinned_tweet_id": "1815702273802346644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797185164667445248/PChImBo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 4,
+          "tweet_count": 149
+        },
+        "username": "Jiey020",
+        "verified": false
+      }
+    ]
+  }
+}

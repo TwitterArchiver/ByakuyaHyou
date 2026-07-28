@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1933031510967521600",
+    "created_at": "2025-06-12T05:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T06:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933031510967521600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751691510255607808",
+          "start": 3,
+          "username": "Entarosifier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933031510967521600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859275835964068125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Entarosifier: “不许…盯着其他地方看…”白丝玉腿缓缓交叠环住腰臀，腰肢微压掩抑妖魅纹印…腻乳厮磨厚实胸膛，淫肉妖精般缠绞肉杆，动情迎合带出粘腻淫液…软臀轻颤着微荡肉浪，任由沉闷水声肆意漾起♡\n“请好好…注视人家🤍”雪颈轻仰，柔荑紧环脖颈，迫使其对视动人青眸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933031510967521600].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933031510967521600",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933031510967521600"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_1859275832398839808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc15hMmaAAADGIf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859275832398839808"
+          ]
+        },
+        "author_id": "1751691510255607808",
+        "conversation_id": "1859275835964068125",
+        "created_at": "2024-11-20T16:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T17:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859275835964068125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJEkcYy42C",
+              "end": 165,
+              "expanded_url": "https://x.com/Shiroachyan/status/1859275835964068125/photo/1",
+              "media_key": "3_1859275832398839808",
+              "start": 142,
+              "url": "https://t.co/kJEkcYy42C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859275835964068125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5649,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“不许…盯着其他地方看…”白丝玉腿缓缓交叠环住腰臀，腰肢微压掩抑妖魅纹印…腻乳厮磨厚实胸膛，淫肉妖精般缠绞肉杆，动情迎合带出粘腻淫液…软臀轻颤着微荡肉浪，任由沉闷水声肆意漾起♡\n“请好好…注视人家🤍”雪颈轻仰，柔荑紧环脖颈，迫使其对视动人青眸，轻挑幼舌细细撩蹭着口唇～荡起数道银丝♡ https://t.co/kJEkcYy42C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1248,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1455
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T19:39:43.000Z",
+        "description": "这里是白野爱｜人设是软腻可爱的小天使｜偶尔转点黄色废料或清水的不务正业推主｜偏被动  xp清淡 风格偏软与推文大致一致｜纯爱党且不涉三",
+        "id": "1751691510255607808",
+        "name": "白野爱🤍",
+        "pinned_tweet_id": "1916209735751127215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918768117657812992/agZJGfBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 178,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 66
+        },
+        "username": "Entarosifier",
+        "verified": false
+      }
+    ]
+  }
+}

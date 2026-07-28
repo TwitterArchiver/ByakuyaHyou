@@ -1,0 +1,723 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050425895530446848",
+        "3_2050425906607566848",
+        "3_2050425915482763264",
+        "3_2050425925410676736"
+      ],
+      "media_source_tweet_id": [
+        "2050425933321101672",
+        "2050425933321101672",
+        "2050425933321101672",
+        "2050425933321101672"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2050556731286331848",
+    "created_at": "2026-05-02T12:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050556731286331848"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "伪娘"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "明日方舟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667423069076348928",
+          "start": 3,
+          "username": "Kan_AyaneZero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zQ1cluDpRa",
+          "end": 75,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+          "media_key": "3_2050425895530446848",
+          "start": 52,
+          "url": "https://t.co/zQ1cluDpRa"
+        },
+        {
+          "display_url": "pic.x.com/zQ1cluDpRa",
+          "end": 75,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+          "media_key": "3_2050425906607566848",
+          "start": 52,
+          "url": "https://t.co/zQ1cluDpRa"
+        },
+        {
+          "display_url": "pic.x.com/zQ1cluDpRa",
+          "end": 75,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+          "media_key": "3_2050425915482763264",
+          "start": 52,
+          "url": "https://t.co/zQ1cluDpRa"
+        },
+        {
+          "display_url": "pic.x.com/zQ1cluDpRa",
+          "end": 75,
+          "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+          "media_key": "3_2050425925410676736",
+          "start": 52,
+          "url": "https://t.co/zQ1cluDpRa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050556731286331848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050425933321101672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子 #明日方舟\n发几张超萌的合影~😘 https://t.co/zQ1cluDpRa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2050425895530446848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSTfQVawAAt6E6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2050425906607566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSTf5maMAAkB_4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2050425915482763264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSTgaqa8AACjML.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2050425925410676736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSTg_pa4AACbms.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050425895530446848",
+            "3_2050425906607566848",
+            "3_2050425915482763264",
+            "3_2050425925410676736"
+          ],
+          "media_source_tweet_id": [
+            "2050425933321101672",
+            "2050425933321101672",
+            "2050425933321101672",
+            "2050425933321101672"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2050556731286331848",
+        "created_at": "2026-05-02T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050556731286331848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "明日方舟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667423069076348928",
+              "start": 3,
+              "username": "Kan_AyaneZero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 75,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425895530446848",
+              "start": 52,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 75,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425906607566848",
+              "start": 52,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 75,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425915482763264",
+              "start": 52,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 75,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425925410676736",
+              "start": 52,
+              "url": "https://t.co/zQ1cluDpRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050556731286331848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050425933321101672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kan_AyaneZero: #男娘 #伪娘 #可爱的男孩子 #明日方舟\n发几张超萌的合影~😘 https://t.co/zQ1cluDpRa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050425895530446848",
+            "3_2050425906607566848",
+            "3_2050425915482763264",
+            "3_2050425925410676736"
+          ]
+        },
+        "author_id": "1667423069076348928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2050425933321101672",
+        "created_at": "2026-05-02T04:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050425933321101672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 56,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425895530446848",
+              "start": 33,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 56,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425906607566848",
+              "start": 33,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 56,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425915482763264",
+              "start": 33,
+              "url": "https://t.co/zQ1cluDpRa"
+            },
+            {
+              "display_url": "pic.x.com/zQ1cluDpRa",
+              "end": 56,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2050425933321101672/photo/1",
+              "media_key": "3_2050425925410676736",
+              "start": 33,
+              "url": "https://t.co/zQ1cluDpRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050425933321101672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #可爱的男孩子 #明日方舟\n发几张超萌的合影~😘 https://t.co/zQ1cluDpRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 262,
+          "like_count": 1350,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1536
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│成分复杂│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 350,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      }
+    ]
+  }
+}

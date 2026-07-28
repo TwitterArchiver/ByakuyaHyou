@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2073437776905961828",
+    "created_at": "2026-07-05T04:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073622227585753296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828647801624080384",
+          "start": 0,
+          "username": "Zer0dayzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073622227585753296",
+    "in_reply_to_user_id": "1828647801624080384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073437776905961828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zer0dayzzz 老师扩列嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2073437771029676032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZUqs4aAAAKNPU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2073437771042369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZUqs7bsAApdVm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2073437776905961828",
+        "created_at": "2026-07-05T04:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073622227585753296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828647801624080384",
+              "start": 0,
+              "username": "Zer0dayzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073622227585753296",
+        "in_reply_to_user_id": "1828647801624080384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073437776905961828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zer0dayzzz 老师扩列嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073437771029676032",
+            "3_2073437771042369536"
+          ]
+        },
+        "author_id": "1828647801624080384",
+        "conversation_id": "2073437776905961828",
+        "created_at": "2026-07-04T16:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073437776905961828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvvpVOTo1K",
+              "end": 27,
+              "expanded_url": "https://x.com/Zer0dayzzz/status/2073437776905961828/photo/1",
+              "media_key": "3_2073437771029676032",
+              "start": 4,
+              "url": "https://t.co/fvvpVOTo1K"
+            },
+            {
+              "display_url": "pic.x.com/fvvpVOTo1K",
+              "end": 27,
+              "expanded_url": "https://x.com/Zer0dayzzz/status/2073437776905961828/photo/1",
+              "media_key": "3_2073437771042369536",
+              "start": 4,
+              "url": "https://t.co/fvvpVOTo1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073437776905961828",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2374,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 https://t.co/fvvpVOTo1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1139,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1674
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T04:16:37.000Z",
+        "description": "中性风 #男娘 mtx || 05 || 🍥 || infj || 183/65kg 巨型男娘 || 社交低能量中 || 不线下 || 另一个我@Zer0dayzzzz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Zer0dayzzzz"
+              }
+            ]
+          }
+        },
+        "id": "1828647801624080384",
+        "location": "你家楼下",
+        "name": "零天",
+        "pinned_tweet_id": "1907477168894128255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874398799168524288/p4A-RdHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 390,
+          "like_count": 273,
+          "listed_count": 18,
+          "media_count": 26,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Zer0dayzzz",
+        "verified": false
+      }
+    ]
+  }
+}

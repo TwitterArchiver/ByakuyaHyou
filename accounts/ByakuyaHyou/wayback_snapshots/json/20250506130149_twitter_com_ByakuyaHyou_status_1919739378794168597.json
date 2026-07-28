@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1919739378794168597",
+    "created_at": "2025-05-06T13:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919739378794168597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919739378794168597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919151274697597133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 平时在你面前高冷的女神祖宗...现在却在被男爹按在床上爆操～💚甚至直接当着你面粗暴的把臭屌操进你平时高不可攀的女神骚穴里💚精液都从女神的骚穴里溅出来流在床上了～你这条绿王八公狗怎么反而盯着女神祖宗的精臭脚底和淫穴流口水啊？～真是他妈的没…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919739378794168597].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919739378794168597",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919739378794168597"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_1919151271795417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqIx6eGa4AAtanY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1919151271698984960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqIx6dvbcAA7LHV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919151271795417088",
+            "3_1919151271698984960"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919151274697597133",
+        "created_at": "2025-05-04T22:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T23:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919151274697597133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文援"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "ntr"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "绿帽"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPVzdrpWVI",
+              "end": 167,
+              "expanded_url": "https://x.com/KendallRat17471/status/1919151274697597133/photo/1",
+              "media_key": "3_1919151271795417088",
+              "start": 144,
+              "url": "https://t.co/iPVzdrpWVI"
+            },
+            {
+              "display_url": "pic.x.com/iPVzdrpWVI",
+              "end": 167,
+              "expanded_url": "https://x.com/KendallRat17471/status/1919151274697597133/photo/1",
+              "media_key": "3_1919151271698984960",
+              "start": 144,
+              "url": "https://t.co/iPVzdrpWVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919151274697597133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9693,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "平时在你面前高冷的女神祖宗...现在却在被男爹按在床上爆操～💚甚至直接当着你面粗暴的把臭屌操进你平时高不可攀的女神骚穴里💚精液都从女神的骚穴里溅出来流在床上了～你这条绿王八公狗怎么反而盯着女神祖宗的精臭脚底和淫穴流口水啊？～真是他妈的没救了傻逼绿毛龟💚 ＃文援 ＃ntr ＃绿帽 #羞辱 https://t.co/iPVzdrpWVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 119,
+          "like_count": 1175,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1384
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212～营业时间8点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 1912,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 52,
+          "tweet_count": 1204
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

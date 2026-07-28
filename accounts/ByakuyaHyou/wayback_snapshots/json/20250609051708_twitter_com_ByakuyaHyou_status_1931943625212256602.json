@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1931943625212256602",
+    "created_at": "2025-06-09T05:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T06:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931943625212256602"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "文爱"
+        },
+        {
+          "end": 131,
+          "start": 127,
+          "tag": "文援姬"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文援"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "黑丝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931943625212256602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930979942768271801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 闻着浓郁丝袜脚和鞋子闷热气味勃起的傻逼客人🖤被鄙视跪在地上磕头求着黑丝袜脚踩着傻逼戏耍🖤丝袜脚捂着傻逼狗脸和废物早泄鸡巴压榨🖤用丝袜脚把狗鸡巴踩在鞋子里肏高跟鞋摩擦撸射🖤变成傻逼丝袜脚公狗脚垫上贡舔脚🖤\n#文爱 #文援姬 #文援 #黑丝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931943625212256602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931943625212256602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931943625212256602"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1930979940545228801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsw4BnCacAEIg8j.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930979940545228801"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1930979942768271801",
+        "created_at": "2025-06-06T13:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T14:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930979942768271801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "文爱"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "文援姬"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文援"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "黑丝"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "贡奴"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7QPQsZe0L",
+              "end": 156,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1930979942768271801/photo/1",
+              "media_key": "3_1930979940545228801",
+              "start": 133,
+              "url": "https://t.co/e7QPQsZe0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930979942768271801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3787,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "闻着浓郁丝袜脚和鞋子闷热气味勃起的傻逼客人🖤被鄙视跪在地上磕头求着黑丝袜脚踩着傻逼戏耍🖤丝袜脚捂着傻逼狗脸和废物早泄鸡巴压榨🖤用丝袜脚把狗鸡巴踩在鞋子里肏高跟鞋摩擦撸射🖤变成傻逼丝袜脚公狗脚垫上贡舔脚🖤\n#文爱 #文援姬 #文援 #黑丝 #贡奴\n#ATM奴 #压榨 https://t.co/e7QPQsZe0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1242,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1447
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤 压榨...止寸...调教...忍不住的贡狗欢迎来上贡呢废物🖤（收长期atm奴 贡奴）欢迎文援来扩列哦（文爱35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 37,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 14,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可🖤（互推私）",
+        "pinned_tweet_id": "1931287307409367359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885004780101332992/dI3Ntg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 33,
+          "like_count": 26,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 931
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

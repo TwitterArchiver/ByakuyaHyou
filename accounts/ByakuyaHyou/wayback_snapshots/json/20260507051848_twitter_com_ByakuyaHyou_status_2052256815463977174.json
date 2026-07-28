@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2052036508333506738",
+    "created_at": "2026-05-07T05:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052256815463977174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1686016663781535744",
+          "start": 0,
+          "username": "xiaolin57817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052256815463977174",
+    "in_reply_to_user_id": "1686016663781535744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052036508333506738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolin57817 扩列加个QQ嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2052036496836960256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpMUlwaoAAmSuB.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2052036497050828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpMUmjaAAAzUK7.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2052036508333506738",
+        "created_at": "2026-05-07T05:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052256815463977174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686016663781535744",
+              "start": 0,
+              "username": "xiaolin57817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052256815463977174",
+        "in_reply_to_user_id": "1686016663781535744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052036508333506738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolin57817 扩列加个QQ嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052036496836960256",
+            "3_2052036497050828800"
+          ]
+        },
+        "author_id": "1686016663781535744",
+        "conversation_id": "2052036508333506738",
+        "created_at": "2026-05-06T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052036508333506738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFStPtGdwv",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaolin57817/status/2052036508333506738/photo/1",
+              "media_key": "3_2052036496836960256",
+              "start": 28,
+              "url": "https://t.co/SFStPtGdwv"
+            },
+            {
+              "display_url": "pic.x.com/SFStPtGdwv",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaolin57817/status/2052036508333506738/photo/1",
+              "media_key": "3_2052036497050828800",
+              "start": 28,
+              "url": "https://t.co/SFStPtGdwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052036508333506738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2723,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "XXL还是有点太合身了，继续减肥。（目前70㎏）#男娘 https://t.co/SFStPtGdwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 278,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T14:11:24.000Z",
+        "description": "175cm/05年生/学食品的小男娘/社恐一个✌/坐标福建/偶尔回of",
+        "id": "1686016663781535744",
+        "name": "小林酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686016888118059008/mrluTkWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 1174,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "xiaolin57817",
+        "verified": false
+      }
+    ]
+  }
+}

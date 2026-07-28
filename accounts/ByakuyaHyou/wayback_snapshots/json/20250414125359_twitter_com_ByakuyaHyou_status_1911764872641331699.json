@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1911336923966107648"
+      ],
+      "media_source_tweet_id": [
+        "1911337046914056447"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911764872641331699",
+    "created_at": "2025-04-14T12:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T13:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911764872641331699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354563078700949505",
+          "start": 3,
+          "username": "1999ZMZM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1DM5XAqA8",
+          "end": 100,
+          "expanded_url": "https://x.com/1999ZMZM/status/1911337046914056447/video/1",
+          "media_key": "7_1911336923966107648",
+          "start": 77,
+          "url": "https://t.co/B1DM5XAqA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911764872641331699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911337046914056447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1999ZMZM: 第一次玩现实的锁奴被锁贞操锁 锁了9天了 还有点害羞，虽然反应不大但是看他表情看的出是正在憋着。没想到这个筋膜枪威力挺大🌚🌚 https://t.co/B1DM5XAqA8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911764872641331699].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911764872641331699",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911764872641331699"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40433,
+        "height": 1272,
+        "media_key": "7_1911336923966107648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911336923966107648/pu/img/g25r35M3IaIf1G8H.jpg",
+        "public_metrics": {
+          "view_count": 7451
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911336923966107648/pu/vid/avc1/320x564/w6WkKAi8D0MZjuxn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911336923966107648/pu/vid/avc1/480x848/dcD6foXgNkqxxOa0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911336923966107648/pu/vid/avc1/720x1272/u5fyFBtKMIeT5Kao.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911336923966107648/pu/pl/uKf-_hsfOsBki3ol.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1911336923966107648"
+          ]
+        },
+        "author_id": "1354563078700949505",
+        "conversation_id": "1911337046914056447",
+        "created_at": "2025-04-13T08:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T09:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911337046914056447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1DM5XAqA8",
+              "end": 86,
+              "expanded_url": "https://x.com/1999ZMZM/status/1911337046914056447/video/1",
+              "media_key": "7_1911336923966107648",
+              "start": 63,
+              "url": "https://t.co/B1DM5XAqA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911337046914056447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 23535,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "第一次玩现实的锁奴被锁贞操锁 锁了9天了 还有点害羞，虽然反应不大但是看他表情看的出是正在憋着。没想到这个筋膜枪威力挺大🌚🌚 https://t.co/B1DM5XAqA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1259
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣sama",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10239,
+          "following_count": 191,
+          "like_count": 52,
+          "listed_count": 27,
+          "media_count": 42,
+          "tweet_count": 73
+        },
+        "username": "1999ZMZM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1918524469959917725",
+    "created_at": "2025-05-03T04:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T05:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918524469959917725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918524469959917725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918074365197074634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 怎么了呀～亲爱的💚你问坐在家里床上的男人是谁阿？当然是主人伺候的男爹祖宗咯💚看着高贵的主人在你面前被男爹祖宗随意玩弄💚淫水都被男爹用手玩弄得忍不住流了一地💚废物鸡巴怎么反而兴奋起来了阿？傻逼绿奴贱狗💚主人现在要和男爹做爱咯～你就把门带上…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1918524469959917725].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1918524469959917725",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918524469959917725"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_1918074361053102082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp5eeA9awAIaMFg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1903,
+        "media_key": "3_1918074361875185664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp5eeEBawAAd2W_.jpg",
+        "width": 1303
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918074361053102082",
+            "3_1918074361875185664"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918074365197074634",
+        "created_at": "2025-05-01T22:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T23:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918074365197074634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文援"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "ntr"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "绿帽"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQ5T6BeJ4V",
+              "end": 166,
+              "expanded_url": "https://x.com/KendallRat17471/status/1918074365197074634/photo/1",
+              "media_key": "3_1918074361053102082",
+              "start": 143,
+              "url": "https://t.co/LQ5T6BeJ4V"
+            },
+            {
+              "display_url": "pic.x.com/LQ5T6BeJ4V",
+              "end": 166,
+              "expanded_url": "https://x.com/KendallRat17471/status/1918074365197074634/photo/1",
+              "media_key": "3_1918074361875185664",
+              "start": 143,
+              "url": "https://t.co/LQ5T6BeJ4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918074365197074634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9164,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "怎么了呀～亲爱的💚你问坐在家里床上的男人是谁阿？当然是主人伺候的男爹祖宗咯💚看着高贵的主人在你面前被男爹祖宗随意玩弄💚淫水都被男爹用手玩弄得忍不住流了一地💚废物鸡巴怎么反而兴奋起来了阿？傻逼绿奴贱狗💚主人现在要和男爹做爱咯～你就把门带上滚出去听着吧💚 ＃文援 ＃ntr ＃绿帽 ＃羞辱 https://t.co/LQ5T6BeJ4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 117,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1368
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212～营业时间8点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 1863,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 51,
+          "tweet_count": 1157
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

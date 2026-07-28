@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841686228674269492",
+    "created_at": "2024-10-03T03:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T04:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841686228674269492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821147834844114944",
+          "start": 3,
+          "username": "xiaoxiao804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841686228674269492",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841254646876422337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiaoxiao804: 无脑媚足贱狗又发情了哦💗看到姐姐带着浓厚气味的黑丝足底💗狗脑子完全冷静不下来彻底兴奋沸腾了呢💗不自觉就把狗脸贴了过来想好好品味💗明明更显色情的小穴就在眼前💗足控入脑的贱狗还是选择紧盯姐姐足弓的美妙弧度💗渴望把狗鼻子埋入其中深吸一口💗成为姐姐脚下…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841686228674269492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841686228674269492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841686228674269492"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841254641356718082"
+          ]
+        },
+        "author_id": "1821147834844114944",
+        "conversation_id": "1841254646876422337",
+        "created_at": "2024-10-01T23:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T00:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841254646876422337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKXzJ6KVPU",
+              "end": 162,
+              "expanded_url": "https://x.com/xiaoxiao804/status/1841254646876422337/photo/1",
+              "media_key": "3_1841254641356718082",
+              "start": 139,
+              "url": "https://t.co/yKXzJ6KVPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841254646876422337",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4030,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "无脑媚足贱狗又发情了哦💗看到姐姐带着浓厚气味的黑丝足底💗狗脑子完全冷静不下来彻底兴奋沸腾了呢💗不自觉就把狗脸贴了过来想好好品味💗明明更显色情的小穴就在眼前💗足控入脑的贱狗还是选择紧盯姐姐足弓的美妙弧度💗渴望把狗鼻子埋入其中深吸一口💗成为姐姐脚下的白痴除臭器才是你梦寐以求的吧💗 https://t.co/yKXzJ6KVPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 596,
+          "listed_count": 0,
+          "tweet_count": 745
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:34:24.000Z",
+        "description": "SM情侣主🖤 接文援、网调🖤收狗狗、锁奴、绿帽奴、足奴🖤🐧3996867072🖤被封重生版～",
+        "id": "1821147834844114944",
+        "name": "潇潇（互推）",
+        "pinned_tweet_id": "1831359536466432501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821147934525943810/CppZ6LdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 35,
+          "like_count": 144,
+          "listed_count": 5,
+          "tweet_count": 549
+        },
+        "username": "xiaoxiao804",
+        "verified": false
+      }
+    ]
+  }
+}

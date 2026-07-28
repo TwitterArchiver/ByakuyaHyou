@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759039740330216",
+    "created_at": "2024-10-03T08:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759039740330216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759039740330216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840689117434454106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 昨天处男君来找人家咨询了许多问题w不过果然大家都更关心「■■」或是「■■」的答案呢🎵\n说起来~有一种说法是~自己说出「选项」的时候...往往会更倾向后者吧💞要是本就有些迷迷糊糊的大脑🧠擅自填充了过分的词汇...糟糕的想法就会一发不可收拾…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759039740330216].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759039740330216",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759039740330216"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840689109612052480"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1840689117434454106",
+        "created_at": "2024-09-30T09:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840689117434454106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAvme1hGF9",
+              "end": 171,
+              "expanded_url": "https://x.com/wymng2643248919/status/1840689117434454106/photo/1",
+              "media_key": "3_1840689109612052480",
+              "start": 148,
+              "url": "https://t.co/MAvme1hGF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840689117434454106",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1281,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "昨天处男君来找人家咨询了许多问题w不过果然大家都更关心「■■」或是「■■」的答案呢🎵\n说起来~有一种说法是~自己说出「选项」的时候...往往会更倾向后者吧💞要是本就有些迷迷糊糊的大脑🧠擅自填充了过分的词汇...糟糕的想法就会一发不可收拾呢🎶\n对~这个就是「自我洗脑」\n请稍微谨慎一点喔🖤\n■■♥ https://t.co/MAvme1hGF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 606,
+          "listed_count": 0,
+          "tweet_count": 757
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~属性是Switch喔❤️无论是作为主人羞辱洗脑🖤发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 而且是完全一对一接单绝对保证服务质量和态度的喔💗该来排精了喔💜目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "id": "1669288784939106304",
+        "name": "阿眠呐~",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 21,
+          "like_count": 155,
+          "listed_count": 7,
+          "tweet_count": 173
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

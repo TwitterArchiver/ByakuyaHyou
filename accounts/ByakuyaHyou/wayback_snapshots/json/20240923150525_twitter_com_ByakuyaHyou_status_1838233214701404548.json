@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838233214701404548",
+    "created_at": "2024-09-23T15:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838233214701404548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838233214701404548",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838139177197551866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 哦呀哦呀♥这么努力地勃起着呢♥\n不过就算肉棒胀到紫色💜\n软肉都被贞操锁勒成一块一块💜\n一抖一抖地龟头分泌腥臭黏腻的汁液💜\n还是不能打开的喔🖤诶？就算你问为什么...\n因为...很早泄叭🖤\n看着人家吐着雌舌把口水滴到马眼上🧡听到钥匙晃动的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838233214701404548].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838233214701404548",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838233214701404548"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838139168574320640"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1838139177197551866",
+        "created_at": "2024-09-23T08:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T09:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838139177197551866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4sthw2m1y",
+              "end": 168,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1838139177197551866/photo/1",
+              "media_key": "3_1838139168574320640",
+              "start": 145,
+              "url": "https://t.co/l4stHw2m1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838139177197551866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哦呀哦呀♥这么努力地勃起着呢♥\n不过就算肉棒胀到紫色💜\n软肉都被贞操锁勒成一块一块💜\n一抖一抖地龟头分泌腥臭黏腻的汁液💜\n还是不能打开的喔🖤诶？就算你问为什么...\n因为...很早泄叭🖤\n看着人家吐着雌舌把口水滴到马眼上🧡听到钥匙晃动的叮铃声🧡已经要射了吧💜\n以后你的自慰方式仅限于此喔💜 https://t.co/l4stHw2m1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 83,
+          "like_count": 562,
+          "listed_count": 0,
+          "tweet_count": 690
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 21,
+          "like_count": 131,
+          "listed_count": 6,
+          "tweet_count": 148
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

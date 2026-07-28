@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826413855377154129",
+    "created_at": "2024-08-22T00:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T01:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826413855377154129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "男m"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "上贡"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "女s"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "榨金"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "压榨奴"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "阳痿"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "辱骂"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "羞辱"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "大学生"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "恋足"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "调教"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "贱狗"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "贱货"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "舔脚"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "sm"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "洗脑"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 129,
+          "start": 124,
+          "tag": "atm奴"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "女攻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1025171921690873857",
+          "start": 3,
+          "username": "ZptCPFZNrkOScM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826413855377154129",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826260233091792955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZptCPFZNrkOScM8: 脑子发情的傻逼来挨骂做一只六边形贱狗跪在鞋底下供主人玩乐！#男m  #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱 #大学生 #恋足  #调教 #贱狗 #贱货 #舔脚 #sm #洗脑 #女性崇拜 #atm奴 #女尊男卑 #女攻…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826413855377154129].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826413855377154129",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826413855377154129"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826260225244225536",
+            "3_1826260225420075008"
+          ]
+        },
+        "author_id": "1025171921690873857",
+        "conversation_id": "1826260233091792955",
+        "created_at": "2024-08-21T14:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826260233091792955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男m"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "上贡"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "女s"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "榨金"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "阳痿"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "辱骂"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "羞辱"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "大学生"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "恋足"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "调教"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "贱狗"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "贱货"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "舔脚"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "sm"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "洗脑"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "atm奴"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "女攻"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "小额奴"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "报销奴"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "提款机"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "账单奴"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "精神控制"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "无脑"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "粗口"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "绿帽"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "绿奴"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "四爱"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "厕奴"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "贡奴"
+            },
+            {
+              "end": 177,
+              "start": 173,
+              "tag": "无脑贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpbnm21zlm",
+              "end": 201,
+              "expanded_url": "https://twitter.com/ZptCPFZNrkOScM8/status/1826260233091792955/photo/1",
+              "media_key": "3_1826260225244225536",
+              "start": 178,
+              "url": "https://t.co/FPbNm21zlM"
+            },
+            {
+              "display_url": "pic.x.com/fpbnm21zlm",
+              "end": 201,
+              "expanded_url": "https://twitter.com/ZptCPFZNrkOScM8/status/1826260233091792955/photo/1",
+              "media_key": "3_1826260225420075008",
+              "start": 178,
+              "url": "https://t.co/FPbNm21zlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826260233091792955",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1864,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "脑子发情的傻逼来挨骂做一只六边形贱狗跪在鞋底下供主人玩乐！#男m  #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱 #大学生 #恋足  #调教 #贱狗 #贱货 #舔脚 #sm #洗脑 #女性崇拜 #atm奴 #女尊男卑 #女攻 #小额奴 #报销奴 #提款机 #账单奴 #精神控制 #无脑 #粗口 #绿帽 #绿奴 #四爱 #厕奴 #贡奴 #无脑贡 https://t.co/FPbNm21zlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 65,
+          "like_count": 205,
+          "listed_count": 0,
+          "tweet_count": 235
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-03T00:10:07.000Z",
+        "description": "门槛28",
+        "id": "1025171921690873857",
+        "name": "甜馨❤️s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826259324433485824/7i9kM29V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "ZptCPFZNrkOScM8",
+        "verified": false
+      }
+    ]
+  }
+}

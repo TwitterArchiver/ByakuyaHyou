@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828963385532395779",
+    "created_at": "2024-08-29T01:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T02:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828963385532395779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "文援姬"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "调教"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828963385532395779",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828803651990917608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 让你这个贱狗天天偷窥主人的推文涩图自慰～\n今天被主人抓住了吧～强迫换上女装，对着摄像头 套着飞机杯社死自慰\n而且别想轻易的跑掉，必须对着摄像头连续发射三次才行哦♥\n做不到就会被主人踩着肉棒，踢爆蛋蛋废掉你的小鸡巴呢🖤\n#文援姬 #调教 #羞辱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828963385532395779].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828963385532395779",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828963385532395779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828802310048227328"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1828803651990917608",
+        "created_at": "2024-08-28T14:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828803651990917608"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "文援姬"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "调教"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "羞辱"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "寸止"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "榨精"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "指令"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "树洞"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "胁迫"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "绿帽"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "虐阳"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnoyafcptz",
+              "end": 177,
+              "expanded_url": "https://twitter.com/xiyan123466/status/1828803651990917608/photo/1",
+              "media_key": "3_1828802310048227328",
+              "start": 154,
+              "url": "https://t.co/pnoYafcpTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828803651990917608",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2029,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "让你这个贱狗天天偷窥主人的推文涩图自慰～\n今天被主人抓住了吧～强迫换上女装，对着摄像头 套着飞机杯社死自慰\n而且别想轻易的跑掉，必须对着摄像头连续发射三次才行哦♥\n做不到就会被主人踩着肉棒，踢爆蛋蛋废掉你的小鸡巴呢🖤\n#文援姬 #调教 #羞辱 #寸止 #榨精 #指令 #树洞 #胁迫 #绿帽 #虐阳 #压榨 https://t.co/pnoYafcpTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 69,
+          "like_count": 333,
+          "listed_count": 0,
+          "tweet_count": 390
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑的小魔女香香大小姐♡ 成年了却只有小萝莉的身体♡ 紫水晶般闪耀的柔顺长发披在香肩♡ 红蓝的异瞳露出狡黠♡ 乳白的肌肤~精致的脸颊♡ 俏皮的鼻梁下弯弯的樱红嘴唇♡ 流露出腹黑的微笑♡身着哥特式萝莉裙♡ 白丝袜袜包裹住粉嫩的玉足♡随着准备调教戏耍犯贱的狗狗♥\n接各种s文字调教羞辱胁迫\nqq 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "下单咨询QQ找我哦",
+        "name": "小魔女文援🖤香香酱（文援互推私信）",
+        "pinned_tweet_id": "1818502376082555283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814574535548829696/23Mmn_7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3054,
+          "following_count": 85,
+          "like_count": 230,
+          "listed_count": 15,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

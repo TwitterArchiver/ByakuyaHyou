@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834099734157689277",
+    "created_at": "2024-09-12T05:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T06:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834099734157689277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834099734157689277",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833382470819188917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 顶着油腻骚婊子浓妆媚脸祈祷的修女♡\n背地里却是培养着无数...「精畜」...这样称呼您比较合适吧🖤...的主人呢🖤\n被「净化」之后的肉棒♡仅仅因为和主人手部接触就兴奋地颤抖夹腿准备排精♡\n...现在还不行哟...再忍五秒🖤\n被托着蛋蛋挤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834099734157689277].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834099734157689277",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834099734157689277"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833382462426341376"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1833382470819188917",
+        "created_at": "2024-09-10T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833382470819188917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmx4jjjn8m",
+              "end": 174,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1833382470819188917/photo/1",
+              "media_key": "3_1833382462426341376",
+              "start": 151,
+              "url": "https://t.co/gMX4JJjn8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833382470819188917",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1350,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "顶着油腻骚婊子浓妆媚脸祈祷的修女♡\n背地里却是培养着无数...「精畜」...这样称呼您比较合适吧🖤...的主人呢🖤\n被「净化」之后的肉棒♡仅仅因为和主人手部接触就兴奋地颤抖夹腿准备排精♡\n...现在还不行哟...再忍五秒🖤\n被托着蛋蛋挤压蛋液促精摩擦龟头系带程度刺激就足以让精子像水一样流出🖤\n白痴♡ https://t.co/gMX4JJjn8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 80,
+          "like_count": 468,
+          "listed_count": 0,
+          "tweet_count": 568
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 20,
+          "like_count": 91,
+          "listed_count": 4,
+          "tweet_count": 107
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

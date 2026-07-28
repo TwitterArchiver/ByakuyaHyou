@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913276323570790400"
+      ],
+      "media_source_tweet_id": [
+        "1913276684318683543"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914875950023762008",
+    "created_at": "2025-04-23T02:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914875950023762008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZ6VIEHnA9",
+          "end": 75,
+          "expanded_url": "https://x.com/Achengqqq/status/1913276684318683543/photo/1",
+          "media_key": "3_1913276323570790400",
+          "start": 52,
+          "url": "https://t.co/HZ6VIEHnA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914875950023762008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913276684318683543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 谁是最受欢迎的文爱姫吖~\n当然是我啦~\n（备注：而且比大多数人便宜一半） https://t.co/HZ6VIEHnA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1657,
+        "media_key": "3_1913276323570790400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1SreeaMAAdJMo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913276323570790400"
+          ],
+          "media_source_tweet_id": [
+            "1913276684318683543"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1914875950023762008",
+        "created_at": "2025-04-23T02:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914875950023762008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896222648524587008",
+              "start": 3,
+              "username": "Achengqqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZ6VIEHnA9",
+              "end": 75,
+              "expanded_url": "https://x.com/Achengqqq/status/1913276684318683543/photo/1",
+              "media_key": "3_1913276323570790400",
+              "start": 52,
+              "url": "https://t.co/HZ6VIEHnA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914875950023762008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913276684318683543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Achengqqq: 谁是最受欢迎的文爱姫吖~\n当然是我啦~\n（备注：而且比大多数人便宜一半） https://t.co/HZ6VIEHnA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913276323570790400"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1913276684318683543",
+        "created_at": "2025-04-18T17:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913276684318683543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZ6VIEHnA9",
+              "end": 60,
+              "expanded_url": "https://x.com/Achengqqq/status/1913276684318683543/photo/1",
+              "media_key": "3_1913276323570790400",
+              "start": 37,
+              "url": "https://t.co/HZ6VIEHnA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913276684318683543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁是最受欢迎的文爱姫吖~\n当然是我啦~\n（备注：而且比大多数人便宜一半） https://t.co/HZ6VIEHnA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 115,
+          "like_count": 1087,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1291
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~",
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1896226886340227240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

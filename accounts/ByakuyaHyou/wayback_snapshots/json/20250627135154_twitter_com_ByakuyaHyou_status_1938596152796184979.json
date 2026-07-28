@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1938596152796184979",
+    "created_at": "2025-06-27T13:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938596152796184979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938596152796184979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938586230188576798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 噌噌噌…最近废物真他妈够多呢～看着你们这群小废物在这像个贱狗一样跪着趴着，用你们的小狗爪，在地上挠噗嗤～看起来真的好滑稽呢～🖤简直真的像真的狗狗一样呢～恳求着妈妈调教你们这群废物～可是妈妈是不是说过了呢？最近在养病哦～而且家里也有人不方便真是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1938586227357437952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guc95xga0AAyzEQ.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1938596152796184979",
+        "created_at": "2025-06-27T13:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938596152796184979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938596152796184979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938586230188576798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 噌噌噌…最近废物真他妈够多呢～看着你们这群小废物在这像个贱狗一样跪着趴着，用你们的小狗爪，在地上挠噗嗤～看起来真的好滑稽呢～🖤简直真的像真的狗狗一样呢～恳求着妈妈调教你们这群废物～可是妈妈是不是说过了呢？最近在养病哦～而且家里也有人不方便真是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938586227357437952"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938586230188576798",
+        "created_at": "2025-06-27T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938586230188576798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96vOm3QFDc",
+              "end": 164,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1938586230188576798/photo/1",
+              "media_key": "3_1938586227357437952",
+              "start": 141,
+              "url": "https://t.co/96vOm3QFDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938586230188576798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "噌噌噌…最近废物真他妈够多呢～看着你们这群小废物在这像个贱狗一样跪着趴着，用你们的小狗爪，在地上挠噗嗤～看起来真的好滑稽呢～🖤简直真的像真的狗狗一样呢～恳求着妈妈调教你们这群废物～可是妈妈是不是说过了呢？最近在养病哦～而且家里也有人不方便真是一群傻逼噌～等方便好好奖励你们这群废物 https://t.co/96vOm3QFDc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1479
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 12,
+          "like_count": 3981,
+          "listed_count": 10,
+          "media_count": 119,
+          "tweet_count": 4849
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

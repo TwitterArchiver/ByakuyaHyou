@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902502415938814167",
+    "created_at": "2025-03-19T23:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T00:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902502415938814167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902502415938814167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902421409869205575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: 芬芳馥郁的雌腻体香自身旁缭绕起的烟雾弥漫房间，轻透紫纱从香肩滑落于臂弯，恰到好处裸露出在水雾下反出润色的香艳檀背\n\n终见来人…抹有艳紫唇釉的薄唇轻轻上挑，纤臂半抬摩挲间…胸前被挤到外溢的雪白肥乳顺势弹回出一阵糜烂乳波\n\n“可以称妾身为武藏，作为镇守…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902502415938814167].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902502415938814167",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902502415938814167"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1902421407226851330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmbCML7a8AI0rXH.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902421407226851330"
+          ]
+        },
+        "author_id": "1719475394720485376",
+        "conversation_id": "1902421409869205575",
+        "created_at": "2025-03-19T18:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902421409869205575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cf1jZzfM22",
+              "end": 168,
+              "expanded_url": "https://x.com/msxzqnjmk/status/1902421409869205575/photo/1",
+              "media_key": "3_1902421407226851330",
+              "start": 145,
+              "url": "https://t.co/Cf1jZzfM22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902421409869205575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 290,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "芬芳馥郁的雌腻体香自身旁缭绕起的烟雾弥漫房间，轻透紫纱从香肩滑落于臂弯，恰到好处裸露出在水雾下反出润色的香艳檀背\n\n终见来人…抹有艳紫唇釉的薄唇轻轻上挑，纤臂半抬摩挲间…胸前被挤到外溢的雪白肥乳顺势弹回出一阵糜烂乳波\n\n“可以称妾身为武藏，作为镇守府代表前来助战”\n\n日后还请您多多指教♡ https://t.co/Cf1jZzfM22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 104,
+          "like_count": 896,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1073
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或你喜欢的就好\n喜欢并且擅长\\文爱\\写作，目前还在练习恋活\n\n是一位知心“性”大姐姐，出没时间是在下午和晚上，客人请走这边\n\n企鹅:3970158322（有电报，但是一般不用）\n芝士老婆: @BeiMao99093\n注:不涉三\\转推请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "BeiMao99093"
+              }
+            ]
+          }
+        },
+        "id": "1719475394720485376",
+        "location": "不知名的小吃店",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1869650333007589860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902424318069633027/38dUQA2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 100,
+          "like_count": 378,
+          "listed_count": 19,
+          "media_count": 735,
+          "tweet_count": 3043
+        },
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1924299413985611838",
+    "created_at": "2025-05-19T03:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T04:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924299413985611838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1905022130158276609",
+          "start": 3,
+          "username": "Kenneth57060878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924299413985611838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924120593311694870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenneth57060878: 唔♥今天是茗茗秘书呢~老板~今天的会议内容就全部交给茗茗处理叭~您只需要好好休息就可以了呢~♥我看老板最近压力好大哎~是不是...上次出差的事呢~那...今天晚上茗茗要好好的陪陪老板了呢♥~有什么要求~尽管提哦♥~\n♥营业到凌晨三点多~…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_1924120589452689408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPZe09XwAA5H5_.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1924299413985611838",
+        "created_at": "2025-05-19T03:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T04:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924299413985611838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1905022130158276609",
+              "start": 3,
+              "username": "Kenneth57060878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924299413985611838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924120593311694870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenneth57060878: 唔♥今天是茗茗秘书呢~老板~今天的会议内容就全部交给茗茗处理叭~您只需要好好休息就可以了呢~♥我看老板最近压力好大哎~是不是...上次出差的事呢~那...今天晚上茗茗要好好的陪陪老板了呢♥~有什么要求~尽管提哦♥~\n♥营业到凌晨三点多~…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924120589452689408"
+          ]
+        },
+        "author_id": "1905022130158276609",
+        "conversation_id": "1924120593311694870",
+        "created_at": "2025-05-18T15:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924120593311694870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文爱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文媛"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "文媛姬"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "足交"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "乳交"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "做爱"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "内射"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZOuw12Jym",
+              "end": 185,
+              "expanded_url": "https://x.com/Kenneth57060878/status/1924120593311694870/photo/1",
+              "media_key": "3_1924120589452689408",
+              "start": 162,
+              "url": "https://t.co/DZOuw12Jym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924120593311694870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "唔♥今天是茗茗秘书呢~老板~今天的会议内容就全部交给茗茗处理叭~您只需要好好休息就可以了呢~♥我看老板最近压力好大哎~是不是...上次出差的事呢~那...今天晚上茗茗要好好的陪陪老板了呢♥~有什么要求~尽管提哦♥~\n♥营业到凌晨三点多~门牌号:3919110959\n#文爱 #文媛 #文媛姬 #足交 #乳交 #做爱 #内射 https://t.co/DZOuw12Jym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 121,
+          "like_count": 1220,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 1432
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T22:20:46.000Z",
+        "description": "哈喽呀!各位客人们♥!小茗酱在这里哦这里是老文媛啦!之前2000粉丝哦咱的性癖是~调教~足交~（另外如果你们喜欢重口也是以的哦）没有任何雷点~所以可以放心玩♥\n小茗擅长~足交!♥口爆!♥内射!♥肛交♥也是可以的~（营业时间~中午11：00~凌晨6：00)请各位欢迎光临小茗的文媛小店~\n门牌号:3919110959",
+        "id": "1905022130158276609",
+        "name": "文媛♥茗茗酱♥(欢迎互推)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923698311204052992/ZKVJh7eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 62,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "Kenneth57060878",
+        "verified": false
+      }
+    ]
+  }
+}

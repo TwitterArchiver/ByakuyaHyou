@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2071340589401116724",
+    "created_at": "2026-06-30T12:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071940093787681096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067998397429317632",
+          "start": 0,
+          "username": "nhcueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071940093787681096",
+    "in_reply_to_user_id": "2067998397429317632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071839148273811655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhcueee 谢谢，你很可爱的说💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-30T12:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071940093787681096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067998397429317632",
+              "start": 0,
+              "username": "nhcueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940093787681096",
+        "in_reply_to_user_id": "2067998397429317632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071839148273811655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhcueee 谢谢，你很可爱的说💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067998397429317632",
+        "conversation_id": "2071340589401116724",
+        "created_at": "2026-06-30T06:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071839148273811655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071839148273811655",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071340589401116724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 好帅的说!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1125,
+          "like_count": 1752,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T15:51:17.000Z",
+        "description": "已有对象，请勿过度打扰\n171cm55kg，祈祷变矮变瘦ing……\n2026.6.21🍥，无证含糖，同类回关w（没回大概是忘了的说）\n重度拖延，得过且过，自卑，内耗\n不善言辞的阴角，对陌生人相当社恐，平时可能会有点呆呆的，交流时还请注意分寸……",
+        "id": "2067998397429317632",
+        "name": "nhcue🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000421747228672/SNMoCeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 55,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "nhcueee",
+        "verified": false
+      }
+    ]
+  }
+}

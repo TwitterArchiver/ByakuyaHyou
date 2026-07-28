@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1843333278033686896",
+    "created_at": "2024-10-07T16:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T17:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843333278033686896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843333278033686896",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842551791780757671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 啊嘞？真的有这么舒服嘛♡只是被柠檬的脚趾踩着就可以舒服的■■呀♡啧啧啧～还想要更多呀....那可不行呢～如果简单的就同意的话，对于这份恩赐就变得廉价起来了吧？如果真的想要的话.......不妨说一下愿意付出些什么呢🖤 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843333278033686896].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843333278033686896",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843333278033686896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842551789289385984"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1842551791780757671",
+        "created_at": "2024-10-05T13:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T14:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842551791780757671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/875XnIujpN",
+              "end": 132,
+              "expanded_url": "https://x.com/ningmeng1245/status/1842551791780757671/photo/1",
+              "media_key": "3_1842551789289385984",
+              "start": 109,
+              "url": "https://t.co/875XnIujpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842551791780757671",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1167,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "啊嘞？真的有这么舒服嘛♡只是被柠檬的脚趾踩着就可以舒服的■■呀♡啧啧啧～还想要更多呀....那可不行呢～如果简单的就同意的话，对于这份恩赐就变得廉价起来了吧？如果真的想要的话.......不妨说一下愿意付出些什么呢🖤 https://t.co/875XnIujpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 84,
+          "like_count": 627,
+          "listed_count": 0,
+          "tweet_count": 784
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "是柠檬哦♡欢迎来找柠檬闲聊的哦。不过～柠檬可能会在闲聊的过程中～去玩弄你哦♡\n温柔的S系柠檬哦，轻微重口无论是男孩子还是女孩子都可以找柠檬呢\n柠檬会用自己的文笔来征服每一位来找柠檬的小可爱呢。柠檬不在的话可以找青柠\n柠檬的企鹅号：3993705909\n PS：不涉三，纯文字，轻微sm\n姐姐～@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828900159033331712/Yev6Nldq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 32,
+          "like_count": 16,
+          "listed_count": 1,
+          "tweet_count": 81
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

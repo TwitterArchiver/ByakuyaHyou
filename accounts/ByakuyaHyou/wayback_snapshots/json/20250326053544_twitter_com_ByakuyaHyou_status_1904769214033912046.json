@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904213437279862784",
+        "3_1904213426345541632"
+      ],
+      "media_source_tweet_id": [
+        "1904213441641943166",
+        "1904213441641943166"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1904769214033912046",
+    "created_at": "2025-03-26T05:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T06:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904769214033912046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "文援"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "调教"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "语音"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "原味"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kvaa5WnAGi",
+          "end": 74,
+          "expanded_url": "https://x.com/KendallRat17471/status/1904213441641943166/photo/1",
+          "media_key": "3_1904213437279862784",
+          "start": 51,
+          "url": "https://t.co/kvaa5WnAGi"
+        },
+        {
+          "display_url": "pic.x.com/kvaa5WnAGi",
+          "end": 74,
+          "expanded_url": "https://x.com/KendallRat17471/status/1904213441641943166/photo/1",
+          "media_key": "3_1904213426345541632",
+          "start": 51,
+          "url": "https://t.co/kvaa5WnAGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904769214033912046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904213441641943166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: qq风险啦～暂时先用小号咯 #文援 #调教 #语音 #原味 https://t.co/kvaa5WnAGi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904769214033912046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904769214033912046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904769214033912046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_1904213437279862784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0gCEGXgAAEpkR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1596,
+        "media_key": "3_1904213426345541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0gBbXbAAAO5Uo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904213437279862784",
+            "3_1904213426345541632"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1904213441641943166",
+        "created_at": "2025-03-24T16:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904213441641943166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "文援"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "调教"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "语音"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvaa5WnAGi",
+              "end": 53,
+              "expanded_url": "https://x.com/KendallRat17471/status/1904213441641943166/photo/1",
+              "media_key": "3_1904213437279862784",
+              "start": 30,
+              "url": "https://t.co/kvaa5WnAGi"
+            },
+            {
+              "display_url": "pic.x.com/kvaa5WnAGi",
+              "end": 53,
+              "expanded_url": "https://x.com/KendallRat17471/status/1904213441641943166/photo/1",
+              "media_key": "3_1904213426345541632",
+              "start": 30,
+              "url": "https://t.co/kvaa5WnAGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904213441641943166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1708,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "qq风险啦～暂时先用小号咯 #文援 #调教 #语音 #原味 https://t.co/kvaa5WnAGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 105,
+          "like_count": 951,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1124
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是文援姬北北，擅长调教羞辱角色扮演♡可出原～大号暂封，门牌q631365212，备用3827887572营业时间8点到凌晨2点~",
+        "id": "1735851723044839424",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1904213441641943166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1585,
+          "like_count": 43,
+          "listed_count": 9,
+          "media_count": 39,
+          "tweet_count": 680
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

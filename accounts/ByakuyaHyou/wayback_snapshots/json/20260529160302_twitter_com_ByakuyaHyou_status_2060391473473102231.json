@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2060391473473102231",
+    "created_at": "2026-05-29T16:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060391473473102231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "男の娘"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667423069076348928",
+          "start": 3,
+          "username": "Kan_AyaneZero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/TsLJ2L5f",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/TsLJ2L5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391473473102231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060312914234647016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kan_AyaneZero: #男の娘 #femboy\n日本の友達、こんにちは~私は中国から来た小韓韓韓子です——❤️\nこれは私が化粧をしていない姿なんだけど、誰か好きになってくれる？🥺\n(๑╹ヮ╹๑)ﾉwww(´∇ﾉ｀*)ノ https://t.co/TsLJ2L5f…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060312904721977344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJezq7wbUAAFuNh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2060391473473102231",
+        "created_at": "2026-05-29T16:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060391473473102231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667423069076348928",
+              "start": 3,
+              "username": "Kan_AyaneZero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/TsLJ2L5f",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/TsLJ2L5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391473473102231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060312914234647016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kan_AyaneZero: #男の娘 #femboy\n日本の友達、こんにちは~私は中国から来た小韓韓韓子です——❤️\nこれは私が化粧をしていない姿なんだけど、誰か好きになってくれる？🥺\n(๑╹ヮ╹๑)ﾉwww(´∇ﾉ｀*)ノ https://t.co/TsLJ2L5f…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060312904721977344"
+          ]
+        },
+        "author_id": "1667423069076348928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2060312914234647016",
+        "created_at": "2026-05-29T10:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060312914234647016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "男の娘"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsLJ2L5fNv",
+              "end": 122,
+              "expanded_url": "https://x.com/Kan_AyaneZero/status/2060312914234647016/photo/1",
+              "media_key": "3_2060312904721977344",
+              "start": 99,
+              "url": "https://t.co/TsLJ2L5fNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060312914234647016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 504,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#男の娘 #femboy\n日本の友達、こんにちは~私は中国から来た小韓韓韓子です——❤️\nこれは私が化粧をしていない姿なんだけど、誰か好きになってくれる？🥺\n(๑╹ヮ╹๑)ﾉwww(´∇ﾉ｀*)ノ https://t.co/TsLJ2L5fNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 665,
+          "like_count": 1510,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1616
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│成分复杂│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)\n│好哥哥：@ByakuyaHyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 482,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      }
+    ]
+  }
+}

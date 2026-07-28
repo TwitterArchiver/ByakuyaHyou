@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940301614801461673",
+    "created_at": "2025-07-02T06:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T07:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940301614801461673"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "文援"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940301614801461673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940298800582799487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 啊啦～身为你的朋友真的是不忍心看到你如此堕落下去呢，明明做【朋友】不好嘛？\n非要主动的抛弃.....俯身下来作为.....\n伸出手心抵到你的面前，那么？我们～重新开始好嘛～\n为我们的【友谊】干杯吧！🖤亲爱的“朋友”？\n#文援 #文爱 http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940301614801461673].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940301614801461673",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940301614801461673"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2091,
+        "media_key": "3_1940298775228006400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1TdLeXQAAeEnZ.jpg",
+        "width": 1030
+      },
+      {
+        "height": 2146,
+        "media_key": "3_1940298781867532290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1TdkNWYAIvp72.jpg",
+        "width": 1029
+      },
+      {
+        "height": 2025,
+        "media_key": "3_1940298790042320896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1TeCqXwAAkwWg.jpg",
+        "width": 1038
+      },
+      {
+        "height": 2094,
+        "media_key": "3_1940298797638176768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1Tee9XUAAhmAa.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940298775228006400",
+            "3_1940298781867532290",
+            "3_1940298790042320896",
+            "3_1940298797638176768"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940298800582799487",
+        "created_at": "2025-07-02T06:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940298800582799487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "文援"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TP2oA4SgcC",
+              "end": 140,
+              "expanded_url": "https://x.com/ningmeng1245/status/1940298800582799487/photo/1",
+              "media_key": "3_1940298775228006400",
+              "start": 117,
+              "url": "https://t.co/TP2oA4SgcC"
+            },
+            {
+              "display_url": "pic.x.com/TP2oA4SgcC",
+              "end": 140,
+              "expanded_url": "https://x.com/ningmeng1245/status/1940298800582799487/photo/1",
+              "media_key": "3_1940298781867532290",
+              "start": 117,
+              "url": "https://t.co/TP2oA4SgcC"
+            },
+            {
+              "display_url": "pic.x.com/TP2oA4SgcC",
+              "end": 140,
+              "expanded_url": "https://x.com/ningmeng1245/status/1940298800582799487/photo/1",
+              "media_key": "3_1940298790042320896",
+              "start": 117,
+              "url": "https://t.co/TP2oA4SgcC"
+            },
+            {
+              "display_url": "pic.x.com/TP2oA4SgcC",
+              "end": 140,
+              "expanded_url": "https://x.com/ningmeng1245/status/1940298800582799487/photo/1",
+              "media_key": "3_1940298797638176768",
+              "start": 117,
+              "url": "https://t.co/TP2oA4SgcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940298800582799487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啦～身为你的朋友真的是不忍心看到你如此堕落下去呢，明明做【朋友】不好嘛？\n非要主动的抛弃.....俯身下来作为.....\n伸出手心抵到你的面前，那么？我们～重新开始好嘛～\n为我们的【友谊】干杯吧！🖤亲爱的“朋友”？\n#文援 #文爱 https://t.co/TP2oA4SgcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 120,
+          "like_count": 1292,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1498
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "柠檬会在你入睡时会温柔地踏入你的梦境之中，与你交媾❤️为你带来天国般的快乐，洗除一身的疲劳，并同时把你的恶梦吞食，代价仅为一点点精气❤️\n柠檬的企鹅号：3993705909 🚪槛10/r\n备用号：3931225020\ndc：ningmeng0259_69054\n纸飞机：是这个推特号\n姐姐：@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1916291445486719448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849672276704362496/T1yi3w_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 87,
+          "like_count": 31,
+          "listed_count": 9,
+          "media_count": 77,
+          "tweet_count": 1704
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

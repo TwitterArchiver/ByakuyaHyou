@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1933742590782054519",
+    "created_at": "2025-06-14T04:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T05:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933742590782054519"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "无脑贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933742590782054519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931302145262792989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 月月现招真正的“吐⃤钱⃤机⃤”，虽然月月可以和奴很好聊天\n但从没收过真正的贡奴，即无需任何投入单纯上贡就会兴奋，贡奴分真假，假以交换为目的，真贡奴不⃤求⃤回⃤报⃤\n月月也想收那种无脑喷⃤金⃤机⃤无需任何交流，每天自⃤动⃤喷⃤金⃤，一有钱就来贡 #无脑贡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933742590782054519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933742590782054519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933742590782054519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931302102422470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1dB5jbQAAnMwC.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931302102422470656"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1931302145262792989",
+        "created_at": "2025-06-07T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931302145262792989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "贡畜"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "贡奴"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "貢ぎマゾ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCuYUY3QSV",
+              "end": 172,
+              "expanded_url": "https://x.com/yues666/status/1931302145262792989/photo/1",
+              "media_key": "3_1931302102422470656",
+              "start": 149,
+              "url": "https://t.co/zCuYUY3QSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931302145262792989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1357,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "月月现招真正的“吐⃤钱⃤机⃤”，虽然月月可以和奴很好聊天\n但从没收过真正的贡奴，即无需任何投入单纯上贡就会兴奋，贡奴分真假，假以交换为目的，真贡奴不⃤求⃤回⃤报⃤\n月月也想收那种无脑喷⃤金⃤机⃤无需任何交流，每天自⃤动⃤喷⃤金⃤，一有钱就来贡 #无脑贡 #ATM打钱奴 #贡畜 #贡奴 #貢ぎマゾ https://t.co/zCuYUY3QSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1254,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1461
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 12,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 308
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

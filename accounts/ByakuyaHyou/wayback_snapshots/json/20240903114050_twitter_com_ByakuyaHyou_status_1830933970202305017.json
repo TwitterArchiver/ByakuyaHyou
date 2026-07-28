@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830933970202305017",
+    "created_at": "2024-09-03T11:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T12:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830933970202305017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830933970202305017",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830704199820288456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 咕啾咕啾♡（被强行抓住头发贴在屁股上为其清理恶臭屁穴，香舌钻入其中将肮脏污垢舔舐干净后搅弄肠壁~软糯雌熟木瓜巨乳被双手托举成为粗长肉茎的乳肉飞机杯~嫩滑乳肉被先走汁滋润成为油光水滑的白皙奶穴供肉茎抽插爆肏~交合处发出噗叽噗叽的淫靡水声使肉棒动…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830933970202305017].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830933970202305017",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830933970202305017"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830704196347207680"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1830704199820288456",
+        "created_at": "2024-09-02T20:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T21:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830704199820288456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykqpzlv8qq",
+              "end": 167,
+              "expanded_url": "https://twitter.com/shigongyuyue/status/1830704199820288456/photo/1",
+              "media_key": "3_1830704196347207680",
+              "start": 144,
+              "url": "https://t.co/yKQPZlV8Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830704199820288456",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "咕啾咕啾♡（被强行抓住头发贴在屁股上为其清理恶臭屁穴，香舌钻入其中将肮脏污垢舔舐干净后搅弄肠壁~软糯雌熟木瓜巨乳被双手托举成为粗长肉茎的乳肉飞机杯~嫩滑乳肉被先走汁滋润成为油光水滑的白皙奶穴供肉茎抽插爆肏~交合处发出噗叽噗叽的淫靡水声使肉棒动作又粗暴几分）尽情射出来吧♡ #文爱 #文援 https://t.co/yKQPZlV8Qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 84,
+          "like_count": 412,
+          "listed_count": 0,
+          "tweet_count": 475
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族大妖——时宫羽月大人 ，虽然外表看上去与雌性别无二致但其实有着很厉害的性器哦~♡千万不要听信外界那些人家一被肉棒抽脸或者将屁穴坐在脸上就会变成发情杂鱼免费侍奉的谣言!!!很欢迎不知好歹的雄性或者雌性杂鱼来挑战人家~♡ 🚪2783735641",
+        "id": "1388652214395150339",
+        "location": "非常精神病院",
+        "name": "时宫羽月（发情の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451218641723162624/Np6rTPgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1374,
+          "like_count": 6751,
+          "listed_count": 5,
+          "tweet_count": 3566
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

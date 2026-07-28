@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916345065385169091",
+    "created_at": "2025-04-27T04:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916345065385169091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916345065385169091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915037932618219986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “老公 你现在在家吗，有没有吃..嗯呜💚吃晚饭..”\n\n“人家 人家在外面 跑步啦..哈..💚好累哦..~ 最近想 想减肥嘛..”\n\n“就 就我一个人啦..没有别人在旁边..嗯哦哦💚你 你听错了..”\n\n“啪啪声？那是 那是跑步 奶子抖动的声音…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916345065385169091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916345065385169091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916345065385169091"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915037929564688384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpOU2cMaUAAPAxQ.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915037929564688384"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1915037932618219986",
+        "created_at": "2025-04-23T13:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915037932618219986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "电话"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "NTR"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "出轨"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "偷情"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "文爱"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEU3pQtdyr",
+              "end": 196,
+              "expanded_url": "https://x.com/q3233788635/status/1915037932618219986/photo/1",
+              "media_key": "3_1915037929564688384",
+              "start": 173,
+              "url": "https://t.co/xEU3pQtdyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915037932618219986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 17542,
+          "like_count": 280,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "“老公 你现在在家吗，有没有吃..嗯呜💚吃晚饭..”\n\n“人家 人家在外面 跑步啦..哈..💚好累哦..~ 最近想 想减肥嘛..”\n\n“就 就我一个人啦..没有别人在旁边..嗯哦哦💚你 你听错了..”\n\n“啪啪声？那是 那是跑步 奶子抖动的声音...我等会就回去了 先挂..呜哦哦去了💚💚——” #电话 #NTR #出轨 #偷情 #文爱 #文媛 https://t.co/xEU3pQtdyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1127,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1335
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 460,
+          "like_count": 3161,
+          "listed_count": 10,
+          "media_count": 71,
+          "tweet_count": 2936
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

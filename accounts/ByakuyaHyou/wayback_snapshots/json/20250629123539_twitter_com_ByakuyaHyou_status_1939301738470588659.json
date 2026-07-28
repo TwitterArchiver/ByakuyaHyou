@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939301738470588659",
+    "created_at": "2025-06-29T12:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939301738470588659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939301738470588659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917020843496100052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 噫……你……你是谁？不是男友约我来嘛？放开我\n偏移的视线中，注意到角落中一脸兴奋的男友，在男友的注视下，被粗暴的脱光了衣服\n强硬分开的双腿，在没有任何前戏和准备的情况下被强行插入\n欲拒还迎的身体与蜜穴贪婪的吞咽着对方的肉棒，敏感的身体被进一步开…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939301738470588659].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939301738470588659",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939301738470588659"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1917020834918764547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpqgSuRbEAM5m32.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917020834918764547"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1917020843496100052",
+        "created_at": "2025-04-29T00:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T01:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917020843496100052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7h9FkRyU6L",
+              "end": 166,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1917020843496100052/photo/1",
+              "media_key": "3_1917020834918764547",
+              "start": 143,
+              "url": "https://t.co/7h9FkRyU6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917020843496100052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2941,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "噫……你……你是谁？不是男友约我来嘛？放开我\n偏移的视线中，注意到角落中一脸兴奋的男友，在男友的注视下，被粗暴的脱光了衣服\n强硬分开的双腿，在没有任何前戏和准备的情况下被强行插入\n欲拒还迎的身体与蜜穴贪婪的吞咽着对方的肉棒，敏感的身体被进一步开发\n请主人❤️和废物男友💚一起让我高潮吧 https://t.co/7h9FkRyU6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1492
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

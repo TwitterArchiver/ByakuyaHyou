@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841686454545568244",
+    "created_at": "2024-10-03T03:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T04:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841686454545568244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841686454545568244",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840259990462050559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 好诶！鼓掌快要超过150粉啦呢作为福利的话♡那就最近一周的时间会进入全天营业的状态啦♡只要柠檬醒着的话就会回应哦，不过相对的闲聊的时间可能就会减少什么的，同时打算上调一些射精管理什么的价格呢比如300r/周，那么欢迎大家趁着这周的机会来狂欢游…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841686454545568244].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841686454545568244",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841686454545568244"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840259987601530880"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1840259990462050559",
+        "created_at": "2024-09-29T05:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T06:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840259990462050559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXiCo7WY7F",
+              "end": 148,
+              "expanded_url": "https://x.com/ningmeng1245/status/1840259990462050559/photo/1",
+              "media_key": "3_1840259987601530880",
+              "start": 125,
+              "url": "https://t.co/MXiCo7WY7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840259990462050559",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3000,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "好诶！鼓掌快要超过150粉啦呢作为福利的话♡那就最近一周的时间会进入全天营业的状态啦♡只要柠檬醒着的话就会回应哦，不过相对的闲聊的时间可能就会减少什么的，同时打算上调一些射精管理什么的价格呢比如300r/周，那么欢迎大家趁着这周的机会来狂欢游玩呢🖤 https://t.co/MXiCo7WY7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 599,
+          "listed_count": 0,
+          "tweet_count": 749
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "是文援姬～柠檬呢♡欢迎前辈来找柠檬聊天。也欢迎来找柠檬闲聊的哦。不过～柠檬可能会在闲聊的过程中～去玩弄你哦♡\n温柔的S系柠檬哦，轻微重口无论是男孩子还是女孩子都可以找柠檬呢\n柠檬会用自己的文笔来征服每一位来找柠檬的小可爱呢\n柠檬的企鹅号：3993705909 PS：不涉三，纯文字，轻微sm",
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828900159033331712/Yev6Nldq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 28,
+          "like_count": 16,
+          "listed_count": 0,
+          "tweet_count": 61
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

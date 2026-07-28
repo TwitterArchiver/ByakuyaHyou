@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1937707718028198335",
+    "created_at": "2025-06-25T03:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937707718028198335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1506482168284868611",
+          "start": 3,
+          "username": "nili87188421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937707718028198335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937497211325272138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nili87188421: 【炮友招募贴】\n【要求如下】\n\n【雌性：肥腻丰腴媚辱性瘾雌猪身材，丧志毁尊弃脑纵情喷浆劣等畜格❤喜雌竞互毁️谄媚者优先～】\n【雄性：粗俗谩骂过激扯发无理雄性，帅气压胯打桩掌掴奸雌优等男爹❤️喜耍畜虐雌者优先～】\n\n附，自拍、寄语：… http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937707718028198335].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937707718028198335",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937707718028198335"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_1937497083193491460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNfVPUagAQ-B6I.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937497083193491460"
+          ]
+        },
+        "author_id": "1506482168284868611",
+        "conversation_id": "1937497211325272138",
+        "created_at": "2025-06-24T13:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937497211325272138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXoOYvLO2u",
+              "end": 139,
+              "expanded_url": "https://x.com/nili87188421/status/1937497211325272138/photo/1",
+              "media_key": "3_1937497083193491460",
+              "start": 116,
+              "url": "https://t.co/EXoOYvLO2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937497211325272138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 247,
+                "start": 244,
+                "tag": "文媛"
+              },
+              {
+                "end": 251,
+                "start": 248,
+                "tag": "文爱"
+              },
+              {
+                "end": 255,
+                "start": 252,
+                "tag": "语c"
+              },
+              {
+                "end": 259,
+                "start": 256,
+                "tag": "羞辱"
+              },
+              {
+                "end": 263,
+                "start": 260,
+                "tag": "媚辱"
+              },
+              {
+                "end": 267,
+                "start": 264,
+                "tag": "反差"
+              },
+              {
+                "end": 272,
+                "start": 268,
+                "tag": "ntr"
+              }
+            ]
+          },
+          "text": "【炮友招募贴】\n【要求如下】\n\n【雌性：肥腻丰腴媚辱性瘾雌猪身材，丧志毁尊弃脑纵情喷浆劣等畜格❤喜雌竞互毁️谄媚者优先～】\n【雄性：粗俗谩骂过激扯发无理雄性，帅气压胯打桩掌掴奸雌优等男爹❤️喜耍畜虐雌者优先～】\n\n附，自拍、寄语：\n【余下那些，先天只有张干瘪贫瘠二流身材，喜欢挺着三寸的猪茎劣奴……当然，也包括被人家勾搭了老公的女绿废犬们💚也可以在人家招募成功之后默默紧夹酸腐裤裆自亵～跪爬至门廊磕头贡套报销💚说不定～到时候心情尚可，还允许你们滚到床垫底下零距离观赏哦💚可怜畜猡🖕🏻】\n\n＃文媛 ＃文爱 ＃语c ＃羞辱 ＃媚辱 ＃反差 ＃ntr"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1764,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【炮友招募贴】\n【要求如下】\n\n【雌性：肥腻丰腴媚辱性瘾雌猪身材，丧志毁尊弃脑纵情喷浆劣等畜格❤喜雌竞互毁️谄媚者优先～】\n【雄性：粗俗谩骂过激扯发无理雄性，帅气压胯打桩掌掴奸雌优等男爹❤️喜耍畜虐雌者优先～】\n\n附，自拍、寄语： https://t.co/EXoOYvLO2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 119,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1474
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T04:05:22.000Z",
+        "description": "安～这里是倾\n华灯初上，夜影阑珊…客官，真已忙碌到没有落脚闲聊的时候？♡\n昏黄光影下的缠绵总是那般黏腻\n而那倒影…\n究竟是馥郁氤氲的媚喘淫香💜\n亦或是丧志犬畜的洗脑哀嚎🖤\n就请各位亲自登门造访一探究竟咯❤️\n麻麻：@raNraN_1046\n恶魔大人：@YuZhenIsHere\n雌猪姐姐：@baorumingyuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "raNraN_1046"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "YuZhenIsHere"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "baorumingyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fantasyland_qi…",
+                "end": 23,
+                "expanded_url": "http://t.me/Fantasyland_qing",
+                "start": 0,
+                "url": "https://t.co/PkAZrWOQIT"
+              }
+            ]
+          }
+        },
+        "id": "1506482168284868611",
+        "location": "风俗店小屋：221232487",
+        "name": "倾（文媛 现主营各类双人单服务♡沉溺在baka沐冉老婆@NianXJ1024的温柔乡内）",
+        "pinned_tweet_id": "1937497211325272138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828364677346402304/rNuAFIMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6663,
+          "following_count": 2002,
+          "like_count": 4814,
+          "listed_count": 30,
+          "media_count": 176,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/PkAZrWOQIT",
+        "username": "nili87188421",
+        "verified": true
+      }
+    ]
+  }
+}

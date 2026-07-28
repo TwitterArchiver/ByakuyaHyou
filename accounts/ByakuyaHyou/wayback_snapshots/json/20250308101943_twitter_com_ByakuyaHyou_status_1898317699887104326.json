@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898317699887104326",
+    "created_at": "2025-03-08T10:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898317699887104326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898317699887104326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897945996325536068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 一只长着废物鸡巴的发情贱狗～🩷被妈妈像踩鞋垫一样把鸡巴踩烂～🩷\n变成一个流水的骚阴蒂～🩷只会蛇精高潮的丧志母猪～🩷\n你这么恶心的鸡巴母猪～🩷每天站街挨操的骚逼菊花～🩷每天带着被射满精液的菊花爬到妈妈脚下～🩷\n舔干净妈妈的高跟鞋～做母狗的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898317699887104326].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898317699887104326",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898317699887104326"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897945991808208896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glbb0uSa0AAOaV8.jpg",
+        "width": 958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897945991980150785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glbb0u7acAEmLNy.jpg",
+        "width": 971
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1897945992231809024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glbb0v3acAAB1GW.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897945991808208896",
+            "3_1897945991980150785",
+            "3_1897945992231809024"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1897945996325536068",
+        "created_at": "2025-03-07T09:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T10:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897945996325536068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoMpzsOIZD",
+              "end": 166,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897945996325536068/photo/1",
+              "media_key": "3_1897945991808208896",
+              "start": 143,
+              "url": "https://t.co/WoMpzsOIZD"
+            },
+            {
+              "display_url": "pic.x.com/WoMpzsOIZD",
+              "end": 166,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897945996325536068/photo/1",
+              "media_key": "3_1897945991980150785",
+              "start": 143,
+              "url": "https://t.co/WoMpzsOIZD"
+            },
+            {
+              "display_url": "pic.x.com/WoMpzsOIZD",
+              "end": 166,
+              "expanded_url": "https://x.com/Dear34585171693/status/1897945996325536068/photo/1",
+              "media_key": "3_1897945992231809024",
+              "start": 143,
+              "url": "https://t.co/WoMpzsOIZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897945996325536068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 985,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "一只长着废物鸡巴的发情贱狗～🩷被妈妈像踩鞋垫一样把鸡巴踩烂～🩷\n变成一个流水的骚阴蒂～🩷只会蛇精高潮的丧志母猪～🩷\n你这么恶心的鸡巴母猪～🩷每天站街挨操的骚逼菊花～🩷每天带着被射满精液的菊花爬到妈妈脚下～🩷\n舔干净妈妈的高跟鞋～做母狗的感觉好不好啊～🩷\n短小的废物鸡巴开始流精了呢～🩷 https://t.co/WoMpzsOIZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 96,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 975
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1888170530697830524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 90,
+          "like_count": 9,
+          "listed_count": 9,
+          "media_count": 199,
+          "tweet_count": 3014
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

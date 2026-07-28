@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047658733325664679",
+    "created_at": "2026-04-24T22:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047812589728755891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994823590320246784",
+          "start": 0,
+          "username": "Piao_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047812589728755891",
+    "in_reply_to_user_id": "1994823590320246784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047658733325664679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Piao_awa 很可爱？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2047658729995403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq-xBaagAA0q4I.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047658733325664679",
+        "created_at": "2026-04-24T22:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047812589728755891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994823590320246784",
+              "start": 0,
+              "username": "Piao_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047812589728755891",
+        "in_reply_to_user_id": "1994823590320246784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047658733325664679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Piao_awa 很可爱？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047658729995403264"
+          ]
+        },
+        "author_id": "1994823590320246784",
+        "conversation_id": "2047658733325664679",
+        "created_at": "2026-04-24T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047658733325664679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60XccL0z1F",
+              "end": 42,
+              "expanded_url": "https://x.com/Piao_awa/status/2047658733325664679/photo/1",
+              "media_key": "3_2047658729995403264",
+              "start": 19,
+              "url": "https://t.co/60XccL0z1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047658733325664679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 2569,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "好适合和sensei做那个的姿势ww https://t.co/60XccL0z1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 234,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1506
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T17:39:52.000Z",
+        "description": "大号@Piao_ovo被封了T^T\n172/66 缓慢减重中…不踩雷点挺好说话，喜欢可以关注一下嘛谢谢哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Piao_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1994823590320246784",
+        "name": "飘",
+        "pinned_tweet_id": "2047658733325664679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994824610194624523/xfb3nQv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 187,
+          "like_count": 1759,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "Piao_awa",
+        "verified": false
+      }
+    ]
+  }
+}

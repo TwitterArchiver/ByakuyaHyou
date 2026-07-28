@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839743062383440079",
+    "created_at": "2024-09-27T19:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T20:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839743062383440079"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839743062383440079",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839496762702377157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 刚漏出丰满的奶子，男友下边就忍不住喷了出来，不是吧，你这也太废物了吧，这才多久啊，怎么就给你看一眼奶子就射了，还射了我一身\n你也太没用了，记得一会把沾满你那废物精液的衣服洗了，今天刚换的衣服，真是的，贱狗就是贱狗，这辈子都硬不起来了\n#文爱 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839743062383440079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839743062383440079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839743062383440079"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839496750022959104"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1839496762702377157",
+        "created_at": "2024-09-27T02:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T03:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839496762702377157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "文爱"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "文媛"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "芙芙的日常生活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzaidjjo4i",
+              "end": 157,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1839496762702377157/photo/1",
+              "media_key": "3_1839496750022959104",
+              "start": 134,
+              "url": "https://t.co/qzaIdjjo4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839496762702377157",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5174,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "刚漏出丰满的奶子，男友下边就忍不住喷了出来，不是吧，你这也太废物了吧，这才多久啊，怎么就给你看一眼奶子就射了，还射了我一身\n你也太没用了，记得一会把沾满你那废物精液的衣服洗了，今天刚换的衣服，真是的，贱狗就是贱狗，这辈子都硬不起来了\n#文爱 #文媛 #芙芙的日常生活 https://t.co/qzaIdjjo4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 581,
+          "listed_count": 0,
+          "tweet_count": 726
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "大家好呀，这里是枫丹最高人气明星，芙宁娜小姐，欢迎来找我玩哦，接单号3659414428，不涉三，30r0.5h，60r1h，电报请QQ预约哦，霍霍老婆 @huohuo35173  姐妹 @guq1128649  伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida 姐姐 @WLisRBQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "huohuo35173"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "guq1128649"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "xcwnaxida"
+              },
+              {
+                "end": 157,
+                "start": 149,
+                "username": "WLisRBQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://t.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/c22kbZ5Nwt"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "枫丹城内环独栋小别墅",
+        "name": "芙宁娜（互推）",
+        "pinned_tweet_id": "1838813047118533078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838777508478717952/A6Qt-R7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 131,
+          "like_count": 2507,
+          "listed_count": 10,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/c22kbZ5Nwt",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915567208807448620",
+    "created_at": "2025-04-25T00:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T01:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915567208807448620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915567208807448620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912321605465960734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “表面上是清纯可爱天真无邪的少女，私底下却是吐舌献媚精液中毒的母狗，啧啧”\n“嗯呜~对不起汪💖，人家就是喜欢对雌杀巨根主动白给送死的母犬💖，请主人继续用大鸡巴奖励...哦不 惩罚人家叭..💖”\n全身赤裸被绑在凳上，反差小脸满是精浆，腿间牛奶拉丝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915567208807448620].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915567208807448620",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915567208807448620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912321602215170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GonuXYRXUAAsh2t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912321602215170048"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1912321605465960734",
+        "created_at": "2025-04-16T01:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T02:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912321605465960734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文媛"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "媚屌"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文援"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "扶她"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "母狗"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "捆绑"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEyYrYw28c",
+              "end": 177,
+              "expanded_url": "https://x.com/q3233788635/status/1912321605465960734/photo/1",
+              "media_key": "3_1912321602215170048",
+              "start": 154,
+              "url": "https://t.co/IEyYrYw28c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912321605465960734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 15961,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "“表面上是清纯可爱天真无邪的少女，私底下却是吐舌献媚精液中毒的母狗，啧啧”\n“嗯呜~对不起汪💖，人家就是喜欢对雌杀巨根主动白给送死的母犬💖，请主人继续用大鸡巴奖励...哦不 惩罚人家叭..💖”\n全身赤裸被绑在凳上，反差小脸满是精浆，腿间牛奶拉丝粘连💖\n#文媛 #媚屌 #文援 #扶她 #母狗 #捆绑 #反差 https://t.co/IEyYrYw28c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 115,
+          "like_count": 1113,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1320
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 462,
+          "like_count": 3138,
+          "listed_count": 10,
+          "media_count": 70,
+          "tweet_count": 2870
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1855598379662995605",
+    "created_at": "2024-11-10T13:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T14:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855598379662995605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855598379662995605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855396634546598192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “大叔，等会下车要去酒店来一发嘛♡？很便宜的喵”\n坐在旁边轻靠着你，对着你往下解开校服拉链，衣服随之滑落露出白嫩香肩和真空酥软乳球，散发着淡淡的奶香和幼女特有的香甜气味♡\n“这可是没用大叔雏男毕业的好机会哦♡ ”小手搭在嘴边玩弄般的诱惑着你♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1855598379662995605].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1855598379662995605",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1855598379662995605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855396632453664768"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1855396634546598192",
+        "created_at": "2024-11-09T23:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T00:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855396634546598192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文媛"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "文媛姬"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "语c"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "援交"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "勾引"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3T6LUbwUxd",
+              "end": 170,
+              "expanded_url": "https://x.com/q3233788635/status/1855396634546598192/photo/1",
+              "media_key": "3_1855396632453664768",
+              "start": 147,
+              "url": "https://t.co/3T6LUbwUxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855396634546598192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1235,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "“大叔，等会下车要去酒店来一发嘛♡？很便宜的喵”\n坐在旁边轻靠着你，对着你往下解开校服拉链，衣服随之滑落露出白嫩香肩和真空酥软乳球，散发着淡淡的奶香和幼女特有的香甜气味♡\n“这可是没用大叔雏男毕业的好机会哦♡ ”小手搭在嘴边玩弄般的诱惑着你♡\n#文媛 #文媛姬 #语c #援交 #勾引 #学生 https://t.co/3T6LUbwUxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 87,
+          "like_count": 713,
+          "listed_count": 0,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系傍晚和凌晨，平时风格大概系软乎乎可爱一点的，偏受一点，只会一点轻微的s，不会爆粗口，不可以太重口和血腥~不涉三！  30r/30min 50r/1小时，门牌q:939131879（失联可以找推特id下面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依（互关互推♡！）",
+        "pinned_tweet_id": "1854138497478885447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 231,
+          "like_count": 632,
+          "listed_count": 0,
+          "tweet_count": 270
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

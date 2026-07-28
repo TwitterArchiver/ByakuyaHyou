@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2065043048581537833",
+    "created_at": "2026-06-12T04:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065294787939606892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1518667025110999040",
+          "start": 0,
+          "username": "gaoshen63077198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065294787939606892",
+    "in_reply_to_user_id": "1518667025110999040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065043048581537833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoshen63077198 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_2065043042696843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiBtM3WUAA1s85.jpg",
+        "width": 1298
+      },
+      {
+        "height": 1929,
+        "media_key": "3_2065043041916792833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiBtJ9XsAEg1wr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1842,
+        "media_key": "3_2065043043330269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiBtPOXoAAdEYN.jpg",
+        "width": 1410
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065043044257189888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiBtSrXUAAx89D.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2065043048581537833",
+        "created_at": "2026-06-12T04:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065294787939606892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1518667025110999040",
+              "start": 0,
+              "username": "gaoshen63077198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065294787939606892",
+        "in_reply_to_user_id": "1518667025110999040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065043048581537833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoshen63077198 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065043042696843264",
+            "3_2065043041916792833",
+            "3_2065043043330269184",
+            "3_2065043044257189888"
+          ]
+        },
+        "author_id": "1518667025110999040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2065043048581537833",
+        "created_at": "2026-06-11T12:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065043048581537833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "东海帝王"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LY0kxLfoJw",
+              "end": 55,
+              "expanded_url": "https://x.com/gaoshen63077198/status/2065043048581537833/photo/1",
+              "media_key": "3_2065043042696843264",
+              "start": 32,
+              "url": "https://t.co/LY0kxLfoJw"
+            },
+            {
+              "display_url": "pic.x.com/LY0kxLfoJw",
+              "end": 55,
+              "expanded_url": "https://x.com/gaoshen63077198/status/2065043048581537833/photo/1",
+              "media_key": "3_2065043041916792833",
+              "start": 32,
+              "url": "https://t.co/LY0kxLfoJw"
+            },
+            {
+              "display_url": "pic.x.com/LY0kxLfoJw",
+              "end": 55,
+              "expanded_url": "https://x.com/gaoshen63077198/status/2065043048581537833/photo/1",
+              "media_key": "3_2065043043330269184",
+              "start": 32,
+              "url": "https://t.co/LY0kxLfoJw"
+            },
+            {
+              "display_url": "pic.x.com/LY0kxLfoJw",
+              "end": 55,
+              "expanded_url": "https://x.com/gaoshen63077198/status/2065043048581537833/photo/1",
+              "media_key": "3_2065043044257189888",
+              "start": 32,
+              "url": "https://t.co/LY0kxLfoJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065043048581537833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 562,
+          "impression_count": 63093,
+          "like_count": 1500,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "新人报告，请多指教 。是公马）  #男娘 #ウマ娘 #东海帝王 https://t.co/LY0kxLfoJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 822,
+          "like_count": 1549,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1634
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-25T19:03:55.000Z",
+        "description": "喜欢马娘，成为马娘，超越马娘（存疑）  见习男娘COS 。 请多关照。",
+        "id": "1518667025110999040",
+        "name": "阿梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065009058147356672/Ct5M6grG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 561,
+          "like_count": 38,
+          "listed_count": 7,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "gaoshen63077198",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1845200974572552243",
+    "created_at": "2026-01-20T12:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013589716806070516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565298898821959681",
+          "start": 0,
+          "username": "min95384138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013589716806070516",
+    "in_reply_to_user_id": "1565298898821959681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845200974572552243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@min95384138 肏死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1845200972165021699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZt4ggUaAAMBYgC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1845200974572552243",
+        "created_at": "2026-01-20T12:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013589716806070516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565298898821959681",
+              "start": 0,
+              "username": "min95384138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013589716806070516",
+        "in_reply_to_user_id": "1565298898821959681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845200974572552243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@min95384138 肏死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1845200972165021699"
+          ]
+        },
+        "author_id": "1565298898821959681",
+        "conversation_id": "1845200974572552243",
+        "created_at": "2024-10-12T20:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-12T21:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845200974572552243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "伪娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "白丝"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "小鸡鸡"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "湖州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3tPi4Z6BB",
+              "end": 67,
+              "expanded_url": "https://x.com/min95384138/status/1845200974572552243/photo/1",
+              "media_key": "3_1845200972165021699",
+              "start": 44,
+              "url": "https://t.co/y3tPi4Z6BB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1845200974572552243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 22259,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "做男娘这辈子是没了  现在小鸡鸡也操不了b了 #男娘 #伪娘 #白丝 #小鸡鸡 #湖州 https://t.co/y3tPi4Z6BB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 216,
+          "like_count": 1374,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1528
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T11:22:02.000Z",
+        "description": "🚪200 不过不加好友 白嫖怪滚\n坐标0572 偶尔上线  162 95\n欢迎私信骚扰辱骂  \n求打赏丝袜 超级超级喜欢丝袜\nq1903526906 写好备注",
+        "id": "1565298898821959681",
+        "location": "湖州",
+        "name": "昕昕",
+        "pinned_tweet_id": "1845553814075744390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689219122562019328/gTKtrrb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 615,
+          "like_count": 231,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 347
+        },
+        "username": "min95384138",
+        "verified": false
+      }
+    ]
+  }
+}

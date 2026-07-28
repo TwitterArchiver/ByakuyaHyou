@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914201633774330327",
+    "created_at": "2025-04-21T06:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914201633774330327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914201633774330327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835285731507618079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 同桌❤️～在做什么呢～怎么在发呆呢～在想我嘛～明明上课时候偷偷解开好多次了～同桌就是不看，死木头～\n呐，现在没人，要摸一模嘛～嗯哼～想做一些更舒服的事情当然也是可以的喽～\n嘘～小处男❤️～\n什么都不会的话，交给我就好啦～\n如果想要主动～❤️哼哼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914201633774330327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914201633774330327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914201633774330327"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1835285729330757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXg-paYagAA5q9z.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835285729330757632"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1835285731507618079",
+        "created_at": "2024-09-15T11:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T12:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835285731507618079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文爱"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文媛"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "语爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FySsstItb6",
+              "end": 164,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1835285731507618079/photo/1",
+              "media_key": "3_1835285729330757632",
+              "start": 141,
+              "url": "https://t.co/FySsstItb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835285731507618079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2304,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "同桌❤️～在做什么呢～怎么在发呆呢～在想我嘛～明明上课时候偷偷解开好多次了～同桌就是不看，死木头～\n呐，现在没人，要摸一模嘛～嗯哼～想做一些更舒服的事情当然也是可以的喽～\n嘘～小处男❤️～\n什么都不会的话，交给我就好啦～\n如果想要主动～❤️哼哼～也可以哦～\n#文爱 #文媛 #语爱 https://t.co/FySsstItb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 115,
+          "like_count": 1077,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1283
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1842486420457640012",
+    "created_at": "2024-10-05T08:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842486420457640012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842486420457640012",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842138261491466302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 疯狂的音乐和狂野的性爱，你想要哪一个。都要也可以，但就贪心了点。要是想再听我的演唱，三个愿望可以一次实现。但当然，你不会介意把吉他换成股吧~❤️但当然，这么费力气的私人演唱会，门票肯定很贵，你做好准备了？既然如此，可一定要坚持到明天太阳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1842486420457640012",
+        "created_at": "2024-10-05T08:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T09:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842486420457640012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1333389623452520455",
+              "start": 3,
+              "username": "bmEwUNVRXcP5w53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842486420457640012",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842138261491466302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bmEwUNVRXcP5w53: 疯狂的音乐和狂野的性爱，你想要哪一个。都要也可以，但就贪心了点。要是想再听我的演唱，三个愿望可以一次实现。但当然，你不会介意把吉他换成股吧~❤️但当然，这么费力气的私人演唱会，门票肯定很贵，你做好准备了？既然如此，可一定要坚持到明天太阳…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842138258756771840"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1842138261491466302",
+        "created_at": "2024-10-04T09:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T10:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842138261491466302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文援"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPSJzasg3Q",
+              "end": 162,
+              "expanded_url": "https://x.com/bmEwUNVRXcP5w53/status/1842138261491466302/photo/1",
+              "media_key": "3_1842138258756771840",
+              "start": 139,
+              "url": "https://t.co/qPSJzasg3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842138261491466302",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1346,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂的音乐和狂野的性爱，你想要哪一个。都要也可以，但就贪心了点。要是想再听我的演唱，三个愿望可以一次实现。但当然，你不会介意把吉他换成股吧~❤️但当然，这么费力气的私人演唱会，门票肯定很贵，你做好准备了？既然如此，可一定要坚持到明天太阳升起来啊~❤️\n#文援 #文爱 #性幻想 https://t.co/qPSJzasg3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 84,
+          "like_count": 619,
+          "listed_count": 0,
+          "tweet_count": 775
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2094108443 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 115,
+          "like_count": 250,
+          "listed_count": 2,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1933517883289841727",
+    "created_at": "2025-06-13T13:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933517883289841727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933517883289841727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933242476753793364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 呼~老公你回来啦~ 欢迎 哈啊~欢迎回家💚？（气喘吁吁的侧躺在双人爱床上，门口的鞋子七倒八歪）\n没事啦~ 老公还真是 温柔呢~💚 老婆身体不要紧的哦~ 才不会是刚和炮友出轨 在和你睡觉的双人床上 看着和你的“幸福”双人照 狠狠地打了一炮呢💚\n#…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933517883289841727].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933517883289841727",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933517883289841727"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1933242473998123008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRByY9bAAAxFtv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933242473998123008"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1933242476753793364",
+        "created_at": "2025-06-12T19:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933242476753793364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "出轨"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "NTR"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "爱的谎言"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "白丝萝莉"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "事后"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "绿帽"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "绿奴"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdKUwXjR8k",
+              "end": 182,
+              "expanded_url": "https://x.com/q3233788635/status/1933242476753793364/photo/1",
+              "media_key": "3_1933242473998123008",
+              "start": 159,
+              "url": "https://t.co/rdKUwXjR8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933242476753793364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2878,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "呼~老公你回来啦~ 欢迎 哈啊~欢迎回家💚？（气喘吁吁的侧躺在双人爱床上，门口的鞋子七倒八歪）\n没事啦~ 老公还真是 温柔呢~💚 老婆身体不要紧的哦~ 才不会是刚和炮友出轨 在和你睡觉的双人床上 看着和你的“幸福”双人照 狠狠地打了一炮呢💚\n#出轨 #NTR #爱的谎言💚 #白丝萝莉 #事后 #绿帽 #绿奴 #文爱 https://t.co/rdKUwXjR8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1254,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1460
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3223,
+          "following_count": 457,
+          "like_count": 3349,
+          "listed_count": 14,
+          "media_count": 89,
+          "tweet_count": 3897
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

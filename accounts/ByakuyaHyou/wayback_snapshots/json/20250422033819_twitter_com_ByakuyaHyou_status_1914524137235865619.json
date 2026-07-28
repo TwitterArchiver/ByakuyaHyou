@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914524137235865619",
+    "created_at": "2025-04-22T03:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914524137235865619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914524137235865619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913992282531074518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “嗨~老公，我回来拿个东西就走~这是...我雇的司机啦，人家等得太着急就跟来了~💚”\n“嗯..？你说我这样子是怎么回事...？啊哈哈，是刚从外面小跑回来，所以有些热在流汗呢💚”\n“嘴上的毛...？是外面饭店师傅的吧，做饭还真是不小心呢，害人家吃…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914524137235865619].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914524137235865619",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914524137235865619"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1913992279351775232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_d1lmaUAAWTI7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913992279351775232"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1913992282531074518",
+        "created_at": "2025-04-20T16:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913992282531074518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "ntr"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文媛"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文援"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "绿帽"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "出轨"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "隐奸"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG1f5uYF6z",
+              "end": 185,
+              "expanded_url": "https://x.com/q3233788635/status/1913992282531074518/photo/1",
+              "media_key": "3_1913992279351775232",
+              "start": 162,
+              "url": "https://t.co/KG1f5uYF6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913992282531074518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4964,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "“嗨~老公，我回来拿个东西就走~这是...我雇的司机啦，人家等得太着急就跟来了~💚”\n“嗯..？你说我这样子是怎么回事...？啊哈哈，是刚从外面小跑回来，所以有些热在流汗呢💚”\n“嘴上的毛...？是外面饭店师傅的吧，做饭还真是不小心呢，害人家吃一嘴‘头发’..💚”\n#ntr #文媛 #文援 #绿帽 #出轨 #隐奸 #文爱 https://t.co/KG1f5uYF6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 115,
+          "like_count": 1084,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1287
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 459,
+          "like_count": 3136,
+          "listed_count": 10,
+          "media_count": 69,
+          "tweet_count": 2810
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

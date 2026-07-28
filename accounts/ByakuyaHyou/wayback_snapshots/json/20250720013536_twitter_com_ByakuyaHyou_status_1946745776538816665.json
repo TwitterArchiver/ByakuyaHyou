@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946745776538816665",
+    "created_at": "2025-07-20T01:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946745776538816665"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "男娘"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "上贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725894698567360512",
+          "start": 3,
+          "username": "yizhixiaobaiqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946745776538816665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946531908361318521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yizhixiaobaiqaq: 诶哟~废物公畜~人家已经被主人爹爹牢牢控制了呢~诶♡短小肉棒反而有感觉的勃起了吗？真是下贱呀~乖乖给人家和主人爹爹贡出开房钱叭~如果识趣点的话，说不定能给贱狗听一听，我们交配的声音噢♡当然~套套也要~报销噢 #男娘\n#上贡 #ATM提款…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946745776538816665].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946745776538816665",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946745776538816665"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946531905089732609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwN4dFrWgAEHuEV.jpg",
+        "width": 1636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946531905089732609"
+          ]
+        },
+        "author_id": "1725894698567360512",
+        "conversation_id": "1946531908361318521",
+        "created_at": "2025-07-19T11:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946531908361318521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男娘"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "上贡"
+            },
+            {
+              "end": 119,
+              "start": 112,
+              "tag": "ATM提款机"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "倒贴"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "白给"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "报销"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "账单"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEXDNHPpzc",
+              "end": 159,
+              "expanded_url": "https://x.com/yizhixiaobaiqaq/status/1946531908361318521/photo/1",
+              "media_key": "3_1946531905089732609",
+              "start": 136,
+              "url": "https://t.co/fEXDNHPpzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946531908361318521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2930,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "诶哟~废物公畜~人家已经被主人爹爹牢牢控制了呢~诶♡短小肉棒反而有感觉的勃起了吗？真是下贱呀~乖乖给人家和主人爹爹贡出开房钱叭~如果识趣点的话，说不定能给贱狗听一听，我们交配的声音噢♡当然~套套也要~报销噢 #男娘\n#上贡 #ATM提款机 #倒贴 #白给 #报销 #账单 https://t.co/fEXDNHPpzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 134,
+          "like_count": 1342,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1525
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T15:12:44.000Z",
+        "description": "是男娘哦🖤 爱玩CS \n喜无脑贡奴ATM 努力收上贡买m9刺刀 🚪45 可以帮忙毁号哦🖤 盗图的死全家。                 \n     群号:643550445",
+        "id": "1725894698567360512",
+        "name": "小白qaq（互推）",
+        "pinned_tweet_id": "1941462234443751799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942165590141186048/k-30Et3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 11,
+          "like_count": 2385,
+          "listed_count": 14,
+          "media_count": 43,
+          "tweet_count": 270
+        },
+        "username": "yizhixiaobaiqaq",
+        "verified": false
+      }
+    ]
+  }
+}

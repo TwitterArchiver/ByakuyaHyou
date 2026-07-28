@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838232774089883679",
+    "created_at": "2024-09-23T15:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838232774089883679"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "文援"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "魅魔"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838232774089883679",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838021785725607952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 喂喂！（敲门声）听说你很勇哦肥宅先生，一天自慰十次？（推门）你一个人在家？哦~你居然敢一个人在家~❤️（关门）筐里面的自己选一个，别让我废话哦~如果非要强制的话，小心人家一个不小心给你榨干了哦❤️快点，别磨磨蹭蹭的！\n#文援 #魅魔 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838232774089883679].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838232774089883679",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838232774089883679"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838021782349234176"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838021785725607952",
+        "created_at": "2024-09-23T01:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T02:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838021785725607952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "文援"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "魅魔"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "榨精"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nttppqadwh",
+              "end": 144,
+              "expanded_url": "https://twitter.com/bmEwUNVRXcP5w53/status/1838021785725607952/photo/1",
+              "media_key": "3_1838021782349234176",
+              "start": 121,
+              "url": "https://t.co/nTTpPqaDWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838021785725607952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 846,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "喂喂！（敲门声）听说你很勇哦肥宅先生，一天自慰十次？（推门）你一个人在家？哦~你居然敢一个人在家~❤️（关门）筐里面的自己选一个，别让我废话哦~如果非要强制的话，小心人家一个不小心给你榨干了哦❤️快点，别磨磨蹭蹭的！\n#文援 #魅魔 #榨精 https://t.co/nTTpPqaDWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 82,
+          "like_count": 555,
+          "listed_count": 0,
+          "tweet_count": 681
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2094108443 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 107,
+          "like_count": 164,
+          "listed_count": 0,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

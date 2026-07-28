@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1904025070986543334",
+    "created_at": "2025-03-24T04:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904025070986543334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "文援姬"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "音援姬"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "连麦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904025070986543334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903405699864113192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 阿拉～🖤阿拉～🖤杂鱼处男就应该这样对待呢～🖤没用的废物嘻嘻～🖤真是恶心～🖤只是被妈妈这样踩着就忍不住了嘛？噗嗤～🖤最后竟然秒射了不过坚持这么久～🖤算是比较厉害了呢～🖤不过处男终究还是杂鱼死处男嘻嘻～🖤贱狗噌～\n#文援姬 #音援姬 #连麦 #萝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9740,
+        "height": 1280,
+        "media_key": "7_1903405687146954753",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903405687146954753/pu/img/dqoDT3qFNBuXcG-w.jpg",
+        "public_metrics": {
+          "view_count": 819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903405687146954753/pu/vid/avc1/320x710/PY9Q5JTAp5m7lBtS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903405687146954753/pu/vid/avc1/480x1066/ABgbSwHhBywiHl3B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903405687146954753/pu/vid/avc1/576x1280/ZtB_f0L9EENByQWz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903405687146954753/pu/pl/aGpEb7xtBWeVdKTl.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1904025070986543334",
+        "created_at": "2025-03-24T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904025070986543334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "文援姬"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "音援姬"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "连麦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904025070986543334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903405699864113192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 阿拉～🖤阿拉～🖤杂鱼处男就应该这样对待呢～🖤没用的废物嘻嘻～🖤真是恶心～🖤只是被妈妈这样踩着就忍不住了嘛？噗嗤～🖤最后竟然秒射了不过坚持这么久～🖤算是比较厉害了呢～🖤不过处男终究还是杂鱼死处男嘻嘻～🖤贱狗噌～\n#文援姬 #音援姬 #连麦 #萝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903405687146954753"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1903405699864113192",
+        "created_at": "2025-03-22T11:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903405699864113192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "文援姬"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "音援姬"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "连麦"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "粗口"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "寸止"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "atm"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "榨金"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "黑心"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "女s"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjykUt6mIU",
+              "end": 176,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1903405699864113192/video/1",
+              "media_key": "7_1903405687146954753",
+              "start": 153,
+              "url": "https://t.co/wjykUt6mIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903405699864113192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3272,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "阿拉～🖤阿拉～🖤杂鱼处男就应该这样对待呢～🖤没用的废物嘻嘻～🖤真是恶心～🖤只是被妈妈这样踩着就忍不住了嘛？噗嗤～🖤最后竟然秒射了不过坚持这么久～🖤算是比较厉害了呢～🖤不过处男终究还是杂鱼死处男嘻嘻～🖤贱狗噌～\n#文援姬 #音援姬 #连麦 #萝莉s #粗口 #寸止 #atm #榨金 #黑心 #女s #绿帽 https://t.co/wjykUt6mIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 105,
+          "like_count": 948,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1120
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 13,
+          "like_count": 3042,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 3823
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1829821077289152512"
+      ],
+      "media_source_tweet_id": [
+        "1829821318444831106"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833123961535599037",
+    "created_at": "2024-09-09T12:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T13:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833123961535599037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "网调"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "压榨"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "提款机"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "上贡"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "原味"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "丝袜"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "臭脚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745263318682464256",
+          "start": 3,
+          "username": "shon1088657"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7nyuwz3b4e",
+          "end": 116,
+          "expanded_url": "https://twitter.com/shon1088657/status/1829821318444831106/video/1",
+          "media_key": "7_1829821077289152512",
+          "start": 93,
+          "url": "https://t.co/7nyUWz3B4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833123961535599037",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829821318444831106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @shon1088657: 一群傻逼被女神提款是不很爽呀？就喜欢给07女神当牛做马是吗？\n想要本人音频视频的加主页v和Q\n#网调 #压榨 #提款机 #上贡 #原味 #丝袜 #臭脚 https://t.co/7nyUWz3B4E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833123961535599037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833123961535599037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833123961535599037"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60139,
+        "height": 1280,
+        "media_key": "7_1829821077289152512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1829821077289152512/pu/img/rM55jFga2Q8AGBub.jpg",
+        "public_metrics": {
+          "view_count": 3365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829821077289152512/pu/vid/avc1/320x568/xhFy1HN_q_0GzYBQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829821077289152512/pu/vid/avc1/480x852/n04n6sCEf9aaDroe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829821077289152512/pu/vid/avc1/720x1280/I_KQPsYvB5DsuSTU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1829821077289152512/pu/pl/gqBQ0h1GLKNLk-Gk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829821077289152512"
+          ]
+        },
+        "author_id": "1745263318682464256",
+        "conversation_id": "1829821318444831106",
+        "created_at": "2024-08-31T09:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T10:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829821318444831106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "网调"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "压榨"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "提款机"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "上贡"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "原味"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "丝袜"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "臭脚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nyuwz3b4e",
+              "end": 99,
+              "expanded_url": "https://twitter.com/shon1088657/status/1829821318444831106/video/1",
+              "media_key": "7_1829821077289152512",
+              "start": 76,
+              "url": "https://t.co/7nyUWz3B4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829821318444831106",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 16371,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "一群傻逼被女神提款是不很爽呀？就喜欢给07女神当牛做马是吗？\n想要本人音频视频的加主页v和Q\n#网调 #压榨 #提款机 #上贡 #原味 #丝袜 #臭脚 https://t.co/7nyUWz3B4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 81,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 545
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T01:56:55.000Z",
+        "description": "v号：qwertyuiop151639\nQ号：3973887533🚪25\n（带着口令红包不然不加）\n高中少女享受型人格擅长各种情节调教出原味黑丝白袜，音频视频连麦粗口等，可私人订制。狗儿子观望什么呢?来找你亲妈定制!!!口嗨白嫖low货勿加!!",
+        "id": "1745263318682464256",
+        "location": "临沂",
+        "name": "高中黑心妹",
+        "pinned_tweet_id": "1745267957721112994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776967894364192769/tuq0NQFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 4,
+          "like_count": 47,
+          "listed_count": 18,
+          "tweet_count": 436
+        },
+        "username": "shon1088657",
+        "verified": false
+      }
+    ]
+  }
+}

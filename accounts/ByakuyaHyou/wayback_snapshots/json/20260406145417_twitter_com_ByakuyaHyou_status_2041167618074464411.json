@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2041015102787522727",
+    "created_at": "2026-04-06T14:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041167618074464411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963780659996196864",
+          "start": 0,
+          "username": "eryueeryueqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041167618074464411",
+    "in_reply_to_user_id": "1963780659996196864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041015102787522727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eryueeryueqi 很可爱哦宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041015084185714688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMkZ8IagAAU5IV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041015084521328640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMkZ9YbkAAV1uH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2041015102787522727",
+        "created_at": "2026-04-06T14:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041167618074464411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963780659996196864",
+              "start": 0,
+              "username": "eryueeryueqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041167618074464411",
+        "in_reply_to_user_id": "1963780659996196864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041015102787522727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eryueeryueqi 很可爱哦宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041015084185714688",
+            "3_2041015084521328640"
+          ]
+        },
+        "author_id": "1963780659996196864",
+        "conversation_id": "2041015102787522727",
+        "created_at": "2026-04-06T04:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041015102787522727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "伪娘"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "男の娘ᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09neIIWgsB",
+              "end": 42,
+              "expanded_url": "https://x.com/eryueeryueqi/status/2041015102787522727/photo/1",
+              "media_key": "3_2041015084185714688",
+              "start": 19,
+              "url": "https://t.co/09neIIWgsB"
+            },
+            {
+              "display_url": "pic.x.com/09neIIWgsB",
+              "end": 42,
+              "expanded_url": "https://x.com/eryueeryueqi/status/2041015102787522727/photo/1",
+              "media_key": "3_2041015084521328640",
+              "start": 19,
+              "url": "https://t.co/09neIIWgsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041015102787522727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 661,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，来吧 #男娘 #伪娘 #男の娘ᅠ https://t.co/09neIIWgsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 229,
+          "like_count": 1352,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1503
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T01:46:23.000Z",
+        "description": "无糖南梁  04/165/55 ，苏州，看色图去媒体，同好贴贴",
+        "id": "1963780659996196864",
+        "location": "0",
+        "name": "二月七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261000795934720/GhOdbf_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 154,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 52
+        },
+        "username": "eryueeryueqi",
+        "verified": false
+      }
+    ]
+  }
+}

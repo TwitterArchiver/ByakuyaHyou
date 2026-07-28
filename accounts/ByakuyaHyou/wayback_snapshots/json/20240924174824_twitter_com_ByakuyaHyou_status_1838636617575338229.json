@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838636617575338229",
+    "created_at": "2024-09-24T17:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T18:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838636617575338229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838636617575338229",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838378475671208437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 呐～杂鱼哥哥～♡想要被语音调教的只有今天惹～♡明天之后可能要暂时几天不能陪伴惹～♡语音暂时不能～♡不过想要被辱骂羞辱或许还是可以的～♡呐～♡毕竟杂鱼就是喜欢被踩在脚下羞辱～♡文字的话有的时候会副本一些呢～♡不过偷偷来调教杂鱼也比较刺激吶～♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838636617575338229].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838636617575338229",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838636617575338229"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838378473158774784"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1838378475671208437",
+        "created_at": "2024-09-24T00:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T01:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838378475671208437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "文援姬"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "音援"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "性幻想"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6adhc8ohrc",
+              "end": 167,
+              "expanded_url": "https://twitter.com/yuan_wen4527/status/1838378475671208437/photo/1",
+              "media_key": "3_1838378473158774784",
+              "start": 144,
+              "url": "https://t.co/6Adhc8OHRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838378475671208437",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 963,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "呐～杂鱼哥哥～♡想要被语音调教的只有今天惹～♡明天之后可能要暂时几天不能陪伴惹～♡语音暂时不能～♡不过想要被辱骂羞辱或许还是可以的～♡呐～♡毕竟杂鱼就是喜欢被踩在脚下羞辱～♡文字的话有的时候会副本一些呢～♡不过偷偷来调教杂鱼也比较刺激吶～♡\n#文援姬 #音援 #文爱 #性幻想 #雌小鬼 https://t.co/6Adhc8OHRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 83,
+          "like_count": 569,
+          "listed_count": 0,
+          "tweet_count": 702
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "一只文援小萝莉吖~现实处女，不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 5,
+          "like_count": 69,
+          "listed_count": 0,
+          "tweet_count": 83
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

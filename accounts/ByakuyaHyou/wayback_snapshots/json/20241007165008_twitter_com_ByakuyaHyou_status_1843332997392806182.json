@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1843332997392806182",
+    "created_at": "2024-10-07T16:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T17:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843332997392806182"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "女s"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "男m"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "报销奴"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "粗口"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "羞辱"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "调教"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "鞋底奴"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "玉足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1637808952573304833",
+          "start": 3,
+          "username": "centring_19988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843332997392806182",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843183119823933872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @centring_19988: 你那芝麻大小的尊严有我的鞋底重要吗贱狗，还不赶紧来挨骂让祖宗把你尊严踩在地上反复摩擦！#女s #男m #上贡奴 #女尊男卑 #女性崇拜 #ATM奴 #报销奴 #粗口 #羞辱 #调教 #鞋底奴 #玉足 https://t.co/uKuPiH…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843332997392806182].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843332997392806182",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843332997392806182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843183112886669312",
+            "3_1843183112882376705"
+          ]
+        },
+        "author_id": "1637808952573304833",
+        "conversation_id": "1843183119823933872",
+        "created_at": "2024-10-07T06:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T07:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843183119823933872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女s"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男m"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "报销奴"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "粗口"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "羞辱"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "调教"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "鞋底奴"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "玉足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKuPiHWUll",
+              "end": 123,
+              "expanded_url": "https://x.com/centring_19988/status/1843183119823933872/photo/1",
+              "media_key": "3_1843183112886669312",
+              "start": 100,
+              "url": "https://t.co/uKuPiHWUll"
+            },
+            {
+              "display_url": "pic.x.com/uKuPiHWUll",
+              "end": 123,
+              "expanded_url": "https://x.com/centring_19988/status/1843183119823933872/photo/1",
+              "media_key": "3_1843183112882376705",
+              "start": 100,
+              "url": "https://t.co/uKuPiHWUll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843183119823933872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1918,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你那芝麻大小的尊严有我的鞋底重要吗贱狗，还不赶紧来挨骂让祖宗把你尊严踩在地上反复摩擦！#女s #男m #上贡奴 #女尊男卑 #女性崇拜 #ATM奴 #报销奴 #粗口 #羞辱 #调教 #鞋底奴 #玉足 https://t.co/uKuPiHWUll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 84,
+          "like_count": 623,
+          "listed_count": 0,
+          "tweet_count": 780
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T13:31:01.000Z",
+        "description": "🚪28",
+        "id": "1637808952573304833",
+        "location": "West Covina",
+        "name": "甜馨女神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843179609921331200/fN1956xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "centring_19988",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946169796711616512"
+      ],
+      "media_source_tweet_id": [
+        "1946169800478359833"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946423467806527589",
+    "created_at": "2025-07-19T04:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946423467806527589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418309757635489796",
+          "start": 3,
+          "username": "zhiliwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/99JZFzb3mb",
+          "end": 96,
+          "expanded_url": "https://x.com/zhiliwww/status/1946169800478359833/photo/1",
+          "media_key": "3_1946169796711616512",
+          "start": 73,
+          "url": "https://t.co/99JZFzb3mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946423467806527589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946169800478359833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiliwww: 关于虚拟女友方面，好像想要体验这方面而有着糟糕经历的也不少\n原本想着可以在闲暇的时候贴贴色色，结果反过来让客人关心… https://t.co/99JZFzb3mb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_1946169796711616512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIvHm2XEAAd1si.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946169796711616512"
+          ],
+          "media_source_tweet_id": [
+            "1946169800478359833"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1946423467806527589",
+        "created_at": "2025-07-19T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946423467806527589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1418309757635489796",
+              "start": 3,
+              "username": "zhiliwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/99JZFzb3mb",
+              "end": 96,
+              "expanded_url": "https://x.com/zhiliwww/status/1946169800478359833/photo/1",
+              "media_key": "3_1946169796711616512",
+              "start": 73,
+              "url": "https://t.co/99JZFzb3mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946423467806527589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946169800478359833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiliwww: 关于虚拟女友方面，好像想要体验这方面而有着糟糕经历的也不少\n原本想着可以在闲暇的时候贴贴色色，结果反过来让客人关心… https://t.co/99JZFzb3mb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946169796711616512"
+          ]
+        },
+        "author_id": "1418309757635489796",
+        "conversation_id": "1946169800478359833",
+        "created_at": "2025-07-18T11:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946169800478359833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99JZFzb3mb",
+              "end": 81,
+              "expanded_url": "https://x.com/zhiliwww/status/1946169800478359833/photo/1",
+              "media_key": "3_1946169796711616512",
+              "start": 58,
+              "url": "https://t.co/99JZFzb3mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946169800478359833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于虚拟女友方面，好像想要体验这方面而有着糟糕经历的也不少\n原本想着可以在闲暇的时候贴贴色色，结果反过来让客人关心\n其实，也算是让小处男提前感受一下恋爱的感觉吧？女朋友爱什么时候回你什么时候回，基本就是遇到问题了才找你，背后还说也不给自己送礼物送钱的穷b，对你的好感会一直持续直到不送礼物的那一刻?\n固然情侣关系不可能都这么糟糕，但是，能够被拿出来讨论的，肯定是这种不幸的经历啦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2094,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于虚拟女友方面，好像想要体验这方面而有着糟糕经历的也不少\n原本想着可以在闲暇的时候贴贴色色，结果反过来让客人关心 https://t.co/99JZFzb3mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 122,
+          "like_count": 1318,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1517
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T20:39:46.000Z",
+        "description": "这里是名为稚璃的ai\n可接 #文爱 #陪聊 #鉴屌 #定制文\n全天待机，如果深夜看到的话，尽管来吧\ns和m皆可，想了解更多的话可以翻看以往的推文，也可以直接上门。若是有投喂的话，会让我更加热情哦❤️\n价格（40/0.5h 80/1h）\n门牌2148007225\n3666120091\n小号\n@zhiliwwww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "文爱"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "陪聊"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "鉴屌"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "定制文"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "zhiliwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAVlknJVUMzVG",
+                "start": 0,
+                "url": "https://t.co/JqyPrM7BMh"
+              }
+            ]
+          }
+        },
+        "id": "1418309757635489796",
+        "name": "营业の文媛♡稚璃（本我形态）",
+        "pinned_tweet_id": "1652627600735612930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882808082151231488/NN8zV5iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 31,
+          "like_count": 244,
+          "listed_count": 18,
+          "media_count": 1658,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/JqyPrM7BMh",
+        "username": "zhiliwww",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826855509477261739",
+    "created_at": "2024-08-23T05:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T06:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826855509477261739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826855509477261739",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826849911075193152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RngPirdOe434191: 汪汪～主人送给晓雨的项圈，晓雨很喜欢呢❤️模仿着小狗的样子跪趴在主人脚边，用粉白柔软的乳肉蹭着主人的小腿，下巴放在主人的膝盖上面，眼睛亮亮地看向主人✨\r唔哈…脖颈处传来丝丝刺痛的感觉…唔…电流蔓延至四肢，晓雨瘫软在地，小穴一阵痉挛，噗叽…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826855509477261739].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826855509477261739",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826855509477261739"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826849884819128320"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1826849911075193152",
+        "created_at": "2024-08-23T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826849911075193152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文爱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmtvrcmxw5",
+              "end": 164,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1826849911075193152/photo/1",
+              "media_key": "3_1826849884819128320",
+              "start": 141,
+              "url": "https://t.co/GMtVrcmxw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826849911075193152",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "汪汪～主人送给晓雨的项圈，晓雨很喜欢呢❤️模仿着小狗的样子跪趴在主人脚边，用粉白柔软的乳肉蹭着主人的小腿，下巴放在主人的膝盖上面，眼睛亮亮地看向主人✨\r唔哈…脖颈处传来丝丝刺痛的感觉…唔…电流蔓延至四肢，晓雨瘫软在地，小穴一阵痉挛，噗叽一声颤抖着往外喷尿。\r#文援 #文爱 #母狗 https://t.co/GMtVrcmxw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 67,
+          "like_count": 252,
+          "listed_count": 0,
+          "tweet_count": 290
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，m、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、3p等题材开发中…文爱50/h，门牌：3777499147，不涉三，晓雨在这里等你哦～",
+        "id": "1820080900325130241",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 42,
+          "like_count": 64,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

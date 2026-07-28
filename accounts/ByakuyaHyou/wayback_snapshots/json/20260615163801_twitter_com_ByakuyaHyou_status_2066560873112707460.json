@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2066516672710901899",
+    "created_at": "2026-06-15T16:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066560873112707460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1457184321962270720",
+          "start": 0,
+          "username": "longwangmana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066560873112707460",
+    "in_reply_to_user_id": "1457184321962270720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066516672710901899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longwangmana 很好看哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066516588933832704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2944XaYAAV2mp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2066516672710901899",
+        "created_at": "2026-06-15T16:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066560873112707460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1457184321962270720",
+              "start": 0,
+              "username": "longwangmana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066560873112707460",
+        "in_reply_to_user_id": "1457184321962270720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516672710901899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longwangmana 很好看哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066516588933832704"
+          ]
+        },
+        "author_id": "1457184321962270720",
+        "conversation_id": "2066516672710901899",
+        "created_at": "2026-06-15T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066516672710901899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NE1FNkY101",
+              "end": 54,
+              "expanded_url": "https://x.com/longwangmana/status/2066516672710901899/photo/1",
+              "media_key": "3_2066516588933832704",
+              "start": 31,
+              "url": "https://t.co/NE1FNkY101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516672710901899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化妆好麻烦 得系统的学习原理了 🌚 我脸不是啥建模脸好麻烦哦 https://t.co/NE1FNkY101"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 872,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1640
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T03:13:18.000Z",
+        "description": "这里是小龙王 男孩子\n喜欢睡觉！摆烂！还有色色\n喜欢的东西是可爱的大狗子 还有没事嗷呜嗷呜（恶龙咆哮）\n至此",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/2ZSrxbRaHv"
+              }
+            ]
+          }
+        },
+        "id": "1457184321962270720",
+        "location": "魅魔小学榨精班幼萝系",
+        "name": "小龙王mana",
+        "pinned_tweet_id": "1676265649121918976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457185965433257985/GX8RAQlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/2ZSrxbRaHv",
+        "username": "longwangmana",
+        "verified": false
+      }
+    ]
+  }
+}

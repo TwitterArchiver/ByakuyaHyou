@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1896970980830142978",
+    "created_at": "2025-03-04T17:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T18:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896970980830142978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896970980830142978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896928707589427347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: “只是被榨了三发就把我当成恶魔一样害怕的跑掉真让人心寒呢，和爱莉一起甜腻腻的在一起最后把精液连同脑浆一起射出来有这么难吗”\n\n高档黑腻淫丝裹着丰腴肉足与甜腻笑容相反的极度恶劣方式一脚踩踏在被强行弄勃起的肉根上狠狠碾榨压扁～♥\n\n“这不是还能射出来嘛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896970980830142978].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896970980830142978",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896970980830142978"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1896928698047266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlM-mbtaAAARNdF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1856,
+        "media_key": "3_1896928703382208512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlM-mvlWwAAfj0s.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896928698047266816",
+            "3_1896928703382208512"
+          ]
+        },
+        "author_id": "1719475394720485376",
+        "conversation_id": "1896928707589427347",
+        "created_at": "2025-03-04T14:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896928707589427347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRiPb1sNQk",
+              "end": 163,
+              "expanded_url": "https://x.com/msxzqnjmk/status/1896928707589427347/photo/1",
+              "media_key": "3_1896928698047266816",
+              "start": 140,
+              "url": "https://t.co/VRiPb1sNQk"
+            },
+            {
+              "display_url": "pic.x.com/VRiPb1sNQk",
+              "end": 163,
+              "expanded_url": "https://x.com/msxzqnjmk/status/1896928707589427347/photo/1",
+              "media_key": "3_1896928703382208512",
+              "start": 140,
+              "url": "https://t.co/VRiPb1sNQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896928707589427347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 576,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“只是被榨了三发就把我当成恶魔一样害怕的跑掉真让人心寒呢，和爱莉一起甜腻腻的在一起最后把精液连同脑浆一起射出来有这么难吗”\n\n高档黑腻淫丝裹着丰腴肉足与甜腻笑容相反的极度恶劣方式一脚踩踏在被强行弄勃起的肉根上狠狠碾榨压扁～♥\n\n“这不是还能射出来嘛～不过还没结束哦♡”\n\n#文爱 https://t.co/VRiPb1sNQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 88,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 897
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或你喜欢的就好\n喜欢并且擅长\\文爱\\写作，目前还在练习恋活\n\n是一位知心“性”大姐姐，出没时间是在下午和晚上，客人请走这边\n\n企鹅:385442274（有电报，但是一般不用）\n芝士老婆: @BeiMao99093\n注:不涉三\\转推请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "BeiMao99093"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/msxzqnjmk",
+                "end": 23,
+                "expanded_url": "https://t.me/msxzqnjmk",
+                "start": 0,
+                "url": "https://t.co/ijOcr37f4y"
+              }
+            ]
+          }
+        },
+        "id": "1719475394720485376",
+        "location": "不知名的小吃店",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1869650333007589860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885296781690626050/6UOrrQGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 99,
+          "like_count": 377,
+          "listed_count": 16,
+          "media_count": 686,
+          "tweet_count": 2886
+        },
+        "url": "https://t.co/ijOcr37f4y",
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

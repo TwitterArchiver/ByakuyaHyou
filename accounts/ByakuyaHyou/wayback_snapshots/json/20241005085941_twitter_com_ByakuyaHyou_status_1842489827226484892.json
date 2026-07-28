@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1842489827226484892",
+    "created_at": "2024-10-05T08:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842489827226484892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842489827226484892",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841757134574510115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 嗯？真是可怜的小家伙呢，国庆不去旅游还一个人在偷偷的■■■不如来找姐姐好咯，平时压抑着本性很累的吧♡不如正视一下自己的内心咯♡当然要保管住自己的钱包什么的～不然.......也会被别人骗走什么的吧♡ https://t.co/9wLQdX6e…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842489827226484892].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842489827226484892",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842489827226484892"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841757131437178880"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1841757134574510115",
+        "created_at": "2024-10-03T08:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T09:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841757134574510115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wLQdX6epq",
+              "end": 123,
+              "expanded_url": "https://x.com/ningmeng1245/status/1841757134574510115/photo/1",
+              "media_key": "3_1841757131437178880",
+              "start": 100,
+              "url": "https://t.co/9wLQdX6epq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841757134574510115",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1334,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "嗯？真是可怜的小家伙呢，国庆不去旅游还一个人在偷偷的■■■不如来找姐姐好咯，平时压抑着本性很累的吧♡不如正视一下自己的内心咯♡当然要保管住自己的钱包什么的～不然.......也会被别人骗走什么的吧♡ https://t.co/9wLQdX6epq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 84,
+          "like_count": 621,
+          "listed_count": 0,
+          "tweet_count": 777
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "是柠檬哦♡欢迎来找柠檬闲聊的哦。不过～柠檬可能会在闲聊的过程中～去玩弄你哦♡\n温柔的S系柠檬哦，轻微重口无论是男孩子还是女孩子都可以找柠檬呢\n柠檬会用自己的文笔来征服每一位来找柠檬的小可爱呢。柠檬不在的话可以找青柠\n柠檬的企鹅号：3993705909\n PS：不涉三，纯文字，轻微sm\n姐姐～@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828900159033331712/Yev6Nldq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 30,
+          "like_count": 16,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

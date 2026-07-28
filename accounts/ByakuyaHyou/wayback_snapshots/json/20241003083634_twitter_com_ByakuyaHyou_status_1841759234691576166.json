@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759234691576166",
+    "created_at": "2024-10-03T08:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759234691576166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759234691576166",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840749284289097939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「到了上交精液的时间喔~」\n\n紫灵笑眯眯地推着你到无人的教室，把你推倒在桌上用自己纤细的手心爱抚起你的裤裆，你被快感刺激得颤抖起来。随后少女熟练地拉开你的裤子，用精湛的口技舔得你喘气不停。一下又一下地吸吮、舔弄让你在短短10分钟就上交了3次精液…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759234691576166].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759234691576166",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759234691576166"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840749281281748992"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1840749284289097939",
+        "created_at": "2024-09-30T13:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T14:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840749284289097939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文媛"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "榨精"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTjBFGI7us",
+              "end": 164,
+              "expanded_url": "https://x.com/ZiYing12494/status/1840749284289097939/photo/1",
+              "media_key": "3_1840749281281748992",
+              "start": 141,
+              "url": "https://t.co/YTjBFGI7us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840749284289097939",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1927,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "「到了上交精液的时间喔~」\n\n紫灵笑眯眯地推着你到无人的教室，把你推倒在桌上用自己纤细的手心爱抚起你的裤裆，你被快感刺激得颤抖起来。随后少女熟练地拉开你的裤子，用精湛的口技舔得你喘气不停。一下又一下地吸吮、舔弄让你在短短10分钟就上交了3次精液\n\n「真是…杂鱼♡」\n#文媛 #榨精 https://t.co/YTjBFGI7us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 612,
+          "listed_count": 0,
+          "tweet_count": 763
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 53,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

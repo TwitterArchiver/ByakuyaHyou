@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897640598565429437",
+    "created_at": "2025-03-06T13:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T14:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897640598565429437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897640598565429437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897621901494861968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: “哦呀～这是承认自己早泄喷精了吗，自以为做出一副恶心人的暖男样恶心谁呢，跪地求饶才是你该有的态度哦，废物～”\n\n粉润唇角轻轻上扬，干净的紫色鞋底刻意用力踩在勃起肉根上践踏，像是故意一般～纤长的高跟鞋底压住根部睾丸左右碾动\n\n“看在你这张狗嘴还会夸人…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897640598565429437].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897640598565429437",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897640598565429437"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1897621898810515456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlW1EByaYAAb6ZL.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897621898810515456"
+          ]
+        },
+        "author_id": "1719475394720485376",
+        "conversation_id": "1897621901494861968",
+        "created_at": "2025-03-06T12:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897621901494861968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkBHLPudI0",
+              "end": 167,
+              "expanded_url": "https://x.com/msxzqnjmk/status/1897621901494861968/photo/1",
+              "media_key": "3_1897621898810515456",
+              "start": 144,
+              "url": "https://t.co/xkBHLPudI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897621901494861968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“哦呀～这是承认自己早泄喷精了吗，自以为做出一副恶心人的暖男样恶心谁呢，跪地求饶才是你该有的态度哦，废物～”\n\n粉润唇角轻轻上扬，干净的紫色鞋底刻意用力踩在勃起肉根上践踏，像是故意一般～纤长的高跟鞋底压住根部睾丸左右碾动\n\n“看在你这张狗嘴还会夸人～姐姐就好好让你释放一下哦”\n\n#文爱 https://t.co/xkBHLPudI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 92,
+          "like_count": 755,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 946
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或你喜欢的就好\n喜欢并且擅长\\文爱\\写作，目前还在练习恋活\n\n是一位知心“性”大姐姐，出没时间是在下午和晚上，客人请走这边\n\n企鹅:385442274（有电报，但是一般不用）\n芝士老婆: @BeiMao99093\n注:不涉三\\转推请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "BeiMao99093"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/msxzqnjmk",
+                "end": 23,
+                "expanded_url": "https://t.me/msxzqnjmk",
+                "start": 0,
+                "url": "https://t.co/ijOcr37f4y"
+              }
+            ]
+          }
+        },
+        "id": "1719475394720485376",
+        "location": "不知名的小吃店",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1869650333007589860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885296781690626050/6UOrrQGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 99,
+          "like_count": 377,
+          "listed_count": 17,
+          "media_count": 689,
+          "tweet_count": 2889
+        },
+        "url": "https://t.co/ijOcr37f4y",
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916376205265408091",
+    "created_at": "2025-04-27T06:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T07:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916376205265408091"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "文媛"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "泳装"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "肉便器"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916376205265408091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916367270672240754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「明明… 说是有游泳训练才来的… 呜!」\n\n夜晚，紫灵被伪装成老师的短信骗到夜晚的泳池馆内。灯光昏暗，心生退意的同时三，四名陌生男子包围了上来。在这种谁也不会察觉的地方开始了对少女的犯罪…♡\n#文媛 #泳装 #肉便器 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916376205265408091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916376205265408091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916376205265408091"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1916367267761426433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphN4G4bEAE5s4W.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916367267761426433"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1916367270672240754",
+        "created_at": "2025-04-27T05:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916367270672240754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "文媛"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "泳装"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "肉便器"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQv5xnpoq0",
+              "end": 132,
+              "expanded_url": "https://x.com/ZiYing12494/status/1916367270672240754/photo/1",
+              "media_key": "3_1916367267761426433",
+              "start": 109,
+              "url": "https://t.co/rQv5xnpoq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916367270672240754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「明明… 说是有游泳训练才来的… 呜!」\n\n夜晚，紫灵被伪装成老师的短信骗到夜晚的泳池馆内。灯光昏暗，心生退意的同时三，四名陌生男子包围了上来。在这种谁也不会察觉的地方开始了对少女的犯罪…♡\n#文媛 #泳装 #肉便器 https://t.co/rQv5xnpoq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1132,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1340
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896406464060850176/8EcJZa11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 74,
+          "like_count": 692,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 472
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

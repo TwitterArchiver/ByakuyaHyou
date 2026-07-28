@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938614598917398528"
+      ],
+      "media_source_tweet_id": [
+        "1938614706564223218"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1939174148057538724",
+    "created_at": "2025-06-29T04:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T05:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939174148057538724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1548952686996983808",
+          "start": 3,
+          "username": "Yuki_snow_kira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMNFxU7VnT",
+          "end": 71,
+          "expanded_url": "https://x.com/Yuki_snow_kira/status/1938614706564223218/photo/1",
+          "media_key": "3_1938614598917398528",
+          "start": 48,
+          "url": "https://t.co/eMNFxU7VnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939174148057538724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938614706564223218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_snow_kira: 有白痴让我骗一下么，只是把你的精液脑浆钱包全部骗走而已 https://t.co/eMNFxU7VnT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939174148057538724].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939174148057538724",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939174148057538724"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_1938614598917398528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudXtNzboAAN3Mn.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938614598917398528"
+          ]
+        },
+        "author_id": "1548952686996983808",
+        "conversation_id": "1938614706564223218",
+        "created_at": "2025-06-27T15:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938614706564223218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMNFxU7VnT",
+              "end": 51,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1938614706564223218/photo/1",
+              "media_key": "3_1938614598917398528",
+              "start": 28,
+              "url": "https://t.co/eMNFxU7VnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938614706564223218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2053,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有白痴让我骗一下么，只是把你的精液脑浆钱包全部骗走而已 https://t.co/eMNFxU7VnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 120,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1488
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:48:27.000Z",
+        "description": "好姐姐@Qiqihorny737\n这里是温柔的可爱伪娘魅魔雪雪哦～\n白痴贱狗处刑官（已处死  33 ）\n想拜访雪雪的话需要13.14r的门票呢～\n修道院地址：3496682071\n小小小分院：334316657",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Qiqihorny737"
+              }
+            ]
+          }
+        },
+        "id": "1548952686996983808",
+        "location": "你的心里💗",
+        "name": "魅魔雪雪",
+        "pinned_tweet_id": "1822560942275604574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927618813593550849/b_qNiOV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9747,
+          "following_count": 833,
+          "like_count": 1420,
+          "listed_count": 35,
+          "media_count": 272,
+          "tweet_count": 1464
+        },
+        "username": "Yuki_snow_kira",
+        "verified": false
+      }
+    ]
+  }
+}

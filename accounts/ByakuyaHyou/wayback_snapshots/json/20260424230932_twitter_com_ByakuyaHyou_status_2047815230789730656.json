@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2047669262274400538",
+    "created_at": "2026-04-24T23:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047815230789730656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407592170765176832",
+          "start": 0,
+          "username": "KakusareUsagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047815230789730656",
+    "in_reply_to_user_id": "1407592170765176832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047669262274400538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KakusareUsagi 很可爱我喜欢你，肏死你喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27353,
+        "height": 1280,
+        "media_key": "7_2047669214484586496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047669214484586496/pu/img/O7o_Xrd51HbuDO0D.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047669214484586496/pu/vid/avc1/320x568/6bL5TZDYu1eZ5EFK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047669214484586496/pu/vid/avc1/480x852/zvoYfgKpcvCb-Giy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047669214484586496/pu/vid/avc1/720x1280/dfQ2FGyBaAdqnvIk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047669214484586496/pu/pl/dOVyuwYU5gQduOgc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2047669262274400538",
+        "created_at": "2026-04-24T23:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047815230789730656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407592170765176832",
+              "start": 0,
+              "username": "KakusareUsagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047815230789730656",
+        "in_reply_to_user_id": "1407592170765176832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047669262274400538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KakusareUsagi 很可爱我喜欢你，肏死你喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047669214484586496"
+          ]
+        },
+        "author_id": "1407592170765176832",
+        "conversation_id": "2047669262274400538",
+        "created_at": "2026-04-24T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047669262274400538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "伪娘"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "男の娘"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "cos"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "新约能天使"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/myNo2zLUWs",
+              "end": 86,
+              "expanded_url": "https://x.com/KakusareUsagi/status/2047669262274400538/video/1",
+              "media_key": "7_2047669214484586496",
+              "start": 63,
+              "url": "https://t.co/myNo2zLUWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047669262274400538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 266,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级喜欢新约能天使这套，使我超大量释放新能源牛奶，希望大家也能喜欢就好了w\n#男娘 #伪娘 #男の娘 #cos #新约能天使 https://t.co/myNo2zLUWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 236,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1512
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T06:51:51.000Z",
+        "description": "坐标川渝 新人男娘/COS/社恐/游戏爱好者\n希望看得开心❤️～",
+        "id": "1407592170765176832",
+        "name": "兔隐",
+        "pinned_tweet_id": "2046137786139570235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1407674083538391042/Xd9_r6Cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 108,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 33
+        },
+        "username": "KakusareUsagi",
+        "verified": false
+      }
+    ]
+  }
+}

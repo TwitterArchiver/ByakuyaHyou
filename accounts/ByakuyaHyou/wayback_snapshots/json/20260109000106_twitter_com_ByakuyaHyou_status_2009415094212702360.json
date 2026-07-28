@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2001333509710057685",
+    "created_at": "2026-01-09T00:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009415094212702360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1437224012828995586",
+          "start": 0,
+          "username": "milktea_kig"
+        },
+        {
+          "end": 29,
+          "id": "1827306436151619584",
+          "start": 13,
+          "username": "Shushu_kigurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009415094212702360",
+    "in_reply_to_user_id": "1437224012828995586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001333509710057685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milktea_kig @Shushu_kigurumi 可爱想撅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001333503833841664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YqN90aoAAujG1.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2001333509710057685",
+        "created_at": "2026-01-09T00:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009415094212702360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1437224012828995586",
+              "start": 0,
+              "username": "milktea_kig"
+            },
+            {
+              "end": 29,
+              "id": "1827306436151619584",
+              "start": 13,
+              "username": "Shushu_kigurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009415094212702360",
+        "in_reply_to_user_id": "1437224012828995586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001333509710057685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milktea_kig @Shushu_kigurumi 可爱想撅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001333503833841664"
+          ]
+        },
+        "author_id": "1437224012828995586",
+        "conversation_id": "2001333509710057685",
+        "created_at": "2025-12-17T16:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001333509710057685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 69,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1827306436151619584",
+              "start": 51,
+              "username": "Shushu_kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTjM8BVUq8",
+              "end": 108,
+              "expanded_url": "https://x.com/guan_jiun/status/2001333509710057685/photo/1",
+              "media_key": "3_2001333503833841664",
+              "start": 85,
+              "url": "https://t.co/xTjM8BVUq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001333509710057685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 13160,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "新娃報到，關注了kig圈一年了，終於是拿下了第一個頭殼，希望可以認識到好多好多娃，也請多多指教～\n🎭：@Shushu_kigurumi \n#kigurumi #着ぐるみ https://t.co/xTjM8BVUq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 216,
+          "like_count": 1370,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1525
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T01:18:11.000Z",
+        "description": "萌新kig，目前角色是藿藿，希望可以認識到好多娃",
+        "id": "1437224012828995586",
+        "location": "台北市",
+        "name": "我愛喝奶茶🧋",
+        "pinned_tweet_id": "2001333509710057685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001332592050876416/SOxE_8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 291,
+          "like_count": 3383,
+          "listed_count": 6,
+          "media_count": 13,
+          "tweet_count": 15
+        },
+        "username": "milktea_kig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T11:26:29.000Z",
+        "description": "主营高性价比的kigurumi头壳，感谢大家的支持",
+        "id": "1827306436151619584",
+        "name": "鼠鼠工坊kigurumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827309664859471872/avTD3VrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6941,
+          "following_count": 303,
+          "like_count": 80,
+          "listed_count": 58,
+          "media_count": 90,
+          "tweet_count": 135
+        },
+        "username": "Shushu_kigurumi",
+        "verified": false
+      }
+    ]
+  }
+}

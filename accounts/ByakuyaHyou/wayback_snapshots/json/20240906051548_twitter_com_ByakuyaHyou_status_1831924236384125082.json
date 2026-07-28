@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831924236384125082",
+    "created_at": "2024-09-06T05:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T06:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831924236384125082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818201196777402368",
+          "start": 3,
+          "username": "qiyuanziiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831924236384125082",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831903265224847564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiyuanziiii: 来吧过来吧贱狗，今天允许你触摸姐姐的巨乳哦💜\n只是摸着姐姐的花穴就已经硬的发疼了吧～？今天的工资也要好好上交哦..\n怎么姐姐才说了几句，贱狗裤裆怎么湿了一片，越来越废物了呢早泄的小肉虫，现在除了给姐姐钱一无是处了呢💜当一辈子小包茎永远的早泄狗沉…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831924236384125082].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831924236384125082",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831924236384125082"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831903262427246592"
+          ]
+        },
+        "author_id": "1818201196777402368",
+        "conversation_id": "1831903265224847564",
+        "created_at": "2024-09-06T03:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831903265224847564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "ATM"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "sm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbpo5lcvw7",
+              "end": 171,
+              "expanded_url": "https://twitter.com/qiyuanziiii/status/1831903265224847564/photo/1",
+              "media_key": "3_1831903262427246592",
+              "start": 148,
+              "url": "https://t.co/wbpO5lcvW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831903265224847564",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "来吧过来吧贱狗，今天允许你触摸姐姐的巨乳哦💜\n只是摸着姐姐的花穴就已经硬的发疼了吧～？今天的工资也要好好上交哦..\n怎么姐姐才说了几句，贱狗裤裆怎么湿了一片，越来越废物了呢早泄的小肉虫，现在除了给姐姐钱一无是处了呢💜当一辈子小包茎永远的早泄狗沉溺在姐姐的身体里吧..？💜#文援 #ATM #sm https://t.co/wbpO5lcvW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 85,
+          "like_count": 436,
+          "listed_count": 0,
+          "tweet_count": 515
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T08:25:38.000Z",
+        "description": "姐姐白天很忙的哦～周末全天营业\n请把一切交给念安姐姐吧💗让姐姐榨取乖孩子吧直到一滴也不剩～❤️放弃思想和生活变成只会在姐姐脚下发情的淫乱小狗吧..？足够乖的话可以随机掉落姐姐专属的语音条哦❤️门牌3263569325",
+        "id": "1818201196777402368",
+        "name": "文援💕念安姐姐（互推）💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818911340414877696/1xX9vHf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 10,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 126
+        },
+        "username": "qiyuanziiii",
+        "verified": false
+      }
+    ]
+  }
+}

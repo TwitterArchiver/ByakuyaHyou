@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829889429022130176"
+      ],
+      "media_source_tweet_id": [
+        "1829889470143086944"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830298323095617871",
+    "created_at": "2024-09-01T17:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T18:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830298323095617871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "文媛"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "ATM"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "榨金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ej481qgzkg",
+          "end": 135,
+          "expanded_url": "https://twitter.com/chessy80978858/status/1829889470143086944/photo/1",
+          "media_key": "3_1829889429022130176",
+          "start": 112,
+          "url": "https://t.co/eJ481Qgzkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830298323095617871",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829889470143086944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: “呐~欢迎新的狗狗成为隶属于简妮的一员呢~遵从自己的的欲望~成为简妮的东西~狗狗的话~就将一切都毫无保留交给简妮好不好呀~狗狗同意的话~就先从钱包开始~🖤”\n#文媛 #ATM #榨金 https://t.co/eJ481Qgzkg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830298323095617871].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830298323095617871",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830298323095617871"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_1829889429022130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWUSvZMbQAALVN_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829889429022130176"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "conversation_id": "1829889470143086944",
+        "created_at": "2024-08-31T14:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829889470143086944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "文媛"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "ATM"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "榨金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ej481qgzkg",
+              "end": 115,
+              "expanded_url": "https://twitter.com/chessy80978858/status/1829889470143086944/photo/1",
+              "media_key": "3_1829889429022130176",
+              "start": 92,
+              "url": "https://t.co/eJ481Qgzkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829889470143086944",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3211,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "“呐~欢迎新的狗狗成为隶属于简妮的一员呢~遵从自己的的欲望~成为简妮的东西~狗狗的话~就将一切都毫无保留交给简妮好不好呀~狗狗同意的话~就先从钱包开始~🖤”\n#文媛 #ATM #榨金 https://t.co/eJ481Qgzkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 86,
+          "like_count": 408,
+          "listed_count": 0,
+          "tweet_count": 468
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮 喜欢小贱狗们心甘情愿献出一切的魅魔女皇🖤 擅长调教杂鱼小雏男 吸干各位劣质狗狗的钱包~ 价格60/1h 不涉三 可预约 出文记录 具体请敲门 门牌Q1430295633欢迎敲门 姐姐老婆@Sakura9OwO私人魅魔@Lily_520_Lily",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Sakura9OwO"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Lily_520_Lily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chessy80978858",
+                "end": 23,
+                "expanded_url": "http://t.me/chessy80978858",
+                "start": 0,
+                "url": "https://t.co/GOFdUIJm02"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "location": "踩在你心里~",
+        "name": "简妮喜欢支配♡（互推）",
+        "pinned_tweet_id": "1829889470143086944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794701523735441408/xw5Dw3fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5418,
+          "following_count": 131,
+          "like_count": 1628,
+          "listed_count": 21,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/GOFdUIJm02",
+        "username": "chessy80978858",
+        "verified": false
+      }
+    ]
+  }
+}

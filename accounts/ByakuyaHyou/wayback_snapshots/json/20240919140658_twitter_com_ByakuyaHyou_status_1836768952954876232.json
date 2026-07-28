@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836768952954876232",
+    "created_at": "2024-09-19T14:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836768952954876232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821147834844114944",
+          "start": 3,
+          "username": "xiaoxiao804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836768952954876232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836407608804315541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiaoxiao804: 男爹用完的套子还被亲妈叼在嘴里🖤小鸡巴贱种看到这么夸张的男爹巨根在亲妈眼前🖤还有脸挺着自己废物短屌来求亲妈玩弄吗🖤男爹射出的量都是你那贱根的几倍呢🖤一搓就要喷的早泄狗屌凭什么让亲妈提起兴致🖤好好看着亲妈一身诱人装扮为大鸡巴男爹泄欲🖤赏赐贱畜跪在…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836768952954876232].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836768952954876232",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836768952954876232"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836407602181480448"
+          ]
+        },
+        "author_id": "1821147834844114944",
+        "conversation_id": "1836407608804315541",
+        "created_at": "2024-09-18T14:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T15:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836407608804315541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pekkms9udq",
+              "end": 158,
+              "expanded_url": "https://twitter.com/xiaoxiao804/status/1836407608804315541/photo/1",
+              "media_key": "3_1836407602181480448",
+              "start": 135,
+              "url": "https://t.co/pEKKMs9UDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836407608804315541",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3883,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "男爹用完的套子还被亲妈叼在嘴里🖤小鸡巴贱种看到这么夸张的男爹巨根在亲妈眼前🖤还有脸挺着自己废物短屌来求亲妈玩弄吗🖤男爹射出的量都是你那贱根的几倍呢🖤一搓就要喷的早泄狗屌凭什么让亲妈提起兴致🖤好好看着亲妈一身诱人装扮为大鸡巴男爹泄欲🖤赏赐贱畜跪在旁边捏着废屌搓动流精～🖤 https://t.co/pEKKMs9UDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 82,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 643
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:34:24.000Z",
+        "description": "SM情侣主🖤 接文援、网调🖤收狗狗、锁奴、绿帽奴、足奴🖤🐧3996867072🖤被封重生版～",
+        "id": "1821147834844114944",
+        "name": "潇潇（互推）",
+        "pinned_tweet_id": "1831359536466432501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821147934525943810/CppZ6LdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 40,
+          "like_count": 120,
+          "listed_count": 3,
+          "tweet_count": 350
+        },
+        "username": "xiaoxiao804",
+        "verified": false
+      }
+    ]
+  }
+}

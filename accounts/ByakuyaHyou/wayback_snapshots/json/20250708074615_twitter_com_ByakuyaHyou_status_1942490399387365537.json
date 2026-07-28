@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942490387102208000"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1942490399387365537",
+    "created_at": "2025-07-08T07:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T08:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942490399387365537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5kVa6KWsgU",
+          "end": 131,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1942490399387365537/photo/1",
+          "media_key": "3_1942490387102208000",
+          "start": 108,
+          "url": "https://t.co/5kVa6KWsgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942490399387365537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呼～许久未见，各位近来可好～\n这里是依奈，再次与大家留下一份告别信件～\n依奈打算停止文媛活动啦～\n大概率是无限期吧\n推特可能会作为一个更新心情的地方～\n世界这么大，总该有个新的目标与规划啦\n所以～各位～\n我们，再会 https://t.co/5kVa6KWsgU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1942490387102208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUctx7WkAAsdKp.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942490387102208000"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1942490399387365537",
+        "created_at": "2025-07-08T07:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942490399387365537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kVa6KWsgU",
+              "end": 131,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1942490399387365537/photo/1",
+              "media_key": "3_1942490387102208000",
+              "start": 108,
+              "url": "https://t.co/5kVa6KWsgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942490399387365537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呼～许久未见，各位近来可好～\n这里是依奈，再次与大家留下一份告别信件～\n依奈打算停止文媛活动啦～\n大概率是无限期吧\n推特可能会作为一个更新心情的地方～\n世界这么大，总该有个新的目标与规划啦\n所以～各位～\n我们，再会 https://t.co/5kVa6KWsgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 120,
+          "like_count": 1302,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1508
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

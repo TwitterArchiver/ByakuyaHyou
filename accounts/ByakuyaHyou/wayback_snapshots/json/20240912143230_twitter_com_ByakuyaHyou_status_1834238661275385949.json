@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834238661275385949",
+    "created_at": "2024-09-12T14:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T15:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834238661275385949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758101321637675008",
+          "start": 3,
+          "username": "xiyu3344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834238661275385949",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833465895580311655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyu3344: 啧...今天走了一天脚累累的.\n（疲惫的倒瘫在穿上随着一身脆响紧致的小皮鞋脱落露出厚黑的足底，已经全被汗液浸透浮现出脚趾，香甜的气味交织着脚臭的酸臭味混合成奇妙的味道迸发）\n我说呐？🖤狗狗还在等什么呢？\n快点进行今晚的舔脚侍奉啊？\n舔干净让我满意说不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834238661275385949].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834238661275385949",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834238661275385949"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833464566233370629"
+          ]
+        },
+        "author_id": "1758101321637675008",
+        "conversation_id": "1833465895580311655",
+        "created_at": "2024-09-10T11:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T12:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833465895580311655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wywjmuxshq",
+              "end": 170,
+              "expanded_url": "https://twitter.com/xiyu3344/status/1833465895580311655/photo/1",
+              "media_key": "3_1833464566233370629",
+              "start": 147,
+              "url": "https://t.co/WyWjmuXsHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833465895580311655",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1327,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "啧...今天走了一天脚累累的.\n（疲惫的倒瘫在穿上随着一身脆响紧致的小皮鞋脱落露出厚黑的足底，已经全被汗液浸透浮现出脚趾，香甜的气味交织着脚臭的酸臭味混合成奇妙的味道迸发）\n我说呐？🖤狗狗还在等什么呢？\n快点进行今晚的舔脚侍奉啊？\n舔干净让我满意说不定会让你开锁哦？🖤\n#文媛 #羞辱 #压榨 https://t.co/WyWjmuXsHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 80,
+          "like_count": 471,
+          "listed_count": 0,
+          "tweet_count": 571
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:10:08.000Z",
+        "description": "这里是溪雨，用花言巧语迷惑你的心智~满足你千奇百怪的小心思~喜欢有礼貌的客人，乐于玩弄调教发情的小狗狗~不用害羞哦~\n各种各样的玩法play还是不同的角色扮演，奇怪色情的脑洞设定都可以满足哩\n文媛服务35/半h 定制文50/千字 p站同名 门牌3670720039 ～tg@xiyu3738 不涉三",
+        "id": "1758101321637675008",
+        "name": "溪雨",
+        "pinned_tweet_id": "1814497655575179343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833452474793136132/LdebDDgw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 2,
+          "tweet_count": 262
+        },
+        "username": "xiyu3344",
+        "verified": false
+      }
+    ]
+  }
+}

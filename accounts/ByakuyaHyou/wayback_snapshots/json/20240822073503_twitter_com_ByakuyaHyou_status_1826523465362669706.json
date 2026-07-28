@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826523465362669706",
+    "created_at": "2024-08-22T07:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T08:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826523465362669706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826523465362669706",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826515118299250790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: “呀~本来就是条贱母狗了，连脚垫都做不好的话那就只是单纯的恶心废物了哦♡”\n刚褪去鞋子的黑丝还冒着匀匀热气，拉着栓绳踩在母狗胸和脸蛋上，浓厚酸爽的脚臭味直把小狗冲的发情♡哪怕全身捆缚当了脚垫也还是躁动，丝滑软嫩的脚掌堵住鼻孔♡越是舔舐窒息…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826523465362669706].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826523465362669706",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826523465362669706"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826515114557927424"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1826515118299250790",
+        "created_at": "2024-08-22T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826515118299250790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhjb2f1r5w",
+              "end": 166,
+              "expanded_url": "https://twitter.com/loveforallLoli/status/1826515118299250790/photo/1",
+              "media_key": "3_1826515114557927424",
+              "start": 143,
+              "url": "https://t.co/nHJB2F1r5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826515118299250790",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“呀~本来就是条贱母狗了，连脚垫都做不好的话那就只是单纯的恶心废物了哦♡”\n刚褪去鞋子的黑丝还冒着匀匀热气，拉着栓绳踩在母狗胸和脸蛋上，浓厚酸爽的脚臭味直把小狗冲的发情♡哪怕全身捆缚当了脚垫也还是躁动，丝滑软嫩的脚掌堵住鼻孔♡越是舔舐窒息的大脑就越快沦陷洗脑成丧志母狗家具呢♡\n#文爱 https://t.co/nHJB2F1r5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 65,
+          "like_count": 220,
+          "listed_count": 0,
+          "tweet_count": 254
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号：QQ：3325582407 纸飞机：\nhttps://t.co/ECeDcQcZJg 30元/30分，sm皆可，早上至晚上2点营业的网络幽灵~\n呀吼~~杂鱼们，这里是伊诺，虚空触手萝莉♡，从今天开始就是大家的主人sama了哦♡跪在地上舔着伊诺大人的脚献上你们的金币还有精液叭♡然后看到伊诺的人还不快关注！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 46,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 23,
+                "url": "https://t.co/ECeDcQcZJg"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "name": "伊诺sama~♡（互推）",
+        "pinned_tweet_id": "1805156691383828667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 94,
+          "like_count": 827,
+          "listed_count": 4,
+          "tweet_count": 936
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

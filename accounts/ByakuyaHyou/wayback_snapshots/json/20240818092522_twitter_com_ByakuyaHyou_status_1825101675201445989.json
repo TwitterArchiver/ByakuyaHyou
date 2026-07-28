@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1825101675201445989",
+    "created_at": "2024-08-18T09:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T10:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825101675201445989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806365802670772224",
+          "start": 3,
+          "username": "Xzay477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825101675201445989",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824816839081562301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xzay477: 没事啦亲爱的…是因为最近压力太大了嘛我知道哦（把男朋友搂在怀里轻轻的抚摸着男朋友的头）我也被满足了呢，休息吧亲爱的💚\n“才不是因为我老公满足不了我我才来这里呢…我老公的肉棒可是比你大数倍你这个小牙签”\n“不行……要…要坏掉了…主人的大肉棒…被填满了…主…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1825101675201445989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1825101675201445989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1825101675201445989"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824816825580089344",
+            "3_1824816825571659776"
+          ]
+        },
+        "author_id": "1806365802670772224",
+        "conversation_id": "1824816839081562301",
+        "created_at": "2024-08-17T14:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824816839081562301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh2t9ttadu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Xzay477/status/1824816839081562301/photo/1",
+              "media_key": "3_1824816825580089344",
+              "start": 143,
+              "url": "https://t.co/kh2T9TtaDU"
+            },
+            {
+              "display_url": "pic.x.com/kh2t9ttadu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Xzay477/status/1824816839081562301/photo/1",
+              "media_key": "3_1824816825571659776",
+              "start": 143,
+              "url": "https://t.co/kh2T9TtaDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824816839081562301",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1121,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "没事啦亲爱的…是因为最近压力太大了嘛我知道哦（把男朋友搂在怀里轻轻的抚摸着男朋友的头）我也被满足了呢，休息吧亲爱的💚\n“才不是因为我老公满足不了我我才来这里呢…我老公的肉棒可是比你大数倍你这个小牙签”\n“不行……要…要坏掉了…主人的大肉棒…被填满了…主人的精液…都射进来了…好喜欢💚” https://t.co/kh2T9TtaDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 42,
+          "like_count": 73,
+          "listed_count": 0,
+          "tweet_count": 85
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T16:35:54.000Z",
+        "description": "是男孩子，是新人文媛全属性可伪娘可扶她（可接任何文笔，任何剧情都能接受，喜欢玩弄废物哥哥或者是痴女姐姐🖤，30r30min 50r 60min 每个单子都有配图的哦 可以提前告诉我你喜欢的角色我去收集 来更好的服务宝宝们 🐧 3928935242 🚪新人驾到欢迎各位旅行者们打扰🧡 #文爱 电报 @Xryazi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "文爱"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "Xryazi"
+              }
+            ]
+          }
+        },
+        "id": "1806365802670772224",
+        "name": "真迪🧡 新人求互推！",
+        "pinned_tweet_id": "1824462860778643516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820669903554367488/sASXI026_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 88
+        },
+        "username": "Xzay477",
+        "verified": false
+      }
+    ]
+  }
+}

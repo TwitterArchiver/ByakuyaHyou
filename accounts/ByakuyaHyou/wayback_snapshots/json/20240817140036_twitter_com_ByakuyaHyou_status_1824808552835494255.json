@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824602820068458496",
+        "3_1824602820059992067",
+        "3_1824602820072574976"
+      ],
+      "media_source_tweet_id": [
+        "1824602925852971347",
+        "1824602925852971347",
+        "1824602925852971347"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824808552835494255",
+    "created_at": "2024-08-17T14:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T15:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824808552835494255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "文媛"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820378279289012224",
+          "start": 3,
+          "username": "ahbkl5200"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzjq9nvlep",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+          "media_key": "3_1824602820068458496",
+          "start": 102,
+          "url": "https://t.co/Pzjq9nVLEP"
+        },
+        {
+          "display_url": "pic.x.com/pzjq9nvlep",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+          "media_key": "3_1824602820059992067",
+          "start": 102,
+          "url": "https://t.co/Pzjq9nVLEP"
+        },
+        {
+          "display_url": "pic.x.com/pzjq9nvlep",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+          "media_key": "3_1824602820072574976",
+          "start": 102,
+          "url": "https://t.co/Pzjq9nVLEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824808552835494255",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824602925852971347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ahbkl5200: 废物母猪姐姐不要对着推文无脑发情了呢🖤，主动向查尔主人无脑拱屄上供祈求查尔主人扣烂傻逼姐姐的杂鱼小穴吧，主动联系查尔来享受无脑发情被扣到喷水甩籽的快感吧🖤~\n#文媛 #文爱 https://t.co/Pzjq9nVLEP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824808552835494255].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824808552835494255",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824808552835494255"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_1824602820068458496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVJKmQJbQAAgrjI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1642,
+        "media_key": "3_1824602820059992067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVJKmQHaEAMMs3W.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1466,
+        "media_key": "3_1824602820072574976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVJKmQKaEAAs84D.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824602820068458496",
+            "3_1824602820059992067",
+            "3_1824602820072574976"
+          ]
+        },
+        "author_id": "1820378279289012224",
+        "conversation_id": "1824602925852971347",
+        "created_at": "2024-08-17T00:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T01:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824602925852971347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "文媛"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzjq9nvlep",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+              "media_key": "3_1824602820068458496",
+              "start": 87,
+              "url": "https://t.co/Pzjq9nVLEP"
+            },
+            {
+              "display_url": "pic.x.com/pzjq9nvlep",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+              "media_key": "3_1824602820059992067",
+              "start": 87,
+              "url": "https://t.co/Pzjq9nVLEP"
+            },
+            {
+              "display_url": "pic.x.com/pzjq9nvlep",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ahbkl5200/status/1824602925852971347/photo/1",
+              "media_key": "3_1824602820072574976",
+              "start": 87,
+              "url": "https://t.co/Pzjq9nVLEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824602925852971347",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 949,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "废物母猪姐姐不要对着推文无脑发情了呢🖤，主动向查尔主人无脑拱屄上供祈求查尔主人扣烂傻逼姐姐的杂鱼小穴吧，主动联系查尔来享受无脑发情被扣到喷水甩籽的快感吧🖤~\n#文媛 #文爱 https://t.co/Pzjq9nVLEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 38,
+          "like_count": 64,
+          "listed_count": 0,
+          "tweet_count": 75
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T08:36:37.000Z",
+        "description": "这里是查尔哦~，曾经是位涩情小说写手，无论是洗脑恶堕🖤无脑母畜🖤下贱羞辱🖤白给母猪🖤，都可以来找咱呢♡~，对戏语c也是可以的，二游大部分都有涉及哦~♡sm皆可，欢迎各位杂鱼姐姐♡~企鹅门牌子3986205058，电报https://t.co/PP706nVMqz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 131,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 108,
+                "url": "https://t.co/PP706nVMqz"
+              }
+            ]
+          }
+        },
+        "id": "1820378279289012224",
+        "name": "查尔🖤（求互推）",
+        "pinned_tweet_id": "1824602925852971347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820382312909205504/07IRCgK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 78,
+          "like_count": 63,
+          "listed_count": 0,
+          "tweet_count": 86
+        },
+        "username": "ahbkl5200",
+        "verified": false
+      }
+    ]
+  }
+}

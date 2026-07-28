@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2068749509140816328",
+    "created_at": "2026-06-22T23:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T00:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069194514229817560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782686962098548736",
+          "start": 0,
+          "username": "yunshn19781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069194514229817560",
+    "in_reply_to_user_id": "1782686962098548736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068749509140816328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunshn19781 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068749505844084736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWstwEaAAA7k00.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2068749509140816328",
+        "created_at": "2026-06-22T23:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069194514229817560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782686962098548736",
+              "start": 0,
+              "username": "yunshn19781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069194514229817560",
+        "in_reply_to_user_id": "1782686962098548736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068749509140816328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunshn19781 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068749505844084736"
+          ]
+        },
+        "author_id": "1782686962098548736",
+        "conversation_id": "2068749509140816328",
+        "created_at": "2026-06-21T17:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068749509140816328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkUzTtxJm4",
+              "end": 45,
+              "expanded_url": "https://x.com/yunshn19781/status/2068749509140816328/photo/1",
+              "media_key": "3_2068749505844084736",
+              "start": 22,
+              "url": "https://t.co/AkUzTtxJm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068749509140816328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家里很大来我家打电动啊\n刚换的5070( https://t.co/AkUzTtxJm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 914,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T08:24:38.000Z",
+        "description": "南京 是爱穿铝装滴变态小zn\nenfp-A 情绪超稳定，心理健康   168块头不大，欢迎找我van♂",
+        "id": "1782686962098548736",
+        "location": "America",
+        "name": "不能给同学搜到帕！",
+        "pinned_tweet_id": "2036036982527410304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010744498264137728/t3YPLY1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 199,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "yunshn19781",
+        "verified": false
+      }
+    ]
+  }
+}

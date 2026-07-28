@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2055847673711010034",
+    "created_at": "2026-06-22T22:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T23:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069186173432660216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1187973251198111744",
+          "start": 0,
+          "username": "ussr1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069186173432660216",
+    "in_reply_to_user_id": "1187973251198111744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055847673711010034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ussr1911 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2055847670288363520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWkFPaMAA0XUU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055847671177613312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWkIjbEAAXEC2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055847671248879616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWkI0agAAQKu3.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055847670980411392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWkH0aAAA-9Ol.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2055847673711010034",
+        "created_at": "2026-06-22T22:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069186173432660216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1187973251198111744",
+              "start": 0,
+              "username": "ussr1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069186173432660216",
+        "in_reply_to_user_id": "1187973251198111744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055847673711010034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ussr1911 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055847670288363520",
+            "3_2055847671177613312",
+            "3_2055847671248879616",
+            "3_2055847670980411392"
+          ]
+        },
+        "author_id": "1187973251198111744",
+        "conversation_id": "2055847673711010034",
+        "created_at": "2026-05-17T03:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055847673711010034"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "肉便器"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "雌堕"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "女装"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "恶堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZTR9CdbBh",
+              "end": 62,
+              "expanded_url": "https://x.com/ussr1911/status/2055847673711010034/photo/1",
+              "media_key": "3_2055847670288363520",
+              "start": 39,
+              "url": "https://t.co/QZTR9CdbBh"
+            },
+            {
+              "display_url": "pic.x.com/QZTR9CdbBh",
+              "end": 62,
+              "expanded_url": "https://x.com/ussr1911/status/2055847673711010034/photo/1",
+              "media_key": "3_2055847671177613312",
+              "start": 39,
+              "url": "https://t.co/QZTR9CdbBh"
+            },
+            {
+              "display_url": "pic.x.com/QZTR9CdbBh",
+              "end": 62,
+              "expanded_url": "https://x.com/ussr1911/status/2055847673711010034/photo/1",
+              "media_key": "3_2055847671248879616",
+              "start": 39,
+              "url": "https://t.co/QZTR9CdbBh"
+            },
+            {
+              "display_url": "pic.x.com/QZTR9CdbBh",
+              "end": 62,
+              "expanded_url": "https://x.com/ussr1911/status/2055847673711010034/photo/1",
+              "media_key": "3_2055847670980411392",
+              "start": 39,
+              "url": "https://t.co/QZTR9CdbBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055847673711010034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4063,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎，婊子，哎，骚货\n#男娘 #肉便器 #雌堕 #碧蓝档案  #女装 \n#恶堕 https://t.co/QZTR9CdbBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 906,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-26T06:04:48.000Z",
+        "description": "变节特工，无任何意识形态，\n励志成为一个优秀的游戏制作人，\n一个萌新女装爱好者\n极端反性交易，只要不支持性交易皆是朋友\n不b人除了电子老鸨和赌博广告。\nMay the truth last forever and the fire of faith never die.",
+        "id": "1187973251198111744",
+        "location": "芬兰",
+        "name": "柏修斯（Ciallo～）",
+        "pinned_tweet_id": "1613965261383815168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613952369418723329/X7VxTljt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 2173,
+          "like_count": 2194,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 6494
+        },
+        "url": "",
+        "username": "ussr1911",
+        "verified": false
+      }
+    ]
+  }
+}

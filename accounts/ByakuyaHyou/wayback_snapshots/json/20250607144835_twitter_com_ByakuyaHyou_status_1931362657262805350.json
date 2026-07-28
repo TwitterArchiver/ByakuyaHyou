@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930639150170198016"
+      ],
+      "media_source_tweet_id": [
+        "1930639152682500501"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1931362657262805350",
+    "created_at": "2025-06-07T14:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931362657262805350"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "白丝"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "文媛"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "绿帽"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NktlymzOX7",
+          "end": 134,
+          "expanded_url": "https://x.com/shiling7651/status/1930639152682500501/photo/1",
+          "media_key": "3_1930639150170198016",
+          "start": 111,
+          "url": "https://t.co/NktlymzOX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931362657262805350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930639152682500501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 这样就足够了吧， 光是被自己喜欢对把自己喜欢的女孩子送给别人操的绿帽博士💚\n以后干脆就这样被绳索拴着舔铃兰脚丫的狗狗就好了， 很喜欢这样对吧~绿帽舔狗💚。\n#白丝 #文媛 #绿帽 #羞辱 https://t.co/NktlymzOX7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931362657262805350].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931362657262805350",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931362657262805350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1930639150170198016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssCE_9bUAAxZai.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930639150170198016"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1930639152682500501",
+        "created_at": "2025-06-05T14:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930639152682500501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "白丝"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "文媛"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "绿帽"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NktlymzOX7",
+              "end": 117,
+              "expanded_url": "https://x.com/shiling7651/status/1930639152682500501/photo/1",
+              "media_key": "3_1930639150170198016",
+              "start": 94,
+              "url": "https://t.co/NktlymzOX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930639152682500501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3670,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "这样就足够了吧， 光是被自己喜欢对把自己喜欢的女孩子送给别人操的绿帽博士💚\n以后干脆就这样被绳索拴着舔铃兰脚丫的狗狗就好了， 很喜欢这样对吧~绿帽舔狗💚。\n#白丝 #文媛 #绿帽 #羞辱 https://t.co/NktlymzOX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 119,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1444
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 106,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 210
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

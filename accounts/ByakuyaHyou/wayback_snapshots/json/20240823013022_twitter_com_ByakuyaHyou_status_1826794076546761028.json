@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826794076546761028",
+    "created_at": "2024-08-23T01:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T02:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826794076546761028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "剧情"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "文爱"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "文媛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620255837498261506",
+          "start": 3,
+          "username": "xhai5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826794076546761028",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826761188610638104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhai5200: 废物母畜的口穴正确用法，成为男爹的厕纸，脸作为坐垫让主人硕大的卵蛋压倒你的骚脸上浓郁的臭味直冲大脑把你的废物大脑直接雌杀让你以后看到主人的肉棒就会迅速发情主动亲上来，怎么，已经开始意淫然后颅内高潮了？废物母畜\n#剧情 #文爱 #文媛 https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826794076546761028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826794076546761028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826794076546761028"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826761184659513344"
+          ]
+        },
+        "author_id": "1620255837498261506",
+        "conversation_id": "1826761188610638104",
+        "created_at": "2024-08-22T23:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T00:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826761188610638104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "剧情"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "文爱"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lj9x8yairh",
+              "end": 140,
+              "expanded_url": "https://twitter.com/xhai5200/status/1826761188610638104/photo/1",
+              "media_key": "3_1826761184659513344",
+              "start": 117,
+              "url": "https://t.co/LJ9X8yaIRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826761188610638104",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "废物母畜的口穴正确用法，成为男爹的厕纸，脸作为坐垫让主人硕大的卵蛋压倒你的骚脸上浓郁的臭味直冲大脑把你的废物大脑直接雌杀让你以后看到主人的肉棒就会迅速发情主动亲上来，怎么，已经开始意淫然后颅内高潮了？废物母畜\n#剧情 #文爱 #文媛 https://t.co/LJ9X8yaIRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 66,
+          "like_count": 248,
+          "listed_count": 0,
+          "tweet_count": 284
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T03:01:18.000Z",
+        "description": "新人黑心巨屌正太小伊哦，喜欢压榨玩弄废物杂鱼姐姐们，欢迎各位杂鱼姐姐主动无脑上供♡~，点开私信就可以享受小海无情爆扣了呢♡~，专用肉便器孕袋母畜 @pCbCd11EcK83413 电报https://t.co/TmPuXMG0vb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "pCbCd11EcK83413"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chaer5200",
+                "end": 115,
+                "expanded_url": "http://t.me/chaer5200",
+                "start": 92,
+                "url": "https://t.co/TmPuXMG0vb"
+              }
+            ]
+          }
+        },
+        "id": "1620255837498261506",
+        "location": "距你5.20km",
+        "name": "小伊🖤（求互推）",
+        "pinned_tweet_id": "1750184585919623506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779352254929338368/zwGQnqzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 136,
+          "like_count": 293,
+          "listed_count": 0,
+          "tweet_count": 48
+        },
+        "username": "xhai5200",
+        "verified": false
+      }
+    ]
+  }
+}

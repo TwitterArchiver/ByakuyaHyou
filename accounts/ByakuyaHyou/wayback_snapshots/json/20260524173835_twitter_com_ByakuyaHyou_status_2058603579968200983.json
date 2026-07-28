@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2057868169986064505",
+    "created_at": "2026-05-24T17:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058603579968200983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935661899682918400",
+          "start": 0,
+          "username": "waneng42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058603579968200983",
+    "in_reply_to_user_id": "1935661899682918400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057868169986064505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waneng42 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2057868169986064505",
+        "created_at": "2026-05-24T17:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058603579968200983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935661899682918400",
+              "start": 0,
+              "username": "waneng42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058603579968200983",
+        "in_reply_to_user_id": "1935661899682918400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057868169986064505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waneng42 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935661899682918400",
+        "conversation_id": "2057868169986064505",
+        "created_at": "2026-05-22T16:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057868169986064505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057868169986064505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对自己越来越失望了，各位，我到底是什么好人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 565,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1594
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T11:32:27.000Z",
+        "description": "想成为水母\n未确认生命体 \n不喜欢近距离接触，不喜欢吵闹\n想一个人安静的待到死",
+        "id": "1935661899682918400",
+        "name": "SKY_iint",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032863959213285376/tatO4heb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 117
+        },
+        "username": "waneng42",
+        "verified": false
+      }
+    ]
+  }
+}

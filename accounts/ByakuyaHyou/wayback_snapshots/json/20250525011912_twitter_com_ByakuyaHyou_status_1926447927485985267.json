@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1926447927485985267",
+    "created_at": "2025-05-25T01:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T02:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926447927485985267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926447927485985267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926064812745764897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “坏人..~人家在 打游戏啦..🧡 不要捣乱 嗯啊🧡.. 惹呜...”\n坐在男友怀里打着游戏，被咸猪手使坏侵犯胸部，不停娇羞喘息香气，丰硕奶肉填满手心晃悠\n\n“嗯哈...🧡 人家 好不容易捡到的装备...🧡 这把不能 输的...🧡”\n红着小脸忍…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926447927485985267].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926447927485985267",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926447927485985267"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_1926064809608372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrrBvVcWYAAvfZ5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926064809608372224"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1926064812745764897",
+        "created_at": "2025-05-23T23:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T00:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926064812745764897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "纯爱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "情侣"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "你的队友"
+            },
+            {
+              "end": 160,
+              "start": 153,
+              "tag": "游戏play"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jYqIF9ZucT",
+              "end": 188,
+              "expanded_url": "https://x.com/q3233788635/status/1926064812745764897/photo/1",
+              "media_key": "3_1926064809608372224",
+              "start": 165,
+              "url": "https://t.co/jYqIF9ZucT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926064812745764897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3781,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "“坏人..~人家在 打游戏啦..🧡 不要捣乱 嗯啊🧡.. 惹呜...”\n坐在男友怀里打着游戏，被咸猪手使坏侵犯胸部，不停娇羞喘息香气，丰硕奶肉填满手心晃悠\n\n“嗯哈...🧡 人家 好不容易捡到的装备...🧡 这把不能 输的...🧡”\n红着小脸忍耐快感，翘臀夹着“方向杆”压蹭🧡 #纯爱 #情侣 #你的队友 #游戏play #文爱 https://t.co/jYqIF9ZucT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 120,
+          "like_count": 1226,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1438
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 458,
+          "like_count": 3303,
+          "listed_count": 14,
+          "media_count": 83,
+          "tweet_count": 3586
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

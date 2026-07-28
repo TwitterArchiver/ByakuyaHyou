@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1823742819556843778",
+    "created_at": "2024-08-14T15:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T16:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823742819556843778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1700887197032071168",
+          "start": 3,
+          "username": "rky1955808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823742819556843778",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823585280575639971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rky1955808: 切~主人必须要这样做吗~我只是您点的家政服务而已…您这样的话我会很难做的♠(一脸鄙夷的看着正享受躺在自己肥腻丰腴的肉臀下的对方 身上散发着浓郁的雌熟气味充斥着你整个脸颊❤)好了先生~现在您就可以一边吸一边撸你那个废物的肉虫了~❤今晚我还要去帮黑爹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823742819556843778].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823742819556843778",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823742819556843778"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823585277987729408"
+          ]
+        },
+        "author_id": "1700887197032071168",
+        "conversation_id": "1823585280575639971",
+        "created_at": "2024-08-14T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823585280575639971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "NTR"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "反差"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "母人"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "女权"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qi47w2ixj",
+              "end": 170,
+              "expanded_url": "https://twitter.com/rky1955808/status/1823585280575639971/photo/1",
+              "media_key": "3_1823585277987729408",
+              "start": 147,
+              "url": "https://t.co/5qI47W2Ixj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823585280575639971",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1322,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "切~主人必须要这样做吗~我只是您点的家政服务而已…您这样的话我会很难做的♠(一脸鄙夷的看着正享受躺在自己肥腻丰腴的肉臀下的对方 身上散发着浓郁的雌熟气味充斥着你整个脸颊❤)好了先生~现在您就可以一边吸一边撸你那个废物的肉虫了~❤今晚我还要去帮黑爹大人发泄呢~❤#NTR #反差 #母人 #女权 https://t.co/5qI47W2Ixj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 31,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T15:01:38.000Z",
+        "description": "伟大的羽蛇神化身为世间肥满的超乳熟女❤为了传播文明建立起自己的教堂帮助人们发泄着❤也需要人类将自己的金钱贡献出来❤60/h❤随时欢迎人们来找尔科亚大人贡献自己的金钱❤当然我也会对于你们榨取自身的精液哦❤qq账号：3686267190小号：3330851416；纸飞机账号：@hxcwm00 小媳妇套子 @FREEXiba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 136,
+                "username": "hxcwm00"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "FREEXiba"
+              }
+            ]
+          }
+        },
+        "id": "1700887197032071168",
+        "location": "New Westminster, British Colum",
+        "name": "尔科亚♡「互推」",
+        "pinned_tweet_id": "1798719614182195287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794732763578249216/e5OSuJiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 154,
+          "like_count": 61,
+          "listed_count": 11,
+          "tweet_count": 129
+        },
+        "username": "rky1955808",
+        "verified": false
+      }
+    ]
+  }
+}

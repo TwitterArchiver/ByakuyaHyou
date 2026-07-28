@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897527457147961447",
+    "created_at": "2025-03-06T05:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T06:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897527457147961447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894399676142817291",
+          "start": 3,
+          "username": "xuenaisama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897527457147961447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897507823053103203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuenaisama1: 操，你们这两只傻逼贱狗真他妈恶心死了🖤母狗快把你那烂逼掰开流水啊别他妈装死🖤那个臭傻逼公的，赶紧撸废物狗屌啊，一对垃圾婊子，你那骚逼洞流脓水了吗赶紧抠烂，傻逼你那臭鸡吧还敢滴水，射不出精就给老娘舔鞋底～踩着你们这堆烂肉我都嫌恶心快他妈动起来，傻…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897527457147961447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897527457147961447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897527457147961447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1897507764781412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlVNQjZXcAA226M.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897507764781412352"
+          ]
+        },
+        "author_id": "1894399676142817291",
+        "conversation_id": "1897507823053103203",
+        "created_at": "2025-03-06T04:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T05:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897507823053103203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文援"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文爱"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "羞辱"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "调教"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "贱货"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubGLa6z6i0",
+              "end": 169,
+              "expanded_url": "https://x.com/xuenaisama1/status/1897507823053103203/photo/1",
+              "media_key": "3_1897507764781412352",
+              "start": 146,
+              "url": "https://t.co/ubGLa6z6i0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897507823053103203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "操，你们这两只傻逼贱狗真他妈恶心死了🖤母狗快把你那烂逼掰开流水啊别他妈装死🖤那个臭傻逼公的，赶紧撸废物狗屌啊，一对垃圾婊子，你那骚逼洞流脓水了吗赶紧抠烂，傻逼你那臭鸡吧还敢滴水，射不出精就给老娘舔鞋底～踩着你们这堆烂肉我都嫌恶心快他妈动起来，傻逼畜生 #文援 #文爱 #羞辱 #调教 #贱货 https://t.co/ubGLa6z6i0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 91,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 929
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T14:51:03.000Z",
+        "description": "在校大一美足恶毒小妈，全能文援积极营业，时间：全天 喜欢一点点玩弄小狗 严厉，擅长网调🖤/绿帽/羞辱任务/狗奴/💚寸止/榨精/重口味/剧情，当然也欢迎各位男爹玩弄反差婊子🚪： 3848612706 需要互推的文援老师直接私聊",
+        "id": "1894399676142817291",
+        "name": "茶乃SAMA（欢迎互推）",
+        "pinned_tweet_id": "1897222988329783770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897200819407360000/HlWjakmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "xuenaisama1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1851471576572837933",
+    "created_at": "2024-10-30T03:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T04:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851471576572837933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "恋足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851471576572837933",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850177222340198514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 怎么？都来找柠檬了居然还会害羞嘛❤️这不是你最喜欢的脚足嘛❤️乖乖的服从柠檬的话，不要抵抗～放松你的身躯～忘掉～什么都忘掉捧住主人的脚面～用你的鼻子深深的吸入气味♡，只要把主人的气味记住就可以咯♡沉沦在柠檬给你带来的快感之中吧🖤\n#恋足 #贱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851471576572837933].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851471576572837933",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851471576572837933"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850177219836227584"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1850177222340198514",
+        "created_at": "2024-10-26T14:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850177222340198514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "恋足"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "贱g"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "上贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsF77FapXk",
+              "end": 152,
+              "expanded_url": "https://x.com/ningmeng1245/status/1850177222340198514/photo/1",
+              "media_key": "3_1850177219836227584",
+              "start": 129,
+              "url": "https://t.co/lsF77FapXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850177222340198514",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2328,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "怎么？都来找柠檬了居然还会害羞嘛❤️这不是你最喜欢的脚足嘛❤️乖乖的服从柠檬的话，不要抵抗～放松你的身躯～忘掉～什么都忘掉捧住主人的脚面～用你的鼻子深深的吸入气味♡，只要把主人的气味记住就可以咯♡沉沦在柠檬给你带来的快感之中吧🖤\n#恋足 #贱g  #上贡奴 https://t.co/lsF77FapXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 88,
+          "like_count": 697,
+          "listed_count": 0,
+          "tweet_count": 880
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "柠檬会在你入睡时会温柔地踏入你的梦境之中，与你交媾❤️为你带来天国般的快乐，洗除一身的疲劳，并同时把你的恶梦吞食，代价仅为一点点精气❤️\n柠檬的企鹅号：3993705909🚪槛：10/r\n PS：不涉三，纯文字，轻微sm，轻微重口\n姐姐～@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849672276704362496/T1yi3w_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 46,
+          "like_count": 16,
+          "listed_count": 1,
+          "tweet_count": 236
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      }
+    ]
+  }
+}

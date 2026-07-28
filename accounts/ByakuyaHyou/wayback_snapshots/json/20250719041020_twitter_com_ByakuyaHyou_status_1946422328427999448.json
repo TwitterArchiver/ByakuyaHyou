@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946422328427999448",
+    "created_at": "2025-07-19T04:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946422328427999448"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "atm"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "调教"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "sm"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818201196777402368",
+          "start": 3,
+          "username": "qiyuanziiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946422328427999448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945783318718386473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiyuanziiii: 看着早已被汗水浸透，紧紧吸附在玉足之上，清晰勾勒出的痕迹💜手已经控制不住的摸上了肉棒…\n这么痴迷的发情，被姐姐榨干确实很舒服吧💜\n闻着扑鼻的雌💜臭，已经被熏成白痴了呢\n现在 对着姐姐的足底，献出所有吧…#atm #调教 #sm #文爱 http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946422328427999448].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946422328427999448",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946422328427999448"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_1945783315451052032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDPnb9XgAAYW4D.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945783315451052032"
+          ]
+        },
+        "author_id": "1818201196777402368",
+        "conversation_id": "1945783318718386473",
+        "created_at": "2025-07-17T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945783318718386473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "atm"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "调教"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "sm"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rbCekEYUi",
+              "end": 141,
+              "expanded_url": "https://x.com/qiyuanziiii/status/1945783318718386473/photo/1",
+              "media_key": "3_1945783315451052032",
+              "start": 118,
+              "url": "https://t.co/9rbCekEYUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945783318718386473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3283,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "看着早已被汗水浸透，紧紧吸附在玉足之上，清晰勾勒出的痕迹💜手已经控制不住的摸上了肉棒…\n这么痴迷的发情，被姐姐榨干确实很舒服吧💜\n闻着扑鼻的雌💜臭，已经被熏成白痴了呢\n现在 对着姐姐的足底，献出所有吧…#atm #调教 #sm #文爱 https://t.co/9rbCekEYUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 118,
+          "like_count": 1313,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1512
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T08:25:38.000Z",
+        "description": "让姐姐榨取媚足白痴直到一滴也不剩～ATM奴❤️直接口令就好啦💜反正你这样的傻逼在吐钱的时候就会发情高潮吧…？足够多的话没准可以带走姐姐充满汗臭的丝袜哦💜门牌3888688105",
+        "id": "1818201196777402368",
+        "name": "💕念安（互推私）💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818911340414877696/1xX9vHf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 46,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 770
+        },
+        "username": "qiyuanziiii",
+        "verified": false
+      }
+    ]
+  }
+}

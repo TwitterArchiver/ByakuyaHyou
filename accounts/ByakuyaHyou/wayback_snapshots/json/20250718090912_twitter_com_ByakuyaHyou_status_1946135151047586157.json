@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946078364785430930",
+    "created_at": "2025-07-18T09:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946135151047586157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932506429207748608",
+          "start": 0,
+          "username": "daniel_hal63378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946135151047586157",
+    "in_reply_to_user_id": "1932506429207748608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946078364785430930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daniel_hal63378 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1946078364785430930",
+        "created_at": "2025-07-18T09:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946135151047586157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932506429207748608",
+              "start": 0,
+              "username": "daniel_hal63378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946135151047586157",
+        "in_reply_to_user_id": "1932506429207748608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946078364785430930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daniel_hal63378 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932506429207748608",
+        "conversation_id": "1946078364785430930",
+        "created_at": "2025-07-18T05:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946078364785430930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946078364785430930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13919,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "下午呀 （13:30分）\n\n刚在床上和14岁的白虎闺蜜\n\n拍的互舔视频点赞秒发哦（不发是小🐶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦(暂停营业)\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 120,
+          "like_count": 1308,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1509
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T18:33:38.000Z",
+        "description": "有哥哥喜欢白虎吗 关注我发给你 互看视频哦 无🚪",
+        "id": "1932506429207748608",
+        "location": "8.9km",
+        "name": "谭欣欣（初三",
+        "pinned_tweet_id": "1946078364785430930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943163682281619459/42X8Vn0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "daniel_hal63378",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1948916670992470041",
+    "created_at": "2025-07-26T09:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949037439772713472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949037439772713472",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948916670992470041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1948916670992470041",
+        "created_at": "2025-07-26T09:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949037439772713472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949037439772713472",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948916670992470041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "1948916670992470041",
+        "created_at": "2025-07-26T01:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T02:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948916670992470041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948916670992470041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11668,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 94,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在这个推文关注我并评论我会回关的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 145,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1534
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "04年MTF(？)，小证，可以叫我奈奈，常出现在长三角地区以及广西～不接线下⚠️/❗病态般的缺爱❗喜欢交朋友～可以来找奈奈一起玩～/我一辈子都在妄想着一个人会回来找我",
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA🍥",
+        "pinned_tweet_id": "1946272337596387780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946871947868188672/WGfHyKJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 439,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 274
+        },
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

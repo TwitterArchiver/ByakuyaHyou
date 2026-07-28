@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833123931013980618",
+    "created_at": "2024-09-09T12:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T13:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833123931013980618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821147834844114944",
+          "start": 3,
+          "username": "xiaoxiao804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833123931013980618",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833117374205116634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiaoxiao804: 主人才玩了多久呢～这么快就射出来了吗小废物💗难道不喜欢被主人双足夹住玩弄吗～真是中看不中用的废屌💗早泄到这种程度让主人很不满意哦💗接下来准备继续奉献出你肮脏的狗精吧💗在主人没玩够之前是不会让你喘息休息的💗直到把你身体里最后一滴精液都挤出来才是结…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833123931013980618].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833123931013980618",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833123931013980618"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833117366932406272"
+          ]
+        },
+        "author_id": "1821147834844114944",
+        "conversation_id": "1833117374205116634",
+        "created_at": "2024-09-09T12:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T13:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833117374205116634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wv8fuqoc6j",
+              "end": 149,
+              "expanded_url": "https://twitter.com/xiaoxiao804/status/1833117374205116634/photo/1",
+              "media_key": "3_1833117366932406272",
+              "start": 126,
+              "url": "https://t.co/Wv8fuQOc6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833117374205116634",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "主人才玩了多久呢～这么快就射出来了吗小废物💗难道不喜欢被主人双足夹住玩弄吗～真是中看不中用的废屌💗早泄到这种程度让主人很不满意哦💗接下来准备继续奉献出你肮脏的狗精吧💗在主人没玩够之前是不会让你喘息休息的💗直到把你身体里最后一滴精液都挤出来才是结束呢💗 https://t.co/Wv8fuQOc6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 81,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 544
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:34:24.000Z",
+        "description": "SM情侣主🖤 接文援、网调🖤收狗狗、锁奴、绿帽奴、足奴🖤🐧3996867072🖤被封重生版～",
+        "id": "1821147834844114944",
+        "name": "潇潇（互推）",
+        "pinned_tweet_id": "1825478000152035364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821147934525943810/CppZ6LdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 40,
+          "like_count": 105,
+          "listed_count": 2,
+          "tweet_count": 219
+        },
+        "username": "xiaoxiao804",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916336373503824037",
+    "created_at": "2025-04-27T03:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916336373503824037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916336373503824037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916265081740136707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 咕～💚今晚怎么提前下班啦～傻逼老公💚...正好～这下祖宗也不用再跟你装了呢💚～自己跪好了爬过来吧～其实昨晚人家根本没早睡～是在家跟男爹做了一整晚呢...小穴差点都被爹爹操肿了💚～自己叼着爹爹用过的套套跪在边上看着祖宗侍奉男爹臭屌吧～💚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916336373503824037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916336373503824037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916336373503824037"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916265077977788416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpfw74RaMAAFhS1.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916265077977788416"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1916265081740136707",
+        "created_at": "2025-04-26T22:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916265081740136707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文援"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "ntr"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "绿帽"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IVSVkxLP3",
+              "end": 158,
+              "expanded_url": "https://x.com/KendallRat17471/status/1916265081740136707/photo/1",
+              "media_key": "3_1916265077977788416",
+              "start": 135,
+              "url": "https://t.co/0IVSVkxLP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916265081740136707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 693,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "咕～💚今晚怎么提前下班啦～傻逼老公💚...正好～这下祖宗也不用再跟你装了呢💚～自己跪好了爬过来吧～其实昨晚人家根本没早睡～是在家跟男爹做了一整晚呢...小穴差点都被爹爹操肿了💚～自己叼着爹爹用过的套套跪在边上看着祖宗侍奉男爹臭屌吧～💚 ＃文援 ＃ntr ＃绿帽 ＃羞辱 https://t.co/0IVSVkxLP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 116,
+          "like_count": 1118,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1326
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212～营业时间8点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 1856,
+          "like_count": 17,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 1066
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

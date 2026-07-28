@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1847861519369064603",
+    "created_at": "2024-10-20T04:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T05:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847861519369064603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847861519369064603",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847571043914768764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 下贱的废物～🩷\n光是闻着妈妈的脚底～🩷\n就开始犯贱到成为脚奴了🩷这么喜欢妈妈的美脚啊🩷\n来～舔🩷把妈妈脚上的污垢～都吃掉～\n这是你最喜欢的食物对不对啊🩷\n一直脚塞进你的狗嘴～🩷\n一只脚踩着狗几把🩷看看你～怎么翻白眼了啊🩷\n喂！不许停～继…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1847861519369064603].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1847861519369064603",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1847861519369064603"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847571040442232832",
+            "3_1847571040442220544",
+            "3_1847571040609980418"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1847571043914768764",
+        "created_at": "2024-10-19T09:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T10:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847571043914768764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3Xvc4ZGOJ",
+              "end": 152,
+              "expanded_url": "https://x.com/Dear34585171693/status/1847571043914768764/photo/1",
+              "media_key": "3_1847571040442232832",
+              "start": 129,
+              "url": "https://t.co/f3Xvc4ZGOJ"
+            },
+            {
+              "display_url": "pic.x.com/f3Xvc4ZGOJ",
+              "end": 152,
+              "expanded_url": "https://x.com/Dear34585171693/status/1847571043914768764/photo/1",
+              "media_key": "3_1847571040442220544",
+              "start": 129,
+              "url": "https://t.co/f3Xvc4ZGOJ"
+            },
+            {
+              "display_url": "pic.x.com/f3Xvc4ZGOJ",
+              "end": 152,
+              "expanded_url": "https://x.com/Dear34585171693/status/1847571043914768764/photo/1",
+              "media_key": "3_1847571040609980418",
+              "start": 129,
+              "url": "https://t.co/f3Xvc4ZGOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847571043914768764",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2133,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "following",
+        "text": "下贱的废物～🩷\n光是闻着妈妈的脚底～🩷\n就开始犯贱到成为脚奴了🩷这么喜欢妈妈的美脚啊🩷\n来～舔🩷把妈妈脚上的污垢～都吃掉～\n这是你最喜欢的食物对不对啊🩷\n一直脚塞进你的狗嘴～🩷\n一只脚踩着狗几把🩷看看你～怎么翻白眼了啊🩷\n喂！不许停～继续给我舔干净，贱狗🩷 https://t.co/f3Xvc4ZGOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 88,
+          "like_count": 677,
+          "listed_count": 0,
+          "tweet_count": 846
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1828306974456623134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 62,
+          "like_count": 4,
+          "listed_count": 8,
+          "tweet_count": 998
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

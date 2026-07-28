@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905204307882070414",
+    "created_at": "2025-03-27T10:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T11:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905204307882070414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "文爱"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828899975176372224",
+          "start": 3,
+          "username": "ningmeng1245"
+        },
+        {
+          "end": 112,
+          "id": "1626058253095555073",
+          "start": 98,
+          "username": "Cqmyg88484802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905204307882070414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904905925716304081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningmeng1245: 新鲜出炉的公演活动哦❤️\n魅魔姐妹花*正太勇者（小男娘勇者哦❤️）\n哼哼～门票的话十分便宜哦（仅仅需要一杯柠檬水的价格6r呢❤️）\n公演时间就在3月份29号呢\n@Cqmyg88484802 妹妹的推特哦\n#文爱 #文援 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905204307882070414].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905204307882070414",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905204307882070414"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_1904905922906120192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-V2CFbYAA-fqD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904905922906120192"
+          ]
+        },
+        "author_id": "1828899975176372224",
+        "conversation_id": "1904905925716304081",
+        "created_at": "2025-03-26T14:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904905925716304081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "文爱"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "文援"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1626058253095555073",
+              "start": 80,
+              "username": "Cqmyg88484802"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i95VWxEGbc",
+              "end": 133,
+              "expanded_url": "https://x.com/ningmeng1245/status/1904905925716304081/photo/1",
+              "media_key": "3_1904905922906120192",
+              "start": 110,
+              "url": "https://t.co/i95VWxEGbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904905925716304081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 522,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "新鲜出炉的公演活动哦❤️\n魅魔姐妹花*正太勇者（小男娘勇者哦❤️）\n哼哼～门票的话十分便宜哦（仅仅需要一杯柠檬水的价格6r呢❤️）\n公演时间就在3月份29号呢\n@Cqmyg88484802 妹妹的推特哦\n#文爱 #文援 https://t.co/i95VWxEGbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01\n闺蜜夕宝:@mrfzxi 3875887471\n闺蜜鲨鲨@sharksha 2827684346",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 955,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1129
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T20:58:36.000Z",
+        "description": "柠檬会在你入睡时会温柔地踏入你的梦境之中，与你交媾❤️为你带来天国般的快乐，洗除一身的疲劳，并同时把你的恶梦吞食，代价仅为一点点精气❤️\n柠檬的企鹅号：3993705909🚪槛：10/r\n PS：不涉三，纯文字，轻微sm，轻微重口\n姐姐：@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1828899975176372224",
+        "name": "柠檬（文援姬）",
+        "pinned_tweet_id": "1833511037615935774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849672276704362496/T1yi3w_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 74,
+          "like_count": 19,
+          "listed_count": 6,
+          "media_count": 56,
+          "tweet_count": 1154
+        },
+        "username": "ningmeng1245",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T03:18:07.000Z",
+        "description": "锵锵锵!这里是新手文援U酱哦！\n噗噗噗~大哥哥是来和U酱做涩涩事情的？要小心不要被我榨干哦♡\n细的肉棒~粗的肉棒~全部都可以过来哦~噗噗噗~反正是赢不了我的喵♡\n当然~代价也是要付出的哦~噗噗噗~杂鱼哥哥们~能不能用你们那弱小的肉棒~来肏服我呢~？\n门牌号 1708214155\n价格 30min/25\n不涉三哦♡",
+        "id": "1626058253095555073",
+        "location": "二次元",
+        "name": "U酱~♡",
+        "pinned_tweet_id": "1666378158382419968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630836193540841472/B_CvYlpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7269,
+          "following_count": 106,
+          "like_count": 91,
+          "listed_count": 15,
+          "media_count": 83,
+          "tweet_count": 105
+        },
+        "username": "Cqmyg88484802",
+        "verified": false
+      }
+    ]
+  }
+}

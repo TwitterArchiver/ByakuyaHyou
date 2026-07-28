@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1933031618928951391",
+    "created_at": "2025-06-12T05:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T06:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933031618928951391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933031618928951391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932054415428800748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 因为你的强烈意愿才勉强同意穿上这种衣服的哦？\n不要误会，并没有感到害羞什么的，只是对你这种杂碎的性癖感到厌恶罢了\n但看在那么诚恳请求的份上，赏赐一点福利也无妨\n知道该怎么做吧？\n跪在床边，对着人家足底勃起肉虫，发泄自己的恶心下流欲望\n胆敢逾越…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933031618928951391].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933031618928951391",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933031618928951391"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1932054406507511808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAJPwqbwAAbFeP.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932054406507511808"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1932054415428800748",
+        "created_at": "2025-06-09T12:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932054415428800748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NM5Wt79d3n",
+              "end": 170,
+              "expanded_url": "https://x.com/shigongyuyue/status/1932054415428800748/photo/1",
+              "media_key": "3_1932054406507511808",
+              "start": 147,
+              "url": "https://t.co/NM5Wt79d3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932054415428800748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7712,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "因为你的强烈意愿才勉强同意穿上这种衣服的哦？\n不要误会，并没有感到害羞什么的，只是对你这种杂碎的性癖感到厌恶罢了\n但看在那么诚恳请求的份上，赏赐一点福利也无妨\n知道该怎么做吧？\n跪在床边，对着人家足底勃起肉虫，发泄自己的恶心下流欲望\n胆敢逾越...就把胯下的恶心虫子报废掉哦？\n#文爱 #文援 https://t.co/NM5Wt79d3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1249,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1456
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "pinned_tweet_id": "1932867107198546428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583,
+          "following_count": 2598,
+          "like_count": 15407,
+          "listed_count": 22,
+          "media_count": 878,
+          "tweet_count": 7674
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

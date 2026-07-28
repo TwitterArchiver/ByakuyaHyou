@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898303820242845972",
+    "created_at": "2025-03-08T10:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898316282816299374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886672091241701378",
+          "start": 0,
+          "username": "hamimelon_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898316282816299374",
+    "in_reply_to_user_id": "1886672091241701378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898303820242845972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamimelon_ovo 举手，可以试试喵？(只是电脑活跃时间是晚上晚上7点到9点)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1898303820242845972",
+        "created_at": "2025-03-08T10:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898316282816299374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886672091241701378",
+              "start": 0,
+              "username": "hamimelon_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898316282816299374",
+        "in_reply_to_user_id": "1886672091241701378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898303820242845972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamimelon_ovo 举手，可以试试喵？(只是电脑活跃时间是晚上晚上7点到9点)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886672091241701378",
+        "conversation_id": "1898303820242845972",
+        "created_at": "2025-03-08T09:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898303820242845972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蔷蔷悬赏单"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898303820242845972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷悬赏单\n要求：找一个双影奇境的陪玩（我有游戏和好友通行证，所以你不需要买游戏），需要愿意连麦，比较健谈，有一定的游戏水平，电脑配置过关，而且没有玩过这个游戏（虽然游戏才刚出玩过的可能性不大但还是写上吧）\n赏金：可自定\n联系方式：评论区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 95,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 972
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 44,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 153
+        },
+        "username": "hamimelon_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

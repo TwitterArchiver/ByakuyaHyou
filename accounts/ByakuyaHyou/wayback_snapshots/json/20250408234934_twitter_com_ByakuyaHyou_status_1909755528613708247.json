@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909755528613708247",
+    "created_at": "2025-04-08T23:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T00:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909755528613708247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1495785895253135360",
+          "start": 3,
+          "username": "Mizukiiii_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909755528613708247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908909396924543015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mizukiiii_neko: 这是一篇杂谈啦x 并不是什么奇怪的色推之类的。只是想问问大家对于在意的人是怎么界定的呢，我的话暂时不清楚，只是最近遇到了一个好可爱的孩子w 打游戏也超级厉害的！向对方传达了心意之后就开始忍不住上课偷看对方QQ 悄悄发消息…///（不许说我…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909755528613708247].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909755528613708247",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909755528613708247"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1908909385184911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn3O-NRbIAA0qJa.jpg",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908909385184911360"
+          ]
+        },
+        "author_id": "1495785895253135360",
+        "conversation_id": "1908909396924543015",
+        "created_at": "2025-04-06T15:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908909396924543015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYF8ATs3F5",
+              "end": 170,
+              "expanded_url": "https://x.com/Mizukiiii_neko/status/1908909396924543015/photo/1",
+              "media_key": "3_1908909385184911360",
+              "start": 147,
+              "url": "https://t.co/iYF8ATs3F5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908909396924543015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是一篇杂谈啦x 并不是什么奇怪的色推之类的。只是想问问大家对于在意的人是怎么界定的呢，我的话暂时不清楚，只是最近遇到了一个好可爱的孩子w 打游戏也超级厉害的！向对方传达了心意之后就开始忍不住上课偷看对方QQ 悄悄发消息…///（不许说我杂鱼x）总之就是每时每刻都想着对方，这种算在意的人吗w https://t.co/iYF8ATs3F5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 115,
+          "like_count": 1049,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1226
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T15:42:10.000Z",
+        "description": "这里是新晋文媛姬雪玲desu~\n擅长女同攻受皆可\n不过面对男孩子也可以做一些简单的足交和手交，合得来可以解锁更多体位哦~\n不过插入是绝对不行的！\nXP是攻系大姐姐和攻系小萝莉 雷后穴 R18G 黄金圣水哦\n门牌号私信掉落门槛5R 40R/30min 不涉三\n这边也有定制文服务~60/千字",
+        "id": "1495785895253135360",
+        "name": "谁叫雪玲这么可爱呢~",
+        "pinned_tweet_id": "1908909396924543015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851646932353241088/0bLwr6Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 763,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 232
+        },
+        "username": "Mizukiiii_neko",
+        "verified": false
+      }
+    ]
+  }
+}

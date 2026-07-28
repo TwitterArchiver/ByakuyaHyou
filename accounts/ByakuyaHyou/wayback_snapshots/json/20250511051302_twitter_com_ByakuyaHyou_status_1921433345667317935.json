@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1921433345667317935",
+    "created_at": "2025-05-11T05:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T06:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921433345667317935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669539094853210112",
+          "start": 3,
+          "username": "36Dxiaomihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921433345667317935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921398306350977205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @36Dxiaomihu: 猛地抬起脚，狠狠踩在脸颊上脚尖恶意地碾过脸♡\n人家足底的味道怎么样？\n是不是让你这低贱的东西脑子都烂掉了？\n加大了脚掌的力度，脚底沿着脸颊缓缓滑动\n让你这废物连喘息的机会都没有，被足臭熏的翻白眼吐舌头\n很棒哦你现在这张脸w https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921433345667317935].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921433345667317935",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921433345667317935"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_1921398079884009472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqotX6eaoAALwpy.png",
+        "width": 523
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921398079934300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqotX6qaAAA5rvW.jpg",
+        "width": 1463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921398080114499585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqotX7VXoAE27hD.jpg",
+        "width": 1463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921398079913402368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqotX6lbIAAtpQw.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921398079884009472",
+            "3_1921398079934300160",
+            "3_1921398080114499585",
+            "3_1921398079913402368"
+          ]
+        },
+        "author_id": "1669539094853210112",
+        "conversation_id": "1921398306350977205",
+        "created_at": "2025-05-11T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921398306350977205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9GODwnI56",
+              "end": 135,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1921398306350977205/photo/1",
+              "media_key": "3_1921398079884009472",
+              "start": 112,
+              "url": "https://t.co/m9GODwnI56"
+            },
+            {
+              "display_url": "pic.x.com/m9GODwnI56",
+              "end": 135,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1921398306350977205/photo/1",
+              "media_key": "3_1921398079934300160",
+              "start": 112,
+              "url": "https://t.co/m9GODwnI56"
+            },
+            {
+              "display_url": "pic.x.com/m9GODwnI56",
+              "end": 135,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1921398306350977205/photo/1",
+              "media_key": "3_1921398080114499585",
+              "start": 112,
+              "url": "https://t.co/m9GODwnI56"
+            },
+            {
+              "display_url": "pic.x.com/m9GODwnI56",
+              "end": 135,
+              "expanded_url": "https://x.com/36Dxiaomihu/status/1921398306350977205/photo/1",
+              "media_key": "3_1921398079913402368",
+              "start": 112,
+              "url": "https://t.co/m9GODwnI56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921398306350977205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 599,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "猛地抬起脚，狠狠踩在脸颊上脚尖恶意地碾过脸♡\n人家足底的味道怎么样？\n是不是让你这低贱的东西脑子都烂掉了？\n加大了脚掌的力度，脚底沿着脸颊缓缓滑动\n让你这废物连喘息的机会都没有，被足臭熏的翻白眼吐舌头\n很棒哦你现在这张脸w https://t.co/m9GODwnI56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 119,
+          "like_count": 1196,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1405
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T02:55:26.000Z",
+        "description": "欢迎小可爱们私信互推和扩列哦♡\n欢迎小狗们来兔兔的脚底下单发情♡\n让人家用脚把你这个垃圾贱种的肉棒踩坏♡\n你的低级的贱种基因在兔兔的足下碾碎♡\n给人家臭脚除臭♡让气味进入你的大脑里♡\n成为人家的脚垫奴隶w被迫吸着足臭噴精\n臭脚踩脸♡气味洗脑♡羞辱蹂躏♡\n兔兔的门牌Q：2757227747 门费：20r",
+        "id": "1669539094853210112",
+        "name": "兔子小姐🔞",
+        "pinned_tweet_id": "1921398306350977205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820375164997292032/op9-8-hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4660,
+          "following_count": 768,
+          "like_count": 1362,
+          "listed_count": 20,
+          "media_count": 63,
+          "tweet_count": 270
+        },
+        "username": "36Dxiaomihu",
+        "verified": false
+      }
+    ]
+  }
+}

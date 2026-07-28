@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824090054085784011",
+    "created_at": "2024-08-15T14:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T15:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824090054085784011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499643217247096834",
+          "start": 3,
+          "username": "Slut_Ningjiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824090054085784011",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823940848972648588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slut_Ningjiu: 客...客官唔呼💜要...来姐姐的店里玩嘛~这一身衣服诶嘿💜喜欢嘛~小家伙💜而且，可不光光只是丝质情趣内衣哦...下面...（转过身撅起淫臀露出只穿着丁字裤的下身）母婊姐姐可是24小时戴着这些的哦，几天几夜积累下来的淫水的骚味💜估计弟弟一闻到…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824090054085784011].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824090054085784011",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824090054085784011"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823940845940178944"
+          ]
+        },
+        "author_id": "1499643217247096834",
+        "conversation_id": "1823940848972648588",
+        "created_at": "2024-08-15T04:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T05:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823940848972648588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhwuwd06mb",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Slut_Ningjiu/status/1823940848972648588/photo/1",
+              "media_key": "3_1823940845940178944",
+              "start": 148,
+              "url": "https://t.co/dHWuWD06mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823940848972648588",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5494,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "客...客官唔呼💜要...来姐姐的店里玩嘛~这一身衣服诶嘿💜喜欢嘛~小家伙💜而且，可不光光只是丝质情趣内衣哦...下面...（转过身撅起淫臀露出只穿着丁字裤的下身）母婊姐姐可是24小时戴着这些的哦，几天几夜积累下来的淫水的骚味💜估计弟弟一闻到就会上瘾吧~现在还不许把脸埋进去哦，得一步步来呢~… https://t.co/dHWuWD06mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T07:09:44.000Z",
+        "description": "这里是百变文姬柠玖~可御可萝的文援姬/媚黑p图师♠媚黑（仅xp）|洗脑|调教|恋足|反差|母婊~门牌号私信掉落❤🚪10，文爱60/h，定图20/张~基本随时发情的母婊柠玖随时欢迎各位客官❤ 另收贡奴/锁娘❤涉三禁止×",
+        "id": "1499643217247096834",
+        "name": "🌸柠玖🌸【互推】（绝赞接单中）",
+        "pinned_tweet_id": "1666726910921957377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804546853846867968/olHVNXoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10600,
+          "following_count": 868,
+          "like_count": 2361,
+          "listed_count": 70,
+          "tweet_count": 2171
+        },
+        "username": "Slut_Ningjiu",
+        "verified": true
+      }
+    ]
+  }
+}

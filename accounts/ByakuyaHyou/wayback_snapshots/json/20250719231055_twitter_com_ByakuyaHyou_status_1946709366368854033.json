@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946704584208162991",
+    "created_at": "2025-07-19T23:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T00:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946709366368854033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1709204461334454272",
+          "start": 0,
+          "username": "xiao_miaojiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946709366368854033",
+    "in_reply_to_user_id": "1709204461334454272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946704584208162991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_miaojiang 已经..堕落了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_1946704581875896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwQVgM1WkAAuF7h.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1946704584208162991",
+        "created_at": "2025-07-19T23:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T00:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946709366368854033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709204461334454272",
+              "start": 0,
+              "username": "xiao_miaojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946709366368854033",
+        "in_reply_to_user_id": "1709204461334454272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946704584208162991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_miaojiang 已经..堕落了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946704581875896320"
+          ]
+        },
+        "author_id": "1709204461334454272",
+        "conversation_id": "1946704584208162991",
+        "created_at": "2025-07-19T22:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T23:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946704584208162991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNbmkTnps2",
+              "end": 94,
+              "expanded_url": "https://x.com/xiao_miaojiang/status/1946704584208162991/photo/1",
+              "media_key": "3_1946704581875896320",
+              "start": 71,
+              "url": "https://t.co/uNbmkTnps2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946704584208162991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜……\n昨天晚上发情了，现在什么事情都不记得了，但是莫名其妙多了一千块钱的余额……\n咦？是发生了什么奇怪的事情吗？\n到底发生了什么…… https://t.co/uNbmkTnps2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 131,
+          "like_count": 1326,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1522
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T13:51:21.000Z",
+        "description": "",
+        "id": "1709204461334454272",
+        "name": "奈奈酱",
+        "pinned_tweet_id": "1935813903440925096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923187284549214208/N8J8AnWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 515,
+          "like_count": 279,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 183
+        },
+        "username": "xiao_miaojiang",
+        "verified": true
+      }
+    ]
+  }
+}

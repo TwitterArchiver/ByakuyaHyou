@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1898988749675209061",
+    "created_at": "2025-03-10T06:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T07:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898988749675209061"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "曝光"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "文爱"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "恋足"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "接单"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "文援"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898988749675209061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898972259286495337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 再发一次，上次那个被压画质了，也算是自己接个单的内容了，自己做的也没有太认真，言语和情感并不是太好，如果有需要更好的，夕宝也是会努力拿出来的（经过对方同意才曝光的）\n#曝光 #文爱 #恋足 #接单 #文援 #调教 https://t.co/g8JoOsV…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898988749675209061].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898988749675209061",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898988749675209061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898972251409838080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqBM5ObcAAGnBP.jpg",
+        "width": 622
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898972254396108800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqBNEWaUAANyWg.jpg",
+        "width": 619
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898972255784513536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqBNJhbsAA-SlD.jpg",
+        "width": 541
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898972253867700224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqBNCYbcAAM2Cu.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898972251409838080",
+            "3_1898972254396108800",
+            "3_1898972255784513536",
+            "3_1898972253867700224"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898972259286495337",
+        "created_at": "2025-03-10T05:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T06:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898972259286495337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "曝光"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "文爱"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "恋足"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "接单"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "文援"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8JoOsVlRV",
+              "end": 130,
+              "expanded_url": "https://x.com/mrfzxi/status/1898972259286495337/photo/1",
+              "media_key": "3_1898972251409838080",
+              "start": 107,
+              "url": "https://t.co/g8JoOsVlRV"
+            },
+            {
+              "display_url": "pic.x.com/g8JoOsVlRV",
+              "end": 130,
+              "expanded_url": "https://x.com/mrfzxi/status/1898972259286495337/photo/1",
+              "media_key": "3_1898972254396108800",
+              "start": 107,
+              "url": "https://t.co/g8JoOsVlRV"
+            },
+            {
+              "display_url": "pic.x.com/g8JoOsVlRV",
+              "end": 130,
+              "expanded_url": "https://x.com/mrfzxi/status/1898972259286495337/photo/1",
+              "media_key": "3_1898972255784513536",
+              "start": 107,
+              "url": "https://t.co/g8JoOsVlRV"
+            },
+            {
+              "display_url": "pic.x.com/g8JoOsVlRV",
+              "end": 130,
+              "expanded_url": "https://x.com/mrfzxi/status/1898972259286495337/photo/1",
+              "media_key": "3_1898972253867700224",
+              "start": 107,
+              "url": "https://t.co/g8JoOsVlRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898972259286495337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再发一次，上次那个被压画质了，也算是自己接个单的内容了，自己做的也没有太认真，言语和情感并不是太好，如果有需要更好的，夕宝也是会努力拿出来的（经过对方同意才曝光的）\n#曝光 #文爱 #恋足 #接单 #文援 #调教 https://t.co/g8JoOsVlRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 96,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 993
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕宝♥萌新文援♥（现实中只是一个苦逼的女高中生/拥有3年的文爱经验/顾客反馈都很好/门槛10/半小时35，一小时60，不抵押，不收语言，只收微信的赞赏码)\n如果想看我的日常生活可以看这个呢\n@mrfzxi123456♥\n好闺蜜@ByakuyaHyou♥pixiv上有自己的作品，可以看看哦♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mrfzxi123456"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ByakuyaHyou"
+              }
+            ]
+          }
+        },
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎扩列互推私信）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 143,
+          "like_count": 226,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 470
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

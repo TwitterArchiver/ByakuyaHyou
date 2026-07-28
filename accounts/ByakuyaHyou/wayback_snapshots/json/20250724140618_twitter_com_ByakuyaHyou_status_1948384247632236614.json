@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826691732165246976",
+        "3_1826691734601932801",
+        "3_1826691730701180928"
+      ],
+      "media_source_tweet_id": [
+        "1826691737928229145",
+        "1826691737928229145",
+        "1826691737928229145"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1948384247632236614",
+    "created_at": "2025-07-24T14:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948384247632236614"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "男の娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "男娘"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "可露希尔"
+        },
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826220596595994624",
+          "start": 3,
+          "username": "hu3150001376658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAqyE8b6BF",
+          "end": 79,
+          "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+          "media_key": "3_1826691732165246976",
+          "start": 56,
+          "url": "https://t.co/iAqyE8b6BF"
+        },
+        {
+          "display_url": "pic.x.com/iAqyE8b6BF",
+          "end": 79,
+          "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+          "media_key": "3_1826691734601932801",
+          "start": 56,
+          "url": "https://t.co/iAqyE8b6BF"
+        },
+        {
+          "display_url": "pic.x.com/iAqyE8b6BF",
+          "end": 79,
+          "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+          "media_key": "3_1826691730701180928",
+          "start": 56,
+          "url": "https://t.co/iAqyE8b6BF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948384247632236614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826691737928229145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu3150001376658: #男の娘 ＃男娘 #可露希尔 #cosplay 我可以去你家进货吗～ https://t.co/iAqyE8b6BF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948384247632236614].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948384247632236614",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948384247632236614"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1826691732165246976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVm2c8HaQAAJnxQ.jpg",
+        "width": 674
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1826691734601932801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVm2dFMXIAEbwPE.jpg",
+        "width": 674
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1826691730701180928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVm2c2qWYAA2Oz2.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826691732165246976",
+            "3_1826691734601932801",
+            "3_1826691730701180928"
+          ]
+        },
+        "author_id": "1826220596595994624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1826691737928229145",
+        "created_at": "2024-08-22T18:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T19:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826691737928229145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "男の娘"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "可露希尔"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAqyE8b6BF",
+              "end": 58,
+              "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+              "media_key": "3_1826691732165246976",
+              "start": 35,
+              "url": "https://t.co/iAqyE8b6BF"
+            },
+            {
+              "display_url": "pic.x.com/iAqyE8b6BF",
+              "end": 58,
+              "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+              "media_key": "3_1826691734601932801",
+              "start": 35,
+              "url": "https://t.co/iAqyE8b6BF"
+            },
+            {
+              "display_url": "pic.x.com/iAqyE8b6BF",
+              "end": 58,
+              "expanded_url": "https://x.com/hu3150001376658/status/1826691737928229145/photo/1",
+              "media_key": "3_1826691730701180928",
+              "start": 35,
+              "url": "https://t.co/iAqyE8b6BF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826691737928229145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男の娘 ＃男娘 #可露希尔 #cosplay 我可以去你家进货吗～ https://t.co/iAqyE8b6BF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 142,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1530
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:31:42.000Z",
+        "description": "新人男娘，请多关照，可以扩列～",
+        "id": "1826220596595994624",
+        "name": "可露希尔♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936389865102299136/t56T-jDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "hu3150001376658",
+        "verified": false
+      }
+    ]
+  }
+}

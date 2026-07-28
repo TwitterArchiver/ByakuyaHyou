@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060570939251986432"
+      ],
+      "media_source_tweet_id": [
+        "2060570944842932307"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2060575035950293305",
+    "created_at": "2026-05-30T04:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060575035950293305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787714778116272128",
+          "start": 3,
+          "username": "Senti_Maur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8AXX3wQmHO",
+          "end": 44,
+          "expanded_url": "https://x.com/Senti_Maur/status/2060570944842932307/photo/1",
+          "media_key": "3_2060570939251986432",
+          "start": 21,
+          "url": "https://t.co/8AXX3wQmHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060575035950293305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060570944842932307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Senti_Maur: 美しい夢 https://t.co/8AXX3wQmHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2060570939251986432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJieWhSbkAAx7Ft.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060570939251986432"
+          ],
+          "media_source_tweet_id": [
+            "2060570944842932307"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2060575035950293305",
+        "created_at": "2026-05-30T04:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060575035950293305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787714778116272128",
+              "start": 3,
+              "username": "Senti_Maur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AXX3wQmHO",
+              "end": 44,
+              "expanded_url": "https://x.com/Senti_Maur/status/2060570944842932307/photo/1",
+              "media_key": "3_2060570939251986432",
+              "start": 21,
+              "url": "https://t.co/8AXX3wQmHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060575035950293305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060570944842932307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Senti_Maur: 美しい夢 https://t.co/8AXX3wQmHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060570939251986432"
+          ]
+        },
+        "author_id": "1787714778116272128",
+        "conversation_id": "2060570944842932307",
+        "created_at": "2026-05-30T03:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060570944842932307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AXX3wQmHO",
+              "end": 28,
+              "expanded_url": "https://x.com/Senti_Maur/status/2060570944842932307/photo/1",
+              "media_key": "3_2060570939251986432",
+              "start": 5,
+              "url": "https://t.co/8AXX3wQmHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060570944842932307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美しい夢 https://t.co/8AXX3wQmHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 667,
+          "like_count": 1515,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1617
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "｜可爱软萌16岁女高中生一枚 在这里分享可爱日常💖. 喜欢我就来找我聊天吧~｜🚪88有图包｜接爸爸活｜价格表私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sentimenta1es",
+                "end": 23,
+                "expanded_url": "https://t.me/sentimenta1es",
+                "start": 0,
+                "url": "https://t.co/TEIUdrEs9d"
+              }
+            ]
+          }
+        },
+        "id": "1787714778116272128",
+        "location": "Real",
+        "name": "Mirruflex",
+        "pinned_tweet_id": "2059691136391021038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060419726753554432/7E7LD1-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 326,
+          "like_count": 5801,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/TEIUdrEs9d",
+        "username": "Senti_Maur",
+        "verified": true
+      }
+    ]
+  }
+}

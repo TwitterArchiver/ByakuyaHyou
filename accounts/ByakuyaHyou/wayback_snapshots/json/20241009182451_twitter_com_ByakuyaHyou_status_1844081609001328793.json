@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1844081609001328793",
+    "created_at": "2024-10-09T18:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T19:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844081609001328793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844081609001328793",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843563691289260236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 小哥。小哥~我都看到你了~今天天气真好，我的心情也好，不知道和你来做爱好不好？别装作那么惊讶，刚才就看见你盯着我的双乳和大腿，下面也支起来小帐篷了哦~做得好奖励你每晚都可以来找我。但要是做得不好的话......嗯哼~可就要给你戴上项圈，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1844081609001328793].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1844081609001328793",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1844081609001328793"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843563688512630784"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1843563691289260236",
+        "created_at": "2024-10-08T08:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T09:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843563691289260236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文援"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "锁奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxSPMewTGN",
+              "end": 171,
+              "expanded_url": "https://x.com/bmEwUNVRXcP5w53/status/1843563691289260236/photo/1",
+              "media_key": "3_1843563688512630784",
+              "start": 148,
+              "url": "https://t.co/bxSPMewTGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843563691289260236",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1584,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "小哥。小哥~我都看到你了~今天天气真好，我的心情也好，不知道和你来做爱好不好？别装作那么惊讶，刚才就看见你盯着我的双乳和大腿，下面也支起来小帐篷了哦~做得好奖励你每晚都可以来找我。但要是做得不好的话......嗯哼~可就要给你戴上项圈，教教你短小早泄的伪男应该怎么跪在我脚下咯~\n#文援 #锁奴 https://t.co/bxSPMewTGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 86,
+          "like_count": 635,
+          "listed_count": 0,
+          "tweet_count": 793
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2094108443 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla（互推）",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 117,
+          "like_count": 295,
+          "listed_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

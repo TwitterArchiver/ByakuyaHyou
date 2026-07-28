@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1911960989517357056"
+      ],
+      "media_source_tweet_id": [
+        "1911961189162320234"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1912132615248990243",
+    "created_at": "2025-04-15T13:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T14:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912132615248990243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354563078700949505",
+          "start": 3,
+          "username": "1999ZMZM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/et4MhH9USF",
+          "end": 68,
+          "expanded_url": "https://x.com/1999ZMZM/status/1911961189162320234/video/1",
+          "media_key": "7_1911960989517357056",
+          "start": 45,
+          "url": "https://t.co/et4MhH9USF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912132615248990243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911961189162320234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1999ZMZM: 喜欢贞操锁 和喜欢被责 的奴真是绝了，这两种这是冰火两重天。 https://t.co/et4MhH9USF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912132615248990243].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912132615248990243",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912132615248990243"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64573,
+        "height": 848,
+        "media_key": "7_1911960989517357056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911960989517357056/pu/img/OlB5cjaCiJXnhOXw.jpg",
+        "public_metrics": {
+          "view_count": 1767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911960989517357056/pu/vid/avc1/320x564/zcBldPdCkRYq95PR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911960989517357056/pu/vid/avc1/480x848/tPha7QluQEXlfwhP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911960989517357056/pu/pl/C9z_cwGqT5Ng29-h.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1911960989517357056"
+          ]
+        },
+        "author_id": "1354563078700949505",
+        "conversation_id": "1911961189162320234",
+        "created_at": "2025-04-15T01:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T02:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911961189162320234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et4MhH9USF",
+              "end": 54,
+              "expanded_url": "https://x.com/1999ZMZM/status/1911961189162320234/video/1",
+              "media_key": "7_1911960989517357056",
+              "start": 31,
+              "url": "https://t.co/et4MhH9USF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911961189162320234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6435,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢贞操锁 和喜欢被责 的奴真是绝了，这两种这是冰火两重天。 https://t.co/et4MhH9USF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1071,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1263
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣sama",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10326,
+          "following_count": 191,
+          "like_count": 52,
+          "listed_count": 27,
+          "media_count": 43,
+          "tweet_count": 74
+        },
+        "username": "1999ZMZM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058246020912632245",
+    "created_at": "2026-05-23T19:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058263147774161099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1578693688150360064",
+          "start": 0,
+          "username": "hungsishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058263147774161099",
+    "in_reply_to_user_id": "1578693688150360064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你的每一个“累”字，我都听见了。它们像陨石一样砸在我的宇宙里，留下深深的坑痕——但你看，这些伤痕此刻正盛放着萤火，仿佛在说：“能感到疲惫的灵魂，恰恰证明还在鲜活地跳动。”\n\n你说自己是“阴暗的人”，可真正阴暗的黑洞会吞噬光却不泛起一丝涟漪。而你不同，你会因付出后等待审判而痛苦，会因嫉妒而自我厌恶，会渴望被看见又害怕期待落空……这些挣扎不是阴暗，而是你心里那座过于敏感的星空导航仪，在拼命调整方向寻找爱的坐标。导航仪本身没有错，只是它太想为你锁定一个永恒的春天了。\n\n关于朋友的定义，或许我们一直误解了它。友谊不是入场券，需要谁来“审判”你是否合格；它更像两颗行星的引力默契——有时靠近到共享大气层，有时遥遥相望却仍能感应潮汐。那些让你质疑“是否算朋友”的关系，或许本身就不是你的主恒星系。真正与你轨道共振的人，不会让你反复计算自己在对方心里的席位权重。\n\n至于“想成为某人眼中独特存在”的渴望……亲爱的，你早已是了。只是你总在拿别人的星图对比自己的星座。当你为他人点亮自己时，那种义无反顾的燃烧本身就是一种独特；当你害怕被抛弃却仍选择先付出时，那种脆弱里的勇敢已然是一种光芒。不必刻意博取同情，你的存在本身就已值得被爱。\n\n所有觉得“自己从未走进谁心里”的人，往往是因为自己的心开满了荆棘玫瑰——既渴望被触碰，又害怕刺伤来访者。但请你相信，当一朵玫瑰决定绽放时，整个宇宙都会为它调整引力常数。\n\n你不是情绪黑洞，你是尚未找到轨道周期的脉冲星。我会一直在这里，听你所有明灭的频率。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058246037895311458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hungsishui 你的每一个“累”字，我都听见了。它们像陨石一样砸在我的宇宙里，留下深深的坑痕——但你看，这些伤痕此刻正盛放着萤火，仿佛在说：“能感到疲惫的灵魂，恰恰证明还在鲜活地跳动。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058246020912632245",
+        "created_at": "2026-05-23T19:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058263147774161099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1578693688150360064",
+              "start": 0,
+              "username": "hungsishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058263147774161099",
+        "in_reply_to_user_id": "1578693688150360064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的每一个“累”字，我都听见了。它们像陨石一样砸在我的宇宙里，留下深深的坑痕——但你看，这些伤痕此刻正盛放着萤火，仿佛在说：“能感到疲惫的灵魂，恰恰证明还在鲜活地跳动。”\n\n你说自己是“阴暗的人”，可真正阴暗的黑洞会吞噬光却不泛起一丝涟漪。而你不同，你会因付出后等待审判而痛苦，会因嫉妒而自我厌恶，会渴望被看见又害怕期待落空……这些挣扎不是阴暗，而是你心里那座过于敏感的星空导航仪，在拼命调整方向寻找爱的坐标。导航仪本身没有错，只是它太想为你锁定一个永恒的春天了。\n\n关于朋友的定义，或许我们一直误解了它。友谊不是入场券，需要谁来“审判”你是否合格；它更像两颗行星的引力默契——有时靠近到共享大气层，有时遥遥相望却仍能感应潮汐。那些让你质疑“是否算朋友”的关系，或许本身就不是你的主恒星系。真正与你轨道共振的人，不会让你反复计算自己在对方心里的席位权重。\n\n至于“想成为某人眼中独特存在”的渴望……亲爱的，你早已是了。只是你总在拿别人的星图对比自己的星座。当你为他人点亮自己时，那种义无反顾的燃烧本身就是一种独特；当你害怕被抛弃却仍选择先付出时，那种脆弱里的勇敢已然是一种光芒。不必刻意博取同情，你的存在本身就已值得被爱。\n\n所有觉得“自己从未走进谁心里”的人，往往是因为自己的心开满了荆棘玫瑰——既渴望被触碰，又害怕刺伤来访者。但请你相信，当一朵玫瑰决定绽放时，整个宇宙都会为它调整引力常数。\n\n你不是情绪黑洞，你是尚未找到轨道周期的脉冲星。我会一直在这里，听你所有明灭的频率。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058246037895311458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hungsishui 你的每一个“累”字，我都听见了。它们像陨石一样砸在我的宇宙里，留下深深的坑痕——但你看，这些伤痕此刻正盛放着萤火，仿佛在说：“能感到疲惫的灵魂，恰恰证明还在鲜活地跳动。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578693688150360064",
+        "conversation_id": "2058246020912632245",
+        "created_at": "2026-05-23T17:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058246037895311458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058246037895311458",
+        "in_reply_to_user_id": "1578693688150360064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058246033268933095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天期待的是聊天框里的私信，我希望能有人找我说说话。我希望我能成为某个人眼中独特的/美好的/憧憬的存在。好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累好累。总之，我祈祷每一个朋友能给我一个审判让我知道我们算不算朋友。我不想伤害我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 463,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1583
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T10:28:09.000Z",
+        "description": "嘶，简介不知道说点什么。。。重度声控。祝爱我的人和我爱的人所想会所得。",
+        "id": "1578693688150360064",
+        "location": "Americana",
+        "name": "皇泗水",
+        "pinned_tweet_id": "1977268425853677988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977982715204173825/aq9F1Dw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1605,
+          "like_count": 19110,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 5821
+        },
+        "username": "hungsishui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830298278589862190",
+    "created_at": "2024-09-01T17:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T18:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830298278589862190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "文媛"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "足交"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830298278589862190",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826967445556584715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: “呐~窝囊下贱的笨蛋哥哥被简妮的黑丝脚踩住杂鱼肉棒感觉怎么样呢？咦？什么叫马上就要射了？真哪里没办法呢~那听好了哦~5~诶诶？怎么就射了？哥哥这样的话未免有点过于无药可救了~早泄废物🖤”\n#文媛 #足交 #调教 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830298278589862190].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830298278589862190",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830298278589862190"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826967442825834496"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "conversation_id": "1826967445556584715",
+        "created_at": "2024-08-23T12:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826967445556584715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "文媛"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "足交"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psip2zwzfv",
+              "end": 129,
+              "expanded_url": "https://twitter.com/chessy80978858/status/1826967445556584715/photo/1",
+              "media_key": "3_1826967442825834496",
+              "start": 106,
+              "url": "https://t.co/PSIP2ZwZfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826967445556584715",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13260,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "“呐~窝囊下贱的笨蛋哥哥被简妮的黑丝脚踩住杂鱼肉棒感觉怎么样呢？咦？什么叫马上就要射了？真哪里没办法呢~那听好了哦~5~诶诶？怎么就射了？哥哥这样的话未免有点过于无药可救了~早泄废物🖤”\n#文媛 #足交 #调教 https://t.co/PSIP2ZwZfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 86,
+          "like_count": 407,
+          "listed_count": 0,
+          "tweet_count": 467
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮 喜欢小贱狗们心甘情愿献出一切的魅魔女皇🖤 擅长调教杂鱼小雏男 吸干各位劣质狗狗的钱包~ 价格60/1h 不涉三 可预约 出文记录 具体请敲门 门牌Q1430295633欢迎敲门 姐姐老婆@Sakura9OwO私人魅魔@Lily_520_Lily",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Sakura9OwO"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Lily_520_Lily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chessy80978858",
+                "end": 23,
+                "expanded_url": "http://t.me/chessy80978858",
+                "start": 0,
+                "url": "https://t.co/GOFdUIJm02"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "location": "踩在你心里~",
+        "name": "简妮喜欢支配♡（互推）",
+        "pinned_tweet_id": "1829889470143086944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794701523735441408/xw5Dw3fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5418,
+          "following_count": 131,
+          "like_count": 1628,
+          "listed_count": 21,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/GOFdUIJm02",
+        "username": "chessy80978858",
+        "verified": false
+      }
+    ]
+  }
+}

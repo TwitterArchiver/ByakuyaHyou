@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831924041781043412",
+    "created_at": "2024-09-06T05:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T06:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831924041781043412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "文援"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "媚黑"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "文爱"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "婊子"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "Qos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831924041781043412",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831920167280087389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 臣服在祖宗脚下吧~也算是贴上媚黑纹了，看着祖宗脚丫是不是那个几厘米的豆芽菜都忍不住了啊~?真没用呢，看着祖宗脚下就已经是你莫大的福气了呢，加油哦~变成没用的废物主人才开心哦~#文援 #媚黑 #文爱 #婊子 #Qos https://t.c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1831924041781043412",
+        "created_at": "2024-09-06T05:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T06:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831924041781043412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "文援"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "媚黑"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文爱"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "婊子"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "Qos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1709957913337540608",
+              "start": 3,
+              "username": "mngmngni649900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831924041781043412",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831920167280087389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mngmngni649900: 臣服在祖宗脚下吧~也算是贴上媚黑纹了，看着祖宗脚丫是不是那个几厘米的豆芽菜都忍不住了啊~?真没用呢，看着祖宗脚下就已经是你莫大的福气了呢，加油哦~变成没用的废物主人才开心哦~#文援 #媚黑 #文爱 #婊子 #Qos https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831920163425333248"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1831920167280087389",
+        "created_at": "2024-09-06T04:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T05:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831920167280087389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "文援"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "媚黑"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "文爱"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "婊子"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "Qos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dljrtuebry",
+              "end": 131,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1831920167280087389/photo/1",
+              "media_key": "3_1831920163425333248",
+              "start": 108,
+              "url": "https://t.co/dLJRTuEBRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831920167280087389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "臣服在祖宗脚下吧~也算是贴上媚黑纹了，看着祖宗脚丫是不是那个几厘米的豆芽菜都忍不住了啊~?真没用呢，看着祖宗脚下就已经是你莫大的福气了呢，加油哦~变成没用的废物主人才开心哦~#文援 #媚黑 #文爱 #婊子 #Qos https://t.co/dLJRTuEBRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 85,
+          "like_count": 435,
+          "listed_count": 0,
+          "tweet_count": 512
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 16,
+          "like_count": 9,
+          "listed_count": 4,
+          "tweet_count": 87
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

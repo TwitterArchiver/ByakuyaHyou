@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1929791213646782645",
+    "created_at": "2025-06-03T06:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T07:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929791213646782645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929791213646782645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923792363081826532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “嗯咕..♡ 咳..♡ 好多...粗鸡巴...会爽死的呜..♡♡”\n全身只穿着两只条纹长筒袜，一边被人拽着项圈狂暴后乳，一边被摁着脑袋吞吃黝黑巨根\n\n“全身...都要被射满了♡♡ 依依是世上最幸福的女人...♡♡”\n身体内外挂满射满浓精，戴着眼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929791213646782645].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929791213646782645",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929791213646782645"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1923792360166612992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrKu9XlXYAA369b.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923792360166612992"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1923792363081826532",
+        "created_at": "2025-05-17T17:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T18:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923792363081826532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "母狗"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "恶堕"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "败北"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "多人"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "淫趴"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "性玩具"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21wMQloVr9",
+              "end": 184,
+              "expanded_url": "https://x.com/q3233788635/status/1923792363081826532/photo/1",
+              "media_key": "3_1923792360166612992",
+              "start": 161,
+              "url": "https://t.co/21wMQloVr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923792363081826532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 12004,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "“嗯咕..♡ 咳..♡ 好多...粗鸡巴...会爽死的呜..♡♡”\n全身只穿着两只条纹长筒袜，一边被人拽着项圈狂暴后乳，一边被摁着脑袋吞吃黝黑巨根\n\n“全身...都要被射满了♡♡ 依依是世上最幸福的女人...♡♡”\n身体内外挂满射满浓精，戴着眼罩弓腰忍不住高潮♡ #母狗 #恶堕 #败北 #多人 #淫趴 #性玩具 #文媛 https://t.co/21wMQloVr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 119,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1446
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 458,
+          "like_count": 3328,
+          "listed_count": 13,
+          "media_count": 86,
+          "tweet_count": 3755
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

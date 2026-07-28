@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1929032318460526853",
+    "created_at": "2025-06-01T04:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929032318460526853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1919058718433427456",
+          "start": 3,
+          "username": "angeltudolove2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929032318460526853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928364238793269275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angeltudolove2: 小土豆休息好啦\n开始营业力~💕\n大叔好杂鱼~肉棒一抖一抖的，连小学都没有进来就谢力~♥️\n被一边玩弄一边辱骂真的就这么爽吗？就连工资都贡给我的龟男大叔~🖤\n小土豆天天住你家里吃你的用你的，还用你的钱去648哦~♥️\n（柔嫩媚滑的小手使劲搓…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929032318460526853].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929032318460526853",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929032318460526853"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1928362028001021954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLrDC1aUAIQeoB.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928362028001021954"
+          ]
+        },
+        "author_id": "1919058718433427456",
+        "conversation_id": "1928364238793269275",
+        "created_at": "2025-05-30T08:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T09:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928364238793269275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpcaqAt92v",
+              "end": 175,
+              "expanded_url": "https://x.com/angeltudolove2/status/1928364238793269275/photo/1",
+              "media_key": "3_1928362028001021954",
+              "start": 152,
+              "url": "https://t.co/SpcaqAt92v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928364238793269275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "小土豆休息好啦\n开始营业力~💕\n大叔好杂鱼~肉棒一抖一抖的，连小学都没有进来就谢力~♥️\n被一边玩弄一边辱骂真的就这么爽吗？就连工资都贡给我的龟男大叔~🖤\n小土豆天天住你家里吃你的用你的，还用你的钱去648哦~♥️\n（柔嫩媚滑的小手使劲搓着你的废物龟头~两条肉乎乎的大腿夹着蹭呀蹭~♥️）\n#榨精#文媛 https://t.co/SpcaqAt92v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 119,
+          "like_count": 1249,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1454
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:57:17.000Z",
+        "description": "这里是小天使土豆，是一只可爱小文媛呢，还可以画像素小人！\n3499505433\n这个是QQ哦，亲爱的💋\n没有下限，也没有门槛，喜欢学习更加优美的词藻，更喜欢各种各样色情的事情~\n❤️喜欢请转发我的帖子！♥️",
+        "id": "1919058718433427456",
+        "location": "人家在你心里哦~♥️",
+        "name": "天使小土豆（互推）",
+        "pinned_tweet_id": "1928364238793269275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919059102166052864/jSaPyBax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 28,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 25
+        },
+        "username": "angeltudolove2",
+        "verified": false
+      }
+    ]
+  }
+}

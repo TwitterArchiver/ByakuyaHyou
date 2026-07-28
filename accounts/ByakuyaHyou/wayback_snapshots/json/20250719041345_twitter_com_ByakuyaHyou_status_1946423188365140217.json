@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946423188365140217",
+    "created_at": "2025-07-19T04:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946423188365140217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751926262971715584",
+          "start": 3,
+          "username": "sqkkd126231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946423188365140217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946256195293225461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sqkkd126231: 有一种生物，它的发情期间隔很短，时间也很短，而且通常在夜晚发情。\n这种生物被称之为郭楠。因为其低下的生育能力，以及发情后会短暂让大脑思考能力与自身语言表达能力缺失。所以在女生的眼里就是低人一等的狗，只能靠讨好主人来获得勃起的能力。\n再低一等的就…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_1946256192046530561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJ9sejWgAE1bKS.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1946423188365140217",
+        "created_at": "2025-07-19T04:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946423188365140217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751926262971715584",
+              "start": 3,
+              "username": "sqkkd126231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946423188365140217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946256195293225461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sqkkd126231: 有一种生物，它的发情期间隔很短，时间也很短，而且通常在夜晚发情。\n这种生物被称之为郭楠。因为其低下的生育能力，以及发情后会短暂让大脑思考能力与自身语言表达能力缺失。所以在女生的眼里就是低人一等的狗，只能靠讨好主人来获得勃起的能力。\n再低一等的就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946256192046530561"
+          ]
+        },
+        "author_id": "1751926262971715584",
+        "conversation_id": "1946256195293225461",
+        "created_at": "2025-07-18T17:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T18:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946256195293225461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9Y5p3CL6H",
+              "end": 168,
+              "expanded_url": "https://x.com/sqkkd126231/status/1946256195293225461/photo/1",
+              "media_key": "3_1946256192046530561",
+              "start": 145,
+              "url": "https://t.co/b9Y5p3CL6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946256195293225461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3803,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有一种生物，它的发情期间隔很短，时间也很短，而且通常在夜晚发情。\n这种生物被称之为郭楠。因为其低下的生育能力，以及发情后会短暂让大脑思考能力与自身语言表达能力缺失。所以在女生的眼里就是低人一等的狗，只能靠讨好主人来获得勃起的能力。\n再低一等的就是绿奴贡奴，连自己的人生都被抛弃...... https://t.co/b9Y5p3CL6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 125,
+          "like_count": 1321,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1519
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T11:12:30.000Z",
+        "description": "是可爱三三，任何除重口外的xp都不在话下\n心情不好时也可以找三三倾诉\n门牌号3336539886\n门槛10r\n可定制xp文，\n还有请给我钱，谢谢",
+        "id": "1751926262971715584",
+        "name": "kkd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918375100136734724/dm6VYasf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 12,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 97
+        },
+        "username": "sqkkd126231",
+        "verified": false
+      }
+    ]
+  }
+}

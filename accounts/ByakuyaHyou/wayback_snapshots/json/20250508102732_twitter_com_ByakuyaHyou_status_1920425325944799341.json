@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920108225913077760"
+      ],
+      "media_source_tweet_id": [
+        "1920108229872492757"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1920425325944799341",
+    "created_at": "2025-05-08T10:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T11:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920425325944799341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875877580714512385",
+          "start": 3,
+          "username": "lyts111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1yjR0nj69",
+          "end": 99,
+          "expanded_url": "https://x.com/lyts111/status/1920108229872492757/photo/1",
+          "media_key": "3_1920108225913077760",
+          "start": 76,
+          "url": "https://t.co/B1yjR0nj69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920425325944799341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920108229872492757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyts111: 插进来吧～不能盯着别处只有芷羽的脚哦～在芷羽的白丝脚丫里面不停蠕动～最后不争气的泄出来给芷羽保养脚丫哦～ ＃女性崇拜 ＃足控 https://t.co/B1yjR0nj69"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920425325944799341].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920425325944799341",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920425325944799341"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_1920108225913077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWYQh_awAAGK4Q.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920108225913077760"
+          ]
+        },
+        "author_id": "1875877580714512385",
+        "conversation_id": "1920108229872492757",
+        "created_at": "2025-05-07T13:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920108229872492757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1yjR0nj69",
+              "end": 86,
+              "expanded_url": "https://x.com/lyts111/status/1920108229872492757/photo/1",
+              "media_key": "3_1920108225913077760",
+              "start": 63,
+              "url": "https://t.co/B1yjR0nj69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920108229872492757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "插进来吧～不能盯着别处只有芷羽的脚哦～在芷羽的白丝脚丫里面不停蠕动～最后不争气的泄出来给芷羽保养脚丫哦～ ＃女性崇拜 ＃足控 https://t.co/B1yjR0nj69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 119,
+          "like_count": 1189,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1395
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T12:10:50.000Z",
+        "description": "是一个新人文媛哦，可s可m，绝大多数人设都是能够接受的呢，价格的话暂定30/0.5h，55/1h吧，欢迎敲门哦🚪3954795291希望每个来下单的都能有个好的体验呢（禁涉三哦）",
+        "id": "1875877580714512385",
+        "name": "芷羽",
+        "pinned_tweet_id": "1917582442304790706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917155891302068224/5HIQF2Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "lyts111",
+        "verified": false
+      }
+    ]
+  }
+}

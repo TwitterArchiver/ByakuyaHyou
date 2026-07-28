@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952295809208467456",
+        "3_1952295803076399104"
+      ],
+      "media_source_tweet_id": [
+        "1952295812589080929",
+        "1952295812589080929"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1952528529901650070",
+    "created_at": "2025-08-05T00:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952528529901650070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "蔚蓝档案"
+        },
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "杏山和纱"
+        },
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "cosplay"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "男娘母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826220596595994624",
+          "start": 3,
+          "username": "hu3150001376658"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAWivUIDec",
+          "end": 81,
+          "expanded_url": "https://x.com/hu3150001376658/status/1952295812589080929/photo/1",
+          "media_key": "3_1952295809208467456",
+          "start": 58,
+          "url": "https://t.co/qAWivUIDec"
+        },
+        {
+          "display_url": "pic.x.com/qAWivUIDec",
+          "end": 81,
+          "expanded_url": "https://x.com/hu3150001376658/status/1952295812589080929/photo/1",
+          "media_key": "3_1952295803076399104",
+          "start": 58,
+          "url": "https://t.co/qAWivUIDec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952528529901650070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952295812589080929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu3150001376658: 拍点色色的给老师看 #蔚蓝档案 #杏山和纱 #cosplay #男娘母狗 https://t.co/qAWivUIDec"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952528529901650070].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952528529901650070",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952528529901650070"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1952295809208467456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfysdxawAA7cyG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1952295803076399104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfysG7a0AALMR6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952295809208467456",
+            "3_1952295803076399104"
+          ]
+        },
+        "author_id": "1826220596595994624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1952295812589080929",
+        "created_at": "2025-08-04T09:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952295812589080929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "杏山和纱"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "cosplay"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "男娘母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAWivUIDec",
+              "end": 60,
+              "expanded_url": "https://x.com/hu3150001376658/status/1952295812589080929/photo/1",
+              "media_key": "3_1952295809208467456",
+              "start": 37,
+              "url": "https://t.co/qAWivUIDec"
+            },
+            {
+              "display_url": "pic.x.com/qAWivUIDec",
+              "end": 60,
+              "expanded_url": "https://x.com/hu3150001376658/status/1952295812589080929/photo/1",
+              "media_key": "3_1952295803076399104",
+              "start": 37,
+              "url": "https://t.co/qAWivUIDec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952295812589080929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拍点色色的给老师看 #蔚蓝档案 #杏山和纱 #cosplay #男娘母狗 https://t.co/qAWivUIDec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 152,
+          "like_count": 1357,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1523
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:31:42.000Z",
+        "description": "新人男娘，请多关照\n多多帮我转发帖子可以来扩列哦，扩列私信我就好",
+        "id": "1826220596595994624",
+        "name": "可露希尔♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952354734503043072/DfKmCuoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 102,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 31
+        },
+        "username": "hu3150001376658",
+        "verified": false
+      }
+    ]
+  }
+}

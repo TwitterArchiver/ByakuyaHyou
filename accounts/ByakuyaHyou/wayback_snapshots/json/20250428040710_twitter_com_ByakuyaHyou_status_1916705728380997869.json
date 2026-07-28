@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916705728380997869",
+    "created_at": "2025-04-28T04:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T05:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916705728380997869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916705728380997869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916531638919696708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: 『被笨蛋欧尼跪地求踩』\n\n“啧，怎么会有这么恶心的老哥，天天堵在门口求自己妹妹踩自己呀——！”\n（一脚把你踹翻，花边小白袜脚丫踩在你勃起老高的小帐篷上，软嫩足底碾着帐篷尖）\n\n“欧尼你真是没救了，对着自己妹妹起性欲 而且还这么硬，简直比地上的蛆…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916705728380997869].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916705728380997869",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916705728380997869"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1916531636101136384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjjXmqbQAAnWh7.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916531636101136384"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1916531638919696708",
+        "created_at": "2025-04-27T16:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916531638919696708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "妹妹"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "足控"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "白袜"
+            },
+            {
+              "end": 143,
+              "start": 141,
+              "tag": "s"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文援"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTWcnw3pPW",
+              "end": 175,
+              "expanded_url": "https://x.com/q3233788635/status/1916531638919696708/photo/1",
+              "media_key": "3_1916531636101136384",
+              "start": 152,
+              "url": "https://t.co/FTWcnw3pPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916531638919696708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1668,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "『被笨蛋欧尼跪地求踩』\n\n“啧，怎么会有这么恶心的老哥，天天堵在门口求自己妹妹踩自己呀——！”\n（一脚把你踹翻，花边小白袜脚丫踩在你勃起老高的小帐篷上，软嫩足底碾着帐篷尖）\n\n“欧尼你真是没救了，对着自己妹妹起性欲 而且还这么硬，简直比地上的蛆虫还要差劲！”#妹妹 #足控 #白袜 #s #文援 #羞辱 https://t.co/FTWcnw3pPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 116,
+          "like_count": 1145,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1350
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 460,
+          "like_count": 3173,
+          "listed_count": 10,
+          "media_count": 72,
+          "tweet_count": 2970
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

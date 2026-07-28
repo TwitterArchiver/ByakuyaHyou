@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831599294518120874",
+    "created_at": "2024-09-05T07:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T08:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831599294518120874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "文爱"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "文媛"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "兔女郎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831599294518120874",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831557306527707482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 内♡~主人♡，你要的东西到了哦♡…什么~你我问我什么东西到了♡~当然是♡…你点的兔子♡~你说你没看到♡？（捏着兔耳朵微笑着♡）不就在主人你的面前吗♡~来吧♡，主人♡…尽情的品尝我吧♡~\n#文爱 #文媛 #兔女郎 https://t.co/pmF…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831599294518120874].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831599294518120874",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831599294518120874"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831557301385265153"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1831557306527707482",
+        "created_at": "2024-09-05T04:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831557306527707482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "文爱"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "文媛"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "兔女郎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmft8usc0c",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1831557306527707482/photo/1",
+              "media_key": "3_1831557301385265153",
+              "start": 106,
+              "url": "https://t.co/pmFT8uSc0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831557306527707482",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "内♡~主人♡，你要的东西到了哦♡…什么~你我问我什么东西到了♡~当然是♡…你点的兔子♡~你说你没看到♡？（捏着兔耳朵微笑着♡）不就在主人你的面前吗♡~来吧♡，主人♡…尽情的品尝我吧♡~\n#文爱 #文媛 #兔女郎 https://t.co/pmFT8uSc0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 86,
+          "like_count": 431,
+          "listed_count": 0,
+          "tweet_count": 506
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "门牌号3988413447   你好呀，咱是胧酱~一个喜欢各种色色玩法的，小色鬼~（文媛设定女，本体为男娘~），属性是Switch，求支喵~，不涉三喵~",
+        "id": "1817852320375250944",
+        "location": "月月月月",
+        "name": "胧酱💖（互推）",
+        "pinned_tweet_id": "1831260592113672382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817853994263568384/10z8ZHgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 112,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 306
+        },
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

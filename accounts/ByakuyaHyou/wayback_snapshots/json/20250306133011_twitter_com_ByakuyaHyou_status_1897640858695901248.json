@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897640858695901248",
+    "created_at": "2025-03-06T13:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T14:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897640858695901248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897640858695901248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897532711369417099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 单薄的白色蕾丝女仆装挂在少女丰腴的酮体之上\n“不许射在地上！清理起来很麻烦哒！变态主人……射在我里面啦……还没有准备好”\n感受着异物入侵蜜穴～双腿不由自主的颤抖着，身体扭动着腰肢配合着～丰满的双乳随着动作剧烈晃动～交合处溢出的液体又一次弄脏了地…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897640858695901248].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897640858695901248",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897640858695901248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1897532702448095232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlVj8HcbEAAnYsD.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897532702448095232"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897532711369417099",
+        "created_at": "2025-03-06T06:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T07:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897532711369417099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTChCjldNs",
+              "end": 166,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1897532711369417099/photo/1",
+              "media_key": "3_1897532702448095232",
+              "start": 143,
+              "url": "https://t.co/cTChCjldNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897532711369417099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 243,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "单薄的白色蕾丝女仆装挂在少女丰腴的酮体之上\n“不许射在地上！清理起来很麻烦哒！变态主人……射在我里面啦……还没有准备好”\n感受着异物入侵蜜穴～双腿不由自主的颤抖着，身体扭动着腰肢配合着～丰满的双乳随着动作剧烈晃动～交合处溢出的液体又一次弄脏了地面～空旷的房间中回荡着少女的喘息\n#文爱 https://t.co/cTChCjldNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 92,
+          "like_count": 755,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 946
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

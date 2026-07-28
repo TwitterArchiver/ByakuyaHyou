@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928468836073746718",
+    "created_at": "2025-05-30T15:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928468836073746718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928468836073746718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927486112248771043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “大叔叔，还不快点放进来吗，不许发呆，该上缴今天的公粮了💞”\n被隔壁家大叔用神秘app催眠，沦为专属性奴幼妻，带着两团嫣红正经的发出‘决斗’邀请💞\n\n“快点过来，里面已经湿了...💓”\n双手抱着蕾丝白袜小腿微微分开，棉质胖次早已湿润，嫩穴微微呡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928468836073746718].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928468836073746718",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928468836073746718"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927486108855635968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr_OZ1vXEAA6_JX.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927486108855635968"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1927486112248771043",
+        "created_at": "2025-05-27T22:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T23:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927486112248771043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "催眠"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "萝莉少女"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "小白袜"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "性爱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIl1ctqStO",
+              "end": 173,
+              "expanded_url": "https://x.com/q3233788635/status/1927486112248771043/photo/1",
+              "media_key": "3_1927486108855635968",
+              "start": 150,
+              "url": "https://t.co/ZIl1ctqStO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927486112248771043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8505,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "“大叔叔，还不快点放进来吗，不许发呆，该上缴今天的公粮了💞”\n被隔壁家大叔用神秘app催眠，沦为专属性奴幼妻，带着两团嫣红正经的发出‘决斗’邀请💞\n\n“快点过来，里面已经湿了...💓”\n双手抱着蕾丝白袜小腿微微分开，棉质胖次早已湿润，嫩穴微微呡吸布料💗 #催眠 #萝莉少女 #小白袜 #性爱 #文媛 https://t.co/ZIl1ctqStO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 119,
+          "like_count": 1248,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1454
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  35r/30min 60r/1小时，门牌q:939131879 \n 备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1923713415488602351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 457,
+          "like_count": 3319,
+          "listed_count": 14,
+          "media_count": 85,
+          "tweet_count": 3692
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

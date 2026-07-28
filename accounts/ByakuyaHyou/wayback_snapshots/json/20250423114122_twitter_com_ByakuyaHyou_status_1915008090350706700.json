@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915008090350706700",
+    "created_at": "2025-04-23T11:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915008090350706700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915008090350706700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914979563437973970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: 贱狗真是对气味上瘾的不行啊~\n对着主人刚运动完满是黏汗的无毛腋窝♡这么迫不及待把狗鼻凑上来饱吸一口♡\n却瞬间就翻着白眼吐舌一副丧志白痴雌猪样~贱狗签还立的这么高~\n噗~连腋下都想干吗，好啊♡让主人光滑软腻的腋窝臂肉夹紧早泄狗签♡\n无脑把废…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915008090350706700].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915008090350706700",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915008090350706700"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1914979559994519552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNfw4mbcAAhGjj.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914979559994519552"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "conversation_id": "1914979563437973970",
+        "created_at": "2025-04-23T09:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914979563437973970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrFjzj7bRP",
+              "end": 164,
+              "expanded_url": "https://x.com/loveforallLoli/status/1914979563437973970/photo/1",
+              "media_key": "3_1914979559994519552",
+              "start": 141,
+              "url": "https://t.co/IrFjzj7bRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914979563437973970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 464,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "贱狗真是对气味上瘾的不行啊~\n对着主人刚运动完满是黏汗的无毛腋窝♡这么迫不及待把狗鼻凑上来饱吸一口♡\n却瞬间就翻着白眼吐舌一副丧志白痴雌猪样~贱狗签还立的这么高~\n噗~连腋下都想干吗，好啊♡让主人光滑软腻的腋窝臂肉夹紧早泄狗签♡\n无脑把废精和理智喷光♡从此没主人气味就活不下去叭♡ https://t.co/IrFjzj7bRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1098,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1304
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号QQ：3325582407 纸飞机：https://t.co/ECeDcQcZJg 30元/30分，下午至晚上2点营业\n呀吼~杂鱼们，这里是伊诺大人♡基本文爱都接，擅长足♡触手♡雌堕♡犬调教♡榨金♡等等，跪倒舔鞋献上金币和精液叭♡ 目前只当S，性奴：乖璃，阿雪，支持双人单捏~小号：@sama164956",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "sama164956"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 44,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 21,
+                "url": "https://t.co/ECeDcQcZJg"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "location": "都看伊诺大人主页了，还不快上门臣服♡",
+        "name": "伊诺sama~♡",
+        "pinned_tweet_id": "1853692506686534137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 143,
+          "like_count": 4399,
+          "listed_count": 26,
+          "media_count": 244,
+          "tweet_count": 4721
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

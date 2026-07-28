@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826478274077491591",
+    "created_at": "2024-08-22T04:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T05:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826478274077491591"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "文援"
+        },
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "奴下奴"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "文爱"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "媚黑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826478274077491591",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820791743106724303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 拜托，明明只是个贱狗罢了，居然幻想要祖宗脚底的丝袜?啊哈~废物阳痿宠物修勾倒反天罡了?这可是主人大人恩赏人家的丝袜，你作为奴下奴，只配在脚底下做一辈子阳痿早泄的废物呢 #文援 #奴下奴 #文爱 #媚黑 https://t.co/Vwst7…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826478274077491591].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826478274077491591",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826478274077491591"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820791739042426880"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1820791743106724303",
+        "created_at": "2024-08-06T11:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820791743106724303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "文援"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "文爱"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "媚黑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwst7kugec",
+              "end": 124,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1820791743106724303/photo/1",
+              "media_key": "3_1820791739042426880",
+              "start": 101,
+              "url": "https://t.co/Vwst7KUGec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820791743106724303",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2886,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "拜托，明明只是个贱狗罢了，居然幻想要祖宗脚底的丝袜?啊哈~废物阳痿宠物修勾倒反天罡了?这可是主人大人恩赏人家的丝袜，你作为奴下奴，只配在脚底下做一辈子阳痿早泄的废物呢 #文援 #奴下奴 #文爱 #媚黑 https://t.co/Vwst7KUGec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 65,
+          "like_count": 213,
+          "listed_count": 0,
+          "tweet_count": 244
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 4,
+          "tweet_count": 59
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

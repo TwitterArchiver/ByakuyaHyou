@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1929791581911240766",
+    "created_at": "2025-06-03T06:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T07:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929791581911240766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929791581911240766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900014945137549473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 杂鱼杂鱼～❤️怎么一会就忍不住啦～\n刚才还在外面的时候～❤️被我撩拨几下，小肉棒就勃起了呢～和我做爱就这么舒服嘛，杂鱼哥哥❤️～\n变态哥哥～外面还有那么多人～就和妹妹一起做爱～不怕别人知道杂鱼早泄嘛～就哥哥攒的那一点，根本不可能让妹妹满足呢，下…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929791581911240766].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929791581911240766",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929791581911240766"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1900014936413048832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl41hJjWEAAgzWv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900014936413048832"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1900014945137549473",
+        "created_at": "2025-03-13T02:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T03:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900014945137549473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhySBkBV8O",
+              "end": 167,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1900014945137549473/photo/1",
+              "media_key": "3_1900014936413048832",
+              "start": 144,
+              "url": "https://t.co/FhySBkBV8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900014945137549473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2735,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼杂鱼～❤️怎么一会就忍不住啦～\n刚才还在外面的时候～❤️被我撩拨几下，小肉棒就勃起了呢～和我做爱就这么舒服嘛，杂鱼哥哥❤️～\n变态哥哥～外面还有那么多人～就和妹妹一起做爱～不怕别人知道杂鱼早泄嘛～就哥哥攒的那一点，根本不可能让妹妹满足呢，下次要多一些啦～妹妹还没有吃饱～❤️\n#文爱 https://t.co/FhySBkBV8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 119,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1447
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

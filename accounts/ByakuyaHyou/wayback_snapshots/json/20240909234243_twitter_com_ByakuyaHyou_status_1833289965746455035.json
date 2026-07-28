@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833188369842769921"
+      ],
+      "media_source_tweet_id": [
+        "1833188377518346361"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833289965746455035",
+    "created_at": "2024-09-09T23:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T00:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833289965746455035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "女s"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "男m"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "羞辱"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "榨金"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "粗口"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "上贡"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "舔脚"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "女攻男受"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723915498507948032",
+          "start": 3,
+          "username": "PJamarl78951"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jggmuilzpv",
+          "end": 106,
+          "expanded_url": "https://twitter.com/PJamarl78951/status/1833188377518346361/photo/1",
+          "media_key": "3_1833188369842769921",
+          "start": 83,
+          "url": "https://t.co/jGgmuiLZPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833289965746455035",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833188377518346361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PJamarl78951: 一发情就想挨骂被女神羞辱到死的傻逼结贱公狗滚过来 #女s #男m #羞辱 #榨金 #粗口 #ATM奴 #上贡 #舔脚 #女攻男受 https://t.co/jGgmuiLZPV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833289965746455035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833289965746455035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833289965746455035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_1833188369842769921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXDLHBbbEAEgLvE.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833188369842769921"
+          ]
+        },
+        "author_id": "1723915498507948032",
+        "conversation_id": "1833188377518346361",
+        "created_at": "2024-09-09T16:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T17:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833188377518346361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "女s"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男m"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "羞辱"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "榨金"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "粗口"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "上贡"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "舔脚"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "女攻男受"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jggmuilzpv",
+              "end": 88,
+              "expanded_url": "https://twitter.com/PJamarl78951/status/1833188377518346361/photo/1",
+              "media_key": "3_1833188369842769921",
+              "start": 65,
+              "url": "https://t.co/jGgmuiLZPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833188377518346361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 846,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "一发情就想挨骂被女神羞辱到死的傻逼结贱公狗滚过来 #女s #男m #羞辱 #榨金 #粗口 #ATM奴 #上贡 #舔脚 #女攻男受 https://t.co/jGgmuiLZPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 81,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 546
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T04:07:44.000Z",
+        "description": "🐧3778117115 🚪28",
+        "id": "1723915498507948032",
+        "location": "Lubbock",
+        "name": "洋朵s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828741990378536960/eJ2m41Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "PJamarl78951",
+        "verified": false
+      }
+    ]
+  }
+}

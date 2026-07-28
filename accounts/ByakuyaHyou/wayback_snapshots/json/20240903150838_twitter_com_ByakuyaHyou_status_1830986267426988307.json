@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830986267426988307",
+    "created_at": "2024-09-03T15:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T16:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830986267426988307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830986267426988307",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829155889301102718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「先生… 请你尝尝看…」\n\n被注入过催乳剂的紫灵走到路过的陌生人面前把外套拉开，显露出冒着母乳的涨大乳房，奶牛式比基尼被稍稍挪开好方便让别人享用\n淫荡的少女给自己的目标：今日内至少让10个男性享用自己的母乳\n\n她成功地完成了，不过催乳剂过量的后…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830986267426988307].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830986267426988307",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830986267426988307"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829155886323118083"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1829155889301102718",
+        "created_at": "2024-08-29T13:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T14:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829155889301102718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "母乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uajvxtohmh",
+              "end": 170,
+              "expanded_url": "https://twitter.com/ZiYing12494/status/1829155889301102718/photo/1",
+              "media_key": "3_1829155886323118083",
+              "start": 147,
+              "url": "https://t.co/uaJvXtohmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829155889301102718",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1432,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "「先生… 请你尝尝看…」\n\n被注入过催乳剂的紫灵走到路过的陌生人面前把外套拉开，显露出冒着母乳的涨大乳房，奶牛式比基尼被稍稍挪开好方便让别人享用\n淫荡的少女给自己的目标：今日内至少让10个男性享用自己的母乳\n\n她成功地完成了，不过催乳剂过量的后果导致晚上洗过澡后仍在冒着母乳…\n#文爱 #母乳 https://t.co/uaJvXtohmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 84,
+          "like_count": 415,
+          "listed_count": 0,
+          "tweet_count": 481
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 34,
+          "like_count": 227,
+          "listed_count": 0,
+          "tweet_count": 130
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

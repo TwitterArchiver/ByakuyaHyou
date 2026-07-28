@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1930109319292563596",
+    "created_at": "2025-06-04T03:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T04:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930109319292563596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930109319292563596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929811492251357401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 几天没被亲妈耍..阳痿废屌又他妈忍不住发情啦～傻逼锁奴公狗💚低贱废精拿去喂猪都得被嫌弃～也配意淫跟亲妈做爱呀💚现在自觉跪到亲妈脚底下盯着亲妈精臭脚底晃你的阳痿狗鞭哦～💚看亲妈被操的同时被亲妈用臭脚操烂你的骚臭废屌～把你阳痿低贱肉虫和狗脑…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930109319292563596].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930109319292563596",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930109319292563596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1929811487868223488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgRUtnagAAc4Rg.jpg",
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929811487868223488"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1929811492251357401",
+        "created_at": "2025-06-03T08:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929811492251357401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文援"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "ntr"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "绿帽"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUm2TsxEdN",
+              "end": 165,
+              "expanded_url": "https://x.com/KendallRat17471/status/1929811492251357401/photo/1",
+              "media_key": "3_1929811487868223488",
+              "start": 142,
+              "url": "https://t.co/NUm2TsxEdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929811492251357401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6864,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "几天没被亲妈耍..阳痿废屌又他妈忍不住发情啦～傻逼锁奴公狗💚低贱废精拿去喂猪都得被嫌弃～也配意淫跟亲妈做爱呀💚现在自觉跪到亲妈脚底下盯着亲妈精臭脚底晃你的阳痿狗鞭哦～💚看亲妈被操的同时被亲妈用臭脚操烂你的骚臭废屌～把你阳痿低贱肉虫和狗脑子一起爽烂💚 #文援 #ntr #绿帽 #羞辱 https://t.co/NUm2TsxEdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 119,
+          "like_count": 1247,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1449
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q3384273525～💚（备用q3827887572）营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 99,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1929587569425309864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 2007,
+          "like_count": 19,
+          "listed_count": 13,
+          "media_count": 64,
+          "tweet_count": 1746
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

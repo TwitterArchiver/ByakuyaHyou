@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1964875842095612361",
+    "created_at": "2026-05-24T20:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058640510513013041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1291553229180768256",
+          "start": 0,
+          "username": "chenzhihan5212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058640510513013041",
+    "in_reply_to_user_id": "1291553229180768256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964875842095612361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenzhihan5212 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964875837427351552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SkKe2bAAABUHg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964875837226033152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SkKeGbIAAZAkw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964875837943267329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SkKgxbQAE44eG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964875838857662465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SkKkLb0AEmISO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1964875842095612361",
+        "created_at": "2026-05-24T20:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058640510513013041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1291553229180768256",
+              "start": 0,
+              "username": "chenzhihan5212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058640510513013041",
+        "in_reply_to_user_id": "1291553229180768256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964875842095612361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenzhihan5212 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964875837427351552",
+            "3_1964875837226033152",
+            "3_1964875837943267329",
+            "3_1964875838857662465"
+          ]
+        },
+        "author_id": "1291553229180768256",
+        "conversation_id": "1964875842095612361",
+        "created_at": "2025-09-08T02:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T03:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964875842095612361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "德克萨斯"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "cosply"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfRH7YdDng",
+              "end": 66,
+              "expanded_url": "https://x.com/chenzhihan5212/status/1964875842095612361/photo/1",
+              "media_key": "3_1964875837427351552",
+              "start": 43,
+              "url": "https://t.co/pfRH7YdDng"
+            },
+            {
+              "display_url": "pic.x.com/pfRH7YdDng",
+              "end": 66,
+              "expanded_url": "https://x.com/chenzhihan5212/status/1964875842095612361/photo/1",
+              "media_key": "3_1964875837226033152",
+              "start": 43,
+              "url": "https://t.co/pfRH7YdDng"
+            },
+            {
+              "display_url": "pic.x.com/pfRH7YdDng",
+              "end": 66,
+              "expanded_url": "https://x.com/chenzhihan5212/status/1964875842095612361/photo/1",
+              "media_key": "3_1964875837943267329",
+              "start": 43,
+              "url": "https://t.co/pfRH7YdDng"
+            },
+            {
+              "display_url": "pic.x.com/pfRH7YdDng",
+              "end": 66,
+              "expanded_url": "https://x.com/chenzhihan5212/status/1964875842095612361/photo/1",
+              "media_key": "3_1964875838857662465",
+              "start": 43,
+              "url": "https://t.co/pfRH7YdDng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964875842095612361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "博士能收留我这只孤独的小狼崽吗？我愿意做你的宠物。#德克萨斯 #cosply #男娘 https://t.co/pfRH7YdDng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 601,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1597
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T01:54:33.000Z",
+        "description": "看大哥跳舞",
+        "id": "1291553229180768256",
+        "location": "Tokyo-to, Japan",
+        "name": "Andy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873361867214913536/783c4hOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 62,
+          "like_count": 142,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 110
+        },
+        "username": "chenzhihan5212",
+        "verified": false
+      }
+    ]
+  }
+}

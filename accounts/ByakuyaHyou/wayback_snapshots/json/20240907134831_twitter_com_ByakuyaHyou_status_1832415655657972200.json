@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832415655657972200",
+    "created_at": "2024-09-07T13:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T14:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832415655657972200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832415655657972200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832382952522838326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 废物绿奴最终的目的就是成为脚下的锁奴，被锁住没有尊严的鸡吧🖤\n带着锁不能射精也不能勃起，以后你不再是一个男人了，骚浪贱货能被主人玩弄就是最大的幸福🖤\n戴着绿帽看着主人吸舔黑屌，被囚禁在锁里的最后一丝尊严也缓缓流出🖤 https://t.co/Xw…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832415655657972200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832415655657972200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832415655657972200"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832382945191141376"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1832382952522838326",
+        "created_at": "2024-09-07T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832382952522838326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwl6i3ynqa",
+              "end": 131,
+              "expanded_url": "https://twitter.com/xxx1172303/status/1832382952522838326/photo/1",
+              "media_key": "3_1832382945191141376",
+              "start": 108,
+              "url": "https://t.co/XwL6i3yNQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832382952522838326",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "废物绿奴最终的目的就是成为脚下的锁奴，被锁住没有尊严的鸡吧🖤\n带着锁不能射精也不能勃起，以后你不再是一个男人了，骚浪贱货能被主人玩弄就是最大的幸福🖤\n戴着绿帽看着主人吸舔黑屌，被囚禁在锁里的最后一丝尊严也缓缓流出🖤 https://t.co/XwL6i3yNQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 85,
+          "like_count": 439,
+          "listed_count": 0,
+          "tweet_count": 523
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、音频、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 43,
+          "like_count": 150,
+          "listed_count": 3,
+          "tweet_count": 185
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

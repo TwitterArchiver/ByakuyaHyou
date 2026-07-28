@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839742947836997785",
+    "created_at": "2024-09-27T19:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T20:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839742947836997785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "女s"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "男m"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "调教男奴"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "榨精"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "榨金"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "女尊男卑"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "四爱女s"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "女攻男受"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662390163530567681",
+          "start": 3,
+          "username": "chelonian1983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839742947836997785",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839601082374508961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chelonian1983: 偷窥一眼就早泄了？\n贱狗的长根🐔巴就是发情的开关！\n让女神尽情的羞辱调教使用你这条贱狗是你的必修课傻逼！👇🖕#女s #男m #上贡奴 #调教男奴 #榨精 #榨金 #女尊男卑 #四爱女s  #女攻男受 https://t.co/Bjef5wr…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839742947836997785].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839742947836997785",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839742947836997785"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839601074896097280",
+            "3_1839601075156140032"
+          ]
+        },
+        "author_id": "1662390163530567681",
+        "conversation_id": "1839601082374508961",
+        "created_at": "2024-09-27T09:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839601082374508961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "女s"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "男m"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "调教男奴"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "榨精"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "榨金"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "女尊男卑"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "四爱女s"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "女攻男受"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjef5wrybq",
+              "end": 123,
+              "expanded_url": "https://twitter.com/chelonian1983/status/1839601082374508961/photo/1",
+              "media_key": "3_1839601074896097280",
+              "start": 100,
+              "url": "https://t.co/Bjef5wryBq"
+            },
+            {
+              "display_url": "pic.x.com/bjef5wrybq",
+              "end": 123,
+              "expanded_url": "https://twitter.com/chelonian1983/status/1839601082374508961/photo/1",
+              "media_key": "3_1839601075156140032",
+              "start": 100,
+              "url": "https://t.co/Bjef5wryBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839601082374508961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4454,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "偷窥一眼就早泄了？\n贱狗的长根🐔巴就是发情的开关！\n让女神尽情的羞辱调教使用你这条贱狗是你的必修课傻逼！👇🖕#女s #男m #上贡奴 #调教男奴 #榨精 #榨金 #女尊男卑 #四爱女s  #女攻男受 https://t.co/Bjef5wryBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 580,
+          "listed_count": 0,
+          "tweet_count": 723
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T09:27:59.000Z",
+        "description": "🚪28",
+        "id": "1662390163530567681",
+        "location": "Pompano Beach",
+        "name": "珂儿s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839596965639880704/XRwUXjHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "chelonian1983",
+        "verified": false
+      }
+    ]
+  }
+}

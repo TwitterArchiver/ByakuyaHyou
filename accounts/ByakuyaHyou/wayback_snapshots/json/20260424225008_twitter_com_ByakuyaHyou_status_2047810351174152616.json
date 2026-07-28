@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907847435428442178",
+    "created_at": "2026-04-24T22:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047810351174152616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1835401176193396736",
+          "start": 0,
+          "username": "anundeterm1974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047810351174152616",
+    "in_reply_to_user_id": "1835401176193396736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907847435428442178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anundeterm1974 可爱？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907847425198534657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnoJIACaMAEqr_T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1907847435428442178",
+        "created_at": "2026-04-24T22:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047810351174152616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1835401176193396736",
+              "start": 0,
+              "username": "anundeterm1974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047810351174152616",
+        "in_reply_to_user_id": "1835401176193396736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907847435428442178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anundeterm1974 可爱？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907847425198534657"
+          ]
+        },
+        "author_id": "1835401176193396736",
+        "conversation_id": "1907847435428442178",
+        "created_at": "2025-04-03T17:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907847435428442178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "伪娘约直男"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "伪娘勾引"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdDBAox8Tf",
+              "end": 43,
+              "expanded_url": "https://x.com/anundeterm1974/status/1907847435428442178/photo/1",
+              "media_key": "3_1907847425198534657",
+              "start": 20,
+              "url": "https://t.co/vdDBAox8Tf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907847435428442178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘约直男 #伪娘勾引 想吃大肉棒啊 https://t.co/vdDBAox8Tf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 233,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1504
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T19:32:07.000Z",
+        "description": "",
+        "id": "1835401176193396736",
+        "location": "Taiwan",
+        "name": "yanglook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839360676952948736/7x8PNxSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 83,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "anundeterm1974",
+        "verified": false
+      }
+    ]
+  }
+}

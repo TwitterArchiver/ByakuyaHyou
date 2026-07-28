@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2033218065023094825",
+    "created_at": "2026-06-11T16:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065112376287039606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1949654697511620608",
+          "start": 0,
+          "username": "pluto9582722556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065112376287039606",
+    "in_reply_to_user_id": "1949654697511620608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033218065023094825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pluto9582722556 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033218028452843521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdxBkDaEAEm-AO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033218028457082881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdxBkEawAEFj1j.jpg",
+        "width": 1886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2033218065023094825",
+        "created_at": "2026-06-11T16:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065112376287039606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949654697511620608",
+              "start": 0,
+              "username": "pluto9582722556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065112376287039606",
+        "in_reply_to_user_id": "1949654697511620608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033218065023094825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pluto9582722556 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033218028452843521",
+            "3_2033218028457082881"
+          ]
+        },
+        "author_id": "1949654697511620608",
+        "conversation_id": "2033218065023094825",
+        "created_at": "2026-03-15T16:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033218065023094825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "男娘coser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOGyanWtFu",
+              "end": 40,
+              "expanded_url": "https://x.com/pluto9582722556/status/2033218065023094825/photo/1",
+              "media_key": "3_2033218028452843521",
+              "start": 17,
+              "url": "https://t.co/SOGyanWtFu"
+            },
+            {
+              "display_url": "pic.x.com/SOGyanWtFu",
+              "end": 40,
+              "expanded_url": "https://x.com/pluto9582722556/status/2033218065023094825/photo/1",
+              "media_key": "3_2033218028457082881",
+              "start": 17,
+              "url": "https://t.co/SOGyanWtFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033218065023094825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5668,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺\n#男娘 #男娘coser https://t.co/SOGyanWtFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 790,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1628
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-28T02:14:45.000Z",
+        "description": "地球online游戏时长22年老玩家，混沌乐子人/资深网络冲浪爱好者（见证哒咩谢谢）抽象入脑的loser/另外是离开魂类游戏就会活不下去的人，入侵爱好者🥰pver别被我抓到哦。正常交流会很温柔礼貌，但是一旦熟识就会觉得我是神经病",
+        "id": "1949654697511620608",
+        "location": "法兰老狼平台",
+        "name": "pluto",
+        "pinned_tweet_id": "2033218065023094825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975250137644736515/GmIFPXiC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 261,
+          "like_count": 1437,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 637
+        },
+        "username": "pluto9582722556",
+        "verified": false
+      }
+    ]
+  }
+}

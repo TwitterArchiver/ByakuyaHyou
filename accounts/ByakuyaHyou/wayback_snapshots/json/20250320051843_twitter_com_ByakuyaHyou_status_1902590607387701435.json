@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902590607387701435",
+    "created_at": "2025-03-20T05:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T06:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902590607387701435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898382046042767361",
+          "start": 3,
+          "username": "Syrann1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902590607387701435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902422080882356368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syrann1: 悄悄告诉你，思然的白丝连裤袜可是【真空】的哦~像这样~用手拽着在大腿附近勒紧……丰满的腿肉随之像羊脂一般几乎要从丝袜中溢出…大腿根处的两片花瓣勾勒出粉嫩的耻丘♡\n\n可恶，其他的位置就都是难看的褶子了呢。手指拽着白丝脚踝处~双腿用力向前蹬~骨节分明的白丝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902590607387701435].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902590607387701435",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902590607387701435"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1902422078512664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmbCzQqbkAA8wCE.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902422078512664576"
+          ]
+        },
+        "author_id": "1898382046042767361",
+        "conversation_id": "1902422080882356368",
+        "created_at": "2025-03-19T18:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902422080882356368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psepUWONxW",
+              "end": 168,
+              "expanded_url": "https://x.com/Syrann1/status/1902422080882356368/photo/1",
+              "media_key": "3_1902422078512664576",
+              "start": 145,
+              "url": "https://t.co/psepUWONxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902422080882356368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "悄悄告诉你，思然的白丝连裤袜可是【真空】的哦~像这样~用手拽着在大腿附近勒紧……丰满的腿肉随之像羊脂一般几乎要从丝袜中溢出…大腿根处的两片花瓣勾勒出粉嫩的耻丘♡\n\n可恶，其他的位置就都是难看的褶子了呢。手指拽着白丝脚踝处~双腿用力向前蹬~骨节分明的白丝足趾刻意勾起晃了晃~\n\n要来帮忙吗♡ https://t.co/psepUWONxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 105,
+          "like_count": 901,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1077
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T14:35:31.000Z",
+        "description": "是想见识高贵大小姐的【足艺】吗？无论是脚趾抓握还是足底摩擦…思然从记事起就在练习呢~相应的，准备好【吐】出价值和脑子了吗？白色的浓汤和香喷喷的钞票🖤 \n温柔向S系文援，嫩足/羞辱/压榨/绿帽/ATM/媚黑。思然会玩的还有很多，可惜变态足控只配接受这些♡ 置顶门牌封了，临时门牌：3932828799。本体女可验证哦~",
+        "id": "1898382046042767361",
+        "location": "雨不会一直下，但是头会。",
+        "name": "足艺大小姐♠️思然𝙎𝙮𝙧𝙖𝙣𝙣（互推）",
+        "pinned_tweet_id": "1901499211574886448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899141348185493504/N52aBnj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 6,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 34
+        },
+        "username": "Syrann1",
+        "verified": false
+      }
+    ]
+  }
+}

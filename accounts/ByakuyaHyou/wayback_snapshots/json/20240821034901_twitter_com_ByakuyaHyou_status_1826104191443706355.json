@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826104191443706355",
+    "created_at": "2024-08-21T03:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T04:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826104191443706355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1500353904567275522",
+          "start": 3,
+          "username": "poker_pester"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826104191443706355",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826103283414609975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poker_pester: “唔姆……三个月没有射精的鸡鸡。”\n自己柔软的舌头舔舐着自己弟弟那坚硬的肉棒，随后舌头移向龟头，在马眼和冠状沟之间来回游荡。\n他将浓稠的精液喷涌而出，射进了自己的嘴里，被全部接住并吞咽下去。\n只是精液味道却淡了几分。\n“呜…坏蛋…骗姐姐吗…你…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826104191443706355].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826104191443706355",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826104191443706355"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826103280793276416"
+          ]
+        },
+        "author_id": "1500353904567275522",
+        "conversation_id": "1826103283414609975",
+        "created_at": "2024-08-21T03:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T04:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826103283414609975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eftcoctk4b",
+              "end": 168,
+              "expanded_url": "https://twitter.com/poker_pester/status/1826103283414609975/photo/1",
+              "media_key": "3_1826103280793276416",
+              "start": 145,
+              "url": "https://t.co/EfTcOctK4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826103283414609975",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“唔姆……三个月没有射精的鸡鸡。”\n自己柔软的舌头舔舐着自己弟弟那坚硬的肉棒，随后舌头移向龟头，在马眼和冠状沟之间来回游荡。\n他将浓稠的精液喷涌而出，射进了自己的嘴里，被全部接住并吞咽下去。\n只是精液味道却淡了几分。\n“呜…坏蛋…骗姐姐吗…你不是和你说你的精液只射在姐姐的骚穴和嘴里吗？” https://t.co/EfTcOctK4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 58,
+          "like_count": 143,
+          "listed_count": 0,
+          "tweet_count": 169
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T06:13:51.000Z",
+        "description": "这里是亚妮拉|之前是写本格推理的，有三年语C经验|不涉三，不涉三，不涉三|喜欢和有礼貌的人相处|工作日营业时间是晚9:30～12:00，节假日是醒来的时候至次日凌晨4:00|Q:3898922910|收费标准：60/h，一小时起，转置顶帖凭记录每小时便宜5R",
+        "id": "1500353904567275522",
+        "location": "愉悦吧，少年，你的愿望就要实现了",
+        "name": "亚妮拉@文媛姬",
+        "pinned_tweet_id": "1820094713980194944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819966150064914432/b-vq9axA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 25,
+          "like_count": 22,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "poker_pester",
+        "verified": false
+      }
+    ]
+  }
+}

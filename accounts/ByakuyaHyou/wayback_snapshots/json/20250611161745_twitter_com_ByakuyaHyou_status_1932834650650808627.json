@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1932834650650808627",
+    "created_at": "2025-06-11T16:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T17:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932834650650808627"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "文爱"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "文援"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "压榨"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "止寸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932834650650808627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931608160898568470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 对着亲妈的丝脚意淫的废物狗们，把你们的废物脑子和钱包都上贡给祖宗好了🖤\n看见丝袜脚底就忍不住交代的废物们，欢迎来找祖宗\n想让祖宗操控贱货射精管理的也可以来找祖宗哦，把贱狗锁成一个大精牛，最后在一起释放呢\n#文爱 #文援 #压榨 #止寸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932834650650808627].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932834650650808627",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932834650650808627"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1931608158633705472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs5zYtybwAAwjsS.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931608158633705472"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1931608160898568470",
+        "created_at": "2025-06-08T07:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T08:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931608160898568470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "文爱"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "文援"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "压榨"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "止寸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb40xcxag7",
+              "end": 141,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1931608160898568470/photo/1",
+              "media_key": "3_1931608158633705472",
+              "start": 118,
+              "url": "https://t.co/yb40xcxag7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931608160898568470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3959,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "对着亲妈的丝脚意淫的废物狗们，把你们的废物脑子和钱包都上贡给祖宗好了🖤\n看见丝袜脚底就忍不住交代的废物们，欢迎来找祖宗\n想让祖宗操控贱货射精管理的也可以来找祖宗哦，把贱狗锁成一个大精牛，最后在一起释放呢\n#文爱 #文援 #压榨 #止寸 https://t.co/yb40xcxag7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 119,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1450
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤 压榨...止寸...调教...忍不住的贡狗欢迎来上贡呢废物🖤（收长期atm奴 贡奴）欢迎文援来扩列哦（文爱35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 37,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 14,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可🖤（互推私）",
+        "pinned_tweet_id": "1931287307409367359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885004780101332992/dI3Ntg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 950
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

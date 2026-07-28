@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902590049772040466",
+    "created_at": "2025-03-20T05:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T06:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902590049772040466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902590049772040466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902567248767938575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “哥哥~💖  刚刚看了恐怖小视频，一个人睡不着了啦... 要和兄长大人一起睡~~💖”\n\n随口找个理由来到卧室，作出一副瑟瑟发抖的样子，爬到半躺着的你身上，俏脸微红，发丝垂于两侧散发好闻发香。吊带从香肩滑落，“无意”间露出胸口酥软白兔💖，碧瞳含情…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902590049772040466].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902590049772040466",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902590049772040466"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1902567246205218818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmdG1Ida8AIu_x7.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902567246205218818"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1902567248767938575",
+        "created_at": "2025-03-20T03:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902567248767938575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "纯爱"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "兄妹"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文媛"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "文爱剧情"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "妹控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXriSEm4qr",
+              "end": 176,
+              "expanded_url": "https://x.com/q3233788635/status/1902567248767938575/photo/1",
+              "media_key": "3_1902567246205218818",
+              "start": 153,
+              "url": "https://t.co/nXriSEm4qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902567248767938575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "“哥哥~💖  刚刚看了恐怖小视频，一个人睡不着了啦... 要和兄长大人一起睡~~💖”\n\n随口找个理由来到卧室，作出一副瑟瑟发抖的样子，爬到半躺着的你身上，俏脸微红，发丝垂于两侧散发好闻发香。吊带从香肩滑落，“无意”间露出胸口酥软白兔💖，碧瞳含情脉脉饱含情愫💖\n\n#纯爱 #兄妹 #文媛 #文爱剧情 #妹控 https://t.co/nXriSEm4qr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 105,
+          "like_count": 898,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1075
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系傍晚到凌晨十二点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 460,
+          "like_count": 2920,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 2198
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

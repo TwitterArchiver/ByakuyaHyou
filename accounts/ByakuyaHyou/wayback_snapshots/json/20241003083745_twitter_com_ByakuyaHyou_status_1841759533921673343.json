@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841759533921673343",
+    "created_at": "2024-10-03T08:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T09:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841759533921673343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841759533921673343",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841688402925621410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 在柔和灯光包围下的舞池中，全身赤裸、浑身沾满白浊液体的少女，正以极为屈辱的姿势趴伏在地板上，双手被反绑到背后，双腿被迫分开，诱人的私处若隐若现\n她那如同玫瑰花瓣般粉嫩的唇瓣微张，呼出了一口又一口香甜诱人的热气，在周遭的温暖氛围下，犹如春日里吹拂…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841759533921673343].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841759533921673343",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841759533921673343"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841688400430264320"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1841688402925621410",
+        "created_at": "2024-10-03T03:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T04:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841688402925621410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFegUP9HWV",
+              "end": 165,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1841688402925621410/photo/1",
+              "media_key": "3_1841688400430264320",
+              "start": 142,
+              "url": "https://t.co/FFegUP9HWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841688402925621410",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在柔和灯光包围下的舞池中，全身赤裸、浑身沾满白浊液体的少女，正以极为屈辱的姿势趴伏在地板上，双手被反绑到背后，双腿被迫分开，诱人的私处若隐若现\n她那如同玫瑰花瓣般粉嫩的唇瓣微张，呼出了一口又一口香甜诱人的热气，在周遭的温暖氛围下，犹如春日里吹拂过山岗的清新微风一般\n主人……要来玩嘛 https://t.co/FFegUP9HWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 615,
+          "listed_count": 0,
+          "tweet_count": 767
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

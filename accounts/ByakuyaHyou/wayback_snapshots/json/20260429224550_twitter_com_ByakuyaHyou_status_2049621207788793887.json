@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2049494033853288866",
+    "created_at": "2026-04-29T22:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049621207788793887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1898604436089712642",
+          "start": 0,
+          "username": "CL3477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049621207788793887",
+    "in_reply_to_user_id": "1898604436089712642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049494033853288866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CL3477 可爱！我喜欢你cpdd（雾）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049494030929870848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFD9mLbwAAY157.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049494031005364225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFD9mdbsAEPPJI.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2049494033853288866",
+        "created_at": "2026-04-29T22:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049621207788793887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1898604436089712642",
+              "start": 0,
+              "username": "CL3477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049621207788793887",
+        "in_reply_to_user_id": "1898604436089712642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049494033853288866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CL3477 可爱！我喜欢你cpdd（雾）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049494030929870848",
+            "3_2049494031005364225"
+          ]
+        },
+        "author_id": "1898604436089712642",
+        "conversation_id": "2049494033853288866",
+        "created_at": "2026-04-29T14:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049494033853288866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "cd"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "femboy"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc6njJDFFA",
+              "end": 173,
+              "expanded_url": "https://x.com/CL3477/status/2049494033853288866/photo/1",
+              "media_key": "3_2049494030929870848",
+              "start": 150,
+              "url": "https://t.co/zc6njJDFFA"
+            },
+            {
+              "display_url": "pic.x.com/zc6njJDFFA",
+              "end": 173,
+              "expanded_url": "https://x.com/CL3477/status/2049494033853288866/photo/1",
+              "media_key": "3_2049494031005364225",
+              "start": 150,
+              "url": "https://t.co/zc6njJDFFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049494033853288866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1476,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶 欢迎私信\n#男娘 #cd #femboy #男の娘\n&lt;这里是［Sakimi_❄️］我会更新清水内容，质量不高，但我会改进的🙏🏻\n&lt;随缘更新，大家的支持是我更新的动力（可以来找我聊聊天）\n&lt;是新人男娘，还想学学化妆，想给大家分享一些高质量照片👏🏻👏🏻\n（是的，头像就是p1） https://t.co/zc6njJDFFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 247,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1524
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T05:19:16.000Z",
+        "description": "嗯，没错！我就是一个普通男性（也不算普通吧，毕竟都是南娘了）😜 _就当朋友圈发，平时就发发日常，还有质量不是很高的清水内容🙏🏻_",
+        "id": "1898604436089712642",
+        "name": "Sakimi_❄️",
+        "pinned_tweet_id": "2049494033853288866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048099595444703233/Ghhs4QR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 22,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "CL3477",
+        "verified": false
+      }
+    ]
+  }
+}

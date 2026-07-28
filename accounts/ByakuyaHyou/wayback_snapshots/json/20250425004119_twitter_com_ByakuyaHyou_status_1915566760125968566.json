@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915566760125968566",
+    "created_at": "2025-04-25T00:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T01:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915566760125968566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896222648524587008",
+          "start": 3,
+          "username": "Achengqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915566760125968566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915546851962757615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Achengqqq: 文媛日记：\n震惊！！！☆天使☆土豆大人翻身做主人，不仅把人榨出血还狠狠的榨金！到底是人性的沦丧，还是道德的丧失？敬请关注每日文媛日记~\n\nps：昨天没有新客人呢？明明就算涨了价，但是相对大多其他文媛也很便宜吧w……\n顺便说一句，想要卖人偶，但是在宿…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915566760125968566].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915566760125968566",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915566760125968566"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1841,
+        "media_key": "3_1915546710371426310",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpVjlYZbYAY85t2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915546710371426310"
+          ]
+        },
+        "author_id": "1896222648524587008",
+        "conversation_id": "1915546851962757615",
+        "created_at": "2025-04-24T23:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T00:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915546851962757615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eelx9FJOcd",
+              "end": 161,
+              "expanded_url": "https://x.com/Achengqqq/status/1915546851962757615/photo/1",
+              "media_key": "3_1915546710371426310",
+              "start": 138,
+              "url": "https://t.co/Eelx9FJOcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915546851962757615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "文媛日记：\n震惊！！！☆天使☆土豆大人翻身做主人，不仅把人榨出血还狠狠的榨金！到底是人性的沦丧，还是道德的丧失？敬请关注每日文媛日记~\n\nps：昨天没有新客人呢？明明就算涨了价，但是相对大多其他文媛也很便宜吧w……\n顺便说一句，想要卖人偶，但是在宿舍里不好意思用，怎么办…… https://t.co/Eelx9FJOcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 115,
+          "like_count": 1107,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1314
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:34:51.000Z",
+        "description": "互推互推~来了可以直接加我，聊天免费~♡\n喜欢别忘了点爱心，评论，转发！谢谢~\n4399505433",
+        "id": "1896222648524587008",
+        "location": "人家在你心里哦~（用奶子比个心）",
+        "name": "土豆土豆~天使文媛~文姬~文爱",
+        "pinned_tweet_id": "1915546851962757615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913852345185898496/NqR5irB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 13,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "Achengqqq",
+        "verified": false
+      }
+    ]
+  }
+}

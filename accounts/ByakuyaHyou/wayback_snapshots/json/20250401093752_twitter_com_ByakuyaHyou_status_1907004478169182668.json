@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1907004478169182668",
+    "created_at": "2025-04-01T09:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T10:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907004478169182668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907004478169182668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906920812353118532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 「胜负欲」其实也是相当色情的概念呢♫\n但也不乏一些抖M君明知故问❥一目了然吧？像这样建立在「贬低」之上的胜负欲❤️最让M男引以为傲的事情是什么呢~\n答案是——「犯贱」既可以品尝到自我堕落的负罪感💜又能享受被看光的羞耻感💗越是劣化~越是舒服💋\n呐~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907004478169182668].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907004478169182668",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907004478169182668"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906920809198981120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gna-X2cbEAAPJpo.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906920809198981120"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1906920812353118532",
+        "created_at": "2025-04-01T04:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906920812353118532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "催眠洗脑"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "精神控制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzDKikaknW",
+              "end": 172,
+              "expanded_url": "https://x.com/amianjiang/status/1906920812353118532/photo/1",
+              "media_key": "3_1906920809198981120",
+              "start": 149,
+              "url": "https://t.co/YzDKikaknW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906920812353118532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 527,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "「胜负欲」其实也是相当色情的概念呢♫\n但也不乏一些抖M君明知故问❥一目了然吧？像这样建立在「贬低」之上的胜负欲❤️最让M男引以为傲的事情是什么呢~\n答案是——「犯贱」既可以品尝到自我堕落的负罪感💜又能享受被看光的羞耻感💗越是劣化~越是舒服💋\n呐~想要~当人家最贱的狗狗吗🖤\n#催眠洗脑 #精神控制 https://t.co/YzDKikaknW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 108,
+          "like_count": 1000,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1171
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 33,
+          "like_count": 442,
+          "listed_count": 14,
+          "media_count": 188,
+          "tweet_count": 482
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

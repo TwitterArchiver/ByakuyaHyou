@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897146821660827869",
+    "created_at": "2025-03-05T04:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T05:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897146821660827869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818201196777402368",
+          "start": 3,
+          "username": "qiyuanziiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897146821660827869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895109076348215478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiyuanziiii: 这个月的房租呢？💜提醒傻逼一下好了~上个月这栋房子就因为傻逼想吸姐姐的足臭无脑撸射的时候~作为代价无脑白给上贡了💙这间地下室肯租给傻逼住已经是姐姐大发慈悲了哦🧡吸着姐姐酸粘汗臭足底无脑丧志~把这个月的工资吐出来❤️被姐姐碾死在足下哦🖤傻逼 #s…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897146821660827869].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897146821660827869",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897146821660827869"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_1895109072594042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzHqSqWgAAW-jy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895109072594042880"
+          ]
+        },
+        "author_id": "1818201196777402368",
+        "conversation_id": "1895109076348215478",
+        "created_at": "2025-02-27T13:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895109076348215478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "sm"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "调教"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "atm"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXdT8bffFG",
+              "end": 164,
+              "expanded_url": "https://x.com/qiyuanziiii/status/1895109076348215478/photo/1",
+              "media_key": "3_1895109072594042880",
+              "start": 141,
+              "url": "https://t.co/sXdT8bffFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895109076348215478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4836,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "这个月的房租呢？💜提醒傻逼一下好了~上个月这栋房子就因为傻逼想吸姐姐的足臭无脑撸射的时候~作为代价无脑白给上贡了💙这间地下室肯租给傻逼住已经是姐姐大发慈悲了哦🧡吸着姐姐酸粘汗臭足底无脑丧志~把这个月的工资吐出来❤️被姐姐碾死在足下哦🖤傻逼 #sm #调教 #atm #文援 #剧情 https://t.co/sXdT8bffFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 88,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 903
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T08:25:38.000Z",
+        "description": "让姐姐榨取乖孩子吧直到一滴也不剩～❤️欸？姐姐收贡狗的哦..❤️不过直接口令就好啦💜反正你这样的傻逼贡狗在上贡的内一刻就爽的吧…？足够多的话没准可以带走姐姐充满汗臭的丝袜哦💜门牌2447693254",
+        "id": "1818201196777402368",
+        "name": "文援💕念安姐姐（互推）💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818911340414877696/1xX9vHf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 18,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 488
+        },
+        "username": "qiyuanziiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946422295368450254",
+    "created_at": "2025-07-19T04:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946422295368450254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896839053124960258",
+          "start": 3,
+          "username": "sama164956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946422295368450254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945423647096893937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama164956: 区区最低等的贱奴居然能做公主大人的马桶什么的真是三生有幸呢♡\n肥嫩小穴丘张合♡要出来了哦~贱狗最喜欢的圣水♡\n嘘~水流在空气中划过弧线，闪烁着黄金似的光泽♡高贵主人的每一滴尿液都比贱奴的狗命还重要~\n狗嘴好好张到最大♡一滴不剩地全部接下哦~将这份…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946422295368450254].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946422295368450254",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946422295368450254"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1945423644387061760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-If01WMAAYFlH.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945423644387061760"
+          ]
+        },
+        "author_id": "1896839053124960258",
+        "conversation_id": "1945423647096893937",
+        "created_at": "2025-07-16T10:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945423647096893937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWtNhxl2KS",
+              "end": 166,
+              "expanded_url": "https://x.com/sama164956/status/1945423647096893937/photo/1",
+              "media_key": "3_1945423644387061760",
+              "start": 143,
+              "url": "https://t.co/RWtNhxl2KS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945423647096893937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5650,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "区区最低等的贱奴居然能做公主大人的马桶什么的真是三生有幸呢♡\n肥嫩小穴丘张合♡要出来了哦~贱狗最喜欢的圣水♡\n嘘~水流在空气中划过弧线，闪烁着黄金似的光泽♡高贵主人的每一滴尿液都比贱奴的狗命还重要~\n狗嘴好好张到最大♡一滴不剩地全部接下哦~将这份腥臊好好刻在狗脑里♡做一辈子便器贱畜♡ https://t.co/RWtNhxl2KS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 125,
+          "like_count": 1322,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1519
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T08:27:04.000Z",
+        "description": "门牌号QQ：3325582407 纸飞机：https://t.co/YO7IesyPaR 30元/30分，下午至晚上2点营业\n这里是伊诺二号捏♡大号@loveforallLoli\n擅长足♡触手♡雌堕♡犬调教♡榨金♡等等，跪倒舔鞋献上金币和脑子叭♡ 目前只当S，门槛10元（下单可抵）性奴：乖璃，阿雪，支持双人单~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "loveforallLoli"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 44,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 21,
+                "url": "https://t.co/YO7IesyPaR"
+              }
+            ]
+          }
+        },
+        "id": "1896839053124960258",
+        "location": "你的脑袋上",
+        "name": "伊诺sama二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896846735730745346/-iO09bJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 3,
+          "like_count": 69,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 96
+        },
+        "username": "sama164956",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912840540246405120"
+      ],
+      "media_source_tweet_id": [
+        "1912840704822485246"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913018668130439401",
+    "created_at": "2025-04-17T23:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913018668130439401"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "贞操锁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881899760178913280",
+          "start": 3,
+          "username": "1998JNFQ"
+        },
+        {
+          "end": 57,
+          "id": "1354563078700949505",
+          "start": 48,
+          "username": "1999ZMZM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/njQ4FDTbM5",
+          "end": 81,
+          "expanded_url": "https://x.com/1998JNFQ/status/1912840704822485246/video/1",
+          "media_key": "13_1912840540246405120",
+          "start": 58,
+          "url": "https://t.co/njQ4FDTbM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913018668130439401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912840704822485246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1998JNFQ: 锁奴废物是不是想用狗舌头清理主人的脚指那还不爬过来～ #贞操锁\n大号@1999ZMZM https://t.co/njQ4FDTbM5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913018668130439401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913018668130439401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913018668130439401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38800,
+        "height": 1280,
+        "media_key": "13_1912840540246405120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912840540246405120/img/OkVYGVAlyGm0RKJ_.jpg",
+        "public_metrics": {
+          "view_count": 1220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912840540246405120/vid/avc1/320x568/dO0N_6EVWIwgD2Hu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912840540246405120/vid/avc1/480x852/1pIz0LNVWzfMb5NI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912840540246405120/vid/avc1/720x1280/HqY1ldEaoRfIzKUD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912840540246405120/pl/rR-vkm3GDzzOfvbg.m3u8?tag=14&v=4e0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912840540246405120"
+          ]
+        },
+        "author_id": "1881899760178913280",
+        "conversation_id": "1912840704822485246",
+        "created_at": "2025-04-17T12:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912840704822485246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "贞操锁"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1354563078700949505",
+              "start": 34,
+              "username": "1999ZMZM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/njQ4FDTbM5",
+              "end": 67,
+              "expanded_url": "https://x.com/1998JNFQ/status/1912840704822485246/video/1",
+              "media_key": "13_1912840540246405120",
+              "start": 44,
+              "url": "https://t.co/njQ4FDTbM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912840704822485246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6279,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "锁奴废物是不是想用狗舌头清理主人的脚指那还不爬过来～ #贞操锁\n大号@1999ZMZM https://t.co/njQ4FDTbM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1074,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1270
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T03:00:53.000Z",
+        "description": "00后锁主啥都玩大号冲万粉@1999ZMZM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "1999ZMZM"
+              }
+            ]
+          }
+        },
+        "id": "1881899760178913280",
+        "name": "嘉欣锁主s(小号)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881900241236152320/DwCiTVpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 13
+        },
+        "username": "1998JNFQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T22:53:42.000Z",
+        "description": "Q:2049368186或看↓置顶。收ATM奴 定制原味  红绿灯控制  盯射  网T 贞操锁奴 拒绝白嫖00年女王 全能主",
+        "id": "1354563078700949505",
+        "name": "嘉欣sama",
+        "pinned_tweet_id": "1902561467100274825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868858391080452098/zKdsWjtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10453,
+          "following_count": 191,
+          "like_count": 53,
+          "listed_count": 27,
+          "media_count": 43,
+          "tweet_count": 78
+        },
+        "username": "1999ZMZM",
+        "verified": false
+      }
+    ]
+  }
+}

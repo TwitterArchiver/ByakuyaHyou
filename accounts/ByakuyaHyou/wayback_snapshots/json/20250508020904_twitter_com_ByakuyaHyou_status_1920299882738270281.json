@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1920299882738270281",
+    "created_at": "2025-05-08T02:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T03:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920299882738270281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920299882738270281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916379571316002999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 怎么又把人家和姐妹放置在一边呢～不是刚才说好～做完前戏就来享用我们嘛～\n等了这么久～身上黏糊糊的～还不过来～\n还是说～是早泄杂鱼君啦～\n如果让你选择的话～\n是选择恬静内敛的姐姐～❤️\n还是要活泼开放的妹妹～❤️\n还说～看着姐姐贴贴，自己在一边自…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920299882738270281].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920299882738270281",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920299882738270281"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1916379197129572352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphYufPbQAA_TnO.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916379197129572352"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1916379571316002999",
+        "created_at": "2025-04-27T06:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916379571316002999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAEO1p1XRu",
+              "end": 169,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1916379571316002999/photo/1",
+              "media_key": "3_1916379197129572352",
+              "start": 146,
+              "url": "https://t.co/LAEO1p1XRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916379571316002999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1188,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又把人家和姐妹放置在一边呢～不是刚才说好～做完前戏就来享用我们嘛～\n等了这么久～身上黏糊糊的～还不过来～\n还是说～是早泄杂鱼君啦～\n如果让你选择的话～\n是选择恬静内敛的姐姐～❤️\n还是要活泼开放的妹妹～❤️\n还说～看着姐姐贴贴，自己在一边自己撸管当杂鱼呢～\n杂鱼君～今晚要乖乖的被榨干哦 https://t.co/LAEO1p1XRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 119,
+          "like_count": 1178,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1386
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

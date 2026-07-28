@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1838256755761119278",
+    "created_at": "2024-09-23T16:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T17:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838256755761119278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838256755761119278",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838253839780319636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 1500粉福利——（虽然完全不知道能不能吸引到人）关注点赞转发参与哦~\n特等奖1名:原味丝袜或者2k字定制文\n一等奖1名:一次疯狂星期四\n二等奖2名:郊狼控制权30min\n三等奖3名:免费涩涩一小时\n虽然比起大佬还不够看，不过对于羽月来说确实…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838256755761119278].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838256755761119278",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838256755761119278"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838253836596867072"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1838253839780319636",
+        "created_at": "2024-09-23T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838253839780319636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文爱"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "文援"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gihbornk5f",
+              "end": 180,
+              "expanded_url": "https://twitter.com/shigongyuyue/status/1838253839780319636/photo/1",
+              "media_key": "3_1838253836596867072",
+              "start": 157,
+              "url": "https://t.co/GIHBoRNk5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838253839780319636",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1500粉福利——（虽然完全不知道能不能吸引到人）关注点赞转发参与哦~\n特等奖1名:原味丝袜或者2k字定制文\n一等奖1名:一次疯狂星期四\n二等奖2名:郊狼控制权30min\n三等奖3名:免费涩涩一小时\n虽然比起大佬还不够看，不过对于羽月来说确实算是个小成就了，还请各位多多下单哦~承蒙关照♡\n#文爱 #文援 #抽奖 https://t.co/GIHBoRNk5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 83,
+          "like_count": 563,
+          "listed_count": 0,
+          "tweet_count": 691
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族大妖——时宫羽月大人 ，虽然是外表看上去与雌性别无二致的男娘~但其实有着很厉害的肉棒哦~♡千万不要听信外界那些人家被稍微调戏一下就会变成发情肉便器免费侍奉的谣言!!!很欢迎不知好歹的雄性或者雌性杂鱼来挑战人家~♡ 🚪2783735641",
+        "id": "1388652214395150339",
+        "location": "非常精神病院",
+        "name": "时宫羽月（发情の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451218641723162624/Np6rTPgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 1399,
+          "like_count": 7076,
+          "listed_count": 5,
+          "tweet_count": 3684
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

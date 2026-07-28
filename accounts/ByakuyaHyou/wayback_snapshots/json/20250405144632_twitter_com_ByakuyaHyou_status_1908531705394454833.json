@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908531705394454833",
+    "created_at": "2025-04-05T14:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908531705394454833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908531705394454833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908393402531799140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记第三季05\n芭芭拉，这就是卫兵们抓到的那个偷天空之琴的吗，怎么看上去这么杂鱼啊，还有她这享受的表情\n是啊老姐，刚抓到她的时候，只不过被我踩了两脚，下面就湿的不像样了，你看就像这样\n芭芭拉用力的踩了踩荧妹，荧妹的内裤上水渍格外显眼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908531705394454833].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908531705394454833",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908531705394454833"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1908393399469981696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnv5r4sbwAA1OHQ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908393399469981696"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1908393402531799140",
+        "created_at": "2025-04-05T05:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908393402531799140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文爱"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文媛"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "百合"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "败北"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gdf3NlGxgD",
+              "end": 165,
+              "expanded_url": "https://x.com/dnggu156261/status/1908393402531799140/photo/1",
+              "media_key": "3_1908393399469981696",
+              "start": 142,
+              "url": "https://t.co/Gdf3NlGxgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908393402531799140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2282,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记第三季05\n芭芭拉，这就是卫兵们抓到的那个偷天空之琴的吗，怎么看上去这么杂鱼啊，还有她这享受的表情\n是啊老姐，刚抓到她的时候，只不过被我踩了两脚，下面就湿的不像样了，你看就像这样\n芭芭拉用力的踩了踩荧妹，荧妹的内裤上水渍格外显眼\n#文爱 #文媛 #百合 #败北 #剧情 https://t.co/Gdf3NlGxgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 113,
+          "like_count": 1035,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1209
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "哈喽哈喽，这里是可爱的荧妹，欢迎大家来找我玩，才不是杂鱼呢，接单号3860669556，30r0.5h，不涉三，想加小群的可以看看置顶二维码，有审核的哦，杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xcwnaxida"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "T.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://T.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/cLRbhmi5RM"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "name": "可爱荧妹（互推）",
+        "pinned_tweet_id": "1906196057278788034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897880249846968320/OdFIlQjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 122,
+          "like_count": 5349,
+          "listed_count": 17,
+          "media_count": 83,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/cLRbhmi5RM",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

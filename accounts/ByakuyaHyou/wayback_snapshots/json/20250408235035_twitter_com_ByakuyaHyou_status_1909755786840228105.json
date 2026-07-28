@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909755786840228105",
+    "created_at": "2025-04-08T23:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T00:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909755786840228105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803981725686730753",
+          "start": 3,
+          "username": "Go5Io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909755786840228105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909039045977718916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Go5Io: 比起做你们的伪娘S人格，现在这幅浓妆淫婊子样才更适合你们吧~还穿着白色手丝抚摸本宫的大肉棒呢，一点都不感觉羞耻吗你这浓妆婊子♡\n\n听话的孩子才能获得母亲大人的抽腚服务哦，看看你们两头谁才是本宫那位可爱的乖宝宝呢？不乖的那位宝贝可是要被乖宝宝坐在身上看着本宫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909755786840228105].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909755786840228105",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909755786840228105"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1909039040906878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5E5KebYAAsCId.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909039040906878976"
+          ]
+        },
+        "author_id": "1803981725686730753",
+        "conversation_id": "1909039045977718916",
+        "created_at": "2025-04-07T00:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T01:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909039045977718916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTobKcw8Q5",
+              "end": 167,
+              "expanded_url": "https://x.com/Go5Io/status/1909039045977718916/photo/1",
+              "media_key": "3_1909039040906878976",
+              "start": 144,
+              "url": "https://t.co/pTobKcw8Q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909039045977718916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1486,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "比起做你们的伪娘S人格，现在这幅浓妆淫婊子样才更适合你们吧~还穿着白色手丝抚摸本宫的大肉棒呢，一点都不感觉羞耻吗你这浓妆婊子♡\n\n听话的孩子才能获得母亲大人的抽腚服务哦，看看你们两头谁才是本宫那位可爱的乖宝宝呢？不乖的那位宝贝可是要被乖宝宝坐在身上看着本宫拍打肥臀呢♡\n\n#文援 #文爱 https://t.co/pTobKcw8Q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 115,
+          "like_count": 1053,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1230
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T02:42:21.000Z",
+        "description": "美熟正道盟主、阴阳仙后。前任皓月宫大宫主(现在的二宫主)。\n\n武功是皓月宫的嫡传心法，冰雪宝鉴。被她练到极致纯化升华成冰月神鉴，江湖中的武林神话。\n\n私信没回表示不感兴趣，感兴趣的会掉落门牌号。\n\n目前收集废物雌畜中，觉得自己无药可救欢迎私信培育女权思想。\n\n🚪20 60r/h",
+        "id": "1803981725686730753",
+        "name": "倾雪圣母（猎杀伪S）",
+        "pinned_tweet_id": "1887298255702401438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803986135112388608/Eg-aYd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3908,
+          "following_count": 34,
+          "like_count": 362,
+          "listed_count": 21,
+          "media_count": 135,
+          "tweet_count": 759
+        },
+        "username": "Go5Io",
+        "verified": false
+      }
+    ]
+  }
+}

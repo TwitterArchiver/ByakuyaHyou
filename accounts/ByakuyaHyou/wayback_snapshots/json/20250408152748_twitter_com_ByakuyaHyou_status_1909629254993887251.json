@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909629254993887251",
+    "created_at": "2025-04-08T15:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909629254993887251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909629254993887251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909473300499378434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 鸡巴大人又想要使用母狗的嘴屄惹嘛💜虽然已经训练过但每一次还是被肏嘴弄到翻白眼💋\n就算是前戏也要好好❤️....齁对不起齁主人❤️不应该在被肏嘴的时候说话啊啊齁💗\n只是好想要快点被侵犯咿❤️明明小穴早就已经准备好了却得不到满足..这样下去..肉棒爹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909629254993887251].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909629254993887251",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909629254993887251"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1909473292492455938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn_P17sbwAIiZw3.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909473292492455938"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1909473300499378434",
+        "created_at": "2025-04-08T05:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T06:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909473300499378434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbJoINDsPE",
+              "end": 173,
+              "expanded_url": "https://x.com/amianjiang/status/1909473300499378434/photo/1",
+              "media_key": "3_1909473292492455938",
+              "start": 150,
+              "url": "https://t.co/dbJoINDsPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909473300499378434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 382,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "鸡巴大人又想要使用母狗的嘴屄惹嘛💜虽然已经训练过但每一次还是被肏嘴弄到翻白眼💋\n就算是前戏也要好好❤️....齁对不起齁主人❤️不应该在被肏嘴的时候说话啊啊齁💗\n只是好想要快点被侵犯咿❤️明明小穴早就已经准备好了却得不到满足..这样下去..肉棒爹插进去一下子就会喷的咿咿✌🏻\n屄洞交配排卵准备完成💕 https://t.co/dbJoINDsPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 113,
+          "like_count": 1048,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1225
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 33,
+          "like_count": 447,
+          "listed_count": 14,
+          "media_count": 194,
+          "tweet_count": 499
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

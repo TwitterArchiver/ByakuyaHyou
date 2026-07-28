@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836769246388641936",
+    "created_at": "2024-09-19T14:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836769246388641936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836769246388641936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836760648510058762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @RngPirdOe434191: 啊哈～求求主人，慢一点，小穴受不了了呜呜呜，晓雨母狗今天…已经高潮9次了…\n苦苦哀求的同时，痉挛收缩着的宫口似是再也忍受不住巨根的冲撞，晓雨偷偷往前爬了一点…\n下一秒，双手就被主人的大手牢牢钳制住，掐着腰用力往更深处顶去，泛红的臀瓣紧紧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836769246388641936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836769246388641936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836769246388641936"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836760583468933120"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1836760648510058762",
+        "created_at": "2024-09-19T13:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T14:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836760648510058762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cgc2tikso",
+              "end": 167,
+              "expanded_url": "https://twitter.com/RngPirdOe434191/status/1836760648510058762/photo/1",
+              "media_key": "3_1836760583468933120",
+              "start": 144,
+              "url": "https://t.co/4CGC2tIkSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836760648510058762",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "啊哈～求求主人，慢一点，小穴受不了了呜呜呜，晓雨母狗今天…已经高潮9次了…\n苦苦哀求的同时，痉挛收缩着的宫口似是再也忍受不住巨根的冲撞，晓雨偷偷往前爬了一点…\n下一秒，双手就被主人的大手牢牢钳制住，掐着腰用力往更深处顶去，泛红的臀瓣紧紧贴在主人胯下，承受着肉棒一次次冲撞…#文爱 #母狗 https://t.co/4CGC2tIkSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 82,
+          "like_count": 529,
+          "listed_count": 0,
+          "tweet_count": 648
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱50/h，30/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～电报小飞机：https://t.co/PZw0eBHcVT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dawn_drizzle",
+                "end": 124,
+                "expanded_url": "https://t.me/dawn_drizzle",
+                "start": 101,
+                "url": "https://t.co/PZw0eBHcVT"
+              }
+            ]
+          }
+        },
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1823982401464492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 77,
+          "like_count": 371,
+          "listed_count": 3,
+          "tweet_count": 388
+        },
+        "username": "RngPirdOe434191",
+        "verified": false
+      }
+    ]
+  }
+}

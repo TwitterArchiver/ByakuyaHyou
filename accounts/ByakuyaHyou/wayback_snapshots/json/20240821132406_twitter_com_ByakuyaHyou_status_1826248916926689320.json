@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826248916926689320",
+    "created_at": "2024-08-21T13:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826248916926689320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621150290660700169",
+          "start": 3,
+          "username": "DickhaoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826248916926689320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824667932087177557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DickhaoK: “同学是需要安清服务吗？好吧”\n“这未免太夸张了吧，是处吗，好恶心的样子”轻轻地将嘴唇贴在龟头处微微亲吻了下最上面的地方，然后露出一些更加嫌恶的表情“味道也是……好臭”\n“呜嗯…咕啾…呼唔…嘶溜”肉棒不断变大，安清原本嘲讽的神色消失，脸上露出惊愕的表…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826248916926689320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826248916926689320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826248916926689320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824667922264100865"
+          ]
+        },
+        "author_id": "1621150290660700169",
+        "conversation_id": "1824667932087177557",
+        "created_at": "2024-08-17T04:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T05:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824667932087177557"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文媛"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "口交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyeoewryih",
+              "end": 172,
+              "expanded_url": "https://twitter.com/DickhaoK/status/1824667932087177557/photo/1",
+              "media_key": "3_1824667922264100865",
+              "start": 149,
+              "url": "https://t.co/OYeOEWRyIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824667932087177557",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“同学是需要安清服务吗？好吧”\n“这未免太夸张了吧，是处吗，好恶心的样子”轻轻地将嘴唇贴在龟头处微微亲吻了下最上面的地方，然后露出一些更加嫌恶的表情“味道也是……好臭”\n“呜嗯…咕啾…呼唔…嘶溜”肉棒不断变大，安清原本嘲讽的神色消失，脸上露出惊愕的表情，红着脸继续的给你口\n#文媛 #文爱 #口交 https://t.co/OYeOEWRyIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 61,
+          "like_count": 177,
+          "listed_count": 0,
+          "tweet_count": 206
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T14:16:26.000Z",
+        "description": "大家好..我是新来的文媛安清，在读高中生，由于一些问题需要在各位身上赚点零花钱，安清可以满足各位的任何需求，无论是羞辱还是重口，性转还是普通聊天都行（有些手足无措，不知道做个什么动作勾引人好）\ntg账号@anqingxi1\n文媛30min/35r，1h/60r\n聊天30min/15r\n新人费用减半哦\n时间8点~晚12点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "anqingxi1"
+              }
+            ]
+          }
+        },
+        "id": "1621150290660700169",
+        "name": "三无少女安清（文援姬，可互推）",
+        "pinned_tweet_id": "1824613897141411858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824608253386559490/kGpk-vIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "DickhaoK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897175564844458117",
+    "created_at": "2025-03-05T06:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897175564844458117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897175564844458117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897172729742365063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 平日假装正经，背地里就是一个早泄下贱的傻逼绿狗💚连自己的女友老婆都满足不了的垃圾废物～只能看女友老婆出轨的照片～下贱的撸着小鸡巴犯贱💚一辈子都是给绿爹黑爹当绿狗王八的绿帽贱狗💚今天小鸡巴是不是也在兴奋，可惜被锁死了，撸都撸不了 只能蹭锁 真贱🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897175564844458117].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897175564844458117",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897175564844458117"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1897172687828459520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQcggeWoAAkPOf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897172687828459520"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1897172729742365063",
+        "created_at": "2025-03-05T06:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897172729742365063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "文援姬"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "调教"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "羞辱"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "绿帽"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "绿奴"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "锁奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4R1YjoP0B",
+              "end": 171,
+              "expanded_url": "https://x.com/xiyan123466/status/1897172729742365063/photo/1",
+              "media_key": "3_1897172687828459520",
+              "start": 148,
+              "url": "https://t.co/D4R1YjoP0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897172729742365063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "平日假装正经，背地里就是一个早泄下贱的傻逼绿狗💚连自己的女友老婆都满足不了的垃圾废物～只能看女友老婆出轨的照片～下贱的撸着小鸡巴犯贱💚一辈子都是给绿爹黑爹当绿狗王八的绿帽贱狗💚今天小鸡巴是不是也在兴奋，可惜被锁死了，撸都撸不了 只能蹭锁 真贱🖤\n#文援姬 #调教 #羞辱 #绿帽 #绿奴 #锁奴 https://t.co/D4R1YjoP0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 88,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 906
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑的小魔女香香大小姐♡ 成年了却只有小萝莉的身体♡ 紫水晶般闪耀的柔顺长发披在香肩♡ 红蓝的异瞳露出狡黠♡ 乳白的肌肤~精致的脸颊♡ 俏皮的鼻梁下弯弯的樱红嘴唇♡ 流露出腹黑的微笑♡身着哥特式萝莉裙♡ 白丝袜袜包裹住粉嫩的玉足♡喜欢调教戏耍犯贱的狗狗♥\n接各种文字调教羞辱压榨胁迫绿帽\nQ🐧3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "在QQ的 记得先加QQ找我",
+        "name": "小魔女文援🖤香香酱（文援互推私信）",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851250226029580288/4vl6NVy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6651,
+          "following_count": 125,
+          "like_count": 391,
+          "listed_count": 30,
+          "media_count": 374,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

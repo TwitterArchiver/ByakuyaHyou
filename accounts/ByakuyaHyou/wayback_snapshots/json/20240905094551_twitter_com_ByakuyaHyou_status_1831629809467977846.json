@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1831629809467977846",
+    "created_at": "2024-09-05T09:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T10:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831629809467977846"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "粗口"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "少女"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "控制射精"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "调教"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "丝袜"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "原味"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "声控"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "男m"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "女s"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "网调"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "圣水"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "女王"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "女王s"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "atm奴"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "atm"
+        },
+        {
+          "end": 114,
+          "start": 109,
+          "tag": "原味袜子"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "内裤"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "臭袜子"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "射精"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "黄金"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "鞋奴"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "脚奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1696073704893992960",
+          "start": 3,
+          "username": "whxusnaoxkana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831629809467977846",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831542933323124969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whxusnaoxkana: 看之前跪着磕三个响头，狗眼睛别玷污了亲妈#黑丝 #粗口 #少女 #控制射精 #调教 #丝袜 #原味 #声控 #男m #女s #网调 #圣水 #女王 #女王s #atm奴 #atm #原味袜子 #内裤 #臭袜子 #射精 #黄金 #鞋奴 #脚奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831629809467977846].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831629809467977846",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831629809467977846"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831542861017567232"
+          ]
+        },
+        "author_id": "1696073704893992960",
+        "conversation_id": "1831542933323124969",
+        "created_at": "2024-09-05T04:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831542933323124969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "粗口"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "少女"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "控制射精"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "调教"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "丝袜"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "原味"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "声控"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "男m"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "女s"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "网调"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "圣水"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "女王"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "女王s"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "atm奴"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "atm"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "原味袜子"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "内裤"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "臭袜子"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "射精"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "黄金"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "鞋奴"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "脚奴"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "早泄"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "阳痿"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "亲妈"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "主人"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "祖宗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ai7ce8atha",
+              "end": 164,
+              "expanded_url": "https://twitter.com/whxusnaoxkana/status/1831542933323124969/video/1",
+              "media_key": "7_1831542861017567232",
+              "start": 141,
+              "url": "https://t.co/ai7CE8aTHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831542933323124969",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1509,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "看之前跪着磕三个响头，狗眼睛别玷污了亲妈#黑丝 #粗口 #少女 #控制射精 #调教 #丝袜 #原味 #声控 #男m #女s #网调 #圣水 #女王 #女王s #atm奴 #atm #原味袜子 #内裤 #臭袜子 #射精 #黄金 #鞋奴 #脚奴 #早泄 #阳痿 #亲妈 #主人 #祖宗 https://t.co/ai7CE8aTHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 85,
+          "like_count": 437,
+          "listed_count": 0,
+          "tweet_count": 508
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T08:14:27.000Z",
+        "description": "收🏧，喜欢调教反差公狗（不免费）压榨主💰，需要本人粗口音频视频和原味十Q💰:3282683164 ，QQ🚪：30r（可抵消），私人v🚪：52（不可抵消），还有口嚼圣水黄金等可私人订制，互推直接发我，白嫖狗滚远点，砍价墨迹不过门滚远点，蹦电话、单删不说，小黑屋见",
+        "id": "1696073704893992960",
+        "location": "你的狗头上",
+        "name": "娜可（🚪：30）",
+        "pinned_tweet_id": "1721599438660292774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831564908586209281/SWyPDiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4681,
+          "following_count": 5,
+          "like_count": 52,
+          "listed_count": 15,
+          "tweet_count": 559
+        },
+        "username": "whxusnaoxkana",
+        "verified": false
+      }
+    ]
+  }
+}

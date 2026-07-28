@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826248965257592906",
+    "created_at": "2024-08-21T13:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826248965257592906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621150290660700169",
+          "start": 3,
+          "username": "DickhaoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826248965257592906",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825894831144730639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DickhaoK: 房间里，少女正被一群大汉摁在柔软的大床上，雄性的肉棒将她围在中间，她的双目像是被发情的情欲爱心所遮盖，连话都说不清楚，双手被摁住在脑后，白皙的大腿也被紧紧地摁在床上，不断溢出白色浓稠液体的粉穴下，少女的菊穴正在被一根粗壮的肉根不断蹂躏着“才…不舒服，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826248965257592906].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826248965257592906",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826248965257592906"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825894819564236801"
+          ]
+        },
+        "author_id": "1621150290660700169",
+        "conversation_id": "1825894831144730639",
+        "created_at": "2024-08-20T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825894831144730639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文媛"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/raieuri4mw",
+              "end": 167,
+              "expanded_url": "https://twitter.com/DickhaoK/status/1825894831144730639/photo/1",
+              "media_key": "3_1825894819564236801",
+              "start": 144,
+              "url": "https://t.co/RaiEUri4mW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825894831144730639",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 234,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "房间里，少女正被一群大汉摁在柔软的大床上，雄性的肉棒将她围在中间，她的双目像是被发情的情欲爱心所遮盖，连话都说不清楚，双手被摁住在脑后，白皙的大腿也被紧紧地摁在床上，不断溢出白色浓稠液体的粉穴下，少女的菊穴正在被一根粗壮的肉根不断蹂躏着“才…不舒服，啊～不要，子宫被～”\n#文媛 #文爱 https://t.co/RaiEUri4mW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 61,
+          "like_count": 180,
+          "listed_count": 0,
+          "tweet_count": 208
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T14:16:26.000Z",
+        "description": "大家好..我是新来的文媛安清，在读高中生，由于一些问题需要在各位身上赚点零花钱，安清可以满足各位的任何需求，无论是羞辱还是重口，性转还是普通聊天都行（有些手足无措，不知道做个什么动作勾引人好）\ntg账号@anqingxi1\n文媛30min/35r，1h/60r\n聊天30min/15r\n新人费用减半哦\n时间8点~晚12点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "anqingxi1"
+              }
+            ]
+          }
+        },
+        "id": "1621150290660700169",
+        "name": "三无少女安清（文援姬，可互推）",
+        "pinned_tweet_id": "1824613897141411858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824608253386559490/kGpk-vIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "DickhaoK",
+        "verified": false
+      }
+    ]
+  }
+}

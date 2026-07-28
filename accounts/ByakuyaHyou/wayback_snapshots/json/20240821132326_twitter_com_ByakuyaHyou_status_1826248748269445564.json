@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1760326456054620160"
+      ],
+      "media_source_tweet_id": [
+        "1760326473687470111"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1826248748269445564",
+    "created_at": "2024-08-21T13:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T14:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826248748269445564"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "文媛"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758362776496668672",
+          "start": 3,
+          "username": "LianLian29047"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.me/jiuming521",
+          "end": 60,
+          "expanded_url": "https://t.me/jiuming521",
+          "start": 37,
+          "url": "https://t.co/5vCUmjOKQJ"
+        },
+        {
+          "display_url": "pic.x.com/eug0qi0odd",
+          "end": 92,
+          "expanded_url": "https://twitter.com/LianLian29047/status/1760326473687470111/photo/1",
+          "media_key": "3_1760326456054620160",
+          "start": 69,
+          "url": "https://t.co/EUg0Qi0ODd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826248748269445564",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1760326473687470111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LianLian29047: 最近好无聊，怎么还没有杂鱼送上门来！https://t.co/5vCUmjOKQJ\n#文媛 #文爱 https://t.co/EUg0Qi0ODd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826248748269445564].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826248748269445564",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826248748269445564"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1760326456054620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GG3vlc3boAAGJum.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1760326456054620160"
+          ]
+        },
+        "author_id": "1758362776496668672",
+        "conversation_id": "1760326473687470111",
+        "created_at": "2024-02-21T15:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-21T16:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1760326473687470111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "文媛"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/jiuming521",
+              "end": 41,
+              "expanded_url": "https://t.me/jiuming521",
+              "start": 18,
+              "url": "https://t.co/5vCUmjOKQJ"
+            },
+            {
+              "display_url": "pic.x.com/eug0qi0odd",
+              "end": 73,
+              "expanded_url": "https://twitter.com/LianLian29047/status/1760326473687470111/photo/1",
+              "media_key": "3_1760326456054620160",
+              "start": 50,
+              "url": "https://t.co/EUg0Qi0ODd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1760326473687470111",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近好无聊，怎么还没有杂鱼送上门来！https://t.co/5vCUmjOKQJ\n#文媛 #文爱 https://t.co/EUg0Qi0ODd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 61,
+          "like_count": 167,
+          "listed_count": 0,
+          "tweet_count": 197
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T05:29:58.000Z",
+        "description": "女仆学院的猫娘毕业生~玖茗，竭诚为各位主人服务~不管是做什么都可以呢，想要欺负玖茗或者被玖茗狠狠的欺负~女仆都在这里等着你的光临❤️\ntg账号@jiuming521 时间周末晚上\n文媛35r/30m，60r/1h\n陪聊20r/30m\n黄文1000字/20r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "jiuming521"
+              }
+            ]
+          }
+        },
+        "id": "1758362776496668672",
+        "location": "？",
+        "name": "女仆玖茗（猫娘文媛）（互推）",
+        "pinned_tweet_id": "1824513952245748032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758371668752547840/B1rvgCM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 74,
+          "like_count": 185,
+          "listed_count": 0,
+          "tweet_count": 191
+        },
+        "username": "LianLian29047",
+        "verified": false
+      }
+    ]
+  }
+}

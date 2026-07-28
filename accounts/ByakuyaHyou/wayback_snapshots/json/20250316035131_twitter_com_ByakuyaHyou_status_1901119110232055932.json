@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1901119110232055932",
+    "created_at": "2025-03-16T03:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T04:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901119110232055932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840389044649308160",
+          "start": 3,
+          "username": "Serala_45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901119110232055932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900526596089663843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serala_45: 噫啊～❤️傻屄足垫子又滚过来上供了啊❤️祖宗的腥臭丝足已经三天没洗了哦～❤️傻屄足垫子还不快把自己的狗鼻子伸过来爆吸❤️准备好供金哦～❤️让你的废精在祖宗足臭的强奸下，连着给祖宗的贡金一起吐出来吧～❤️深吸入脑～❤️然后……吐出来哦～❤️真贱呢，仅…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901119110232055932].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901119110232055932",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901119110232055932"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1900526592805527552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmAG3eJbYAA9X3w.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900526592805527552"
+          ]
+        },
+        "author_id": "1840389044649308160",
+        "conversation_id": "1900526596089663843",
+        "created_at": "2025-03-14T12:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900526596089663843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VC5zArz8H9",
+              "end": 175,
+              "expanded_url": "https://x.com/Serala_45/status/1900526596089663843/photo/1",
+              "media_key": "3_1900526592805527552",
+              "start": 152,
+              "url": "https://t.co/VC5zArz8H9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900526596089663843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 243,
+                "start": 240,
+                "tag": "媚足"
+              },
+              {
+                "end": 247,
+                "start": 244,
+                "tag": "除臭"
+              },
+              {
+                "end": 251,
+                "start": 248,
+                "tag": "足控"
+              },
+              {
+                "end": 255,
+                "start": 252,
+                "tag": "榨金"
+              },
+              {
+                "end": 259,
+                "start": 256,
+                "tag": "约稿"
+              }
+            ]
+          },
+          "text": "噫啊～❤️傻屄足垫子又滚过来上供了啊❤️祖宗的腥臭丝足已经三天没洗了哦～❤️傻屄足垫子还不快把自己的狗鼻子伸过来爆吸❤️准备好供金哦～❤️让你的废精在祖宗足臭的强奸下，连着给祖宗的贡金一起吐出来吧～❤️深吸入脑～❤️然后……吐出来哦～❤️真贱呢，仅仅只是深吸～❤️就已经喷精了吗❤️还真是无可救药了呢，成为了祖宗脚底下的傻屄除臭足垫子❤️看你吐了这么多的份上，这张祖宗的专属足垫子会员卡就给你咯～❤️以后贡金就别让祖宗过来让你吐，自觉的打到这张卡上来哦～❤️\n（此篇为客人约稿）\n#媚足 #除臭 #足控 #榨金 #约稿"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6316,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "噫啊～❤️傻屄足垫子又滚过来上供了啊❤️祖宗的腥臭丝足已经三天没洗了哦～❤️傻屄足垫子还不快把自己的狗鼻子伸过来爆吸❤️准备好供金哦～❤️让你的废精在祖宗足臭的强奸下，连着给祖宗的贡金一起吐出来吧～❤️深吸入脑～❤️然后……吐出来哦～❤️真贱呢，仅仅只是深吸～❤️就已经喷精了吗❤️还真是无可救药了呢… https://t.co/VC5zArz8H9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 98,
+          "like_count": 857,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1039
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T13:52:22.000Z",
+        "description": "吾乃，昔拉💜Seral🖤～是一名高贵的恶魔少女～💕喜欢收集眷属～🖤，操控傻屄🖤，让那些不知死活的傻屄们跪倒在我的脚底下～🖤欢迎各位不知死活的小家伙们来找我～💗变成我可爱的眷属💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/m7nlYHbiRb"
+              }
+            ]
+          }
+        },
+        "id": "1840389044649308160",
+        "location": "傻屄坐垫上～🖤",
+        "name": "昔拉💜Seral🖤（休息结束）",
+        "pinned_tweet_id": "1882660951083905496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840694220916764672/fiE77ek-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 231,
+          "like_count": 2142,
+          "listed_count": 38,
+          "media_count": 134,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/m7nlYHbiRb",
+        "username": "Serala_45",
+        "verified": true
+      }
+    ]
+  }
+}

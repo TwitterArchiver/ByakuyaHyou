@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829528298789191680"
+      ],
+      "media_source_tweet_id": [
+        "1829528319928512815"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1829528752763867150",
+    "created_at": "2024-08-30T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829528752763867150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791495460202713088",
+          "start": 3,
+          "username": "nnnnna0852"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6zxe0j2sw",
+          "end": 87,
+          "expanded_url": "https://twitter.com/nnnnna0852/status/1829528319928512815/photo/1",
+          "media_key": "3_1829528298789191680",
+          "start": 64,
+          "url": "https://t.co/j6Zxe0j2Sw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829528752763867150",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829528319928512815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nnnnna0852: 我是雌堕母猪❤️我是雌堕母猪❤️我是雌堕母猪❤️哼哼❤️想被主人骂❤️只要可爱❤️谁都可以❤️ https://t.co/j6Zxe0j2Sw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829528752763867150].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829528752763867150",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829528752763867150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1829528298789191680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWPKS2PawAAxNsx.jpg",
+        "width": 332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829528298789191680"
+          ]
+        },
+        "author_id": "1791495460202713088",
+        "conversation_id": "1829528319928512815",
+        "created_at": "2024-08-30T14:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829528319928512815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6zxe0j2sw",
+              "end": 71,
+              "expanded_url": "https://twitter.com/nnnnna0852/status/1829528319928512815/photo/1",
+              "media_key": "3_1829528298789191680",
+              "start": 48,
+              "url": "https://t.co/j6Zxe0j2Sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829528319928512815",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是雌堕母猪❤️我是雌堕母猪❤️我是雌堕母猪❤️哼哼❤️想被主人骂❤️只要可爱❤️谁都可以❤️ https://t.co/j6Zxe0j2Sw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 81,
+          "like_count": 389,
+          "listed_count": 0,
+          "tweet_count": 445
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T15:46:34.000Z",
+        "description": "励志成为一个合格的绒布球/公共厕所 /性奴生理男，心理女，请把我当女孩子对待",
+        "id": "1791495460202713088",
+        "name": "兔兔兔子（雌堕母狗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829504068089520128/qhml4IB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 1508,
+          "like_count": 73,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "nnnnna0852",
+        "verified": false
+      }
+    ]
+  }
+}

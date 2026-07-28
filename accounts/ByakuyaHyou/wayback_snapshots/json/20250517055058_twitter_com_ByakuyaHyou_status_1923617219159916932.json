@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1923617219159916932",
+    "created_at": "2025-05-17T05:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T06:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923617219159916932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923617219159916932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923427219663106290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 嗯~？看到了铃铃在外面浑身都是精液的的照片~？那只是，主人在进行一些，魅魔应该有的进食罢了♡具体做了什么~主人还没有向你这条狗说清楚的必要呢\n当狗就要有狗的觉悟，当主人的狗只需要听着主人的命令，完全服从于主人就行了？懂了么，明白了的话就爬过来舔…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923617219159916932].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923617219159916932",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923617219159916932"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923427216295329796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrFi3MqaAAQUTDm.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923427216626679809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrFi3N5aAAEkP6o.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923427216295329796",
+            "3_1923427216626679809"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1923427219663106290",
+        "created_at": "2025-05-16T17:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923427219663106290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/an6J0LDbuO",
+              "end": 152,
+              "expanded_url": "https://x.com/shiling7651/status/1923427219663106290/photo/1",
+              "media_key": "3_1923427216295329796",
+              "start": 129,
+              "url": "https://t.co/an6J0LDbuO"
+            },
+            {
+              "display_url": "pic.x.com/an6J0LDbuO",
+              "end": 152,
+              "expanded_url": "https://x.com/shiling7651/status/1923427219663106290/photo/1",
+              "media_key": "3_1923427216626679809",
+              "start": 129,
+              "url": "https://t.co/an6J0LDbuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923427219663106290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 419,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "嗯~？看到了铃铃在外面浑身都是精液的的照片~？那只是，主人在进行一些，魅魔应该有的进食罢了♡具体做了什么~主人还没有向你这条狗说清楚的必要呢\n当狗就要有狗的觉悟，当主人的狗只需要听着主人的命令，完全服从于主人就行了？懂了么，明白了的话就爬过来舔主人的脚吧♡ https://t.co/an6J0LDbuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 120,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1423
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌3800716151",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 75,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

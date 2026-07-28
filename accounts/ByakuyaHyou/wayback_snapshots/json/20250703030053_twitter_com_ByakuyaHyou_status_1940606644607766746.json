@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940603974207336448",
+        "3_1940603989155827712"
+      ],
+      "media_source_tweet_id": [
+        "1940604083456692536",
+        "1940604083456692536"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940606644607766746",
+    "created_at": "2025-07-03T03:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T04:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940606644607766746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1548952686996983808",
+          "start": 3,
+          "username": "Yuki_snow_kira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yf11FvhLgX",
+          "end": 53,
+          "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+          "media_key": "3_1940603974207336448",
+          "start": 30,
+          "url": "https://t.co/yf11FvhLgX"
+        },
+        {
+          "display_url": "pic.x.com/yf11FvhLgX",
+          "end": 53,
+          "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+          "media_key": "3_1940603989155827712",
+          "start": 30,
+          "url": "https://t.co/yf11FvhLgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940606644607766746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940604083456692536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_snow_kira: 海风温和\n菲比啾比 https://t.co/yf11FvhLgX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_1940603974207336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5pCGRW8AAUp3G.jpg",
+        "width": 935
+      },
+      {
+        "height": 3264,
+        "media_key": "3_1940603989155827712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5pC99W0AAwiam.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940603974207336448",
+            "3_1940603989155827712"
+          ],
+          "media_source_tweet_id": [
+            "1940604083456692536",
+            "1940604083456692536"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1940606644607766746",
+        "created_at": "2025-07-03T03:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T04:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940606644607766746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1548952686996983808",
+              "start": 3,
+              "username": "Yuki_snow_kira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf11FvhLgX",
+              "end": 53,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+              "media_key": "3_1940603974207336448",
+              "start": 30,
+              "url": "https://t.co/yf11FvhLgX"
+            },
+            {
+              "display_url": "pic.x.com/yf11FvhLgX",
+              "end": 53,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+              "media_key": "3_1940603989155827712",
+              "start": 30,
+              "url": "https://t.co/yf11FvhLgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940606644607766746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940604083456692536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki_snow_kira: 海风温和\n菲比啾比 https://t.co/yf11FvhLgX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940603974207336448",
+            "3_1940603989155827712"
+          ]
+        },
+        "author_id": "1548952686996983808",
+        "conversation_id": "1940604083456692536",
+        "created_at": "2025-07-03T02:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T03:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940604083456692536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf11FvhLgX",
+              "end": 33,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+              "media_key": "3_1940603974207336448",
+              "start": 10,
+              "url": "https://t.co/yf11FvhLgX"
+            },
+            {
+              "display_url": "pic.x.com/yf11FvhLgX",
+              "end": 33,
+              "expanded_url": "https://x.com/Yuki_snow_kira/status/1940604083456692536/photo/1",
+              "media_key": "3_1940603989155827712",
+              "start": 10,
+              "url": "https://t.co/yf11FvhLgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940604083456692536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "海风温和\n菲比啾比 https://t.co/yf11FvhLgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1499
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:48:27.000Z",
+        "description": "好姐姐@Qiqihorny737\n这里是温柔的可爱伪娘魅魔雪雪哦～\n白痴贱狗处刑官（已处死  33 ）\n想拜访雪雪的话需要13.14r的门票呢～\n修道院地址：3496682071\n小小小分院：334316657",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Qiqihorny737"
+              }
+            ]
+          }
+        },
+        "id": "1548952686996983808",
+        "location": "你的心里💗",
+        "name": "魅魔雪雪",
+        "pinned_tweet_id": "1822560942275604574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927618813593550849/b_qNiOV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9784,
+          "following_count": 839,
+          "like_count": 1424,
+          "listed_count": 35,
+          "media_count": 276,
+          "tweet_count": 1484
+        },
+        "username": "Yuki_snow_kira",
+        "verified": false
+      }
+    ]
+  }
+}

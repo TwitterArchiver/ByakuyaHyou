@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058512773899010268",
+    "created_at": "2026-05-24T17:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058600206753771694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968521471388717056",
+          "start": 0,
+          "username": "GuanJi46326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058600206753771694",
+    "in_reply_to_user_id": "1968521471388717056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058512773899010268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuanJi46326 扩列～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058512749802803200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFOcIGb0AAM2RV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058512773899010268",
+        "created_at": "2026-05-24T17:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058600206753771694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968521471388717056",
+              "start": 0,
+              "username": "GuanJi46326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058600206753771694",
+        "in_reply_to_user_id": "1968521471388717056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058512773899010268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuanJi46326 扩列～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058512749802803200"
+          ]
+        },
+        "author_id": "1968521471388717056",
+        "conversation_id": "2058512773899010268",
+        "created_at": "2026-05-24T11:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058512773899010268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "萌妹子"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "甜弟"
+            },
+            {
+              "end": 15,
+              "start": 13,
+              "tag": "腿"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "小男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "药娘"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVHlvzR8ej",
+              "end": 57,
+              "expanded_url": "https://x.com/GuanJi46326/status/2058512773899010268/photo/1",
+              "media_key": "3_2058512749802803200",
+              "start": 34,
+              "url": "https://t.co/wVHlvzR8ej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058512773899010268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵\n#萌妹子 #甜弟 #腿 #小男娘 #男娘 #药娘 #mtf https://t.co/wVHlvzR8ej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 560,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1591
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T03:44:51.000Z",
+        "description": "一只17岁身高166cm体重39kg的小药娘🍥/infp/喜欢宅家/无证含糖/未出柜/2025.10.11入🍬/dy：gjx0727_",
+        "id": "1968521471388717056",
+        "name": "like you小X.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968942369207996416/jwYTT-UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 17,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 26
+        },
+        "username": "GuanJi46326",
+        "verified": false
+      }
+    ]
+  }
+}

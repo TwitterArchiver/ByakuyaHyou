@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918851533971861504"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "1918851543262236700",
+    "created_at": "2025-05-04T02:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T03:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918851543262236700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 100,
+          "tag": "VRChat"
+        },
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "erp"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "vrc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jepA4LVQih",
+          "end": 141,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1918851543262236700/photo/1",
+          "media_key": "3_1918851533971861504",
+          "start": 118,
+          "url": "https://t.co/jepA4LVQih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918851543262236700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵～最近有些想玩vrc了喵～\n有没有erp大佬带咱速通vrc喵～\n乖巧乖巧❤️\nid:白夜冰铃\n(加咱好友的话，记得qq喊咱一声喵\nvrc好友还有还没有分组，目移)\n(貌似，可以拐走当砂糖喵～诶嘿)\n#VRChat #erp #vrc https://t.co/jepA4LVQih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1918851533971861504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqEhTbsbMAAMOqa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918851533971861504"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1918851543262236700",
+        "created_at": "2025-05-04T02:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T03:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918851543262236700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "VRChat"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "erp"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "vrc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jepA4LVQih",
+              "end": 141,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1918851543262236700/photo/1",
+              "media_key": "3_1918851533971861504",
+              "start": 118,
+              "url": "https://t.co/jepA4LVQih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918851543262236700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵～最近有些想玩vrc了喵～\n有没有erp大佬带咱速通vrc喵～\n乖巧乖巧❤️\nid:白夜冰铃\n(加咱好友的话，记得qq喊咱一声喵\nvrc好友还有还没有分组，目移)\n(貌似，可以拐走当砂糖喵～诶嘿)\n#VRChat #erp #vrc https://t.co/jepA4LVQih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 117,
+          "like_count": 1164,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1373
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

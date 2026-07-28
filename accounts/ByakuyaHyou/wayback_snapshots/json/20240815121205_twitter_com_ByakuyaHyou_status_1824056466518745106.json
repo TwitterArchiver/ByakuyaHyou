@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824056466518745106",
+    "created_at": "2024-08-15T12:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T13:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824056466518745106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824056466518745106",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824033734032859365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「啊啊！哈啊…终于…结束了…」\n你抱着紫灵以正常位姿势性交，即便做足了前戏但你充血而涨大的肉棒还是远超过了少女的承受范围\n中途你听着紫灵的呻吟声，看着少女的小腹被你自满的肉棒顶出轮廓，整个小时里你抱着紫灵的两腿一次又一次不停歇地激烈肏弄着少女的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824056466518745106].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824056466518745106",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824056466518745106"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824033731977613312"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1824033734032859365",
+        "created_at": "2024-08-15T10:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824033734032859365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "正常位"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndwyesiq4d",
+              "end": 167,
+              "expanded_url": "https://twitter.com/ZiYing12494/status/1824033734032859365/photo/1",
+              "media_key": "3_1824033731977613312",
+              "start": 144,
+              "url": "https://t.co/NDWYeSIQ4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824033734032859365",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「啊啊！哈啊…终于…结束了…」\n你抱着紫灵以正常位姿势性交，即便做足了前戏但你充血而涨大的肉棒还是远超过了少女的承受范围\n中途你听着紫灵的呻吟声，看着少女的小腹被你自满的肉棒顶出轮廓，整个小时里你抱着紫灵的两腿一次又一次不停歇地激烈肏弄着少女的嫩穴…\n「不要再…！♡」\n#文爱 #正常位 https://t.co/NDWYeSIQ4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 24,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 44
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 26,
+          "like_count": 159,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

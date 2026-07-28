@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902616403347443712"
+      ],
+      "media_source_tweet_id": [
+        "1902616406211883069"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1902622024960250117",
+    "created_at": "2025-03-20T07:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T08:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902622024960250117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "文援"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "绿帽"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "NTR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VwNC26rjwT",
+          "end": 128,
+          "expanded_url": "https://x.com/KendallRat17471/status/1902616406211883069/photo/1",
+          "media_key": "3_1902616403347443712",
+          "start": 105,
+          "url": "https://t.co/VwNC26rjwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902622024960250117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902616406211883069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 嗯嗯💚...黑爹的鸡巴好粗💚贱王八老公怎么在盯着祖宗小穴和中指流口水阿？～操你妈真下贱...哈啊💚～你也只配看着黑爹给人家配种了～傻逼老公💚 #文援 #绿帽 #NTR https://t.co/VwNC26rjwT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902622024960250117].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902622024960250117",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902622024960250117"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1902616403347443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmdzidFbEAABpth.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902616403347443712"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1902616406211883069",
+        "created_at": "2025-03-20T07:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902616406211883069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "文援"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "绿帽"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "NTR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwNC26rjwT",
+              "end": 107,
+              "expanded_url": "https://x.com/KendallRat17471/status/1902616406211883069/photo/1",
+              "media_key": "3_1902616403347443712",
+              "start": 84,
+              "url": "https://t.co/VwNC26rjwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902616406211883069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯💚...黑爹的鸡巴好粗💚贱王八老公怎么在盯着祖宗小穴和中指流口水阿？～操你妈真下贱...哈啊💚～你也只配看着黑爹给人家配种了～傻逼老公💚 #文援 #绿帽 #NTR https://t.co/VwNC26rjwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 105,
+          "like_count": 907,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1081
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是文援姬北北，擅长调教羞辱角色扮演♡可出原～大号暂封，备用q3827887572～q3384273525（搜不到可以二维码添加）营业时间8点到凌晨2点~",
+        "id": "1735851723044839424",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1901644108763988426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1539,
+          "like_count": 43,
+          "listed_count": 9,
+          "media_count": 40,
+          "tweet_count": 654
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

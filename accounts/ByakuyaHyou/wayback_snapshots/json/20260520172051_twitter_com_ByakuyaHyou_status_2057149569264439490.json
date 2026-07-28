@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2057147396963156336",
+    "created_at": "2026-05-20T17:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057149569264439490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032473219501080576",
+          "start": 0,
+          "username": "linxinyujiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057149569264439490",
+    "in_reply_to_user_id": "2032473219501080576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057147396963156336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linxinyujiang 不要干傻事亲爱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057147394400337920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIx0p-3aQAAZ8Zx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2057147396963156336",
+        "created_at": "2026-05-20T17:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057149569264439490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032473219501080576",
+              "start": 0,
+              "username": "linxinyujiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057149569264439490",
+        "in_reply_to_user_id": "2032473219501080576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057147396963156336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linxinyujiang 不要干傻事亲爱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057147394400337920"
+          ]
+        },
+        "author_id": "2032473219501080576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057147396963156336",
+        "created_at": "2026-05-20T17:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057147396963156336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl5EbwnkkD",
+              "end": 44,
+              "expanded_url": "https://x.com/linxinyujiang/status/2057147396963156336/photo/1",
+              "media_key": "3_2057147394400337920",
+              "start": 21,
+              "url": "https://t.co/bl5EbwnkkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057147396963156336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，50t晚安怎么样，让我们开心一下！ https://t.co/bl5EbwnkkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 367,
+          "like_count": 1410,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1569
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T15:05:59.000Z",
+        "description": "大家好呀~这里是林欣雨~可以叫我小雨或者雨音酱哦！请各位多多指教！爱你们~❤️\n                                                                                        mtf/09/无证含糖/正在幻想美好生活中/",
+        "id": "2032473219501080576",
+        "name": "努力变得可爱的雨音酱~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032925245670408192/-AMTfzPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 196,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 80
+        },
+        "username": "linxinyujiang",
+        "verified": false
+      }
+    ]
+  }
+}

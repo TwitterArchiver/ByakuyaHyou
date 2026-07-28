@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946741501716738048"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946742380641538389",
+    "created_at": "2025-07-20T01:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946742380641538389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmqHBPmx5p",
+          "end": 160,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/1946742380641538389/photo/1",
+          "media_key": "3_1946741501716738048",
+          "start": 137,
+          "url": "https://t.co/lmqHBPmx5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946742380641538389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 3,
+      "impression_count": 119,
+      "like_count": 12,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "天天就知道你那集成战略\n这么喜欢刨根问底吗？\n天天就知道打你那个集成战略连老娘我都不愿意看几眼了\n老娘还得靠自己来手动挡\n要不是老娘专一喜欢的是你早就跟别人跑了\n都说了有事有事你还喜欢刨根问底，既然这样就来看老娘扣\n今天晚上管你乐不乐意的老娘铁定让你知道什么叫做人干的感觉 https://t.co/lmqHBPmx5p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946742380641538389].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946742380641538389",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946742380641538389"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_1946741501716738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwQ3FN9WMAA7Qc-.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 134,
+          "like_count": 1342,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1525
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

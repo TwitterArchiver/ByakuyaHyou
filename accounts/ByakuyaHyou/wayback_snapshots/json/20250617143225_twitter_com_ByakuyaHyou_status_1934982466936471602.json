@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934977914707357697"
+      ],
+      "media_source_tweet_id": [
+        "1934977917420990596"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934982466936471602",
+    "created_at": "2025-06-17T14:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934982466936471602"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "诱惑"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "引人遐想"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885301915829100545",
+          "start": 3,
+          "username": "nanguu07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SfjEFsjkC",
+          "end": 82,
+          "expanded_url": "https://x.com/nanguu07/status/1934977917420990596/photo/1",
+          "media_key": "3_1934977914707357697",
+          "start": 59,
+          "url": "https://t.co/2SfjEFsjkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934982466936471602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934977917420990596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanguu07: 男孩子什么的会喜欢看这样的照片喵？喜欢的话就把赞和精气什么的交出来喵！#诱惑 #引人遐想 https://t.co/2SfjEFsjkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1934977914707357697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpsKVZbsAEHDZa.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934977914707357697"
+          ],
+          "media_source_tweet_id": [
+            "1934977917420990596"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934982466936471602",
+        "created_at": "2025-06-17T14:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934982466936471602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "诱惑"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "引人遐想"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885301915829100545",
+              "start": 3,
+              "username": "nanguu07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SfjEFsjkC",
+              "end": 82,
+              "expanded_url": "https://x.com/nanguu07/status/1934977917420990596/photo/1",
+              "media_key": "3_1934977914707357697",
+              "start": 59,
+              "url": "https://t.co/2SfjEFsjkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934982466936471602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934977917420990596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanguu07: 男孩子什么的会喜欢看这样的照片喵？喜欢的话就把赞和精气什么的交出来喵！#诱惑 #引人遐想 https://t.co/2SfjEFsjkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934977914707357697"
+          ]
+        },
+        "author_id": "1885301915829100545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934977917420990596",
+        "created_at": "2025-06-17T14:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934977917420990596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "诱惑"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "引人遐想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SfjEFsjkC",
+              "end": 68,
+              "expanded_url": "https://x.com/nanguu07/status/1934977917420990596/photo/1",
+              "media_key": "3_1934977914707357697",
+              "start": 45,
+              "url": "https://t.co/2SfjEFsjkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934977917420990596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子什么的会喜欢看这样的照片喵？喜欢的话就把赞和精气什么的交出来喵！#诱惑 #引人遐想 https://t.co/2SfjEFsjkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 120,
+          "like_count": 1254,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1461
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T12:19:53.000Z",
+        "description": "是一只有点小恶魔的坏妖狐，男孩子什么的只要乖乖给我榨精就好了，会有各种色诱play让你舒服哦，最后就融化在温柔乡里吧。不想收钱所以只会按自己的喜好玩（有好玩的play也可以按你的来）。想要找我玩的私信我就好了，不涉三，问了也没有用。不会主动找人，想玩请主动找我。",
+        "id": "1885301915829100545",
+        "location": "神出鬼没~随时都可能出现诱惑人来搭讪",
+        "name": "南宫",
+        "pinned_tweet_id": "1893601367870316706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885303199290306560/tZUUz3si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 38,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 117
+        },
+        "username": "nanguu07",
+        "verified": false
+      }
+    ]
+  }
+}

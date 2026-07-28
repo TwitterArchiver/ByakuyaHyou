@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2066562465333383659",
+    "created_at": "2026-06-28T21:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071341103589241208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2043582506272747520",
+          "start": 0,
+          "username": "PRGarn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071341103589241208",
+    "in_reply_to_user_id": "2043582506272747520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066674532291866727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRGarn 实际上我不是MTF我也不吃药谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2066562465333383659",
+        "created_at": "2026-06-28T21:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071341103589241208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2043582506272747520",
+              "start": 0,
+              "username": "PRGarn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071341103589241208",
+        "in_reply_to_user_id": "2043582506272747520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066674532291866727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRGarn 实际上我不是MTF我也不吃药谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043582506272747520",
+        "conversation_id": "2066562465333383659",
+        "created_at": "2026-06-16T00:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066674532291866727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066674532291866727",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066562465333383659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 我是加恩，立志在每只跨÷的评论区捣乱😂🔥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1014,
+          "like_count": 1699,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T06:50:35.000Z",
+        "description": "反同反跨，新教徒，法西斯党徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35468860614268…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546886061426833",
+                "start": 0,
+                "url": "https://t.co/dg8eIZRCBg"
+              }
+            ]
+          }
+        },
+        "id": "2043582506272747520",
+        "location": "加恩格勒",
+        "name": "✝︎加恩-Garn✝︎",
+        "pinned_tweet_id": "2043961753902690452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067615865013665793/n6MLiOU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/dg8eIZRCBg",
+        "username": "PRGarn",
+        "verified": false
+      }
+    ]
+  }
+}

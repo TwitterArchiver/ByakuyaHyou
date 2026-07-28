@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841170902014443890",
+    "created_at": "2024-10-01T17:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170902014443890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170902014443890",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840212570881569049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 因为上课时违反了课堂纪律，放学时老师将芙宁娜留了下来，犯错了就要受罚，芙宁娜乖乖脱下了裤子，解开衣服漏出了丰满的奶子\n啊啊啊…我错了…快停下来…我再也不敢了…老师不要…啊啊啊…哈啊…\n真是下贱的母狗，看到老师的大肉棒就流水了，这熟练的姿势，平常…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841170902014443890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841170902014443890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841170902014443890"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840212557266857986",
+            "3_1840212560538415105"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1840212570881569049",
+        "created_at": "2024-09-29T02:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840212570881569049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文媛"
+            },
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "芙芙的日常生活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmRjx2tef3",
+              "end": 168,
+              "expanded_url": "https://x.com/dnggu156261/status/1840212570881569049/photo/1",
+              "media_key": "3_1840212557266857986",
+              "start": 145,
+              "url": "https://t.co/BmRjx2tef3"
+            },
+            {
+              "display_url": "pic.x.com/BmRjx2tef3",
+              "end": 168,
+              "expanded_url": "https://x.com/dnggu156261/status/1840212570881569049/photo/1",
+              "media_key": "3_1840212560538415105",
+              "start": 145,
+              "url": "https://t.co/BmRjx2tef3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840212570881569049",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 12544,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "因为上课时违反了课堂纪律，放学时老师将芙宁娜留了下来，犯错了就要受罚，芙宁娜乖乖脱下了裤子，解开衣服漏出了丰满的奶子\n啊啊啊…我错了…快停下来…我再也不敢了…老师不要…啊啊啊…哈啊…\n真是下贱的母狗，看到老师的大肉棒就流水了，这熟练的姿势，平常没少被操吧\n#文爱 #文媛 #芙芙的日常生活 https://t.co/BmRjx2tef3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 595,
+          "listed_count": 0,
+          "tweet_count": 744
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "大家好呀，这里是枫丹最高人气明星，芙宁娜小姐，欢迎来找我玩哦，接单号3659414428，不涉三，30r0.5h，60r1h，电报请QQ预约哦，霍霍老婆 @huohuo35173  姐妹 @guq1128649  伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida 姐姐 @WLisRBQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "huohuo35173"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "guq1128649"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "xcwnaxida"
+              },
+              {
+                "end": 157,
+                "start": 149,
+                "username": "WLisRBQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmgdg",
+                "end": 23,
+                "expanded_url": "http://t.me/xmgdg",
+                "start": 0,
+                "url": "https://t.co/c22kbZ5Nwt"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "枫丹城内环独栋小别墅",
+        "name": "芙宁娜（互推）",
+        "pinned_tweet_id": "1838813047118533078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838777508478717952/A6Qt-R7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 130,
+          "like_count": 2549,
+          "listed_count": 10,
+          "tweet_count": 2677
+        },
+        "url": "https://t.co/c22kbZ5Nwt",
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897146429568901620",
+    "created_at": "2025-03-05T04:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T05:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897146429568901620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897146429568901620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897102340592967681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 【臭脚调教第四天】\n哎呀，你瞧瞧这图案，多精致多骚气~♥\n专门勾那些顶级的黑爹们♥\n你这种软脚虾连给我提鞋都不配呢~♥\n看你那眼神，馋得跟狗似的，小肉虫又早泄了呢♥\n你是不是想舔舔♥\n给你个机会，趴下来，把脸贴着祖宗这里，好好闻闻这为黑爹们准备的孕袋呢♥…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897146429568901620].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897146429568901620",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897146429568901620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1897102337094586368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlPchjkWEAA99Yn.jpg",
+        "width": 883
+      },
+      {
+        "height": 1009,
+        "media_key": "3_1897102335798861829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlPcheva4AUAE_x.jpg",
+        "width": 545
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1897102336042131456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlPchfpa4AAHw_e.jpg",
+        "width": 678
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897102337014906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlPchjRWQAApTMv.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897102337094586368",
+            "3_1897102335798861829",
+            "3_1897102336042131456",
+            "3_1897102337014906880"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1897102340592967681",
+        "created_at": "2025-03-05T01:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T02:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897102340592967681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "媚黑女王"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "恋足调教"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "臭脚S"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qLgrZDJv1",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1897102340592967681/photo/1",
+              "media_key": "3_1897102337094586368",
+              "start": 149,
+              "url": "https://t.co/0qLgrZDJv1"
+            },
+            {
+              "display_url": "pic.x.com/0qLgrZDJv1",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1897102340592967681/photo/1",
+              "media_key": "3_1897102335798861829",
+              "start": 149,
+              "url": "https://t.co/0qLgrZDJv1"
+            },
+            {
+              "display_url": "pic.x.com/0qLgrZDJv1",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1897102340592967681/photo/1",
+              "media_key": "3_1897102336042131456",
+              "start": 149,
+              "url": "https://t.co/0qLgrZDJv1"
+            },
+            {
+              "display_url": "pic.x.com/0qLgrZDJv1",
+              "end": 172,
+              "expanded_url": "https://x.com/mrfzxi/status/1897102340592967681/photo/1",
+              "media_key": "3_1897102337014906880",
+              "start": 149,
+              "url": "https://t.co/0qLgrZDJv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897102340592967681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 198,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【臭脚调教第四天】\n哎呀，你瞧瞧这图案，多精致多骚气~♥\n专门勾那些顶级的黑爹们♥\n你这种软脚虾连给我提鞋都不配呢~♥\n看你那眼神，馋得跟狗似的，小肉虫又早泄了呢♥\n你是不是想舔舔♥\n给你个机会，趴下来，把脸贴着祖宗这里，好好闻闻这为黑爹们准备的孕袋呢♥\n#媚黑女王 #恋足调教 #臭脚S #文爱 https://t.co/0qLgrZDJv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1896920277323530665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 88,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 901
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕♥互推文媛♥任何前来的人都会享受来自大炎风俗的至高待遇♥不需要考虑任何东西♥展现你内心纯粹的欲望吧♥QQ门牌：3875887471♥有需要互推的可以私信呢♥欢迎更多的母猪和男奴来找夕玩吧♥",
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎互推）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 114,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 320
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

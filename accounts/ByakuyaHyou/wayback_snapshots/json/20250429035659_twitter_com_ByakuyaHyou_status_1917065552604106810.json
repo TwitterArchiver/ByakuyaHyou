@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1917065552604106810",
+    "created_at": "2025-04-29T03:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T04:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917065552604106810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917065552604106810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917042859901129231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: oh~我尊贵的客人~今天的惊喜是来自于遥远东方深山中的神秘狐妖\n我向您保证，她绝对比您奶奶的靴子更有滋味\n看到那对巨乳了吗，我的天哪，您不会相信的，它的手感简直比布丁更加Q弹，即使是最浓郁的牛奶也不及它乳汁的万分之一香醇\n如果您不去体会一番的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_1917042844155711489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq0T1EbEAEpnoJ.jpg",
+        "width": 360
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1917042847515348994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq0UBlbEAI2461.jpg",
+        "width": 1080
+      },
+      {
+        "height": 204,
+        "media_key": "3_1917042854293295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq0Ua1aUAAGUPQ.jpg",
+        "width": 360
+      },
+      {
+        "height": 206,
+        "media_key": "3_1917042857300660226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpq0UmCbEAIXCX0.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1917065552604106810",
+        "created_at": "2025-04-29T03:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T04:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917065552604106810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1388652214395150339",
+              "start": 3,
+              "username": "shigongyuyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917065552604106810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917042859901129231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigongyuyue: oh~我尊贵的客人~今天的惊喜是来自于遥远东方深山中的神秘狐妖\n我向您保证，她绝对比您奶奶的靴子更有滋味\n看到那对巨乳了吗，我的天哪，您不会相信的，它的手感简直比布丁更加Q弹，即使是最浓郁的牛奶也不及它乳汁的万分之一香醇\n如果您不去体会一番的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917042844155711489",
+            "3_1917042847515348994",
+            "3_1917042854293295104",
+            "3_1917042857300660226"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "conversation_id": "1917042859901129231",
+        "created_at": "2025-04-29T02:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917042859901129231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY1N701jZD",
+              "end": 168,
+              "expanded_url": "https://x.com/shigongyuyue/status/1917042859901129231/photo/1",
+              "media_key": "3_1917042844155711489",
+              "start": 145,
+              "url": "https://t.co/gY1N701jZD"
+            },
+            {
+              "display_url": "pic.x.com/gY1N701jZD",
+              "end": 168,
+              "expanded_url": "https://x.com/shigongyuyue/status/1917042859901129231/photo/1",
+              "media_key": "3_1917042847515348994",
+              "start": 145,
+              "url": "https://t.co/gY1N701jZD"
+            },
+            {
+              "display_url": "pic.x.com/gY1N701jZD",
+              "end": 168,
+              "expanded_url": "https://x.com/shigongyuyue/status/1917042859901129231/photo/1",
+              "media_key": "3_1917042854293295104",
+              "start": 145,
+              "url": "https://t.co/gY1N701jZD"
+            },
+            {
+              "display_url": "pic.x.com/gY1N701jZD",
+              "end": 168,
+              "expanded_url": "https://x.com/shigongyuyue/status/1917042859901129231/photo/1",
+              "media_key": "3_1917042857300660226",
+              "start": 145,
+              "url": "https://t.co/gY1N701jZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917042859901129231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "oh~我尊贵的客人~今天的惊喜是来自于遥远东方深山中的神秘狐妖\n我向您保证，她绝对比您奶奶的靴子更有滋味\n看到那对巨乳了吗，我的天哪，您不会相信的，它的手感简直比布丁更加Q弹，即使是最浓郁的牛奶也不及它乳汁的万分之一香醇\n如果您不去体会一番的话，我想未来的您会恨不得用皮靴狠狠踢自己的屁股 https://t.co/gY1N701jZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 117,
+          "like_count": 1155,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1361
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 2527,
+          "like_count": 14395,
+          "listed_count": 18,
+          "media_count": 852,
+          "tweet_count": 7040
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

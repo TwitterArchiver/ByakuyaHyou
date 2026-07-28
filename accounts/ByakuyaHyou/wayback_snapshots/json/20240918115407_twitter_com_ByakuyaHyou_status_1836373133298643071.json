@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836373133298643071",
+    "created_at": "2024-09-18T11:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T12:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836373133298643071"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "樱下"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489936400678014976",
+          "start": 3,
+          "username": "sakura_antenna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836373133298643071",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836327582427681203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura_antenna: #樱下\n这个帐号未来也打算做对于 #文援 的自媒体，可以给大家用来推广。也会分享一点这个圈内的一些实事什么的。\n至于付费的内容的话，就是推特或者 tg 或者 dc 的会员啦，或者让幻樱来帮忙买国外的东西也是可以的。暂时还没完全想好。 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836373133298643071].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836373133298643071",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836373133298643071"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836327195800961024"
+          ]
+        },
+        "author_id": "1489936400678014976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1836327582427681203",
+        "created_at": "2024-09-18T08:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T09:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836327582427681203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "樱下"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uumjjefewi",
+              "end": 140,
+              "expanded_url": "https://twitter.com/sakura_antenna/status/1836327582427681203/photo/1",
+              "media_key": "3_1836327195800961024",
+              "start": 117,
+              "url": "https://t.co/uumJJEfewi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836327582427681203",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#樱下\n这个帐号未来也打算做对于 #文援 的自媒体，可以给大家用来推广。也会分享一点这个圈内的一些实事什么的。\n至于付费的内容的话，就是推特或者 tg 或者 dc 的会员啦，或者让幻樱来帮忙买国外的东西也是可以的。暂时还没完全想好。 https://t.co/uumJJEfewi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 82,
+          "like_count": 527,
+          "listed_count": 0,
+          "tweet_count": 636
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T12:18:44.000Z",
+        "description": "不营业，退役啦~，门牌依旧开放：322120 4940 / 2184 800081，有缘拜访吧~",
+        "id": "1489936400678014976",
+        "name": "天线少女-幻桜",
+        "pinned_tweet_id": "1836262168620057081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836260620322377728/8pOMcrNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 26,
+          "like_count": 409,
+          "listed_count": 2,
+          "tweet_count": 15
+        },
+        "username": "sakura_antenna",
+        "verified": false
+      }
+    ]
+  }
+}

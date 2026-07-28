@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927283455982727168"
+      ],
+      "media_source_tweet_id": [
+        "1927286304649183715"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1928469101569069056",
+    "created_at": "2025-05-30T15:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928469101569069056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "羞辱"
+        },
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "全天接单"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMtbOUFP07",
+          "end": 130,
+          "expanded_url": "https://x.com/lanyuan411/status/1927286304649183715/photo/1",
+          "media_key": "3_1927283455982727168",
+          "start": 107,
+          "url": "https://t.co/WMtbOUFP07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928469101569069056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927286304649183715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 全天接单💚白给的偷窥贱狗♡~不需要和玲奈做爱♡\n\n只需听着鸡巴疯狂撞击女神美臀的声音就能捏着鸡巴一副咬勾了的蠢猪模样。不用忍了♡可以加玲奈好友过来犯贱了，傻逼。\n#羞辱 #全天接单 https://t.co/WMtbOUFP07"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928469101569069056].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928469101569069056",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928469101569069056"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1927283455982727168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8WF49WcAA_ftV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927283455982727168"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1927286304649183715",
+        "created_at": "2025-05-27T08:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:49:26.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927286009529577867",
+          "1927286205122576565",
+          "1927286304649183715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "羞辱"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "全天接单"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMtbOUFP07",
+              "end": 114,
+              "expanded_url": "https://x.com/lanyuan411/status/1927286304649183715/photo/1",
+              "media_key": "3_1927283455982727168",
+              "start": 91,
+              "url": "https://t.co/WMtbOUFP07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927286304649183715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 12961,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "全天接单💚白给的偷窥贱狗♡~不需要和玲奈做爱♡\n\n只需听着鸡巴疯狂撞击女神美臀的声音就能捏着鸡巴一副咬勾了的蠢猪模样。不用忍了♡可以加玲奈好友过来犯贱了，傻逼。\n#羞辱 #全天接单 https://t.co/WMtbOUFP07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 119,
+          "like_count": 1251,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1456
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了哦~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌2321761285备用3956547942（加不上就私信玲奈哦。",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 90,
+          "like_count": 116,
+          "listed_count": 35,
+          "media_count": 101,
+          "tweet_count": 1504
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

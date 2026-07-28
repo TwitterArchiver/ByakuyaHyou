@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832364888817094656"
+      ],
+      "media_source_tweet_id": [
+        "1832364897654726926"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832379244841996298",
+    "created_at": "2024-09-07T11:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T12:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832379244841996298"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "男m"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "上贡"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "女s"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "榨金"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "压榨奴"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "阳痿"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "辱骂"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "羞辱"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "恋足"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "洗脑"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "atm奴"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "报销奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723915498507948032",
+          "start": 3,
+          "username": "PJamarl78951"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iekod2sfay",
+          "end": 133,
+          "expanded_url": "https://twitter.com/PJamarl78951/status/1832364897654726926/photo/1",
+          "media_key": "3_1832364888817094656",
+          "start": 110,
+          "url": "https://t.co/iEKOd2sfAy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832379244841996298",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832364897654726926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PJamarl78951: 白天一本正经一到晚上就原形毕露了吧？贱狗还不快点赞滚过来挨骂👇取悦我开心！？  #男m #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱 #恋足 #洗脑 #atm奴 #报销奴 https://t.co/iEKOd2sfAy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832379244841996298].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832379244841996298",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832379244841996298"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_1832364888817094656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW3eKHjXUAAFBW5.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832364888817094656"
+          ]
+        },
+        "author_id": "1723915498507948032",
+        "conversation_id": "1832364897654726926",
+        "created_at": "2024-09-07T10:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T11:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832364897654726926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男m"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "上贡"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "女s"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "榨金"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "阳痿"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "辱骂"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "羞辱"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "恋足"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "洗脑"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "atm奴"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "报销奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iekod2sfay",
+              "end": 115,
+              "expanded_url": "https://twitter.com/PJamarl78951/status/1832364897654726926/photo/1",
+              "media_key": "3_1832364888817094656",
+              "start": 92,
+              "url": "https://t.co/iEKOd2sfAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832364897654726926",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "白天一本正经一到晚上就原形毕露了吧？贱狗还不快点赞滚过来挨骂👇取悦我开心！？  #男m #上贡 #女s #榨金 #压榨奴 #阳痿 #辱骂 #羞辱 #恋足 #洗脑 #atm奴 #报销奴 https://t.co/iEKOd2sfAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 84,
+          "like_count": 437,
+          "listed_count": 0,
+          "tweet_count": 520
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T04:07:44.000Z",
+        "description": "🐧3778117115 🚪28",
+        "id": "1723915498507948032",
+        "location": "Lubbock",
+        "name": "洋朵s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828741990378536960/eJ2m41Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "PJamarl78951",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1842059736155558162",
+    "created_at": "2024-10-04T04:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T05:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842059736155558162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842059736155558162",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841371816624824742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: 阿拉~又想要了吗？没用的杂鱼仆从♡看到主人的脚就像条野狗一样吐着舌头犯贱呢♡明明是个只要碰到脚就会“咻咻”射精不停的早泄童贞废物肉棒♡干脆被主人锁一辈子彻底雌堕成母狗好了，反正这条肉虫留着也只会吐脏水呢~嘻嘻嘻♡\n想高潮？真亏你还能恬不知…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842059736155558162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842059736155558162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842059736155558162"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841371813151977472"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "conversation_id": "1841371816624824742",
+        "created_at": "2024-10-02T06:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841371816624824742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w03Ck8GdWw",
+              "end": 167,
+              "expanded_url": "https://x.com/loveforallLoli/status/1841371816624824742/photo/1",
+              "media_key": "3_1841371813151977472",
+              "start": 144,
+              "url": "https://t.co/w03Ck8GdWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841371816624824742",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3430,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "阿拉~又想要了吗？没用的杂鱼仆从♡看到主人的脚就像条野狗一样吐着舌头犯贱呢♡明明是个只要碰到脚就会“咻咻”射精不停的早泄童贞废物肉棒♡干脆被主人锁一辈子彻底雌堕成母狗好了，反正这条肉虫留着也只会吐脏水呢~嘻嘻嘻♡\n想高潮？真亏你还能恬不知耻地求主人呐~那么，就磕头把今天的零花钱上贡吧♡ https://t.co/w03Ck8GdWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 84,
+          "like_count": 617,
+          "listed_count": 0,
+          "tweet_count": 771
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号：QQ：3325582407 纸飞机：\nhttps://t.co/ECeDcQcZJg 30元/30分，早上至晚上2点营业\n呀吼~~杂鱼们，这里是伊诺，触手萝莉♡，从今天开始就是大家的主人sama了呐♡跪在地上舔着伊诺大人的脚献上你们的金币还有精液叭♡ 目前只当s，性奴：阿眠，看到伊诺大人还不快关注！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 46,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 23,
+                "url": "https://t.co/ECeDcQcZJg"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "location": "都看伊诺大人主页了，还不快上门臣服♡",
+        "name": "伊诺sama~♡（互推）",
+        "pinned_tweet_id": "1805156691383828667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 117,
+          "like_count": 1455,
+          "listed_count": 9,
+          "tweet_count": 1636
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

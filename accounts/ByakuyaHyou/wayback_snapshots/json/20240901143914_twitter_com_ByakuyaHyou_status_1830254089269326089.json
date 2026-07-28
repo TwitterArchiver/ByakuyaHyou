@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1830254089269326089",
+    "created_at": "2024-09-01T14:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T15:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830254089269326089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "巨物崇拜"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "媚巨"
+        },
+        {
+          "end": 116,
+          "start": 108,
+          "tag": "bigdick"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "发情"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "排卵期"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "文媛"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "泄欲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825723644934500356",
+          "start": 3,
+          "username": "mumudaren_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830254089269326089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830252822090440796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mumudaren_: 学习压力好大啊啊啊啊啊啊啊以经好几天没扣屄了哦哦哦哦哦哦哦哦哦好想做爱！做爱！做爱！！！憋死咱了！憋死咱了！憋死咱了！！！現在立刻就要大雞雞給咱好好的换换脑子🧠\n\n#巨物崇拜 #媚巨 #bigdick #发情 #排卵期 #文媛 #泄欲 https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830254089269326089].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830254089269326089",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830254089269326089"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830252810426052608"
+          ]
+        },
+        "author_id": "1825723644934500356",
+        "conversation_id": "1830252822090440796",
+        "created_at": "2024-09-01T14:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T15:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830252822090440796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "巨物崇拜"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "媚巨"
+            },
+            {
+              "end": 100,
+              "start": 92,
+              "tag": "bigdick"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "发情"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "排卵期"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "文媛"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "泄欲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqt0zfxxcy",
+              "end": 141,
+              "expanded_url": "https://twitter.com/mumudaren_/status/1830252822090440796/photo/1",
+              "media_key": "3_1830252810426052608",
+              "start": 118,
+              "url": "https://t.co/pQt0ZfxxCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830252822090440796",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "学习压力好大啊啊啊啊啊啊啊以经好几天没扣屄了哦哦哦哦哦哦哦哦哦好想做爱！做爱！做爱！！！憋死咱了！憋死咱了！憋死咱了！！！現在立刻就要大雞雞給咱好好的换换脑子🧠\n\n#巨物崇拜 #媚巨 #bigdick #发情 #排卵期 #文媛 #泄欲 https://t.co/pQt0ZfxxCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 86,
+          "like_count": 404,
+          "listed_count": 0,
+          "tweet_count": 464
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T02:37:11.000Z",
+        "description": "——警告⚠️‼️——警告⚠️‼️——警告⚠️‼️——请耐心阅读以下内容避免引起严重后果 ❗️ 不设三文媛🖤是一只常以s向显露的婊子🖤（虽然被发现弱点后极其容易败北）欢迎有实力的小鬼前来挑战咱呢🖤千万小心把🧠榨干哦😈 电报在下方网址一栏 门牌：3840955610 母上大人@wymng2643248919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "wymng2643248919"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/mumudaren",
+                "end": 23,
+                "expanded_url": "http://telegram.me/mumudaren",
+                "start": 0,
+                "url": "https://t.co/Fz0ia6B4ay"
+              }
+            ]
+          }
+        },
+        "id": "1825723644934500356",
+        "location": "由于文字限制剩余部分放在图片介绍里进入推文点击alt查看🖤",
+        "name": "沐沐大人🖤（互推d，欢迎打扰🖤）（限流摆烂中～）",
+        "pinned_tweet_id": "1826497197883732025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825724311732367361/8EzbNTPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 121,
+          "like_count": 158,
+          "listed_count": 1,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/Fz0ia6B4ay",
+        "username": "mumudaren_",
+        "verified": false
+      }
+    ]
+  }
+}

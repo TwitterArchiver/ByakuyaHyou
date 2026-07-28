@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059117212364091393"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2059118385766842809",
+    "created_at": "2026-05-26T03:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059118385766842809"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "包养"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "委托"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "扩列"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "线下"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "约炮"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4a3TIaE2B",
+          "end": 125,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2059118385766842809/photo/1",
+          "media_key": "3_2059117212364091393",
+          "start": 102,
+          "url": "https://t.co/C4a3TIaE2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059118385766842809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然发现普普都可以转行当老鸨了，认识好多人都问普普可不可以介绍哪儿有月的或者哪儿有被月的\n\n现在承接业务，可以加普普好友，普普可以帮忙转帖，也可以找普普写委托条\n\n#包养 #委托 #扩列 #线下 #约炮 https://t.co/C4a3TIaE2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2059117212364091393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN0MenasAEX8Hi.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059117212364091393"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2059118385766842809",
+        "created_at": "2026-05-26T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059118385766842809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "包养"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "委托"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "扩列"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "线下"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "约炮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4a3TIaE2B",
+              "end": 125,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2059118385766842809/photo/1",
+              "media_key": "3_2059117212364091393",
+              "start": 102,
+              "url": "https://t.co/C4a3TIaE2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059118385766842809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现普普都可以转行当老鸨了，认识好多人都问普普可不可以介绍哪儿有月的或者哪儿有被月的\n\n现在承接业务，可以加普普好友，普普可以帮忙转帖，也可以找普普写委托条\n\n#包养 #委托 #扩列 #线下 #约炮 https://t.co/C4a3TIaE2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 624,
+          "like_count": 1458,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1604
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      }
+    ]
+  }
+}

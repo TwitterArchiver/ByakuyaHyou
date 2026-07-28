@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1927751199198982402",
+    "created_at": "2025-05-28T15:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T16:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927751199198982402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927751199198982402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927592667187130467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 诶~是想要关于之前的「交易」了解更多嘛♫\n明明是您「自愿」又「强烈」地要求人家搜刮了大部分的理智🧡好方便色情下贱的想法可以占据更多的大脑💕\n这么容易发情的抖M君自己也对现状很满足吧💋\n想要「赎」回去的话~只能先拜托您「出卖」更多来获取「本金」了哟…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927751199198982402].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927751199198982402",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927751199198982402"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927592653463359489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAvTjVWEAEmJJ1.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927592653463359489"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1927592667187130467",
+        "created_at": "2025-05-28T05:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927592667187130467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNCIxdEsAn",
+              "end": 168,
+              "expanded_url": "https://x.com/amianjiang/status/1927592667187130467/photo/1",
+              "media_key": "3_1927592653463359489",
+              "start": 145,
+              "url": "https://t.co/fNCIxdEsAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927592667187130467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 462,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "诶~是想要关于之前的「交易」了解更多嘛♫\n明明是您「自愿」又「强烈」地要求人家搜刮了大部分的理智🧡好方便色情下贱的想法可以占据更多的大脑💕\n这么容易发情的抖M君自己也对现状很满足吧💋\n想要「赎」回去的话~只能先拜托您「出卖」更多来获取「本金」了哟🖤当然..也可以交换一次难得的射精许可呢💗 https://t.co/fNCIxdEsAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 119,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1450
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 32,
+          "like_count": 462,
+          "listed_count": 17,
+          "media_count": 209,
+          "tweet_count": 557
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

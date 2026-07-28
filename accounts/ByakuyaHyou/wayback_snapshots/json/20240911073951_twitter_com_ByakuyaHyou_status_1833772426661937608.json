@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1833772426661937608",
+    "created_at": "2024-09-11T07:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T08:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833772426661937608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778012221840490496",
+          "start": 3,
+          "username": "changan50235962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833772426661937608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833445756650590295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @changan50235962: 不知道是第几个的全新败北者又出现了，感觉嘴硬和挑衅已经成为了不少测试者的日常操作了～或许有些操作对于杂鱼废根十分有效～但很可惜～她们所面对的是经过公司层层筛选的～拥有特殊体质的身经百战测试员～败北也就只是时间问题～希望接下来的测试者可以…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833772426661937608].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833772426661937608",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833772426661937608"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833445562970214403",
+            "3_1833445610634252288",
+            "3_1833445653604970496",
+            "3_1833445730289385473"
+          ]
+        },
+        "author_id": "1778012221840490496",
+        "conversation_id": "1833445756650590295",
+        "created_at": "2024-09-10T10:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T11:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833445756650590295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiwwblhq8j",
+              "end": 164,
+              "expanded_url": "https://twitter.com/changan50235962/status/1833445756650590295/photo/1",
+              "media_key": "3_1833445562970214403",
+              "start": 141,
+              "url": "https://t.co/FIwwBLHQ8J"
+            },
+            {
+              "display_url": "pic.x.com/fiwwblhq8j",
+              "end": 164,
+              "expanded_url": "https://twitter.com/changan50235962/status/1833445756650590295/photo/1",
+              "media_key": "3_1833445610634252288",
+              "start": 141,
+              "url": "https://t.co/FIwwBLHQ8J"
+            },
+            {
+              "display_url": "pic.x.com/fiwwblhq8j",
+              "end": 164,
+              "expanded_url": "https://twitter.com/changan50235962/status/1833445756650590295/photo/1",
+              "media_key": "3_1833445653604970496",
+              "start": 141,
+              "url": "https://t.co/FIwwBLHQ8J"
+            },
+            {
+              "display_url": "pic.x.com/fiwwblhq8j",
+              "end": 164,
+              "expanded_url": "https://twitter.com/changan50235962/status/1833445756650590295/photo/1",
+              "media_key": "3_1833445730289385473",
+              "start": 141,
+              "url": "https://t.co/FIwwBLHQ8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833445756650590295",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是第几个的全新败北者又出现了，感觉嘴硬和挑衅已经成为了不少测试者的日常操作了～或许有些操作对于杂鱼废根十分有效～但很可惜～她们所面对的是经过公司层层筛选的～拥有特殊体质的身经百战测试员～败北也就只是时间问题～希望接下来的测试者可以摆正自己的位置～这样一来测试员或许会放放水呢 https://t.co/FIwwBLHQ8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 82,
+          "like_count": 461,
+          "listed_count": 0,
+          "tweet_count": 556
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T10:48:51.000Z",
+        "description": "公司新晋测试员A6，代号听琴～致力于发现淫荡优秀的飞机杯～公司会主动选择测试者，也接受各位志愿者的参与～有想要测试的可以私信本测试员，同时有想要成为测试员的也可报名～但要先通过专门的测试～通过者有奖励～有意者可私，同时也接文媛～40/h，偏向S/Dom，当然你要给的多或者实力强也可m～工号（企鹅）1969658763",
+        "id": "1778012221840490496",
+        "location": "别洛曦航空科技有限公司",
+        "name": "枫上听琴（可互推）",
+        "pinned_tweet_id": "1828663689307975884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783893720884256768/fn3V0ow0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 414,
+          "like_count": 336,
+          "listed_count": 0,
+          "tweet_count": 497
+        },
+        "username": "changan50235962",
+        "verified": false
+      }
+    ]
+  }
+}

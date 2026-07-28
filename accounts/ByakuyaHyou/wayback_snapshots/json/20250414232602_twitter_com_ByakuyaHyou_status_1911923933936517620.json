@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911795501051088896"
+      ],
+      "media_source_tweet_id": [
+        "1911802295568003450"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1911923933936517620",
+    "created_at": "2025-04-14T23:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T00:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911923933936517620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1506482168284868611",
+          "start": 3,
+          "username": "nili87188421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qXo8pBf9mn",
+          "end": 120,
+          "expanded_url": "https://x.com/nili87188421/status/1911802295568003450/photo/1",
+          "media_key": "3_1911795501051088896",
+          "start": 97,
+          "url": "https://t.co/qXo8pBf9mn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911923933936517620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911802295568003450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nili87188421: 干嘛，没见过倾妈对着你老公屁眼儿嘬吻哦💚哦对，差点忘了，你他妈只是个女绿贱种而已……还得庆幸你老公的腚眼子够臭，要不老娘才懒得嘬呢嘻嘻🖤＊媚笑着弯起了眸＊… https://t.co/qXo8pBf9mn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911923933936517620].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911923933936517620",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911923933936517620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1911795501051088896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogP4QtXEAAV2Uk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911795501051088896"
+          ]
+        },
+        "author_id": "1506482168284868611",
+        "conversation_id": "1911802295568003450",
+        "created_at": "2025-04-14T15:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T16:18:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911801252583014656",
+          "1911802295568003450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXo8pBf9mn",
+              "end": 101,
+              "expanded_url": "https://x.com/nili87188421/status/1911802295568003450/photo/1",
+              "media_key": "3_1911795501051088896",
+              "start": 78,
+              "url": "https://t.co/qXo8pBf9mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911802295568003450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 410,
+                "start": 407,
+                "tag": "文媛"
+              },
+              {
+                "end": 414,
+                "start": 411,
+                "tag": "文爱"
+              },
+              {
+                "end": 418,
+                "start": 415,
+                "tag": "语c"
+              },
+              {
+                "end": 422,
+                "start": 419,
+                "tag": "粗口"
+              },
+              {
+                "end": 426,
+                "start": 423,
+                "tag": "女绿"
+              },
+              {
+                "end": 430,
+                "start": 427,
+                "tag": "毒龙"
+              }
+            ]
+          },
+          "text": "干嘛，没见过倾妈对着你老公屁眼儿嘬吻哦💚哦对，差点忘了，你他妈只是个女绿贱种而已……还得庆幸你老公的腚眼子够臭，要不老娘才懒得嘬呢嘻嘻🖤＊媚笑着弯起了眸＊\n操你妈的，还盯着看啊？看不到你老公缺个肉垫椅子？再不济至少得磕两个响头给倾妈助助兴哦……💜下次再犯这种低劣的错误别怪老娘直接把你那张烂逼踹废💚今晚上也别睡犬窝里了，直接把你塞去床底听老娘是怎么榨你老公这对骚卵，怎么样哦～💅🏻\n哈？说话啊？怎么开始猪叫了？操他妈的还给你这烂货骂爽了是吧？一股逼水味……💢娘希匹，真是晦气，还闻到这寡淡清汤逼味，性欲都他妈要浇没了……＊随手朝着你那张清纯糜面扇去直至尻脑晕乎🖤＊\n真是肏了，这么好的屌，之前怎么就看上你这废物了，真是浪fei——齁齁齁💜💜爹，对不起，一不小心冷落了您的粗臭屌哦……呲溜呲溜呲溜呲溜💜人家，人家这就继续……白眼被熏出来了，噗噜噜噜齁💜\n\n喂，别搁那扣屄了，吵到你亲妈嘬屁眼了知道吗？早泄傻屄🖕🏻\n\n#文媛 #文爱 #语c #粗口 #女绿 #毒龙"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 807,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "干嘛，没见过倾妈对着你老公屁眼儿嘬吻哦💚哦对，差点忘了，你他妈只是个女绿贱种而已……还得庆幸你老公的腚眼子够臭，要不老娘才懒得嘬呢嘻嘻🖤＊媚笑着弯起了眸＊ https://t.co/qXo8pBf9mn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 114,
+          "like_count": 1070,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1261
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T04:05:22.000Z",
+        "description": "安～这里是倾\n华灯初上，夜影阑珊…客官，真已忙碌到没有落脚闲聊的时候？♡\n昏黄光影下的缠绵总是那般黏腻\n而那倒影…\n究竟是馥郁氤氲的媚喘淫香💜\n亦或是丧志犬畜的洗脑哀嚎🖤\n就请各位亲自登门造访一探究竟咯❤️\n麻麻：@raNraN_1046\n恶魔大人：@YuZhenIsHere\n雌猪姐姐：@baorumingyuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "raNraN_1046"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "YuZhenIsHere"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "baorumingyuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fantasyland_qi…",
+                "end": 23,
+                "expanded_url": "http://t.me/Fantasyland_qing",
+                "start": 0,
+                "url": "https://t.co/PkAZrWOQIT"
+              }
+            ]
+          }
+        },
+        "id": "1506482168284868611",
+        "location": "风俗店小屋：221232487",
+        "name": "倾（文媛 现主营各类双人单服务♡沉溺在baka沐冉老婆@NianXJ1024的温柔乡内）",
+        "pinned_tweet_id": "1911802295568003450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828364677346402304/rNuAFIMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6331,
+          "following_count": 1948,
+          "like_count": 4718,
+          "listed_count": 26,
+          "media_count": 164,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/PkAZrWOQIT",
+        "username": "nili87188421",
+        "verified": true
+      }
+    ]
+  }
+}

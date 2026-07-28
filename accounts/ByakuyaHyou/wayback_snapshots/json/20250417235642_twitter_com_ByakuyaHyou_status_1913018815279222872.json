@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912702427322884096"
+      ],
+      "media_source_tweet_id": [
+        "1912703110960803883"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913018815279222872",
+    "created_at": "2025-04-17T23:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913018815279222872"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "轉推優先回覆"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2975232683",
+          "start": 3,
+          "username": "SS988765"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsPjMvN24R",
+          "end": 68,
+          "expanded_url": "https://x.com/SS988765/status/1912703110960803883/photo/1",
+          "media_key": "3_1912702427322884096",
+          "start": 45,
+          "url": "https://t.co/dsPjMvN24R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913018815279222872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912703110960803883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS988765: 又到了穿胸罩會熱 不穿會激凸的季節😀\n#轉推優先回覆 #日常 https://t.co/dsPjMvN24R"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913018815279222872].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913018815279222872",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913018815279222872"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_1912702427322884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotIuUWboAAHPc1.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912702427322884096"
+          ]
+        },
+        "author_id": "2975232683",
+        "conversation_id": "1912703110960803883",
+        "created_at": "2025-04-17T03:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912703110960803883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "轉推優先回覆"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsPjMvN24R",
+              "end": 54,
+              "expanded_url": "https://x.com/SS988765/status/1912703110960803883/photo/1",
+              "media_key": "3_1912702427322884096",
+              "start": 31,
+              "url": "https://t.co/dsPjMvN24R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912703110960803883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2564,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "又到了穿胸罩會熱 不穿會激凸的季節😀\n#轉推優先回覆 #日常 https://t.co/dsPjMvN24R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1273
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-12T20:00:55.000Z",
+        "description": "喜歡有感覺的人💛🧡",
+        "id": "2975232683",
+        "location": "距離你7.2km",
+        "name": "蘇酥酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912695498387124224/G5HOLSTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "SS988765",
+        "verified": false
+      }
+    ]
+  }
+}

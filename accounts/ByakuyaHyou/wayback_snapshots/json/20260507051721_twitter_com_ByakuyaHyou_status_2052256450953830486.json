@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1945170285273010403",
+    "created_at": "2026-05-07T05:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052256450953830486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1718326739284439040",
+          "start": 0,
+          "username": "anatainx29996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052256450953830486",
+    "in_reply_to_user_id": "1718326739284439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945170285273010403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anatainx29996 可以扩列加个QQ嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1945170145250332672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6h8O9XUAAg7Ys.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1945170285273010403",
+        "created_at": "2026-05-07T05:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052256450953830486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1718326739284439040",
+              "start": 0,
+              "username": "anatainx29996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052256450953830486",
+        "in_reply_to_user_id": "1718326739284439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945170285273010403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anatainx29996 可以扩列加个QQ嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945170145250332672"
+          ]
+        },
+        "author_id": "1718326739284439040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1945170285273010403",
+        "created_at": "2025-07-15T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945170285273010403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "樋口円香"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "偶像大师"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp8VJsUeqy",
+              "end": 60,
+              "expanded_url": "https://x.com/anatainx29996/status/1945170285273010403/photo/1",
+              "media_key": "3_1945170145250332672",
+              "start": 37,
+              "url": "https://t.co/vp8VJsUeqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945170285273010403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起cos照大家更喜欢腿照吗？\n#Cosplay #樋口円香 #偶像大师 https://t.co/vp8VJsUeqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 277,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1549
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T18:00:03.000Z",
+        "description": "I'm",
+        "id": "1718326739284439040",
+        "name": "Anatainx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778939178627276800/qMhFkzJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 854,
+          "like_count": 6739,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "anatainx29996",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1946743900284010586",
+    "created_at": "2025-07-20T01:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946743900284010586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902865740899946496",
+          "start": 3,
+          "username": "lingweiweiweix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946743900284010586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946729343465505079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingweiweiweix: 来了哦～招牌推荐「鲜榨肉棒汁」一份❤️\n您说杯子是空的？当然啦～因为人家现在才要开始制作嘛～不然怎么叫「鲜榨」呢❤️因为人家喷射的势头比较猛～为了保证招牌浓稠饮品一滴都不漏到外面～可以请您帮忙拿着杯子吗～只要对准马眼就好❤️\n哦呀～您要是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946743900284010586].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946743900284010586",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946743900284010586"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_1946729340688912384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwQsBWmX0AARDb4.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946729340688912384"
+          ]
+        },
+        "author_id": "1902865740899946496",
+        "conversation_id": "1946729343465505079",
+        "created_at": "2025-07-20T00:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T01:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946729343465505079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WYQFh1O6E",
+              "end": 167,
+              "expanded_url": "https://x.com/lingweiweiweix/status/1946729343465505079/photo/1",
+              "media_key": "3_1946729340688912384",
+              "start": 144,
+              "url": "https://t.co/0WYQFh1O6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946729343465505079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "来了哦～招牌推荐「鲜榨肉棒汁」一份❤️\n您说杯子是空的？当然啦～因为人家现在才要开始制作嘛～不然怎么叫「鲜榨」呢❤️因为人家喷射的势头比较猛～为了保证招牌浓稠饮品一滴都不漏到外面～可以请您帮忙拿着杯子吗～只要对准马眼就好❤️\n哦呀～您要是想代替杯子的话～嘴巴～还需要再张大一些才行呢❤️ https://t.co/0WYQFh1O6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg\n可以找咱聊天",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1946114815904121220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 132,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1524
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T23:32:39.000Z",
+        "description": "想被男孩子欺负到丧志上交猪脑吗🖤双属性🖤60/h🖤接剧情/压榨/ATM/锁奴🖤\n原号被封文媛3999054370 | 可解锁各种属性 | 可爱姐姐 @meimoying 可爱频道https://t.co/vlIZY63JSD🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "meimoying"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/small_lxxx",
+                "end": 112,
+                "expanded_url": "https://t.me/small_lxxx",
+                "start": 89,
+                "url": "https://t.co/vlIZY63JSD"
+              }
+            ]
+          }
+        },
+        "id": "1902865740899946496",
+        "name": "玲尾",
+        "pinned_tweet_id": "1905073706386477450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902866026469134346/LzF3RNgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 70,
+          "like_count": 351,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 362
+        },
+        "username": "lingweiweiweix",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905761011464044624",
+    "created_at": "2025-03-28T23:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T00:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905761011464044624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905761011464044624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905117049996874188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 【都市怪谈】\n听说了吗~？在城市里面偶尔会出现很奇怪的垃圾桶哦？\n听说垃圾桶外会布满可疑的浓稠腥臭白浊液体，旁边还散落着一些女性衣物，如果靠近些还可以听到隐隐约约的淫靡娇喘声\n不过可不能靠太近了哦~不然会发生很可怕的事情~\n欸~？什么可怕的事…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905761011464044624].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905761011464044624",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905761011464044624"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_1905117040412868608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBV2sFaQAA2QOl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905117040412868608"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905117049996874188",
+        "created_at": "2025-03-27T04:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T05:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905117049996874188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/keVPcgrNHg",
+              "end": 171,
+              "expanded_url": "https://x.com/shigongyuyue/status/1905117049996874188/photo/1",
+              "media_key": "3_1905117040412868608",
+              "start": 148,
+              "url": "https://t.co/keVPcgrNHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905117049996874188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6102,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【都市怪谈】\n听说了吗~？在城市里面偶尔会出现很奇怪的垃圾桶哦？\n听说垃圾桶外会布满可疑的浓稠腥臭白浊液体，旁边还散落着一些女性衣物，如果靠近些还可以听到隐隐约约的淫靡娇喘声\n不过可不能靠太近了哦~不然会发生很可怕的事情~\n欸~？什么可怕的事情？\n大概~会是被【吃干抹净】吧~♡\n#文爱 #文援 https://t.co/keVPcgrNHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 971,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1145
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*168）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（贫穷の狐仙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 2461,
+          "like_count": 13656,
+          "listed_count": 19,
+          "media_count": 803,
+          "tweet_count": 6573
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

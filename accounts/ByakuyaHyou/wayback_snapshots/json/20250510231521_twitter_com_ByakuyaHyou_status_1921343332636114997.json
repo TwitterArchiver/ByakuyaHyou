@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1921343332636114997",
+    "created_at": "2025-05-10T23:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T00:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921343332636114997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1919058718433427456",
+          "start": 3,
+          "username": "angeltudolove2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921343332636114997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920284784095297690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angeltudolove2: 小土豆转文💋爱日记：\n唔…嗯~啊哈~❤️\n\n你以为我今天会发sese的感想，那一定错了\n正经WA根本没有前途！我要整活！我要作妖！我要玩出花活！\n哼…哼~哼❤️……啊啊啊啊啊啊！！！！！！！♥️♥️♥️\n（小土豆娇喘咆哮，扣扣小蜜穴，高潮…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921343332636114997].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921343332636114997",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921343332636114997"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1920284757138493440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqY40ADWUAAFXhk.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920284757138493440"
+          ]
+        },
+        "author_id": "1919058718433427456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920284784095297690",
+        "created_at": "2025-05-08T01:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920284784095297690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SA0SGay0xC",
+              "end": 150,
+              "expanded_url": "https://x.com/angeltudolove2/status/1920284784095297690/photo/1",
+              "media_key": "3_1920284757138493440",
+              "start": 127,
+              "url": "https://t.co/SA0SGay0xC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920284784095297690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小土豆转文💋爱日记：\n唔…嗯~啊哈~❤️\n\n你以为我今天会发sese的感想，那一定错了\n正经WA根本没有前途！我要整活！我要作妖！我要玩出花活！\n哼…哼~哼❤️……啊啊啊啊啊啊！！！！！！！♥️♥️♥️\n（小土豆娇喘咆哮，扣扣小蜜穴，高潮呐喊，喷花蜜） https://t.co/SA0SGay0xC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 119,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1403
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:57:17.000Z",
+        "description": "这里是小天使土豆，是一只可爱小文媛呢，还可以画像素小人！\n3499505433\n这个是QQ哦，亲爱的💋\n没有下限，也没有门槛，喜欢学习更加优美的词藻，更喜欢各种各样色情的事情~\n❤️喜欢请转发我的帖子！♥️",
+        "id": "1919058718433427456",
+        "name": "天使小土豆（互推）",
+        "pinned_tweet_id": "1921231463636197566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919059102166052864/jSaPyBax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 26,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 17
+        },
+        "username": "angeltudolove2",
+        "verified": false
+      }
+    ]
+  }
+}

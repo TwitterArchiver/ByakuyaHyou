@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914201113433079866",
+    "created_at": "2025-04-21T06:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914201113433079866"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "鄭重緊急宣佈"
+        },
+        {
+          "end": 112,
+          "start": 105,
+          "tag": "轉推分享追蹤"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "雙北"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "台南約炮"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "台中約會"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2570195426",
+          "start": 3,
+          "username": "indahmeliinda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914201113433079866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913551458760339692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @indahmeliinda: #鄭重緊急宣佈          \n各縣市徵一名免費固砲      \n汽旅錢錢我出    你只需要帶我吃個好料喝點酒酒啦   \n私訊告訴我「縣市」   我去找你呀    \n#轉推分享追蹤 #雙北 #台南約炮 #台中約會   \n 按愛心優先回…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914201113433079866].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914201113433079866",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914201113433079866"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_1913551449554116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5M56obYAAKMJ2.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913551449554116608"
+          ]
+        },
+        "author_id": "2570195426",
+        "conversation_id": "1913551458760339692",
+        "created_at": "2025-04-19T11:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913551458760339692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "鄭重緊急宣佈"
+            },
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "轉推分享追蹤"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "雙北"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "台南約炮"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "台中約會"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88czcZogI1",
+              "end": 148,
+              "expanded_url": "https://x.com/indahmeliinda/status/1913551458760339692/photo/1",
+              "media_key": "3_1913551449554116608",
+              "start": 125,
+              "url": "https://t.co/88czcZogI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913551458760339692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9448,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "#鄭重緊急宣佈          \n各縣市徵一名免費固砲      \n汽旅錢錢我出    你只需要帶我吃個好料喝點酒酒啦   \n私訊告訴我「縣市」   我去找你呀    \n#轉推分享追蹤 #雙北 #台南約炮 #台中約會   \n 按愛心優先回復！！！ https://t.co/88czcZogI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1282
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-16T04:15:18.000Z",
+        "description": "愛運動 愛生活    😳 \n喜歡追求刺激     💖\n不喜歡請勿打擾🐾",
+        "id": "2570195426",
+        "location": "距離您0.8Km",
+        "name": "啾啾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911735527134367744/I3WBvLAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 42,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "indahmeliinda",
+        "verified": false
+      }
+    ]
+  }
+}

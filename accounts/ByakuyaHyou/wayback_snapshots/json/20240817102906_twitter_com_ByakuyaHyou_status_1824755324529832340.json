@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824749927706304513"
+      ],
+      "media_source_tweet_id": [
+        "1824749941878837375"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824755324529832340",
+    "created_at": "2024-08-17T10:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T11:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824755324529832340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299287463630839810",
+          "start": 3,
+          "username": "tangxitiaddh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrbhwxy3d4",
+          "end": 130,
+          "expanded_url": "https://twitter.com/tangxitiaddh/status/1824749941878837375/photo/1",
+          "media_key": "3_1824749927706304513",
+          "start": 107,
+          "url": "https://t.co/wrBHWxy3D4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824755324529832340",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824749941878837375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangxitiaddh: 让希希掌控你，或者被你掌控～这完全看你有没有能力把希希拿下，没有能力的杂鱼都会被我踩在脚下当无脑贡奴把金币和精液都交出来，\n有能力拿下希希的话希希也会乖乖听话的～主人（已更新） https://t.co/wrBHWxy3D4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824755324529832340].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824755324529832340",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824755324529832340"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1824749927706304513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVLQZCzaoAETPKt.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824749927706304513"
+          ]
+        },
+        "author_id": "1299287463630839810",
+        "conversation_id": "1824749941878837375",
+        "created_at": "2024-08-17T10:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T11:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824749941878837375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrbhwxy3d4",
+              "end": 112,
+              "expanded_url": "https://twitter.com/tangxitiaddh/status/1824749941878837375/photo/1",
+              "media_key": "3_1824749927706304513",
+              "start": 89,
+              "url": "https://t.co/wrBHWxy3D4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824749941878837375",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "让希希掌控你，或者被你掌控～这完全看你有没有能力把希希拿下，没有能力的杂鱼都会被我踩在脚下当无脑贡奴把金币和精液都交出来，\n有能力拿下希希的话希希也会乖乖听话的～主人（已更新） https://t.co/wrBHWxy3D4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 63,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T10:07:45.000Z",
+        "description": "门牌号3162467594    大家好，我叫唐希tia可以叫我希希w～，是伪娘文援，属性是switch，求打赏，不涉三，\n另一个我 @tangxitiadxh\n瑟瑟的姐姐 @xingyuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "tangxitiadxh"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "xingyuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1299287463630839810",
+        "location": "可爱",
+        "name": "❥唐希tia✨（希希）✨喵娘✨互推私信",
+        "pinned_tweet_id": "1824749941878837375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599626087147130881/rTwSD75Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 339,
+          "like_count": 601,
+          "listed_count": 3,
+          "tweet_count": 638
+        },
+        "username": "tangxitiaddh",
+        "verified": false
+      }
+    ]
+  }
+}

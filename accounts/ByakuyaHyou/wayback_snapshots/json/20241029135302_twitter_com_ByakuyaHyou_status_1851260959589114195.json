@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1851260959589114195",
+    "created_at": "2024-10-29T13:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T14:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851260959589114195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851260959589114195",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851186282598449631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 求我～求我干嘛啊贱狗～🩷\n想射啊～🩷\n不可以呢～废物～🩷\n主人的脚底要继续在你那个废物肉条上摩擦呢～🩷\n而你～一滴都不许给我流出来～🩷\n废物贱狗～🩷刚才求着主人玩你的时候就应该想到🩷\n既然上交的狗几把～🩷蛇精就只能被主人控制～🩷\n喜不喜…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851260959589114195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851260959589114195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851260959589114195"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851186279146500096",
+            "3_1851186279465304065",
+            "3_1851186279633080320"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1851186282598449631",
+        "created_at": "2024-10-29T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851186282598449631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1JCPWSSue",
+              "end": 150,
+              "expanded_url": "https://x.com/Dear34585171693/status/1851186282598449631/photo/1",
+              "media_key": "3_1851186279146500096",
+              "start": 127,
+              "url": "https://t.co/m1JCPWSSue"
+            },
+            {
+              "display_url": "pic.x.com/m1JCPWSSue",
+              "end": 150,
+              "expanded_url": "https://x.com/Dear34585171693/status/1851186282598449631/photo/1",
+              "media_key": "3_1851186279465304065",
+              "start": 127,
+              "url": "https://t.co/m1JCPWSSue"
+            },
+            {
+              "display_url": "pic.x.com/m1JCPWSSue",
+              "end": 150,
+              "expanded_url": "https://x.com/Dear34585171693/status/1851186282598449631/photo/1",
+              "media_key": "3_1851186279633080320",
+              "start": 127,
+              "url": "https://t.co/m1JCPWSSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851186282598449631",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "following",
+        "text": "求我～求我干嘛啊贱狗～🩷\n想射啊～🩷\n不可以呢～废物～🩷\n主人的脚底要继续在你那个废物肉条上摩擦呢～🩷\n而你～一滴都不许给我流出来～🩷\n废物贱狗～🩷刚才求着主人玩你的时候就应该想到🩷\n既然上交的狗几把～🩷蛇精就只能被主人控制～🩷\n喜不喜欢主人玩你啊～🩷 https://t.co/m1JCPWSSue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 88,
+          "like_count": 693,
+          "listed_count": 0,
+          "tweet_count": 876
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1828306974456623134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 63,
+          "like_count": 4,
+          "listed_count": 8,
+          "tweet_count": 1130
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

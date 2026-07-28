@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1914524175043322333",
+    "created_at": "2025-04-22T03:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914524175043322333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080900325130241",
+          "start": 3,
+          "username": "RngPirdOe434191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914524175043322333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914212280449056923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @RngPirdOe434191: “呜……主、主人……这样……太羞耻了……”\r四肢被皮革的束缚带紧紧捆住，晓雨只能像母狗一样跪趴在地上，银发凌乱地散落在眼前，遮不住发烫的脸颊。稍微一动，手腕和脚踝的绑带就勒得更深，皮肤上泛起淡淡的红痕。\r最过分的是……后面……… htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914524175043322333].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914524175043322333",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914524175043322333"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1914212269887770624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCl6uNa0AAKCU_.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914212269887770624"
+          ]
+        },
+        "author_id": "1820080900325130241",
+        "conversation_id": "1914212280449056923",
+        "created_at": "2025-04-21T06:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914212280449056923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JViV4nLmc",
+              "end": 137,
+              "expanded_url": "https://x.com/RngPirdOe434191/status/1914212280449056923/photo/1",
+              "media_key": "3_1914212269887770624",
+              "start": 114,
+              "url": "https://t.co/1JViV4nLmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914212280449056923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“呜……主、主人……这样……太羞耻了……”\r四肢被皮革的束缚带紧紧捆住，晓雨只能像母狗一样跪趴在地上，银发凌乱地散落在眼前，遮不住发烫的脸颊。稍微一动，手腕和脚踝的绑带就勒得更深，皮肤上泛起淡淡的红痕。\r最过分的是……后面……\r“咿呀……！不要、不要把尾巴塞进去”，肛塞塞得太深了，稍微收缩一下，就能感觉到它在里面顶弄，害得晓雨大腿内侧湿漉漉的，膝盖都在打颤。\r“汪、汪呜……！”\r下巴抬起的时候，晓雨真的像狗一样叫出了声。眼泪在眼眶里打转，可身体却背叛了理智，腰肢不受控制地塌下去，把屁股翘得更高。尾巴随着呼吸一颤一颤的，像是在讨好主人一样。\r“不、不要摸那里……会……会失禁的……！”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1735,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "following",
+        "text": "“呜……主、主人……这样……太羞耻了……”\r四肢被皮革的束缚带紧紧捆住，晓雨只能像母狗一样跪趴在地上，银发凌乱地散落在眼前，遮不住发烫的脸颊。稍微一动，手腕和脚踝的绑带就勒得更深，皮肤上泛起淡淡的红痕。\r最过分的是……后面…… https://t.co/1JViV4nLmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 115,
+          "like_count": 1085,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1288
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:54:47.000Z",
+        "description": "新人女文援，sm、纯爱均可，擅长剧情设定、细节描写，调教、母狗、反差、ntr等题材开发中…文爱60/h，35/0.5h，营业到凌晨三点，门牌：3777499147，不涉三，晓雨在这里等你哦～电报小飞机：https://t.co/PZw0eBHcVT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dawn_drizzle",
+                "end": 124,
+                "expanded_url": "https://t.me/dawn_drizzle",
+                "start": 101,
+                "url": "https://t.co/PZw0eBHcVT"
+              }
+            ]
+          }
+        },
+        "id": "1820080900325130241",
+        "location": "003号金属狗笼",
+        "name": "晓雨（互推）",
+        "pinned_tweet_id": "1897920362190717002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820090304885833728/uRdTmbFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 152,
+          "like_count": 602,
+          "listed_count": 20,
+          "media_count": 102,
+          "tweet_count": 1716
+        },
+        "username": "RngPirdOe434191",
+        "verified": true
+      }
+    ]
+  }
+}

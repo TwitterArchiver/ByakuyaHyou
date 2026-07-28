@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899686019282399358",
+    "created_at": "2025-03-12T04:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T05:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899686019282399358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "文援"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "文爱"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "贡奴"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899686019282399358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899681981732147427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: “渍~想知道祖宗在干什么？🖤\n不就翘着脚玩儿嘛，倒是你，\n干嘛趴那儿喘着气，\n使劲揉你那破棒子干啥？\n想让我脚底‘夹紧’射出来？\n对着祖宗上贡可能就会满足你的愿望呢，当然，是我这脚底吧傻逼脚垫🖤\n#文援 #文爱 #贡奴 #ATM奴 #调…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899681977856294914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl0GsaRWAAIWiKy.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1899686019282399358",
+        "created_at": "2025-03-12T04:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899686019282399358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "文援"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "文爱"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "贡奴"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "ATM奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832618003478773760",
+              "start": 3,
+              "username": "kekejiangw44613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899686019282399358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899681981732147427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekejiangw44613: “渍~想知道祖宗在干什么？🖤\n不就翘着脚玩儿嘛，倒是你，\n干嘛趴那儿喘着气，\n使劲揉你那破棒子干啥？\n想让我脚底‘夹紧’射出来？\n对着祖宗上贡可能就会满足你的愿望呢，当然，是我这脚底吧傻逼脚垫🖤\n#文援 #文爱 #贡奴 #ATM奴 #调…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899681977856294914"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1899681981732147427",
+        "created_at": "2025-03-12T04:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899681981732147427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "文援"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "文爱"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "贡奴"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "调教"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "足交"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "压榨"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "胁迫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJKTfrbbAg",
+              "end": 155,
+              "expanded_url": "https://x.com/kekejiangw44613/status/1899681981732147427/photo/1",
+              "media_key": "3_1899681977856294914",
+              "start": 132,
+              "url": "https://t.co/aJKTfrbbAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899681981732147427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“渍~想知道祖宗在干什么？🖤\n不就翘着脚玩儿嘛，倒是你，\n干嘛趴那儿喘着气，\n使劲揉你那破棒子干啥？\n想让我脚底‘夹紧’射出来？\n对着祖宗上贡可能就会满足你的愿望呢，当然，是我这脚底吧傻逼脚垫🖤\n#文援 #文爱 #贡奴 #ATM奴 #调教 #足交 #压榨 #胁迫 https://t.co/aJKTfrbbAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 97,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1008
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 电报https://t.co/AEt52UDJgC门槛10r（有门槛 口嗨的真别加 真的很烦） 🖤 压榨...止寸...调教...忍不住的贡狗欢迎来上贡呢废物🖤（收长期atm奴 贡奴）欢迎文援来扩列哦（文爱35r/0.5h  65/h）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kekejiangwenai",
+                "end": 37,
+                "expanded_url": "http://t.me/kekejiangwenai",
+                "start": 14,
+                "url": "https://t.co/AEt52UDJgC"
+              }
+            ]
+          }
+        },
+        "id": "1832618003478773760",
+        "location": "🖤",
+        "name": "可可🖤（互推私）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885004780101332992/dI3Ntg4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 31,
+          "like_count": 24,
+          "listed_count": 7,
+          "media_count": 39,
+          "tweet_count": 824
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

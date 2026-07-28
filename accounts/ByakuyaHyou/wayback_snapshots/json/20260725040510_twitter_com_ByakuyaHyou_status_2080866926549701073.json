@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2055947232478896423",
+    "created_at": "2026-07-25T04:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080866926549701073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1278687905704103938",
+          "start": 0,
+          "username": "WhukLy8eM28TnoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080866926549701073",
+    "in_reply_to_user_id": "1278687905704103938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055947232478896423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhukLy8eM28TnoO 可爱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2055947036957261825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgw7-7awAErj4I.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2055947036919521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgw7-ya4AA3oRv.jpg",
+        "width": 3264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2055947232478896423",
+        "created_at": "2026-07-25T04:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080866926549701073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1278687905704103938",
+              "start": 0,
+              "username": "WhukLy8eM28TnoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080866926549701073",
+        "in_reply_to_user_id": "1278687905704103938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055947232478896423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhukLy8eM28TnoO 可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947036957261825",
+            "3_2055947036919521280"
+          ]
+        },
+        "author_id": "1278687905704103938",
+        "conversation_id": "2055947232478896423",
+        "created_at": "2026-05-17T09:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055947232478896423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjU06j21Aj",
+              "end": 53,
+              "expanded_url": "https://x.com/WhukLy8eM28TnoO/status/2055947232478896423/photo/1",
+              "media_key": "3_2055947036957261825",
+              "start": 30,
+              "url": "https://t.co/RjU06j21Aj"
+            },
+            {
+              "display_url": "pic.x.com/RjU06j21Aj",
+              "end": 53,
+              "expanded_url": "https://x.com/WhukLy8eM28TnoO/status/2055947232478896423/photo/1",
+              "media_key": "3_2055947036919521280",
+              "start": 30,
+              "url": "https://t.co/RjU06j21Aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055947232478896423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不亏是特蕾西娅大人，我这种土鳖穿上都好看\n\n#男娘 #伪娘 https://t.co/RjU06j21Aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1167,
+          "like_count": 1771,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1690
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T13:52:19.000Z",
+        "description": "",
+        "id": "1278687905704103938",
+        "name": "古时聚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278688138479546374/cdQbaYMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 118,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "WhukLy8eM28TnoO",
+        "verified": false
+      }
+    ]
+  }
+}

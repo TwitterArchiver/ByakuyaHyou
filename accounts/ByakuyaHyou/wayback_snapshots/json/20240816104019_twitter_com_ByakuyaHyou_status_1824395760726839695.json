@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824395720348332032"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824395760726839695",
+    "created_at": "2024-08-16T10:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T11:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824395760726839695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "文媛"
+        },
+        {
+          "end": 143,
+          "start": 140,
+          "tag": "文爱"
+        },
+        {
+          "end": 147,
+          "start": 144,
+          "tag": "语爱"
+        },
+        {
+          "end": 151,
+          "start": 148,
+          "tag": "录音"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrh3eayfsr",
+          "end": 175,
+          "expanded_url": "https://twitter.com/ByakuyaHyou/status/1824395760726839695/video/1",
+          "media_key": "7_1824395720348332032",
+          "start": 152,
+          "url": "https://t.co/rRH3EAyFsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824395760726839695",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杂鱼杂鱼❤️～七夕都过去啦该不会还没有女朋友吧～不愧是小杂鱼呢～今日～特别允许你❤️，可以舔我的脚脚哦❤️～\n阿拉～杂鱼先生想要更进一步的服务嘛～人家好寂寞呢，杂鱼肉棒又短又小，都填不满人家❤️～弄得人家心痒痒的～❤️\n粉萌可爱一碰就射的杂鱼肉棒～快来让人家快乐吧～❤️\n#文媛 #文爱 #语爱 #录音 https://t.co/rRH3EAyFsr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93042,
+        "height": 960,
+        "media_key": "7_1824395720348332032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824395720348332032/pu/img/kUtVr66P47wjvsek.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824395720348332032/pu/vid/avc1/320x426/kR_wiyuDlZ0xQ1K7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824395720348332032/pu/vid/avc1/480x640/BdT9-aP0MHkD0gE4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824395720348332032/pu/vid/avc1/720x960/BiLOPuDjXEscODVS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824395720348332032/pu/pl/OBXUyYSB_A6wWdWV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824395720348332032"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1824395760726839695",
+        "created_at": "2024-08-16T10:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T11:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824395760726839695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文媛"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "语爱"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "录音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrh3eayfsr",
+              "end": 175,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1824395760726839695/video/1",
+              "media_key": "7_1824395720348332032",
+              "start": 152,
+              "url": "https://t.co/rRH3EAyFsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824395760726839695",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼杂鱼❤️～七夕都过去啦该不会还没有女朋友吧～不愧是小杂鱼呢～今日～特别允许你❤️，可以舔我的脚脚哦❤️～\n阿拉～杂鱼先生想要更进一步的服务嘛～人家好寂寞呢，杂鱼肉棒又短又小，都填不满人家❤️～弄得人家心痒痒的～❤️\n粉萌可爱一碰就射的杂鱼肉棒～快来让人家快乐吧～❤️\n#文媛 #文爱 #语爱 #录音 https://t.co/rRH3EAyFsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1824093422547771604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 27,
+          "like_count": 51,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

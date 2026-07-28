@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922936859795091676",
+    "created_at": "2025-05-15T08:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T09:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922936859795091676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922936859795091676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922876824117194919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 「啊啊要是一下子就泄漏出来精子的话连男孩子鸡鸡都不如了💕」\n「这么早泄的话几十秒就可以敷衍地处理掉卵袋里的存货了哟🖤」\n一边这么想着一边看着倒计时射精准备的处男君还真是「优秀💋」自毁的背德感和反差感可是会迅速毁掉理智的哟♡\n好咯♫劣质的基因乖乖准…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922936859795091676].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922936859795091676",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922936859795091676"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1922876814990475264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq9uRoBXgAA_qM7.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922876814990475264"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1922876824117194919",
+        "created_at": "2025-05-15T04:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T05:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922876824117194919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "早泄"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFQ6sHVkYd",
+              "end": 163,
+              "expanded_url": "https://x.com/amianjiang/status/1922876824117194919/photo/1",
+              "media_key": "3_1922876814990475264",
+              "start": 140,
+              "url": "https://t.co/yFQ6sHVkYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922876824117194919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 194,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "「啊啊要是一下子就泄漏出来精子的话连男孩子鸡鸡都不如了💕」\n「这么早泄的话几十秒就可以敷衍地处理掉卵袋里的存货了哟🖤」\n一边这么想着一边看着倒计时射精准备的处男君还真是「优秀💋」自毁的背德感和反差感可是会迅速毁掉理智的哟♡\n好咯♫劣质的基因乖乖准备好被处理掉哟💗\n#早泄 #羞辱 https://t.co/yFQ6sHVkYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 120,
+          "like_count": 1209,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1417
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 32,
+          "like_count": 460,
+          "listed_count": 17,
+          "media_count": 207,
+          "tweet_count": 544
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

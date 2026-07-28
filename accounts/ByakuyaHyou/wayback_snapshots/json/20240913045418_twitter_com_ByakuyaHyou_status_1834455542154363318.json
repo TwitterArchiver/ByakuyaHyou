@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834455542154363318",
+    "created_at": "2024-09-13T04:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T05:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834455542154363318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832618003478773760",
+          "start": 3,
+          "username": "kekejiangw44613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834455542154363318",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834438449723474004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekejiangw44613: 傻逼贱狗光是闻着祖宗高跟鞋里面的气味就射出来了🖤射的祖宗高跟鞋里面全都是🖤给祖宗舔～还有你这个傻逼被绑着狗鸡吧都能射啊🖤祖宗的丝袜里面全都是废狗精呢～真是恶心死了🖤待会儿就把沾满精液的臭丝塞进你这个傻逼的嘴巴里面🖤让你尝尝自己的狗精🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834455542154363318].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834455542154363318",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834455542154363318"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834438446548746240"
+          ]
+        },
+        "author_id": "1832618003478773760",
+        "conversation_id": "1834438449723474004",
+        "created_at": "2024-09-13T03:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T04:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834438449723474004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文爱"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文援"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "剧情"
+            },
+            {
+              "end": 137,
+              "start": 130,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "贡狗"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "调教"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "女s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yu29wuv1dj",
+              "end": 173,
+              "expanded_url": "https://twitter.com/kekejiangw44613/status/1834438449723474004/photo/1",
+              "media_key": "3_1834438446548746240",
+              "start": 150,
+              "url": "https://t.co/yU29wuV1dJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834438449723474004",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼贱狗光是闻着祖宗高跟鞋里面的气味就射出来了🖤射的祖宗高跟鞋里面全都是🖤给祖宗舔～还有你这个傻逼被绑着狗鸡吧都能射啊🖤祖宗的丝袜里面全都是废狗精呢～真是恶心死了🖤待会儿就把沾满精液的臭丝塞进你这个傻逼的嘴巴里面🖤让你尝尝自己的狗精🖤\n#文爱 #文援 #剧情 #ATM打钱奴 #贡狗 #调教 #女s https://t.co/yU29wuV1dJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 81,
+          "like_count": 481,
+          "listed_count": 0,
+          "tweet_count": 582
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:12:42.000Z",
+        "description": "🚪:339376965 门槛10r ❤️新人文援 你想要的样子我都有 有什么爱好 不要害羞呦可以聊天咨询呦 欢迎大家来找我喔❤️",
+        "id": "1832618003478773760",
+        "location": "❤️",
+        "name": "可可酱（互推）",
+        "pinned_tweet_id": "1832634412971835848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832618475740614656/vtDkuB88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 8,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "kekejiangw44613",
+        "verified": false
+      }
+    ]
+  }
+}

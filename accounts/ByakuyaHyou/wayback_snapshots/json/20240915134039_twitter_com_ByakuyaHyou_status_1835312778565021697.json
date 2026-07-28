@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1835312778565021697",
+    "created_at": "2024-09-15T13:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T14:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835312778565021697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835312778565021697",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834916444347535402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 怎么？鸡鸡又不行了？♡\n只是看到人家的脚底~就情不自禁勃起？\n什么？\n哪怕一下就好？请让你撸一下肉棒？\n那就只能用两根手指摩擦系带两侧哦💜\n这样都产生快感~这样都想要射精的话♡\n明明没有被做任何过分的事情♡\n只是被主人稀疏平常的言语就刺…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835312778565021697].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835312778565021697",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835312778565021697"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834916438446161923"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1834916444347535402",
+        "created_at": "2024-09-14T11:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T12:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834916444347535402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnylixc2tz",
+              "end": 169,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1834916444347535402/photo/1",
+              "media_key": "3_1834916438446161923",
+              "start": 146,
+              "url": "https://t.co/jNYlixc2Tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834916444347535402",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 733,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "怎么？鸡鸡又不行了？♡\n只是看到人家的脚底~就情不自禁勃起？\n什么？\n哪怕一下就好？请让你撸一下肉棒？\n那就只能用两根手指摩擦系带两侧哦💜\n这样都产生快感~这样都想要射精的话♡\n明明没有被做任何过分的事情♡\n只是被主人稀疏平常的言语就刺激到高潮💜\n脑子阈值会越降越低变成聊天都能漏的白痴呢💗 https://t.co/jNYlixc2Tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 81,
+          "like_count": 507,
+          "listed_count": 0,
+          "tweet_count": 616
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 20,
+          "like_count": 108,
+          "listed_count": 4,
+          "tweet_count": 124
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

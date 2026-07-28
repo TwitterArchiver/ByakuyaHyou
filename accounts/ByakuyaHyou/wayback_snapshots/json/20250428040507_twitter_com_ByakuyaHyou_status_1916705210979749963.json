@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1916705210979749963",
+    "created_at": "2025-04-28T04:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T05:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916705210979749963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850734460767223809",
+          "start": 3,
+          "username": "HinaIsHero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916705210979749963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916679898615189707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HinaIsHero: 最最爱的法厄同大人💕新艾莉都最厉害的绳匠——法厄同大人💕平时都是对着法厄同大人的周边自己偷偷自慰..唔..薇薇安居然可以被法厄同大人用肉棒..用精液在小穴里签名什么的💕幸福的像在做梦💕脑子要晕掉惹💕明天..不对..是今后每天..薇薇安都要找您要签…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916705210979749963].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916705210979749963",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916705210979749963"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1916677318124384256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpln3afaMAAbZQ_.jpg",
+        "width": 2863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916677318124384256"
+          ]
+        },
+        "author_id": "1850734460767223809",
+        "conversation_id": "1916679898615189707",
+        "created_at": "2025-04-28T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916679898615189707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "文援姬"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAYhcQxLFz",
+              "end": 172,
+              "expanded_url": "https://x.com/HinaIsHero/status/1916679898615189707/photo/1",
+              "media_key": "3_1916677318124384256",
+              "start": 149,
+              "url": "https://t.co/GAYhcQxLFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916679898615189707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最最爱的法厄同大人💕新艾莉都最厉害的绳匠——法厄同大人💕平时都是对着法厄同大人的周边自己偷偷自慰..唔..薇薇安居然可以被法厄同大人用肉棒..用精液在小穴里签名什么的💕幸福的像在做梦💕脑子要晕掉惹💕明天..不对..是今后每天..薇薇安都要找您要签名~拜托了法厄同大人💕\n#文爱 #文援姬 #性幻想 https://t.co/GAYhcQxLFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 116,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1342
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T03:01:02.000Z",
+        "description": "超级大笨蛋萝莉见月光✨闪亮登场✨\n会的玩法不少欢迎私讯咨询~\n文援互推请敲企鹅备注互推~\n企鹅3880608002\n咱擅长的调教会有更好的体验哦~♡\n可s可m 小光享受被反杀的感觉♡\n闲聊/陪玩随缘回复♡\n主人北北~@KendallRat17471\n表形態@Ibuki_Lemon\n🚪随缘~白嫖不回复哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "KendallRat17471"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "Ibuki_Lemon"
+              }
+            ]
+          }
+        },
+        "id": "1850734460767223809",
+        "location": "宇宙的盡頭~",
+        "name": "小光✨🌙（裏~互推）",
+        "pinned_tweet_id": "1905560232169767062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889587907025051652/Fzp9f_GG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 30,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 124
+        },
+        "username": "HinaIsHero",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824981527115231663",
+    "created_at": "2024-08-18T01:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T02:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824981527115231663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514122288047685635",
+          "start": 3,
+          "username": "hanhanriji1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824981527115231663",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814081864480739343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanhanriji1: 早泄废物贱狗♡～不是最喜欢姐姐的脚吗♡～怎么都已经看到了，还不快点跪下♡～\n姐姐高兴的话，可是可以让你舔舔呢♡，只不过，不够贱的话，可不行呢♡♡～\n啧♡……没想到，居然只是闻到味道，你的废物肉茎，居然都已经勃起了呀♡～杂鱼肉茎，贱死了呢♡♡～…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824981527115231663].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824981527115231663",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824981527115231663"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1814081842397814784"
+          ]
+        },
+        "author_id": "1514122288047685635",
+        "conversation_id": "1814081864480739343",
+        "created_at": "2024-07-18T23:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T00:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814081864480739343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5itn2s63x",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hanhanriji1/status/1814081864480739343/photo/1",
+              "media_key": "3_1814081842397814784",
+              "start": 143,
+              "url": "https://t.co/D5ITN2S63x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814081864480739343",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 9501,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "早泄废物贱狗♡～不是最喜欢姐姐的脚吗♡～怎么都已经看到了，还不快点跪下♡～\n姐姐高兴的话，可是可以让你舔舔呢♡，只不过，不够贱的话，可不行呢♡♡～\n啧♡……没想到，居然只是闻到味道，你的废物肉茎，居然都已经勃起了呀♡～杂鱼肉茎，贱死了呢♡♡～\n不过，允许你舔脚趾呢♡～\n#文爱 #文媛 https://t.co/D5ITN2S63x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\n可s可m~可以尝试各类xp\n生理厌恶除外\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 67,
+          "listed_count": 0,
+          "tweet_count": 79
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T06:04:27.000Z",
+        "description": "欢迎大家和涵涵一直堕入文“爱”的海洋哦❤️\n放下，现实中的一切，短暂的时间，把自己交给涵涵的“爱”当中吧❤️。\n就这样一起，沉沦在“爱”的漩涡❤️。\n\n（收费文媛啦～文字60RMB/H，35RMB/0.5H的）\n（QQ\n苏涵日记（安全账号）：1696949708\n晚上十二点之后，可能会睡觉的啦，不是不同意什么的。）",
+        "id": "1514122288047685635",
+        "location": "反正很远就对了",
+        "name": "涵涵日记（欢迎互推）",
+        "pinned_tweet_id": "1823678239241593125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541964148191666177/VySbpqjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 164,
+          "like_count": 1005,
+          "listed_count": 11,
+          "tweet_count": 1232
+        },
+        "username": "hanhanriji1",
+        "verified": false
+      }
+    ]
+  }
+}

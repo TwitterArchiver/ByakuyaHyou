@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1922849582557380845",
+    "created_at": "2025-05-15T03:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T04:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922849582557380845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668855095348563973",
+          "start": 3,
+          "username": "yueyueSAMAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922849582557380845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922491969831342370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyueSAMAx: 看看你那可怜虫，还没我一根头发丝粗呢！姐姐一口都能把它吸进去，但是根本感觉不到呢~\n想让姐姐帮你变大吗？做梦去吧！这种迷你款只配被嘲笑而已！还不如找块豆腐撞死算了！\n诶~这尺寸怕是连入口都找不到吧？乖乖站远点欣赏姐姐就好啦，省得自取其辱～\n姐姐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922849582557380845].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922849582557380845",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922849582557380845"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1922491965834510336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq4QQdMbwAAWLGC.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922491965834510336"
+          ]
+        },
+        "author_id": "1668855095348563973",
+        "conversation_id": "1922491969831342370",
+        "created_at": "2025-05-14T03:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922491969831342370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dbj5mNokqU",
+              "end": 167,
+              "expanded_url": "https://x.com/yueyueSAMAx/status/1922491969831342370/photo/1",
+              "media_key": "3_1922491965834510336",
+              "start": 144,
+              "url": "https://t.co/Dbj5mNokqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922491969831342370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2142,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "看看你那可怜虫，还没我一根头发丝粗呢！姐姐一口都能把它吸进去，但是根本感觉不到呢~\n想让姐姐帮你变大吗？做梦去吧！这种迷你款只配被嘲笑而已！还不如找块豆腐撞死算了！\n诶~这尺寸怕是连入口都找不到吧？乖乖站远点欣赏姐姐就好啦，省得自取其辱～\n姐姐倒数三个数，还没有反应的话就永远别来了哦~ https://t.co/Dbj5mNokqU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 120,
+          "like_count": 1204,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1411
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T05:37:39.000Z",
+        "description": "S.文调.收贡.胁迫.毁号.🚪10r🐧1705684064",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 23,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 0,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          }
+        },
+        "id": "1668855095348563973",
+        "location": "做文游中……是小男娘…",
+        "name": "☁️月月sama🖤",
+        "pinned_tweet_id": "1849650772453331205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917510978360778752/43gmto_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 37,
+          "like_count": 46,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/9vgbcoM4Vh",
+        "username": "yueyueSAMAx",
+        "verified": false
+      }
+    ]
+  }
+}

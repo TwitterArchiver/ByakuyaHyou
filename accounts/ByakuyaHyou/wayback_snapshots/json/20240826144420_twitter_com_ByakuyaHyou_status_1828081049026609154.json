@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827944375349035008"
+      ],
+      "media_source_tweet_id": [
+        "1827944383800590559"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1828081049026609154",
+    "created_at": "2024-08-26T14:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T15:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828081049026609154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1825405367083495424",
+          "start": 3,
+          "username": "xu9306696568221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/homtds9lwq",
+          "end": 122,
+          "expanded_url": "https://twitter.com/xu9306696568221/status/1827944383800590559/photo/1",
+          "media_key": "3_1827944375349035008",
+          "start": 99,
+          "url": "https://t.co/HoMtds9lwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828081049026609154",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827944383800590559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu9306696568221: 已经变成没有姐姐的脚臭闻就心痒难耐啦嘛♡不知道姐姐的脚是毒品嘛♡闻多啦也会上瘾的哦🖤诶～哪怕献出所有变成姐姐的玩物也想要嘛♡那就让姐姐看看小贱货的觉悟咯♡ https://t.co/HoMtds9lwQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828081049026609154].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828081049026609154",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828081049026609154"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_1827944375349035008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV4puXnaQAA5Nk_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827944375349035008"
+          ]
+        },
+        "author_id": "1825405367083495424",
+        "conversation_id": "1827944383800590559",
+        "created_at": "2024-08-26T05:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T06:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827944383800590559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/homtds9lwq",
+              "end": 101,
+              "expanded_url": "https://twitter.com/xu9306696568221/status/1827944383800590559/photo/1",
+              "media_key": "3_1827944375349035008",
+              "start": 78,
+              "url": "https://t.co/HoMtds9lwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827944383800590559",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "已经变成没有姐姐的脚臭闻就心痒难耐啦嘛♡不知道姐姐的脚是毒品嘛♡闻多啦也会上瘾的哦🖤诶～哪怕献出所有变成姐姐的玩物也想要嘛♡那就让姐姐看看小贱货的觉悟咯♡ https://t.co/HoMtds9lwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体是可御可萝～可攻可受可雌小鬼～性格多变的可爱史莱姆酱哒\ns与m都可以写哦\n收费可以参考置顶菜单\n（没有的业务也可以来询问）\n门牌号：1927861810（无门槛）\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 68,
+          "like_count": 299,
+          "listed_count": 0,
+          "tweet_count": 345
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T05:32:17.000Z",
+        "description": "是文援姬～柠檬哦❤️也是一个卑微的文援姬啦，欢迎前辈来找慕聊天。基本上没有什么人气的说QAQ，也欢迎小家伙来找姐姐闲聊的哦不过～姐姐可能会在闲聊的过程中～去玩弄小家伙哦❤️\n贱货贡奴和ATM奴乖乖的给姐姐吐钱吧🖤\n柠会用自己的文笔来征服每一位来找慕的小可爱呢\n柠檬的企鹅号：3993705909 PS：不涉三，纯文呢。",
+        "id": "1825405367083495424",
+        "name": "柠檬文援姬（再次转生）",
+        "pinned_tweet_id": "1827342614385008896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825405464173309952/oUuseiSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 11,
+          "like_count": 21,
+          "listed_count": 0,
+          "tweet_count": 24
+        },
+        "username": "xu9306696568221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2058211955857604969",
+    "created_at": "2026-05-23T18:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058253609897431122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004168806160306176",
+          "start": 0,
+          "username": "wei_zhong53339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058253609897431122",
+    "in_reply_to_user_id": "2004168806160306176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058225241143550423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_zhong53339 宝宝，你很可爱哦，cos的也很棒🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2058211955857604969",
+        "created_at": "2026-05-23T18:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058253609897431122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004168806160306176",
+              "start": 0,
+              "username": "wei_zhong53339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058253609897431122",
+        "in_reply_to_user_id": "2004168806160306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058225241143550423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_zhong53339 宝宝，你很可爱哦，cos的也很棒🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004168806160306176",
+        "conversation_id": "2058211955857604969",
+        "created_at": "2026-05-23T16:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058225241143550423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058225241143550423",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058211955857604969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 妈妈级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 444,
+          "like_count": 1435,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1580
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T12:34:23.000Z",
+        "description": "如果你不讨厌我的话请屏蔽我🥺🥺  无🚪，超级清水推哦。请不要给我展示你的武器，也许我们的好感度还没到可以展示武器的地步谢谢。如果墙内认识我求你不要到处发也别到处说谢谢喵 互关私信哦",
+        "id": "2004168806160306176",
+        "location": "深海中",
+        "name": "桜",
+        "pinned_tweet_id": "2052825870709162208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058141938151473152/BQ2VuP-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 245,
+          "like_count": 627,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 221
+        },
+        "username": "wei_zhong53339",
+        "verified": false
+      }
+    ]
+  }
+}

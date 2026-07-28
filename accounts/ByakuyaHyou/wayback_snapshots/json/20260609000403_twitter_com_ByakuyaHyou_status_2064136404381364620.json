@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2063319521944113474",
+    "created_at": "2026-06-09T00:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064136404381364620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608367340504379392",
+          "start": 0,
+          "username": "takaotakaotaqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064136404381364620",
+    "in_reply_to_user_id": "1608367340504379392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063319521944113474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takaotakaotaqwq 扩列加个QQ嘛？2827684346"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063319517149949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiKz3acAAM3SK.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2063319517598801920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiK1ibYAAHugl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2063319516986372097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiKzQacAEyfZR.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2063319516504055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJiKxda4AALPjK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2063319521944113474",
+        "created_at": "2026-06-09T00:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064136404381364620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608367340504379392",
+              "start": 0,
+              "username": "takaotakaotaqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064136404381364620",
+        "in_reply_to_user_id": "1608367340504379392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063319521944113474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takaotakaotaqwq 扩列加个QQ嘛？2827684346"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063319517149949952",
+            "3_2063319517598801920",
+            "3_2063319516986372097",
+            "3_2063319516504055808"
+          ]
+        },
+        "author_id": "1608367340504379392",
+        "conversation_id": "2063319521944113474",
+        "created_at": "2026-06-06T17:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063319521944113474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi29QVAnH0",
+              "end": 68,
+              "expanded_url": "https://x.com/takaotakaotaqwq/status/2063319521944113474/photo/1",
+              "media_key": "3_2063319517149949952",
+              "start": 45,
+              "url": "https://t.co/qi29QVAnH0"
+            },
+            {
+              "display_url": "pic.x.com/qi29QVAnH0",
+              "end": 68,
+              "expanded_url": "https://x.com/takaotakaotaqwq/status/2063319521944113474/photo/1",
+              "media_key": "3_2063319517598801920",
+              "start": 45,
+              "url": "https://t.co/qi29QVAnH0"
+            },
+            {
+              "display_url": "pic.x.com/qi29QVAnH0",
+              "end": 68,
+              "expanded_url": "https://x.com/takaotakaotaqwq/status/2063319521944113474/photo/1",
+              "media_key": "3_2063319516986372097",
+              "start": 45,
+              "url": "https://t.co/qi29QVAnH0"
+            },
+            {
+              "display_url": "pic.x.com/qi29QVAnH0",
+              "end": 68,
+              "expanded_url": "https://x.com/takaotakaotaqwq/status/2063319521944113474/photo/1",
+              "media_key": "3_2063319516504055808",
+              "start": 45,
+              "url": "https://t.co/qi29QVAnH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063319521944113474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4490,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最近很忙，只能给粉丝看存货啦，麻烦大家把存货也打给我噢（请无视我的大饼脸，真的很丑呜呜） https://t.co/qi29QVAnH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 727,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1624
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-29T07:40:42.000Z",
+        "description": "00后中年男娘大叔，随缘更新",
+        "id": "1608367340504379392",
+        "name": "高雄高雄高qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056767224317419520/xO4cFy4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 99,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 60
+        },
+        "username": "takaotakaotaqwq",
+        "verified": false
+      }
+    ]
+  }
+}

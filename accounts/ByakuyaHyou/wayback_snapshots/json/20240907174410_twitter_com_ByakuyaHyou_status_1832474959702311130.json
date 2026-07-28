@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832474959702311130",
+    "created_at": "2024-09-07T17:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832474959702311130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "wymng2643248919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832474959702311130",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832323193723613303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wymng2643248919: 各位小♡雏男们周末好呀❤️\n告诉大家一个小知识喔❤️\n只要在对着涩图撸到快射的时候❤️\n突然给小♡鸡鸡看另一张图片并且快速地摧残小♡肉芽❤️\n就这样在本来没什么的感觉的图片面前噗呲噗呲♡地射出来的话♡\n久而久之♡就会被强制植入性癖喔🧡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832474959702311130].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832474959702311130",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832474959702311130"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832323175209631744"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1832323193723613303",
+        "created_at": "2024-09-07T07:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T08:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832323193723613303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkgsddrmsj",
+              "end": 173,
+              "expanded_url": "https://twitter.com/wymng2643248919/status/1832323193723613303/photo/1",
+              "media_key": "3_1832323175209631744",
+              "start": 150,
+              "url": "https://t.co/JkgsDDRmsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832323193723613303",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 430,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位小♡雏男们周末好呀❤️\n告诉大家一个小知识喔❤️\n只要在对着涩图撸到快射的时候❤️\n突然给小♡鸡鸡看另一张图片并且快速地摧残小♡肉芽❤️\n就这样在本来没什么的感觉的图片面前噗呲噗呲♡地射出来的话♡\n久而久之♡就会被强制植入性癖喔🧡\n本来没有感觉的东西变成催情的毒药❤️是不是很刺激呢❤️\n#文爱 https://t.co/JkgsDDRmsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 80,
+          "like_count": 440,
+          "listed_count": 0,
+          "tweet_count": 525
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "大家好 这里是阿眠~作为文援姬开始接单了呐❤️属性是Switch喔❤️无论是作为主人羞辱发情的贱狗♡还是作为母猪发出下贱的雌叫♡都完全没问题呢~XP广泛几乎没有雷区 母狗沐沐@mumudaren_ 主人伊诺♡目前的价格是25/30min 50/1h 🚪3443654158 出没时间10.00am-2.00am",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "mumudaren_"
+              }
+            ]
+          }
+        },
+        "id": "1669288784939106304",
+        "name": "阿眠呐~（互推）",
+        "pinned_tweet_id": "1829228124611195349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823205661943246848/IkGZvDp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 19,
+          "like_count": 72,
+          "listed_count": 4,
+          "tweet_count": 89
+        },
+        "username": "wymng2643248919",
+        "verified": false
+      }
+    ]
+  }
+}

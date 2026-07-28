@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1908398560221290592",
+    "created_at": "2025-04-05T05:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908398560221290592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "报销奴"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "代付奴"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "大额奴"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "无脑上供"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "匿名贡"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "榨金"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "吐钱"
+        },
+        {
+          "end": 130,
+          "start": 124,
+          "tag": "人形提款机"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887110471037415424",
+          "start": 3,
+          "username": "ke_wei79061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908398560221290592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908108043549561092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ke_wei79061: 被酸臭脚底夹住猪头\n高贵的气息瞬间充满了你整个狗脑🧠\n这他妈就上头了？\n真是令人作呕的傻逼废物贱畜牲\n对着中指给你祖宗磕头送钱🖕🏻\n\n#ATM奴 #报销奴 #代付奴 #大额奴 #无脑上供 #匿名贡 #榨金 #吐钱 #人形提款机 #贡奴  #洗脑…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908398560221290592].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908398560221290592",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908398560221290592"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_1908108035773382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnr2JiFXQAAC9N9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908108035773382656"
+          ]
+        },
+        "author_id": "1887110471037415424",
+        "conversation_id": "1908108043549561092",
+        "created_at": "2025-04-04T10:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908108043549561092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "报销奴"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "代付奴"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "大额奴"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "匿名贡"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "榨金"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "吐钱"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "人形提款机"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "贡奴"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "洗脑压榨"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "贡畜"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "恋足癖"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "臭脚S"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "脚底"
+            },
+            {
+              "end": 150,
+              "start": 143,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "中指鄙视"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "调教"
+            },
+            {
+              "end": 166,
+              "start": 161,
+              "tag": "女性崇拜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfxvd93sIq",
+              "end": 190,
+              "expanded_url": "https://x.com/ke_wei79061/status/1908108043549561092/photo/1",
+              "media_key": "3_1908108035773382656",
+              "start": 167,
+              "url": "https://t.co/xfxvd93sIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908108043549561092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被酸臭脚底夹住猪头\n高贵的气息瞬间充满了你整个狗脑🧠\n这他妈就上头了？\n真是令人作呕的傻逼废物贱畜牲\n对着中指给你祖宗磕头送钱🖕🏻\n\n#ATM奴 #报销奴 #代付奴 #大额奴 #无脑上供 #匿名贡 #榨金 #吐钱 #人形提款机 #贡奴  #洗脑压榨 #贡畜 #恋足癖 #臭脚S #脚底 #ATM打钱奴 #中指鄙视 #调教 #女性崇拜 https://t.co/xfxvd93sIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 112,
+          "like_count": 1023,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1196
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:06:18.000Z",
+        "description": "拜金💰反差的175御姐｜收🏧｜代付奴｜报销奴｜工资奴｜工具人｜白给大怨种｜早泄绿王八🐢｜擅长明耍洗脑｜嘴毒🖤手黑｜💕高贵御姐圣音压榨💕｜🐧20",
+        "id": "1887110471037415424",
+        "name": "埃安女神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907980785191100417/s2dWk0ZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 15
+        },
+        "username": "ke_wei79061",
+        "verified": false
+      }
+    ]
+  }
+}

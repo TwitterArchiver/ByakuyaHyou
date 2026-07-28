@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1836771124870606902",
+    "created_at": "2024-09-19T14:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836771124870606902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758362776496668672",
+          "start": 3,
+          "username": "LianLian29047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836771124870606902",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836083795956760625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LianLian29047: 各位中秋快乐~\n玖茗在这里祝各位客人\n团团圆圆：都能肏到自己喜欢的婊子，肏成性奴\n心想事成：喜欢的雌畜自己爬过来求肏\n财运亨通：疯狂羞辱贱畜然后狠狠爆金币，或者被爆也可以~（这样也算通了嘛）\n幸福安康：每天都能肏到母猪，舒服的高潮~ htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836771124870606902].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836771124870606902",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836771124870606902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836083792962052096"
+          ]
+        },
+        "author_id": "1758362776496668672",
+        "conversation_id": "1836083795956760625",
+        "created_at": "2024-09-17T16:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T17:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836083795956760625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kunkqwqvqn",
+              "end": 140,
+              "expanded_url": "https://twitter.com/LianLian29047/status/1836083795956760625/photo/1",
+              "media_key": "3_1836083792962052096",
+              "start": 117,
+              "url": "https://t.co/kUNkQwQvqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836083795956760625",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位中秋快乐~\n玖茗在这里祝各位客人\n团团圆圆：都能肏到自己喜欢的婊子，肏成性奴\n心想事成：喜欢的雌畜自己爬过来求肏\n财运亨通：疯狂羞辱贱畜然后狠狠爆金币，或者被爆也可以~（这样也算通了嘛）\n幸福安康：每天都能肏到母猪，舒服的高潮~ https://t.co/kUNkQwQvqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 80,
+          "like_count": 532,
+          "listed_count": 0,
+          "tweet_count": 653
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T05:29:58.000Z",
+        "description": "女仆学院的猫娘毕业生~玖茗，竭诚为各位主人服务~不管是做什么都可以呢，想要欺负玖茗或者被玖茗狠狠的欺负~女仆都在这里等着你的光临❤️欢迎大家哦~\ntg账号@jiuming521 时间周末晚上\n文媛35r/30m，60r/1h\n陪聊20r/30m\n黄文1000字/30r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "jiuming521"
+              }
+            ]
+          }
+        },
+        "id": "1758362776496668672",
+        "location": "猫娘学院",
+        "name": "女仆玖茗（猫娘文媛）（互推）",
+        "pinned_tweet_id": "1827712028322218223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758371668752547840/B1rvgCM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 93,
+          "like_count": 262,
+          "listed_count": 0,
+          "tweet_count": 244
+        },
+        "username": "LianLian29047",
+        "verified": false
+      }
+    ]
+  }
+}

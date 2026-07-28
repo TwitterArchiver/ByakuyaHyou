@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2070736885455241462",
+    "created_at": "2026-06-27T13:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860728777793639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1100281167176175617",
+          "start": 0,
+          "username": "anlan_mea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860728777793639",
+    "in_reply_to_user_id": "1100281167176175617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070736885455241462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anlan_mea 好烧☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2070736880136798208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy8OKPawAAqQUT.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2070736885455241462",
+        "created_at": "2026-06-27T13:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860728777793639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1100281167176175617",
+              "start": 0,
+              "username": "anlan_mea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860728777793639",
+        "in_reply_to_user_id": "1100281167176175617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070736885455241462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anlan_mea 好烧☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070736880136798208"
+          ]
+        },
+        "author_id": "1100281167176175617",
+        "conversation_id": "2070736885455241462",
+        "created_at": "2026-06-27T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070736885455241462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AJMOfQghp",
+              "end": 23,
+              "expanded_url": "https://x.com/anlan_mea/status/2070736885455241462/photo/1",
+              "media_key": "3_2070736880136798208",
+              "start": 0,
+              "url": "https://t.co/9AJMOfQghp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070736885455241462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4507,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9AJMOfQghp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 996,
+          "like_count": 1677,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-26T06:27:27.000Z",
+        "description": "",
+        "id": "1100281167176175617",
+        "name": "想成为美丽男娘",
+        "pinned_tweet_id": "2068297637821079771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862079858287022080/zbHwKNsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 2556,
+          "like_count": 333,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "anlan_mea",
+        "verified": false
+      }
+    ]
+  }
+}

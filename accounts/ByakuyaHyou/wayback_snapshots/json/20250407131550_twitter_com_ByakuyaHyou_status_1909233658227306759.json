@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1909233658227306759",
+    "created_at": "2025-04-07T13:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T14:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909233658227306759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "母人"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "反差婊"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "奴下奴"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "败北"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "男m"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "女s女m"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "母狗"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "母猪"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "贡奴"
+        },
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909233658227306759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909119025226875153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 平时拥有众多舔狗的你怎么换了副模样了？因为平时收到的送死狗太多，结果被宰杀后彻底暴露自己贱猪本性？你说你的那些奴看到你这副贱样，是失望呢还是因为反差更加兴奋了呢 #母人 #反差婊 #奴下奴 #败北 #男m #女s女m #母狗 #母猪 #贡奴 #ATM奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909233658227306759].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909233658227306759",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909233658227306759"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1909118945011134464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6NkMdbcAAu7bf.jpg",
+        "width": 2272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909118945011134464"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1909119025226875153",
+        "created_at": "2025-04-07T05:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909119025226875153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "母人"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "反差婊"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "败北"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "男m"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "女s女m"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "母狗"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "母猪"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "贡奴"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "废物绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFWu7CTzsg",
+              "end": 156,
+              "expanded_url": "https://x.com/yues666/status/1909119025226875153/photo/1",
+              "media_key": "3_1909118945011134464",
+              "start": 133,
+              "url": "https://t.co/yFWu7CTzsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909119025226875153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "平时拥有众多舔狗的你怎么换了副模样了？因为平时收到的送死狗太多，结果被宰杀后彻底暴露自己贱猪本性？你说你的那些奴看到你这副贱样，是失望呢还是因为反差更加兴奋了呢 #母人 #反差婊 #奴下奴 #败北 #男m #女s女m #母狗 #母猪 #贡奴 #ATM奴 #废物绿帽 https://t.co/yFWu7CTzsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 113,
+          "like_count": 1041,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1216
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！内容皆原创，君权神授，而教皇也不过是神的崇拜者，圣女只是能与神对话的神的奴隶，唯拥有斩龙弑神魔法的强大妖精及精灵可以与神对抗。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 132,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 109,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 11,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 163
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1905820159597855036",
+    "created_at": "2025-03-29T03:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T04:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905820159597855036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669288784939106304",
+          "start": 3,
+          "username": "amianjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905820159597855036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905811377991913595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amianjiang: 真是够变态的呀~喊姐姐叫妈妈❤️求着人家用脚底腋下帮你处理性欲💜\n用这么下流的方式射出来让你很爽是吗💋被脚底腋下奸污大脑🖤已经从一开始被动榨出变成闻到足底腋下就主动产生排精反应了呢💕\n闷在熟女雌臭中射到彻底变成易泄痴臭白痴好不好🖤作为回报➹每天都…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905820159597855036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905820159597855036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905820159597855036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_1905811375076802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnLNWSRaAAAxg0i.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905811375076802560"
+          ]
+        },
+        "author_id": "1669288784939106304",
+        "conversation_id": "1905811377991913595",
+        "created_at": "2025-03-29T02:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905811377991913595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "气味"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "调教"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qercGeMGwH",
+              "end": 168,
+              "expanded_url": "https://x.com/amianjiang/status/1905811377991913595/photo/1",
+              "media_key": "3_1905811375076802560",
+              "start": 145,
+              "url": "https://t.co/qercGeMGwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905811377991913595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真是够变态的呀~喊姐姐叫妈妈❤️求着人家用脚底腋下帮你处理性欲💜\n用这么下流的方式射出来让你很爽是吗💋被脚底腋下奸污大脑🖤已经从一开始被动榨出变成闻到足底腋下就主动产生排精反应了呢💕\n闷在熟女雌臭中射到彻底变成易泄痴臭白痴好不好🖤作为回报➹每天都会把你熏到白眼的🖤\n#气味 #调教 #羞辱 https://t.co/qercGeMGwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条\n最最最重要的姐姐大人:@Linyouyi01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Linyouyi01"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903655194061332481/bSWNx_Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 107,
+          "like_count": 973,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1147
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:21:31.000Z",
+        "description": "啊呀~过来找阿眠了呢♫感谢您的驻足w~不论是想要玩死人家的💗还是想被人家玩死的🖤欢迎和人家讨论性癖喔♡个人势文援姬百变阿眠为您服务~绝对的一对一优质对戏文爱~满足欲望·交往朋友的好对象♫全XP精通无雷点~您的幻想就让人家把它变成现实叭♡\n🚪3443654158或是3820276571♡来找人家玩叭♡会爽死的哦💗",
+        "id": "1669288784939106304",
+        "location": "心底的期待♡",
+        "name": "阿眠呐~(互推)",
+        "pinned_tweet_id": "1865384597548384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855188095752351744/V0mvEMjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 33,
+          "like_count": 439,
+          "listed_count": 14,
+          "media_count": 185,
+          "tweet_count": 475
+        },
+        "username": "amianjiang",
+        "verified": false
+      }
+    ]
+  }
+}

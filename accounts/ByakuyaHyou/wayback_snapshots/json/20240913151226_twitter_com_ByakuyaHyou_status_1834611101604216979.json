@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834611101604216979",
+    "created_at": "2024-09-13T15:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T16:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834611101604216979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809617997755236352",
+          "start": 3,
+          "username": "xxx1172303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834611101604216979",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834564927379714423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xxx1172303: 被主人大胸夹住，肆意玩弄小鸡吧脸红到丧志🖤\n本主眼里，小贱鸡吧就是玩具！有时候喜欢温柔的玩～让你欲仙欲死！有时候喜欢粗暴的玩～让你痛不欲生！不管是爽，还是痛都是由本主决定🖤\n贱命玩意可没有选择的权利，玩到主人玩意再让你满地泄精哦🖤 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834611101604216979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834611101604216979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834611101604216979"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834564919758647296"
+          ]
+        },
+        "author_id": "1809617997755236352",
+        "conversation_id": "1834564927379714423",
+        "created_at": "2024-09-13T12:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834564927379714423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azkldmuhzp",
+              "end": 139,
+              "expanded_url": "https://twitter.com/xxx1172303/status/1834564927379714423/photo/1",
+              "media_key": "3_1834564919758647296",
+              "start": 116,
+              "url": "https://t.co/AzKLdMUHZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834564927379714423",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 941,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "被主人大胸夹住，肆意玩弄小鸡吧脸红到丧志🖤\n本主眼里，小贱鸡吧就是玩具！有时候喜欢温柔的玩～让你欲仙欲死！有时候喜欢粗暴的玩～让你痛不欲生！不管是爽，还是痛都是由本主决定🖤\n贱命玩意可没有选择的权利，玩到主人玩意再让你满地泄精哦🖤 https://t.co/AzKLdMUHZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 80,
+          "like_count": 489,
+          "listed_count": 0,
+          "tweet_count": 591
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:58:55.000Z",
+        "description": "女Dom🖤收锁奴、绿帽奴、足奴🖤接调教、音频、文爱🖤Q 3822300523🖤遇见我就证明了你的属性，跪下贱狗🖤",
+        "id": "1809617997755236352",
+        "name": "晓彤💗（互推私）",
+        "pinned_tweet_id": "1818719651272220886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810997756074545154/1xe6VPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 45,
+          "like_count": 191,
+          "listed_count": 4,
+          "tweet_count": 228
+        },
+        "username": "xxx1172303",
+        "verified": false
+      }
+    ]
+  }
+}

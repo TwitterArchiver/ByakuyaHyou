@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1896967925300609280",
+    "created_at": "2025-03-04T16:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896967925300609280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850457328447053824",
+          "start": 3,
+          "username": "mrfzxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896967925300609280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896854854687232069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrfzxi: 【臭脚调教的第三天】\n啧啧，真是没出息的东西♥\n才两天就已经小的看不见了♥连勃起都不行了吗♥\n我这丝袜上是不是有点特别的花纹♥\n别多想，这只是我随便挑的好看图案罢了♥\n废物男奴可不许对着你的祖宗乱想哦，毕竟祖宗的臭脚就已经是对你的最大赏赐了呢♥\n#媚黑女…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896967925300609280].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896967925300609280",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896967925300609280"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1896854851298230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlL7b_IbgAAzAPp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1896854849385320448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlL7b4AW0AA2Ro7.jpg",
+        "width": 832
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1896854852275417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlL7cCxaMAAflna.jpg",
+        "width": 873
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1896854848693587968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlL7b1bb0AAkWO1.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896854851298230272",
+            "3_1896854849385320448",
+            "3_1896854852275417088",
+            "3_1896854848693587968"
+          ]
+        },
+        "author_id": "1850457328447053824",
+        "conversation_id": "1896854854687232069",
+        "created_at": "2025-03-04T09:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896854854687232069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "媚黑女王"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "恋足训练"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "女S"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "臭脚S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUalEkp95m",
+              "end": 171,
+              "expanded_url": "https://x.com/mrfzxi/status/1896854854687232069/photo/1",
+              "media_key": "3_1896854851298230272",
+              "start": 148,
+              "url": "https://t.co/zUalEkp95m"
+            },
+            {
+              "display_url": "pic.x.com/zUalEkp95m",
+              "end": 171,
+              "expanded_url": "https://x.com/mrfzxi/status/1896854854687232069/photo/1",
+              "media_key": "3_1896854849385320448",
+              "start": 148,
+              "url": "https://t.co/zUalEkp95m"
+            },
+            {
+              "display_url": "pic.x.com/zUalEkp95m",
+              "end": 171,
+              "expanded_url": "https://x.com/mrfzxi/status/1896854854687232069/photo/1",
+              "media_key": "3_1896854852275417088",
+              "start": 148,
+              "url": "https://t.co/zUalEkp95m"
+            },
+            {
+              "display_url": "pic.x.com/zUalEkp95m",
+              "end": 171,
+              "expanded_url": "https://x.com/mrfzxi/status/1896854854687232069/photo/1",
+              "media_key": "3_1896854848693587968",
+              "start": 148,
+              "url": "https://t.co/zUalEkp95m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896854854687232069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1083,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "【臭脚调教的第三天】\n啧啧，真是没出息的东西♥\n才两天就已经小的看不见了♥连勃起都不行了吗♥\n我这丝袜上是不是有点特别的花纹♥\n别多想，这只是我随便挑的好看图案罢了♥\n废物男奴可不许对着你的祖宗乱想哦，毕竟祖宗的臭脚就已经是对你的最大赏赐了呢♥\n#媚黑女王 #恋足训练 #文爱 #女S #臭脚S https://t.co/zUalEkp95m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 88,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 896
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:39:52.000Z",
+        "description": "这里是夕♥互推文媛♥任何前来的人都会享受来自大炎风俗的至高待遇♥不需要考虑任何东西♥展现你内心纯粹的欲望吧♥QQ门牌：3875887471♥有需要互推的可以私信呢♥欢迎更多的母猪和男奴来找夕玩吧♥",
+        "id": "1850457328447053824",
+        "location": "肉棒教会",
+        "name": "大炎岁相—夕宝（欢迎互推）",
+        "pinned_tweet_id": "1893222969708548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566890211815424/ojXY34Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 114,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 319
+        },
+        "username": "mrfzxi",
+        "verified": false
+      }
+    ]
+  }
+}

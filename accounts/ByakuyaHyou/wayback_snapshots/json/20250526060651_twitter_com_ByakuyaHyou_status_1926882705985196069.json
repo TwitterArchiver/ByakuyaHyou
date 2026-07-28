@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1926882705985196069",
+    "created_at": "2025-05-26T06:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T07:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926882705985196069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "贡奴"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "贡猪"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "贡畜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842135432953278464",
+          "start": 3,
+          "username": "yues666"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.",
+          "display_url": "wheelofnames.com/zh-CN/zuj-cpv",
+          "end": 124,
+          "expanded_url": "https://wheelofnames.com/zh-CN/zuj-cpv",
+          "start": 101,
+          "status": 200,
+          "title": "Wheel of Names",
+          "unwound_url": "https://wheelofnames.com/zh-CN/zuj-cpv",
+          "url": "https://t.co/sq1brbgdib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926882705985196069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925928655458271266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yues666: 月月发现一些贱畜不敢私聊，也不知道翻以前的帖子进群，所以月月弄了个贱畜自嗨转盘\n复制网址，线上就可以进行自助式犯贱白给，只需点击下面开关，然后稍等一会加载完成，就能开启快乐之路https://t.co/sq1brbgdib\n#贡奴 #贡猪 #贡畜 #A…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926882705985196069].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926882705985196069",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926882705985196069"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_1925928645232607232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpF5hnWwAAZ0uM.jpg",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925928645232607232"
+          ]
+        },
+        "author_id": "1842135432953278464",
+        "conversation_id": "1925928655458271266",
+        "created_at": "2025-05-23T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925928655458271266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "贡奴"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "贡猪"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "贡畜"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "胁迫控制"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "绿帽羞辱"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "女绿"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "败北凌辱"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "貢ぎマゾ"
+            },
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "貢ぎ奴隷"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.",
+              "display_url": "wheelofnames.com/zh-CN/zuj-cpv",
+              "end": 111,
+              "expanded_url": "https://wheelofnames.com/zh-CN/zuj-cpv",
+              "start": 88,
+              "status": 200,
+              "title": "Wheel of Names",
+              "unwound_url": "https://wheelofnames.com/zh-CN/zuj-cpv",
+              "url": "https://t.co/sq1brbgdib"
+            },
+            {
+              "display_url": "pic.x.com/9amx71hQqz",
+              "end": 187,
+              "expanded_url": "https://x.com/yues666/status/1925928655458271266/photo/1",
+              "media_key": "3_1925928645232607232",
+              "start": 164,
+              "url": "https://t.co/9amx71hQqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925928655458271266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2279,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "月月发现一些贱畜不敢私聊，也不知道翻以前的帖子进群，所以月月弄了个贱畜自嗨转盘\n复制网址，线上就可以进行自助式犯贱白给，只需点击下面开关，然后稍等一会加载完成，就能开启快乐之路https://t.co/sq1brbgdib\n#贡奴 #贡猪 #贡畜 #ATM奴 #胁迫控制 #绿帽羞辱 #女绿 #败北凌辱 #貢ぎマゾ #貢ぎ奴隷 https://t.co/9amx71hQqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 120,
+          "like_count": 1235,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1444
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:31:37.000Z",
+        "description": "我是病娇妖精族哦！媒体内容皆原创，推广自辨。神亦有强弱之分，众神向我伏首，俯瞰三界六道，藐视人间百态。会故意吊着奴折磨奴，给钱也不一定能让我开心。妖精到底有没有尾巴呢？另一个号https://t.co/mnr0kgWHMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Ayue223?s=09",
+                "end": 111,
+                "expanded_url": "https://twitter.com/Ayue223?s=09",
+                "start": 88,
+                "url": "https://t.co/mnr0kgWHMR"
+              }
+            ]
+          }
+        },
+        "id": "1842135432953278464",
+        "location": "公猪母人头顶",
+        "name": "传说的魔法师阿月",
+        "pinned_tweet_id": "1881706933830512939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891270895278440448/F803dU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 12,
+          "like_count": 297,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 255
+        },
+        "username": "yues666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940254910710522003",
+    "created_at": "2025-07-02T03:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T04:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940254910710522003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940254910710522003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939978690135290257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: “姐姐，好像那边有人在看咱们耶~”\n嘻嘻~是在看咱们的脚吧♡这种家伙就叫变态贱狗哦♡\n只要这样把脚叠在一起♡肉棒就会自动起立♡狗脑妄想着插进去♡\n在黑丝白丝四只脚底并拢的温热软腻足穴里狠狠摩擦自己杂鱼短小的废物狗签~\n再闻着鞋口足气早泄♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940254910710522003].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940254910710522003",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940254910710522003"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1939978687006326784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwwVl7XQAAUWXz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939978687006326784"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "conversation_id": "1939978690135290257",
+        "created_at": "2025-07-01T09:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939978690135290257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lXsVpoYxa",
+              "end": 165,
+              "expanded_url": "https://x.com/loveforallLoli/status/1939978690135290257/photo/1",
+              "media_key": "3_1939978687006326784",
+              "start": 142,
+              "url": "https://t.co/9lXsVpoYxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939978690135290257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2667,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "“姐姐，好像那边有人在看咱们耶~”\n嘻嘻~是在看咱们的脚吧♡这种家伙就叫变态贱狗哦♡\n只要这样把脚叠在一起♡肉棒就会自动起立♡狗脑妄想着插进去♡\n在黑丝白丝四只脚底并拢的温热软腻足穴里狠狠摩擦自己杂鱼短小的废物狗签~\n再闻着鞋口足气早泄♡用自己下贱恶心的精子玷污染白女孩子高贵的丝足 https://t.co/9lXsVpoYxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 120,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1497
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号QQ：3325582407 纸飞机：https://t.co/ECeDcQdxyO 30元/30分，下午至晚上2点\n呀吼~这里是伊诺大人♡擅长足♡触手♡雌堕♡犬调教♡榨金♡等等，跪倒舔鞋献上金币和脑子叭♡ 目前只当S，性奴：乖璃，阿雪，支持双人单捏~门槛10元（下单可抵）小号：@sama164956",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "sama164956"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 44,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 21,
+                "url": "https://t.co/ECeDcQdxyO"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "location": "都看伊诺大人主页了，还不快上门臣服♡",
+        "name": "伊诺sama~♡",
+        "pinned_tweet_id": "1853692506686534137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 139,
+          "like_count": 5100,
+          "listed_count": 29,
+          "media_count": 266,
+          "tweet_count": 5451
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048696052161896448",
+        "7_2048715817483997185"
+      ],
+      "media_source_tweet_id": [
+        "2048716037907210583",
+        "2048716037907210583"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2059210965229691372",
+    "created_at": "2026-05-26T09:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059210965229691372"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "伪娘"
+        },
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022604806817492992",
+          "start": 3,
+          "username": "ytu119073"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yOgfRvpSJC",
+          "end": 68,
+          "expanded_url": "https://x.com/ytu119073/status/2048716037907210583/video/1",
+          "media_key": "3_2048696052161896448",
+          "start": 45,
+          "url": "https://t.co/yOgfRvpSJC"
+        },
+        {
+          "display_url": "pic.x.com/yOgfRvpSJC",
+          "end": 68,
+          "expanded_url": "https://x.com/ytu119073/status/2048716037907210583/video/1",
+          "media_key": "7_2048715817483997185",
+          "start": 45,
+          "url": "https://t.co/yOgfRvpSJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059210965229691372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048716037907210583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ytu119073: 老师这是妃咲最近学的哦~\n#男娘 #伪娘 #cosplay https://t.co/yOgfRvpSJC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059210965229691372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059210965229691372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059210965229691372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048696052161896448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5uNHna4AAPj9I.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 105000,
+        "height": 720,
+        "media_key": "7_2048715817483997185",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048715817483997185/pu/img/s1mfXC0fq9W_tcbz.jpg",
+        "public_metrics": {
+          "view_count": 2875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048715817483997185/pu/vid/avc1/480x270/wOX4v40AyyytF2sy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048715817483997185/pu/vid/avc1/640x360/wDil_wyceRSpJsew.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048715817483997185/pu/vid/avc1/1280x720/Q7NWPxPm9_esXVqn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048715817483997185/pu/pl/h-Oo5384W6SEhux5.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048696052161896448",
+            "7_2048715817483997185"
+          ]
+        },
+        "author_id": "2022604806817492992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2048716037907210583",
+        "created_at": "2026-04-27T10:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048716037907210583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOgfRvpSJC",
+              "end": 53,
+              "expanded_url": "https://x.com/ytu119073/status/2048716037907210583/video/1",
+              "media_key": "3_2048696052161896448",
+              "start": 30,
+              "url": "https://t.co/yOgfRvpSJC"
+            },
+            {
+              "display_url": "pic.x.com/yOgfRvpSJC",
+              "end": 53,
+              "expanded_url": "https://x.com/ytu119073/status/2048716037907210583/video/1",
+              "media_key": "7_2048715817483997185",
+              "start": 30,
+              "url": "https://t.co/yOgfRvpSJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048716037907210583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 11620,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "老师这是妃咲最近学的哦~\n#男娘 #伪娘 #cosplay https://t.co/yOgfRvpSJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 639,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1608
+        },
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T09:32:33.000Z",
+        "description": "爱去漫展在南宁🤓互推直接转，看到会回推\nQQ2964472023加QQ了解课表哦~",
+        "id": "2022604806817492992",
+        "location": "南宁",
+        "name": "芋头（互推）",
+        "pinned_tweet_id": "2057723849894932754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022605132521967616/fe4ccczF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 136,
+          "like_count": 111,
+          "listed_count": 15,
+          "media_count": 21,
+          "tweet_count": 134
+        },
+        "username": "ytu119073",
+        "verified": false
+      }
+    ]
+  }
+}

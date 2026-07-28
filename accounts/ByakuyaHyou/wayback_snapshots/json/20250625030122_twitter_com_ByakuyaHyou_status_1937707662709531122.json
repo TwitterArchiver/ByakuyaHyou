@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1937707662709531122",
+    "created_at": "2025-06-25T03:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937707662709531122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937707662709531122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937057672765075495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「小弟弟… 肉棒正在一抖一抖的喔♡」\n\n紫灵学姐今天特别邀请了你到家里，美其名曰为了期末复习。你到了学姐家门口还来不及按门铃便被拉拽着进屋，你才反应过来今天的学姐穿着粉色裸体围裙的样子推倒在你身上，露出来的肌肤跟乳沟让你呼吸变重，肉棒变得肿胀。…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937707662709531122].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937707662709531122",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937707662709531122"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1937057669673558016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHPsAZWoAA2T1k.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937057669673558016"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1937057672765075495",
+        "created_at": "2025-06-23T07:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937057672765075495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMCmFfQocp",
+              "end": 164,
+              "expanded_url": "https://x.com/ZiYing12494/status/1937057672765075495/photo/1",
+              "media_key": "3_1937057669673558016",
+              "start": 141,
+              "url": "https://t.co/AMCmFfQocp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937057672765075495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "文媛"
+              },
+              {
+                "end": 150,
+                "start": 145,
+                "tag": "裸体围裙"
+              },
+              {
+                "end": 154,
+                "start": 151,
+                "tag": "榨精"
+              }
+            ]
+          },
+          "text": "「小弟弟… 肉棒正在一抖一抖的喔♡」\n\n紫灵学姐今天特别邀请了你到家里，美其名曰为了期末复习。你到了学姐家门口还来不及按门铃便被拉拽着进屋，你才反应过来今天的学姐穿着粉色裸体围裙的样子推倒在你身上，露出来的肌肤跟乳沟让你呼吸变重，肉棒变得肿胀。然后开始了被学姐一轮接一轮的榨精…♡\n#文媛 #裸体围裙 #榨精"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3499,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "「小弟弟… 肉棒正在一抖一抖的喔♡」\n\n紫灵学姐今天特别邀请了你到家里，美其名曰为了期末复习。你到了学姐家门口还来不及按门铃便被拉拽着进屋，你才反应过来今天的学姐穿着粉色裸体围裙的样子推倒在你身上，露出来的肌肤跟乳沟让你呼吸变重，肉棒变得肿胀。然后开始了被学姐一轮接一轮的榨精…♡ https://t.co/AMCmFfQocp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 119,
+          "like_count": 1266,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1473
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "初次见面，这里是合格的纯爱女友向文援姬紫灵\n当然NTR/四爱/主仆的也接得不少了，除了软萌弱受之外也是个会温柔地狠狠惩罚、榨精你的紫灵喔\n当然，正能量满满的紫灵也能听你倾诉，传给你满满的情绪价值！\nQQ: 3963778060",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1914511524733108622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923211522224046080/jC2o4x5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 79,
+          "like_count": 828,
+          "listed_count": 6,
+          "media_count": 136,
+          "tweet_count": 512
+        },
+        "username": "ZiYing12494",
+        "verified": true
+      }
+    ]
+  }
+}

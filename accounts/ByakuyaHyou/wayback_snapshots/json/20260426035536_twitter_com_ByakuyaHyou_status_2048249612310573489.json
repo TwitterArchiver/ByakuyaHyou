@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2048042185409585239",
+    "created_at": "2026-04-26T03:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048249612310573489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1232955572481228800",
+          "start": 0,
+          "username": "lrhtony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048249612310573489",
+    "in_reply_to_user_id": "1232955572481228800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048042185409585239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrhtony 可爱我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048042175976570880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbghAaAAAHIpg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2048042185409585239",
+        "created_at": "2026-04-26T03:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048249612310573489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1232955572481228800",
+              "start": 0,
+              "username": "lrhtony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048249612310573489",
+        "in_reply_to_user_id": "1232955572481228800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048042185409585239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrhtony 可爱我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048042175976570880"
+          ]
+        },
+        "author_id": "1232955572481228800",
+        "conversation_id": "2048042185409585239",
+        "created_at": "2026-04-25T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048042185409585239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ud2Yv5EiX",
+              "end": 59,
+              "expanded_url": "https://x.com/lrhtony/status/2048042185409585239/photo/1",
+              "media_key": "3_2048042175976570880",
+              "start": 36,
+              "url": "https://t.co/2ud2Yv5EiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048042185409585239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原皮，没化妆\n修完假发刘海随便拍的，衣服还没有\n有点手残，修的不是很好 https://t.co/2ud2Yv5EiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 237,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1522
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T09:08:21.000Z",
+        "description": "中国人｜日本語勉強中｜ラブライブ / きらら作品 / 百合 / 男の娘 が好き｜逆向初心者🔰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lrhtony.cn",
+                "end": 23,
+                "expanded_url": "https://lrhtony.cn",
+                "start": 0,
+                "url": "https://t.co/71XYgAXQbD"
+              }
+            ]
+          }
+        },
+        "id": "1232955572481228800",
+        "location": "Numazu-shi, Shizuoka",
+        "name": "(*/ω＼*)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517727673547902976/ug1CSQ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 1497,
+          "like_count": 72581,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/71XYgAXQbD",
+        "username": "lrhtony",
+        "verified": false
+      }
+    ]
+  }
+}

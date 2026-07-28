@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1897749385578188864",
+    "created_at": "2025-03-06T20:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T21:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897749385578188864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897749385578188864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897178375967690761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 这边是依奈哦～\n一个为了生活奔波的苦逼大学牲趴(目前因为生病原因在调养喵)\n下面是新的菜单哦～\n还在找适合自己的方面啦～\ns向🖤m向❤️都可以哦～\n为了生活！要开始疯狂接单了呢\n依奈小姐期待着与你相见～\n拜托啦～喜欢依奈的话，可以随时过来哦\n(…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1897178365750353920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQhrAYbIAAxfzF.jpg",
+        "width": 293
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1897178365771259904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQhrAdaIAAOGxH.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897749385578188864",
+        "created_at": "2025-03-06T20:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T21:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897749385578188864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572765868425383936",
+              "start": 3,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897749385578188864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897178375967690761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ByakuyaHyou: 这边是依奈哦～\n一个为了生活奔波的苦逼大学牲趴(目前因为生病原因在调养喵)\n下面是新的菜单哦～\n还在找适合自己的方面啦～\ns向🖤m向❤️都可以哦～\n为了生活！要开始疯狂接单了呢\n依奈小姐期待着与你相见～\n拜托啦～喜欢依奈的话，可以随时过来哦\n(…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897178365750353920",
+            "3_1897178365771259904"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1897178375967690761",
+        "created_at": "2025-03-05T06:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897178375967690761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文媛"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "语调"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ta2jIUapL",
+              "end": 174,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1897178375967690761/photo/1",
+              "media_key": "3_1897178365750353920",
+              "start": 151,
+              "url": "https://t.co/7Ta2jIUapL"
+            },
+            {
+              "display_url": "pic.x.com/7Ta2jIUapL",
+              "end": 174,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1897178375967690761/photo/1",
+              "media_key": "3_1897178365771259904",
+              "start": 151,
+              "url": "https://t.co/7Ta2jIUapL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897178375967690761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1104,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这边是依奈哦～\n一个为了生活奔波的苦逼大学牲趴(目前因为生病原因在调养喵)\n下面是新的菜单哦～\n还在找适合自己的方面啦～\ns向🖤m向❤️都可以哦～\n为了生活！要开始疯狂接单了呢\n依奈小姐期待着与你相见～\n拜托啦～喜欢依奈的话，可以随时过来哦\n(涉三方面只有语音哦～其他不喜欢涉及喵)\n#文媛  #语调 https://t.co/7Ta2jIUapL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以随时来聊天啦\n喜欢的话点个关注转发那就更好啦\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(非常可爱的说～可以接双人喵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "mrfzxi"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 93,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 949
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

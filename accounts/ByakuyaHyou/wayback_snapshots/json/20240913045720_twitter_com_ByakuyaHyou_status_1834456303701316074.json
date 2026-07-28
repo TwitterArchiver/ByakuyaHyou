@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834456303701316074",
+    "created_at": "2024-09-13T04:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T05:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834456303701316074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834456303701316074",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823336461258629632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 旅行者，请明白点尊卑可以吗?你只不过是个高清摄像头罢了，允许你留在身边只是黑爹大人的命令罢了~呐~毕竟没有你怎么能记录我跟黑爹大人的美好瞬间呢~你只需要在妈妈和黑爹大人doi时候跪在地上~用手撸动自己三厘米香肠然后磕头感激黑爹祖宗就行了呢…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834456303701316074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834456303701316074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834456303701316074"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823336458217771008"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1823336461258629632",
+        "created_at": "2024-08-13T12:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T13:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823336461258629632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文爱"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "文援"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "媚黑"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "NTR"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "媚黑婊"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "奴下奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpkkfg1y8g",
+              "end": 174,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1823336461258629632/photo/1",
+              "media_key": "3_1823336458217771008",
+              "start": 151,
+              "url": "https://t.co/KpKKfg1Y8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823336461258629632",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 7934,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者，请明白点尊卑可以吗?你只不过是个高清摄像头罢了，允许你留在身边只是黑爹大人的命令罢了~呐~毕竟没有你怎么能记录我跟黑爹大人的美好瞬间呢~你只需要在妈妈和黑爹大人doi时候跪在地上~用手撸动自己三厘米香肠然后磕头感激黑爹祖宗就行了呢~废物~ #文爱 #文援 #媚黑 #NTR #媚黑婊 #奴下奴 https://t.co/KpKKfg1Y8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 81,
+          "like_count": 484,
+          "listed_count": 0,
+          "tweet_count": 586
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 4,
+          "tweet_count": 95
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

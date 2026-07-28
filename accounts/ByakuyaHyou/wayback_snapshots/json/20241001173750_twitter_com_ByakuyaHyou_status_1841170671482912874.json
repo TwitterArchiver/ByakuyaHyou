@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1840972244115439616",
+        "3_1840972305360691200"
+      ],
+      "media_source_tweet_id": [
+        "1840972314734969147",
+        "1840972314734969147"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1841170671482912874",
+    "created_at": "2024-10-01T17:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T18:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841170671482912874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "男m"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "女s"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "任务指令"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640902506313031681",
+          "start": 3,
+          "username": "hufford_1941"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6HVQh3dfh",
+          "end": 94,
+          "expanded_url": "https://x.com/hufford_1941/status/1840972314734969147/video/1",
+          "media_key": "7_1840972244115439616",
+          "start": 71,
+          "url": "https://t.co/P6HVQh3dfh"
+        },
+        {
+          "display_url": "pic.x.com/P6HVQh3dfh",
+          "end": 94,
+          "expanded_url": "https://x.com/hufford_1941/status/1840972314734969147/video/1",
+          "media_key": "3_1840972305360691200",
+          "start": 71,
+          "url": "https://t.co/P6HVQh3dfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841170671482912874",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840972314734969147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hufford_1941: 十一假期了死妈贱狗滚进来参拜我们 被我们耍滚进来磕头 磕一次你亲妈被车撞一次 #男m #女s #任务指令 https://t.co/P6HVQh3dfh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841170671482912874].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841170671482912874",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841170671482912874"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22266,
+        "height": 1280,
+        "media_key": "7_1840972244115439616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1840972244115439616/pu/img/UiXJts9Nsrml4S7g.jpg",
+        "public_metrics": {
+          "view_count": 691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840972244115439616/pu/vid/avc1/320x568/zB0fxi3sE0kmkw9J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840972244115439616/pu/vid/avc1/480x852/El4qRZGOTJjS8KC5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840972244115439616/pu/vid/avc1/720x1280/5SLbnq_7opODYvBO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1840972244115439616/pu/pl/2wk9ECE8UykS8EHB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1840972305360691200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYxyjs5bIAAPBsq.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840972244115439616",
+            "3_1840972305360691200"
+          ]
+        },
+        "author_id": "1640902506313031681",
+        "conversation_id": "1840972314734969147",
+        "created_at": "2024-10-01T04:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T05:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840972314734969147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男m"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女s"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "任务指令"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6HVQh3dfh",
+              "end": 76,
+              "expanded_url": "https://x.com/hufford_1941/status/1840972314734969147/video/1",
+              "media_key": "7_1840972244115439616",
+              "start": 53,
+              "url": "https://t.co/P6HVQh3dfh"
+            },
+            {
+              "display_url": "pic.x.com/P6HVQh3dfh",
+              "end": 76,
+              "expanded_url": "https://x.com/hufford_1941/status/1840972314734969147/video/1",
+              "media_key": "3_1840972305360691200",
+              "start": 53,
+              "url": "https://t.co/P6HVQh3dfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840972314734969147",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4411,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "十一假期了死妈贱狗滚进来参拜我们 被我们耍滚进来磕头 磕一次你亲妈被车撞一次 #男m #女s #任务指令 https://t.co/P6HVQh3dfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 84,
+          "like_count": 589,
+          "listed_count": 0,
+          "tweet_count": 738
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T02:23:43.000Z",
+        "description": "有门槛 Q592025058\n专业玩弄各种无脑大傻逼",
+        "id": "1640902506313031681",
+        "location": "Boulder",
+        "name": "菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836613348819111937/ci7qBo_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "hufford_1941",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824808602550571300",
+    "created_at": "2024-08-17T14:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T15:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824808602550571300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "足交"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "SM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818321272440565760",
+          "start": 3,
+          "username": "ZiYing12494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824808602550571300",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824801668346855892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiYing12494: 「唷？瞧你那下贱的样子，快被紫灵用脚踩喷了吧？」\n「请我允许你射精？你是不是搞错了什么，我记得我说过要坚持10分钟吧？」\n「瞧瞧你那充血又不争气的早泄肉棒」\n「现在可不是什么疼爱奴仆的戏码，而是属于我的娱乐时间，听明白了吗♡」\n#足交 #SM…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824808602550571300].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824808602550571300",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824808602550571300"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824801542492545024"
+          ]
+        },
+        "author_id": "1818321272440565760",
+        "conversation_id": "1824801668346855892",
+        "created_at": "2024-08-17T13:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T14:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824801668346855892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "足交"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "SM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3grqjhbnf",
+              "end": 145,
+              "expanded_url": "https://twitter.com/ZiYing12494/status/1824801668346855892/photo/1",
+              "media_key": "3_1824801542492545024",
+              "start": 122,
+              "url": "https://t.co/h3GrqJHBNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824801668346855892",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「唷？瞧你那下贱的样子，快被紫灵用脚踩喷了吧？」\n「请我允许你射精？你是不是搞错了什么，我记得我说过要坚持10分钟吧？」\n「瞧瞧你那充血又不争气的早泄肉棒」\n「现在可不是什么疼爱奴仆的戏码，而是属于我的娱乐时间，听明白了吗♡」\n#足交 #SM https://t.co/h3GrqJHBNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 38,
+          "like_count": 65,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:22:34.000Z",
+        "description": "你好，这里是紫灵，是个新出道的文援姬\n可攻可受，不过攻的玩法稍微有些欠缺请多指教\n也欢迎把我当情绪垃圾桶，满满的正能量献给您",
+        "id": "1818321272440565760",
+        "name": "绯樱紫灵【文援姬】",
+        "pinned_tweet_id": "1821384731646406679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818322567012495360/bNVmhhLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 27,
+          "like_count": 176,
+          "listed_count": 0,
+          "tweet_count": 82
+        },
+        "username": "ZiYing12494",
+        "verified": false
+      }
+    ]
+  }
+}

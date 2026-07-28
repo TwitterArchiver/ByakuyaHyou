@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1940977346770882944",
+    "created_at": "2025-07-04T03:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T04:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940977346770882944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1719475394720485376",
+          "start": 3,
+          "username": "msxzqnjmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940977346770882944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808687940358566322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @msxzqnjmk: 咚——\n“蒂蒂，低级作战记录就不用看了，我给你准备…….”\n\n喘着粗气推门而入，猝不及防的开门声让正在激烈热吻的两人转过目光\n“诶...博士？嗯♡...你来干什么的...嗯啊♡..东西放那里就好了...”\n来不及把嘴角的黑色毛发吞掉，脸颊透着淡淡红…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940977346770882944].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940977346770882944",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940977346770882944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1808687933077270529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRnAF6CbMAEFePd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1808687933077270529"
+          ]
+        },
+        "author_id": "1719475394720485376",
+        "conversation_id": "1808687940358566322",
+        "created_at": "2024-07-04T02:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T03:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808687940358566322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3E6rp2F3Ra",
+              "end": 178,
+              "expanded_url": "https://x.com/msxzqnjmk/status/1808687940358566322/photo/1",
+              "media_key": "3_1808687933077270529",
+              "start": 155,
+              "url": "https://t.co/3E6rp2F3Ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808687940358566322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 997,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "咚——\n“蒂蒂，低级作战记录就不用看了，我给你准备…….”\n\n喘着粗气推门而入，猝不及防的开门声让正在激烈热吻的两人转过目光\n“诶...博士？嗯♡...你来干什么的...嗯啊♡..东西放那里就好了...”\n来不及把嘴角的黑色毛发吞掉，脸颊透着淡淡红晕，在半空搅拌到有些恍惚的眼神让人看起来十分色气\n\n＃性幻想 https://t.co/3E6rp2F3Ra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 120,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1504
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T22:04:23.000Z",
+        "description": "初次见面，称呼我桃饱或你喜欢的就好\n喜欢并且擅长\\文爱\\写作，目前还在练习恋活\n\n是一位知心“性”大姐姐，出没时间是在下午和晚上，客人请走这边\n\n企鹅:3970158322（有电报，但是一般不用）\n芝士老婆: @BeiMao99093\n注:不涉三\\转推请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "BeiMao99093"
+              }
+            ]
+          }
+        },
+        "id": "1719475394720485376",
+        "location": "不知名的小吃店",
+        "name": "芙桃逗姜姬",
+        "pinned_tweet_id": "1869650333007589860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936865782371151872/xd0s6J7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3651,
+          "following_count": 109,
+          "like_count": 377,
+          "listed_count": 21,
+          "media_count": 920,
+          "tweet_count": 3519
+        },
+        "username": "msxzqnjmk",
+        "verified": false
+      }
+    ]
+  }
+}

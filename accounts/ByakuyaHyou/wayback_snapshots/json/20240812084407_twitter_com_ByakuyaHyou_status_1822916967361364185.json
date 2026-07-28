@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822916952106680320",
+        "3_1822916936214441984"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1822916967361364185",
+    "created_at": "2024-08-12T08:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T09:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822916967361364185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lrkphu30ap",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822916967361364185/photo/1",
+          "media_key": "3_1822916952106680320",
+          "start": 16,
+          "url": "https://t.co/LRkPhU30ap"
+        },
+        {
+          "display_url": "pic.x.com/lrkphu30ap",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822916967361364185/photo/1",
+          "media_key": "3_1822916936214441984",
+          "start": 16,
+          "url": "https://t.co/LRkPhU30ap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822916967361364185",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文爱记录哒~战败的魔法少女哦~ https://t.co/LRkPhU30ap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1822916952106680320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUxNT0lbQAAcIst.jpg",
+        "width": 573
+      },
+      {
+        "height": 1300,
+        "media_key": "3_1822916936214441984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUxNS5Ya8AAtvT5.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822916952106680320",
+            "3_1822916936214441984"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1822916967361364185",
+        "created_at": "2024-08-12T08:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T09:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822916967361364185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lrkphu30ap",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822916967361364185/photo/1",
+              "media_key": "3_1822916952106680320",
+              "start": 16,
+              "url": "https://t.co/LRkPhU30ap"
+            },
+            {
+              "display_url": "pic.x.com/lrkphu30ap",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ByakuyaHyou/status/1822916967361364185/photo/1",
+              "media_key": "3_1822916936214441984",
+              "start": 16,
+              "url": "https://t.co/LRkPhU30ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822916967361364185",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文爱记录哒~战败的魔法少女哦~ https://t.co/LRkPhU30ap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "喜欢文爱的女大学生一枚哦～\n新晋文媛一枚哦\n各类xp都可以接受哒~接受度高~\n期待与你的相遇哒~\n本体是可爱的史莱姆团团哦~可以变成各种样子哒~",
+        "id": "1572765868425383936",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1822808878406660251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

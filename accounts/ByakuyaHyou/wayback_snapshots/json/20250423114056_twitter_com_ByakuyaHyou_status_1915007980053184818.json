@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1915007980053184818",
+    "created_at": "2025-04-23T11:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T12:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915007980053184818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447233923478609933",
+          "start": 3,
+          "username": "q3233788635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915007980053184818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913379219981443380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q3233788635: “尼酱回来啦，忙碌一天辛苦了—— 是要先洗澡，还是先吃饭，还是说..”\n（凑近）“先~次~窝~呢~♡”\n“嘻嘻，尼酱你在想什么呢，对人家今天的装扮看呆了吗~ 就算再怎么夸妹妹也是不可以的哦~♡ 对亲妹妹出手的话 可是死刑中的死刑~♡”（贴在身上…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915007980053184818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915007980053184818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915007980053184818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "裸体围裙+老梗~",
+        "height": 1200,
+        "media_key": "3_1913379216202330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go2wQnZa8AAEtBd.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913379216202330112"
+          ]
+        },
+        "author_id": "1447233923478609933",
+        "conversation_id": "1913379219981443380",
+        "created_at": "2025-04-18T23:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T00:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913379219981443380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "兄妹"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "文爱剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UAc9s2ba7",
+              "end": 180,
+              "expanded_url": "https://x.com/q3233788635/status/1913379219981443380/photo/1",
+              "media_key": "3_1913379216202330112",
+              "start": 157,
+              "url": "https://t.co/0UAc9s2ba7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913379219981443380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9116,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "“尼酱回来啦，忙碌一天辛苦了—— 是要先洗澡，还是先吃饭，还是说..”\n（凑近）“先~次~窝~呢~♡”\n“嘻嘻，尼酱你在想什么呢，对人家今天的装扮看呆了吗~ 就算再怎么夸妹妹也是不可以的哦~♡ 对亲妹妹出手的话 可是死刑中的死刑~♡”（贴在身上\n“而且杂鱼尼酱肯定做不到的叭~♡ ”\n#雌小鬼 #兄妹 #文爱剧情 https://t.co/0UAc9s2ba7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 115,
+          "like_count": 1096,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1302
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:13:59.000Z",
+        "description": "迫于生计 野生智乃（依依）被迫撅起了屁屁.jpg（开始尝试文媛服务惹♪  时间最近系醒来到凌晨三点前。软乎乎炒鸡可耐的妹妹女儿系❤，具体什么xp欢迎来探讨喵，重口血腥r18g不可以~ 不涉三！  30r/30min 55r/1小时，门牌q:939131879（失联可以找艾特后面这个x）备用推@kahuucino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "kahuucino"
+              }
+            ]
+          }
+        },
+        "id": "1447233923478609933",
+        "location": "Rabbit House",
+        "name": "依依依依♡（欢迎私信互推~！）",
+        "pinned_tweet_id": "1884775171766288599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707101269549322240/kXaxMNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 462,
+          "like_count": 3135,
+          "listed_count": 10,
+          "media_count": 69,
+          "tweet_count": 2821
+        },
+        "username": "q3233788635",
+        "verified": false
+      }
+    ]
+  }
+}

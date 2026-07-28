@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1906143834075263157",
+    "created_at": "2025-03-30T00:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T01:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906143834075263157"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "四爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906143834075263157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906027108666863896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 阿拉～明明是个男孩子～下面竟没有女孩子大呢～真是个废物贱狗呢～那穿着妈妈的衣服然后女装～变女孩子～好可爱～变小母狗了呢～这样可以天天被妈妈操咯～🖤\n（最近几天都不太方便接单了，大概是下个月13号左右？不过调戏一些小狗狗还是可以噗嗤）\n#四爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55957,
+        "height": 1280,
+        "media_key": "7_1906027066757439488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906027066757439488/pu/img/yEQMZ9iw3X9GD11h.jpg",
+        "public_metrics": {
+          "view_count": 190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906027066757439488/pu/vid/avc1/320x710/oQIgvEqe4jnoWYSd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906027066757439488/pu/vid/avc1/480x1066/1ycZYs48GoDlizW7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906027066757439488/pu/vid/avc1/576x1280/kTM2zjijNacqAkeS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906027066757439488/pu/pl/dZyuc509gUuo2kmT.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1906143834075263157",
+        "created_at": "2025-03-30T00:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T01:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906143834075263157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "四爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833949056844136450",
+              "start": 3,
+              "username": "yuan_wen4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906143834075263157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906027108666863896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_wen4527: 阿拉～明明是个男孩子～下面竟没有女孩子大呢～真是个废物贱狗呢～那穿着妈妈的衣服然后女装～变女孩子～好可爱～变小母狗了呢～这样可以天天被妈妈操咯～🖤\n（最近几天都不太方便接单了，大概是下个月13号左右？不过调戏一些小狗狗还是可以噗嗤）\n#四爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906027066757439488"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1906027108666863896",
+        "created_at": "2025-03-29T16:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906027108666863896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "四爱"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "语调"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "雌堕"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "atm"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "ntr"
+            },
+            {
+              "end": 146,
+              "start": 144,
+              "tag": "m"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "寸止"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "粗口"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3n9468HNNB",
+              "end": 178,
+              "expanded_url": "https://x.com/yuan_wen4527/status/1906027108666863896/video/1",
+              "media_key": "7_1906027066757439488",
+              "start": 155,
+              "url": "https://t.co/3n9468HNNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906027108666863896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 640,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "阿拉～明明是个男孩子～下面竟没有女孩子大呢～真是个废物贱狗呢～那穿着妈妈的衣服然后女装～变女孩子～好可爱～变小母狗了呢～这样可以天天被妈妈操咯～🖤\n（最近几天都不太方便接单了，大概是下个月13号左右？不过调戏一些小狗狗还是可以噗嗤）\n#四爱 #语调 #雌堕 #萝莉s #atm #ntr #m #寸止 #粗口 https://t.co/3n9468HNNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 108,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1156
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "主s向（可m）～🖤擅长（寸止，洗脑，控制，粗口调教，压榨，榨金，ntr等等…）不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，门牌🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 13,
+          "like_count": 3272,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 4067
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

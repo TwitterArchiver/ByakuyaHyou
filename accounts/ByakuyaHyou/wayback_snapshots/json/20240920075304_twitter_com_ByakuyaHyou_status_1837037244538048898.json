@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1837037244538048898",
+    "created_at": "2024-09-20T07:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T08:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837037244538048898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737361690306686976",
+          "start": 3,
+          "username": "dnggu156261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837037244538048898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836998054752469225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dnggu156261: 旅行者败北日记24\n此时的须弥教令院，杂鱼小草神纳西妲被身边围着的贤者们疯狂中出\n\n嗯啊…啊啊啊…要坏掉了…这是禁忌知识…不要…哈啊…感觉下面要被肏烂了…咕…精液又进来了…好多…哈啊…\n\n用不了多久，草神大人就是一个脑子里只有禁忌知识的杂鱼，成…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837037244538048898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837037244538048898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837037244538048898"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836998040542138369",
+            "3_1836998019075756032"
+          ]
+        },
+        "author_id": "1737361690306686976",
+        "conversation_id": "1836998054752469225",
+        "created_at": "2024-09-20T05:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836998054752469225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文爱"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "败北"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/najih3b10p",
+              "end": 170,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1836998054752469225/photo/1",
+              "media_key": "3_1836998040542138369",
+              "start": 147,
+              "url": "https://t.co/NajIH3b10p"
+            },
+            {
+              "display_url": "pic.x.com/najih3b10p",
+              "end": 170,
+              "expanded_url": "https://twitter.com/dnggu156261/status/1836998054752469225/photo/1",
+              "media_key": "3_1836998019075756032",
+              "start": 147,
+              "url": "https://t.co/NajIH3b10p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836998054752469225",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 652,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "旅行者败北日记24\n此时的须弥教令院，杂鱼小草神纳西妲被身边围着的贤者们疯狂中出\n\n嗯啊…啊啊啊…要坏掉了…这是禁忌知识…不要…哈啊…感觉下面要被肏烂了…咕…精液又进来了…好多…哈啊…\n\n用不了多久，草神大人就是一个脑子里只有禁忌知识的杂鱼，成为我们的肉便器了\n#文爱 #文媛 #败北 #剧情 https://t.co/NajIH3b10p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 80,
+          "like_count": 542,
+          "listed_count": 0,
+          "tweet_count": 662
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T06:38:14.000Z",
+        "description": "各种委托都样样精通的旅行者，旅行者总要有名字的，就叫冬瓜吧，可s可m，具体业务看置顶哦，接单号3102301701，不涉三，白天晚上皆可，30r0.5h，60r1h，主人 @fuxuan31473  姐妹 @guq1128649  总想调教我的伊诺姐姐 @loveforallLoli  杂鱼小草神 @xcwnaxida",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "fuxuan31473"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "guq1128649"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "loveforallLoli"
+              },
+              {
+                "end": 160,
+                "start": 150,
+                "username": "xcwnaxida"
+              }
+            ]
+          }
+        },
+        "id": "1737361690306686976",
+        "location": "尘歌壶",
+        "name": "旅行者冬瓜（互推）",
+        "pinned_tweet_id": "1823239040210174343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814333574860144640/IvPmJtG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 130,
+          "like_count": 2324,
+          "listed_count": 8,
+          "tweet_count": 2517
+        },
+        "username": "dnggu156261",
+        "verified": false
+      }
+    ]
+  }
+}

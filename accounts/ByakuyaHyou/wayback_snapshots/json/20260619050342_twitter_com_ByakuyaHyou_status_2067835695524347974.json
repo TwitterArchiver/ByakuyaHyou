@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2066562465333383659",
+    "created_at": "2026-06-19T05:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067835695524347974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924097701953884160",
+          "start": 0,
+          "username": "mioyy19157ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067835695524347974",
+    "in_reply_to_user_id": "1924097701953884160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066747251792482667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mioyy19157ep 什？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2066562465333383659",
+        "created_at": "2026-06-19T05:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067835695524347974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924097701953884160",
+              "start": 0,
+              "username": "mioyy19157ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067835695524347974",
+        "in_reply_to_user_id": "1924097701953884160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066747251792482667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mioyy19157ep 什？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924097701953884160",
+        "conversation_id": "2066562465333383659",
+        "created_at": "2026-06-16T04:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066747251792482667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066747251792482667",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066562465333383659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 来一发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "目前变更为心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。",
+        "id": "1572765868425383936",
+        "location": "源石内化宇宙",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 873,
+          "like_count": 1567,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T13:40:39.000Z",
+        "description": "没有建模的杂鱼哥布林\n喜欢穿好看的衣服.骑行.还有好吃的\n还喜欢点绳子这样",
+        "id": "1924097701953884160",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051633141853691904/P9myeVnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 62,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "mioyy19157ep",
+        "verified": false
+      }
+    ]
+  }
+}

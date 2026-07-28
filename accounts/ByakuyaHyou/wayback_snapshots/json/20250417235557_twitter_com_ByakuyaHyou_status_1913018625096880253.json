@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913018625096880253",
+    "created_at": "2025-04-17T23:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913018625096880253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797965883312369664",
+          "start": 3,
+          "username": "Dear34585171693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913018625096880253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912792943456649240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Dear34585171693: 下贱的废物贱狗～🩷你那个小鸡巴就被亲妈锁一辈子吧～🩷你不会以为亲妈会让你打开吧～🩷\n闻着亲妈腿上的香气～🩷狗几把硬的顶锁～🩷亲妈的高跟鞋踩着你的废物卵蛋🩷\n疼不疼啊傻逼～🩷锁里开始流臊水了呢贱狗～🩷\n喜欢亲妈掌控鸡巴的感觉吗～🩷贱狗的鸡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912792937748193280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoubCt9bYAAWjCW.jpg",
+        "width": 954
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1912792940772306944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoubC5ObsAAGJNi.jpg",
+        "width": 956
+      },
+      {
+        "height": 2164,
+        "media_key": "3_1912792937894932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoubCugacAA_Ub-.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1913018625096880253",
+        "created_at": "2025-04-17T23:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T00:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913018625096880253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797965883312369664",
+              "start": 3,
+              "username": "Dear34585171693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913018625096880253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912792943456649240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Dear34585171693: 下贱的废物贱狗～🩷你那个小鸡巴就被亲妈锁一辈子吧～🩷你不会以为亲妈会让你打开吧～🩷\n闻着亲妈腿上的香气～🩷狗几把硬的顶锁～🩷亲妈的高跟鞋踩着你的废物卵蛋🩷\n疼不疼啊傻逼～🩷锁里开始流臊水了呢贱狗～🩷\n喜欢亲妈掌控鸡巴的感觉吗～🩷贱狗的鸡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912792937748193280",
+            "3_1912792940772306944",
+            "3_1912792937894932480"
+          ]
+        },
+        "author_id": "1797965883312369664",
+        "conversation_id": "1912792943456649240",
+        "created_at": "2025-04-17T08:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912792943456649240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wddy7XBxrt",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1912792943456649240/photo/1",
+              "media_key": "3_1912792937748193280",
+              "start": 140,
+              "url": "https://t.co/wddy7XBxrt"
+            },
+            {
+              "display_url": "pic.x.com/wddy7XBxrt",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1912792943456649240/photo/1",
+              "media_key": "3_1912792940772306944",
+              "start": 140,
+              "url": "https://t.co/wddy7XBxrt"
+            },
+            {
+              "display_url": "pic.x.com/wddy7XBxrt",
+              "end": 163,
+              "expanded_url": "https://x.com/Dear34585171693/status/1912792943456649240/photo/1",
+              "media_key": "3_1912792937894932480",
+              "start": 140,
+              "url": "https://t.co/wddy7XBxrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912792943456649240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1393,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "following",
+        "text": "下贱的废物贱狗～🩷你那个小鸡巴就被亲妈锁一辈子吧～🩷你不会以为亲妈会让你打开吧～🩷\n闻着亲妈腿上的香气～🩷狗几把硬的顶锁～🩷亲妈的高跟鞋踩着你的废物卵蛋🩷\n疼不疼啊傻逼～🩷锁里开始流臊水了呢贱狗～🩷\n喜欢亲妈掌控鸡巴的感觉吗～🩷贱狗的鸡巴这么没用～🩷会在锁里射出来的是不是啊～🩷 https://t.co/wddy7XBxrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1074,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1269
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:17:58.000Z",
+        "description": "来找你的鹿主人📽💋调教吧，主营文援，寸止，辱骂羞辱，调教榨精，只要狗狗来，肯定玩费掉\n没办法，废物贱狗的几把只配被鹿主人玩弄，\n在一次次调教榨精中，沦为主人的早泄狗\n无门槛/口嗨狗滚远点/ 无🚪/ 35/30min Q3863523588（重生版）",
+        "id": "1797965883312369664",
+        "name": "Dear鹿公主 （文援姬）互推",
+        "pinned_tweet_id": "1888170530697830524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798614722323079168/dDlle_Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 107,
+          "like_count": 10,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 3708
+        },
+        "username": "Dear34585171693",
+        "verified": false
+      }
+    ]
+  }
+}

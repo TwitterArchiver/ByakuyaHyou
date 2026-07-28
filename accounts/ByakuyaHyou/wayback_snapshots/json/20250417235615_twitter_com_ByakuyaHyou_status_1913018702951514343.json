@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1913018702951514343",
+    "created_at": "2025-04-17T23:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913018702951514343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "女s"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1083853612357283841",
+          "start": 3,
+          "username": "Sigitwaskito6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913018702951514343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912830582700331257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sigitwaskito6: 现在上贡已经给自己贡成底层傻逼了 被人瞧不起的垃圾 女神随便晃晃脚指 废物脑子就被女神控制 你也不甘心一辈子被女神控制吧？哈哈哈那还不赶紧扫码滚进群来 让女神给你大脑玩烂 玩烂就没脑子了 大傻逼 点赞 转发 关注 抽个傻逼网调  #女s #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913018702951514343].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913018702951514343",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913018702951514343"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35238,
+        "height": 1280,
+        "media_key": "13_1912830506074607616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912830506074607616/img/9xLU2cPbay1Imm7w.jpg",
+        "public_metrics": {
+          "view_count": 364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912830506074607616/vid/avc1/320x568/uNYGrI3vbtXt6QQB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912830506074607616/vid/avc1/480x852/L7Z2ve_0RGVkAEZ5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912830506074607616/vid/avc1/720x1280/Az1U6d43qCxFfWOH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912830506074607616/pl/eVr266t-HEjVXynJ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1912830506091315200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gou9Ne8agAAXxmb.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912830506074607616",
+            "3_1912830506091315200"
+          ]
+        },
+        "author_id": "1083853612357283841",
+        "conversation_id": "1912830582700331257",
+        "created_at": "2025-04-17T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912830582700331257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "女s"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "男m"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "atm奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2I6sjCcLhw",
+              "end": 152,
+              "expanded_url": "https://x.com/Sigitwaskito6/status/1912830582700331257/video/1",
+              "media_key": "13_1912830506074607616",
+              "start": 129,
+              "url": "https://t.co/2I6sjCcLhw"
+            },
+            {
+              "display_url": "pic.x.com/2I6sjCcLhw",
+              "end": 152,
+              "expanded_url": "https://x.com/Sigitwaskito6/status/1912830582700331257/video/1",
+              "media_key": "3_1912830506091315200",
+              "start": 129,
+              "url": "https://t.co/2I6sjCcLhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912830582700331257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1998,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "现在上贡已经给自己贡成底层傻逼了 被人瞧不起的垃圾 女神随便晃晃脚指 废物脑子就被女神控制 你也不甘心一辈子被女神控制吧？哈哈哈那还不赶紧扫码滚进群来 让女神给你大脑玩烂 玩烂就没脑子了 大傻逼 点赞 转发 关注 抽个傻逼网调  #女s #男m #atm奴 https://t.co/2I6sjCcLhw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n也有tg有dc\n可以找咱聊天，不定时掉落语音条",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1907239035757867413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 114,
+          "like_count": 1074,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1271
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T22:30:13.000Z",
+        "description": "先关注 再加 收无脑钱包奴/无脑大傻逼/死妈提款机 无脑发情机器 q3850818872",
+        "id": "1083853612357283841",
+        "name": "梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721133425875369984/Kk1lzWu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 15,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "username": "Sigitwaskito6",
+        "verified": false
+      }
+    ]
+  }
+}

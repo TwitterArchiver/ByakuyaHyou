@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1899742283983192563",
+    "created_at": "2025-03-12T08:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T09:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899742283983192563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572765868425383936",
+          "start": 3,
+          "username": "ByakuyaHyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899742283983192563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899136455546745300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ByakuyaHyou: 抽奖！\n还有3天就要生日\n1等奖 1位\n可以让依奈成为一周的虚拟女友\n2等奖 1位\n可以让依奈录制5min的音频，预计700到1000字\n3等奖 2位 \n30分钟文爱语爱免费卷\n4等奖 6位\n得到一份想听依奈唱出来的歌，1到2分钟\n每位参与抽奖…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1899136452241350656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlsWio_XYAA4UGN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "1899742283983192563",
+        "created_at": "2025-03-12T08:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899742283983192563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572765868425383936",
+              "start": 3,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899742283983192563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899136455546745300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ByakuyaHyou: 抽奖！\n还有3天就要生日\n1等奖 1位\n可以让依奈成为一周的虚拟女友\n2等奖 1位\n可以让依奈录制5min的音频，预计700到1000字\n3等奖 2位 \n30分钟文爱语爱免费卷\n4等奖 6位\n得到一份想听依奈唱出来的歌，1到2分钟\n每位参与抽奖…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899136452241350656"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "1899136455546745300",
+        "created_at": "2025-03-10T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899136455546745300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKjkBVu3rr",
+              "end": 186,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/1899136455546745300/photo/1",
+              "media_key": "3_1899136452241350656",
+              "start": 163,
+              "url": "https://t.co/IKjkBVu3rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899136455546745300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1811,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖！\n还有3天就要生日\n1等奖 1位\n可以让依奈成为一周的虚拟女友\n2等奖 1位\n可以让依奈录制5min的音频，预计700到1000字\n3等奖 2位 \n30分钟文爱语爱免费卷\n4等奖 6位\n得到一份想听依奈唱出来的歌，1到2分钟\n每位参与抽奖的客人都可以得到一张5r的依奈代金券哦\n截止到3月14日之前哦，转发点赞就可以啦 https://t.co/IKjkBVu3rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(有tg有dc，私聊解锁喵)\n可以找咱聊天，不定时掉落语音条\n好闺蜜～:@mrfzxi 3875887471\n夕宝～(可爱妹妹～可双)\n@sharksha 2827684346\n鲨宝～(新人文媛～可双)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "mrfzxi"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "sharksha"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1897178375967690761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 96,
+          "like_count": 832,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1010
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      }
+    ]
+  }
+}

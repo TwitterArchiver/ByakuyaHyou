@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1834455764750270916",
+    "created_at": "2024-09-13T04:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T05:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834455764750270916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "娼年"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "肉便器"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817852320375250944",
+          "start": 3,
+          "username": "Lyjiang_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834455764750270916",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834369549342572936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyjiang_404: 噫噫噫❤️～明明都是可爱的男孩子❤️，结果却淫荡的像个母畜❤️...仅仅只是被插进去就舒服的发抖了呢❤️，穿着涩情的兔女郎装侍奉着主人的大鸡吧🖤～看你这样子，真贱啊🖤～已经是一个合格的母猪鸡吧套子，主人的泄欲器娼年了🖤～\n#娼年 #肉便器 #发…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834455764750270916].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834455764750270916",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834455764750270916"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834369545475424257"
+          ]
+        },
+        "author_id": "1817852320375250944",
+        "conversation_id": "1834369549342572936",
+        "created_at": "2024-09-12T23:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T00:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834369549342572936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "娼年"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "肉便器"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "发情"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "兔女郎"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfffafbvvx",
+              "end": 156,
+              "expanded_url": "https://twitter.com/Lyjiang_404/status/1834369549342572936/photo/1",
+              "media_key": "3_1834369545475424257",
+              "start": 133,
+              "url": "https://t.co/xfFFafbVvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834369549342572936",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "噫噫噫❤️～明明都是可爱的男孩子❤️，结果却淫荡的像个母畜❤️...仅仅只是被插进去就舒服的发抖了呢❤️，穿着涩情的兔女郎装侍奉着主人的大鸡吧🖤～看你这样子，真贱啊🖤～已经是一个合格的母猪鸡吧套子，主人的泄欲器娼年了🖤～\n#娼年 #肉便器 #发情 #兔女郎 #调教 https://t.co/xfFFafbVvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 81,
+          "like_count": 482,
+          "listed_count": 0,
+          "tweet_count": 584
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T09:19:16.000Z",
+        "description": "这里是胧酱（也可以叫我胧月❤），是一个可S可M的男娘文媛❤️喜欢剧情❤️指挥🖤调教🖤辱骂🖤榨精🖤上供🖤，什么内容胧酱都会去尽力满足的❤️营业时间为下午到晚上，凌晨想玩的自己滚出提前发消息🖤\n门牌:QQ3988413447，电报https://t.co/HXktQ7jLOK   \n💜主人💜 @sbgznc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 145,
+                "username": "sbgznc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 136,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 113,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/longyue_404",
+                "end": 23,
+                "expanded_url": "http://t.me/longyue_404",
+                "start": 0,
+                "url": "https://t.co/HXktQ7jLOK"
+              }
+            ]
+          }
+        },
+        "id": "1817852320375250944",
+        "location": "淫荡的压在你身上❤️",
+        "name": "💙胧酱💙（互推）🖤",
+        "pinned_tweet_id": "1832984472461189128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833869906519142400/j2UFoRUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 160,
+          "like_count": 290,
+          "listed_count": 5,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/HXktQ7jLOK",
+        "username": "Lyjiang_404",
+        "verified": false
+      }
+    ]
+  }
+}

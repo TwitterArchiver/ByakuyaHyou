@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2009332874508685371",
+    "created_at": "2026-01-08T23:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009414401523326998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957315823435128832",
+          "start": 0,
+          "username": "K4yoko_"
+        },
+        {
+          "end": 22,
+          "id": "1395987703385055234",
+          "start": 9,
+          "username": "ZETA23875229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009414401523326998",
+    "in_reply_to_user_id": "1957315823435128832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009332874508685371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K4yoko_ @ZETA23875229 可爱哦想撅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2009332862894637056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KVl8hagAAxJMV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2009332812823060480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KVjB_a4AATEKO.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2009332874508685371",
+        "created_at": "2026-01-08T23:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009414401523326998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957315823435128832",
+              "start": 0,
+              "username": "K4yoko_"
+            },
+            {
+              "end": 22,
+              "id": "1395987703385055234",
+              "start": 9,
+              "username": "ZETA23875229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009414401523326998",
+        "in_reply_to_user_id": "1957315823435128832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009332874508685371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K4yoko_ @ZETA23875229 可爱哦想撅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009332862894637056",
+            "3_2009332812823060480"
+          ]
+        },
+        "author_id": "1957315823435128832",
+        "conversation_id": "2009332874508685371",
+        "created_at": "2026-01-08T18:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009332874508685371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1395987703385055234",
+              "start": 13,
+              "username": "ZETA23875229"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SM2uRJ1Ne7",
+              "end": 67,
+              "expanded_url": "https://x.com/K4yoko_/status/2009332874508685371/photo/1",
+              "media_key": "3_2009332862894637056",
+              "start": 44,
+              "url": "https://t.co/SM2uRJ1Ne7"
+            },
+            {
+              "display_url": "pic.x.com/SM2uRJ1Ne7",
+              "end": 67,
+              "expanded_url": "https://x.com/K4yoko_/status/2009332874508685371/photo/1",
+              "media_key": "3_2009332812823060480",
+              "start": 44,
+              "url": "https://t.co/SM2uRJ1Ne7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009332874508685371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初次见面，请多指教w\n📸：@ZETA23875229 \n#kigurumi #着ぐるみ https://t.co/SM2uRJ1Ne7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 215,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1524
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T05:37:36.000Z",
+        "description": "✦这里是K4，一只萌新kiger，梦想是和所有娃娃成为好朋友ww✦",
+        "id": "1957315823435128832",
+        "name": "ShachiNekoツ",
+        "pinned_tweet_id": "2009332874508685371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009325650814058497/fKvprcbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "K4yoko_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T06:19:47.000Z",
+        "description": "也许是个娃摄/oiiaiioiiiai/哈基米重度依赖/1087🔧/锻造轮毂&制动/哈机修(?)/LAB71/S-WORKS⚡/耄/神秘咕咕嘎嘎号2719268909",
+        "id": "1395987703385055234",
+        "location": "首都高湾岸線/C1外回り",
+        "name": "ΖΞΤΛ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595735668436570112/CynrsvSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 2702,
+          "like_count": 69934,
+          "listed_count": 13,
+          "media_count": 149,
+          "tweet_count": 1858
+        },
+        "username": "ZETA23875229",
+        "verified": false
+      }
+    ]
+  }
+}

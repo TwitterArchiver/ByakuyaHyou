@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1839742896364569037",
+    "created_at": "2024-09-27T19:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T20:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839742896364569037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "文援姬"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "文援"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "文爱"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "性幻想"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "音援"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "萝莉"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "雌小鬼"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833949056844136450",
+          "start": 3,
+          "username": "yuan_wen4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839742896364569037",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839517487748288853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_wen4527: 唉？！唔…摸…摸头什么的唔…笨蛋主人…不要乱摸耳朵了啦…会很敏感的…唔～♡唉？！今天也要嘛…主人真是的…呐～♡唔～♡（轻轻舌吻～♡）哎嘿喜欢～♡\n#文援姬 #文援 #文爱 #性幻想 #音援 #萝莉 #雌小鬼 #反差 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839742896364569037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839742896364569037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839742896364569037"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839517484468363264"
+          ]
+        },
+        "author_id": "1833949056844136450",
+        "conversation_id": "1839517487748288853",
+        "created_at": "2024-09-27T04:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T05:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839517487748288853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "文援姬"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "文援"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "文爱"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "性幻想"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "音援"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "萝莉"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/blkis3p437",
+              "end": 131,
+              "expanded_url": "https://twitter.com/yuan_wen4527/status/1839517487748288853/photo/1",
+              "media_key": "3_1839517484468363264",
+              "start": 108,
+              "url": "https://t.co/BLkIs3p437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839517487748288853",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 799,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "唉？！唔…摸…摸头什么的唔…笨蛋主人…不要乱摸耳朵了啦…会很敏感的…唔～♡唉？！今天也要嘛…主人真是的…呐～♡唔～♡（轻轻舌吻～♡）哎嘿喜欢～♡\n#文援姬 #文援 #文爱 #性幻想 #音援 #萝莉 #雌小鬼 #反差 https://t.co/BLkIs3p437"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 580,
+          "listed_count": 0,
+          "tweet_count": 722
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:21:51.000Z",
+        "description": "一只文援小萝莉吖~现实处女，不涉三，不露点，不视频，不线下，谢谢理解~可定制语音，可语音文援，🐧:2027188646",
+        "id": "1833949056844136450",
+        "name": "文音援.萌萌（互推.私信）",
+        "pinned_tweet_id": "1834385930914078874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833949215783092226/D9tOwvkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 5,
+          "like_count": 86,
+          "listed_count": 0,
+          "tweet_count": 102
+        },
+        "username": "yuan_wen4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1832731457703575553"
+      ],
+      "media_source_tweet_id": [
+        "1832731617414320583"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "1832804985308164497",
+    "created_at": "2024-09-08T15:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T16:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832804985308164497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "网调"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "压榨"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "提款机"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "原味"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "鱼网"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745263318682464256",
+          "start": 3,
+          "username": "shon1088657"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zjr40pgrn",
+          "end": 128,
+          "expanded_url": "https://twitter.com/shon1088657/status/1832731617414320583/video/1",
+          "media_key": "7_1832731457703575553",
+          "start": 105,
+          "url": "https://t.co/2ZJR40PGRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832804985308164497",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832731617414320583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shon1088657: 看到祖宗的白丝渔网，你不争气的狗屌就不自觉的硬起来了，恨不得让祖宗把你当傻逼一样玩弄是吗？\n想要本人音频视频的加主页v和Q（可定制）\n#网调 #压榨 #提款机 #原味 #鱼网 https://t.co/2ZJR40PGRN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832804985308164497].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832804985308164497",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832804985308164497"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60433,
+        "height": 1280,
+        "media_key": "7_1832731457703575553",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1832731457703575553/pu/img/7IGe1bnbvSvU7d_x.jpg",
+        "public_metrics": {
+          "view_count": 499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1832731457703575553/pu/vid/avc1/320x568/eBKbjn8ZUi4oYvva.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1832731457703575553/pu/vid/avc1/480x852/7Z4bwjo7IrO4sWeT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1832731457703575553/pu/vid/avc1/720x1280/aHqUn4dV0z6Bgwjs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1832731457703575553/pu/pl/FXya8Syf_VuyOjGa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1832731457703575553"
+          ]
+        },
+        "author_id": "1745263318682464256",
+        "conversation_id": "1832731617414320583",
+        "created_at": "2024-09-08T10:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T11:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832731617414320583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "网调"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "压榨"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "提款机"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "原味"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "鱼网"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zjr40pgrn",
+              "end": 111,
+              "expanded_url": "https://twitter.com/shon1088657/status/1832731617414320583/video/1",
+              "media_key": "7_1832731457703575553",
+              "start": 88,
+              "url": "https://t.co/2ZJR40PGRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832731617414320583",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2957,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "看到祖宗的白丝渔网，你不争气的狗屌就不自觉的硬起来了，恨不得让祖宗把你当傻逼一样玩弄是吗？\n想要本人音频视频的加主页v和Q（可定制）\n#网调 #压榨 #提款机 #原味 #鱼网 https://t.co/2ZJR40PGRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 80,
+          "like_count": 449,
+          "listed_count": 0,
+          "tweet_count": 538
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T01:56:55.000Z",
+        "description": "v号：qwertyuiop151639\nQ号：3973887533\n高中少女享受型人格擅长各种情节调教出原味黑丝白袜，音频视频连麦粗口等，可私人订制。狗儿子观望什么呢?来找你亲妈定制!!!口嗨白嫖low货勿加!!",
+        "id": "1745263318682464256",
+        "location": "临沂",
+        "name": "高中黑心妹",
+        "pinned_tweet_id": "1745267957721112994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776967894364192769/tuq0NQFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 4,
+          "like_count": 46,
+          "listed_count": 19,
+          "tweet_count": 422
+        },
+        "username": "shon1088657",
+        "verified": false
+      }
+    ]
+  }
+}

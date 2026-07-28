@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053001260195033088"
+      ],
+      "media_source_tweet_id": [
+        "2053001262862569719"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2053002034987876729",
+    "created_at": "2026-05-09T06:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053002034987876729"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1500678969179492359",
+          "start": 3,
+          "username": "ZeroPity86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvBBKyGQWs",
+          "end": 81,
+          "expanded_url": "https://x.com/ZeroPity86/status/2053001262862569719/photo/1",
+          "media_key": "3_2053001260195033088",
+          "start": 58,
+          "url": "https://t.co/XvBBKyGQWs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053002034987876729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053001262862569719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZeroPity86: 萌新菜菜，大佬带带ww\n(第一次变娃有好多都不懂)\n#kigurumi #着ぐるみ https://t.co/XvBBKyGQWs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2053001260195033088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH25xNVasAAznXG.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053001260195033088"
+          ],
+          "media_source_tweet_id": [
+            "2053001262862569719"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2053002034987876729",
+        "created_at": "2026-05-09T06:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053002034987876729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1500678969179492359",
+              "start": 3,
+              "username": "ZeroPity86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvBBKyGQWs",
+              "end": 81,
+              "expanded_url": "https://x.com/ZeroPity86/status/2053001262862569719/photo/1",
+              "media_key": "3_2053001260195033088",
+              "start": 58,
+              "url": "https://t.co/XvBBKyGQWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053002034987876729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053001262862569719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZeroPity86: 萌新菜菜，大佬带带ww\n(第一次变娃有好多都不懂)\n#kigurumi #着ぐるみ https://t.co/XvBBKyGQWs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053001260195033088"
+          ]
+        },
+        "author_id": "1500678969179492359",
+        "conversation_id": "2053001262862569719",
+        "created_at": "2026-05-09T06:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053001262862569719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvBBKyGQWs",
+              "end": 65,
+              "expanded_url": "https://x.com/ZeroPity86/status/2053001262862569719/photo/1",
+              "media_key": "3_2053001260195033088",
+              "start": 42,
+              "url": "https://t.co/XvBBKyGQWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053001262862569719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "萌新菜菜，大佬带带ww\n(第一次变娃有好多都不懂)\n#kigurumi #着ぐるみ https://t.co/XvBBKyGQWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "文媛一枚哦\n可御可萝～可攻可受可雌小鬼～\n收费可以参考指定\n其他业务私聊解锁\n门牌号：2827684346（无门槛）\n宝宝：@Kan_AyaneZero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Kan_AyaneZero"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905820989088534528/RGory2Ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 286,
+          "like_count": 1367,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1559
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T03:45:31.000Z",
+        "description": "🍂可惜夜に希う、君想う、唯それ故に🌕\n\n男娘丨精神状态混乱，不过很好说话，可以随意骚扰～丨想认识很多的朋友喵丨欢迎互fo，欢迎扩列～丨如果有想说的话，或闲聊解闷都可以找咱哦，私信都会回～丨谢谢喜欢！",
+        "id": "1500678969179492359",
+        "name": "零セキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030827781299609600/OXENu8fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 142,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "ZeroPity86",
+        "verified": false
+      }
+    ]
+  }
+}

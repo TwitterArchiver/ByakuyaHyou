@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1824350503196823972",
+    "created_at": "2024-08-16T07:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T08:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824350503196823972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1389102699346489349",
+          "start": 3,
+          "username": "Qiuling0062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824350503196823972",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824326746407309563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiuling0062: “这里不是...盗宝团的营地吗...等..咕齁♡”\n口中传来浓郁的雄臭，双手试图挣脱束缚却被那人拽住，粗长肉屌顶入淫穴深处，屈辱之下宛如只发情的雌兽般献媚。\n“请原谅我♡我不该下令讨伐的♡我的小穴是迪卢克前辈♡咿齁齁齁♡不对💕是主人们专用的肉套…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824350503196823972].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824350503196823972",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824350503196823972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824326737964232704"
+          ]
+        },
+        "author_id": "1389102699346489349",
+        "conversation_id": "1824326746407309563",
+        "created_at": "2024-08-16T06:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T07:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824326746407309563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "ntr"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "战败"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文爱"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wgvhvcihy",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Qiuling0062/status/1824326746407309563/photo/1",
+              "media_key": "3_1824326737964232704",
+              "start": 153,
+              "url": "https://t.co/7wGVhvcIhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824326746407309563",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“这里不是...盗宝团的营地吗...等..咕齁♡”\n口中传来浓郁的雄臭，双手试图挣脱束缚却被那人拽住，粗长肉屌顶入淫穴深处，屈辱之下宛如只发情的雌兽般献媚。\n“请原谅我♡我不该下令讨伐的♡我的小穴是迪卢克前辈♡咿齁齁齁♡不对💕是主人们专用的肉套♡请奖励婊子团长付种汁♡”\n#ntr #战败 #文爱 #文媛 https://t.co/7wGVhvcIhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "这里是依奈酱♡\n新晋文媛一枚哦\nxp接受度高~生理厌恶除外\n接受bg，gl，bl，扶她等各类爱好哦\n门牌号：1927861810（无门槛）\n文媛60r/h，可以随时来聊天啦(免费哒）\n各类业务可以询问哦\n每日不定时掉落小短篇章哦\n本体是可爱的史莱姆团团~\n蹲蹲关注和互推～这对孩子非常重要呜\n期待与你的相遇哒~",
+        "id": "1572765868425383936",
+        "location": "史莱姆团团的专属大泳池哒～",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1824093422547771604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T06:21:18.000Z",
+        "description": "秋绫，叫我秋秋就好❤本体女大~ S/M均可❤xp除r18g全能❤️️擅长少女或巨乳姐系角色~可以套皮米哈游和碧蓝航线，8年语c皮气正推荐喔💕也接游戏陪玩/树洞陪聊/电子女友/绿帽CP/定制短文。营业时间中午~凌晨三点。门牌：3191603627（不涉三不语图，50r/h，深夜+10r。门槛解锁初始好感度❤️）",
+        "id": "1389102699346489349",
+        "location": "当然是主人的胯下～",
+        "name": "文媛姬❤️秋绫（互推～）",
+        "pinned_tweet_id": "1822528192676262230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822874071018971136/Fx9FG3bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 44,
+          "like_count": 47,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "Qiuling0062",
+        "verified": false
+      }
+    ]
+  }
+}
