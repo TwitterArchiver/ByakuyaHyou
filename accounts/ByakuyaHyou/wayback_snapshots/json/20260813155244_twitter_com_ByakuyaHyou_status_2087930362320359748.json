@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2087510196184821908",
+    "created_at": "2026-08-13T15:52:44.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087930362320359748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824554521042849792",
+          "start": 0,
+          "username": "bobob64317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087930362320359748",
+    "in_reply_to_user_id": "1824554521042849792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087914303685091564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobob64317 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 241,
+        "media_key": "3_2087914296433111041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnC_Yha8AEYCd3.jpg",
+        "width": 246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2087510196184821908",
+        "created_at": "2026-08-13T15:52:44.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087930362320359748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824554521042849792",
+              "start": 0,
+              "username": "bobob64317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087930362320359748",
+        "in_reply_to_user_id": "1824554521042849792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087914303685091564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobob64317 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087914296433111041"
+          ]
+        },
+        "author_id": "1824554521042849792",
+        "conversation_id": "2087510196184821908",
+        "created_at": "2026-08-13T14:48:56.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087914303685091564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtdZH0WExi",
+              "end": 42,
+              "expanded_url": "https://x.com/bobob64317/status/2087914303685091564/photo/1",
+              "media_key": "3_2087914296433111041",
+              "start": 19,
+              "url": "https://t.co/YtdZH0WExi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087914303685091564",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087914296433111041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087510196184821908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 没时间喵😭 https://t.co/YtdZH0WExi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2087930362320359748",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1222,
+          "like_count": 1802,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T21:11:51.000Z",
+        "description": "随便发点东西，照片是自己，梗图是搬的，上线不定时，图可能有点低质",
+        "id": "1824554521042849792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087914303685091564",
+        "name": "bobob",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824554521042849792/1730504418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844760577945563139/btP1q7ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 400,
+          "like_count": 278,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "bobob64317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

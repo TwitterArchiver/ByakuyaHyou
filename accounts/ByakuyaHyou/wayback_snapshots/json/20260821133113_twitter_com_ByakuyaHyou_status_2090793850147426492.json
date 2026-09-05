@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087435612928495616",
+        "7_2087435612018413568",
+        "7_2087435617475158017",
+        "3_2087435622445469696"
+      ],
+      "media_source_tweet_id": [
+        "2087435707614929019",
+        "2087435707614929019",
+        "2087435707614929019",
+        "2087435707614929019"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090793850147426492",
+    "created_at": "2026-08-21T13:31:13.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090793850147426492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "伪娘"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "肉棒"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2069483855787282432",
+          "start": 3,
+          "username": "yangzishixnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dyJZ3cbLHL",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+          "media_key": "3_2087435612928495616",
+          "start": 40,
+          "url": "https://t.co/dyJZ3cbLHL"
+        },
+        {
+          "display_url": "pic.x.com/dyJZ3cbLHL",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+          "media_key": "7_2087435612018413568",
+          "start": 40,
+          "url": "https://t.co/dyJZ3cbLHL"
+        },
+        {
+          "display_url": "pic.x.com/dyJZ3cbLHL",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+          "media_key": "7_2087435617475158017",
+          "start": 40,
+          "url": "https://t.co/dyJZ3cbLHL"
+        },
+        {
+          "display_url": "pic.x.com/dyJZ3cbLHL",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+          "media_key": "3_2087435622445469696",
+          "start": 40,
+          "url": "https://t.co/dyJZ3cbLHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090793850147426492",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087435612928495616"
+      },
+      {
+        "media_key": "7_2087435612018413568"
+      },
+      {
+        "media_key": "7_2087435617475158017"
+      },
+      {
+        "media_key": "3_2087435622445469696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087435707614929019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangzishixnn: 来世是个好男孩吗？\n#男娘 #伪娘 #肉棒 https://t.co/dyJZ3cbLHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2087435612928495616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgPoVgaUAAG-6q.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7778,
+        "height": 1280,
+        "media_key": "7_2087435612018413568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2087435612018413568/pu/img/ANkGjy5I3ypMumyr.jpg",
+        "public_metrics": {
+          "view_count": 442
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435612018413568/pu/vid/avc1/320x568/lKAC4sKr22UHphw6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435612018413568/pu/vid/avc1/480x852/OeWjEiwfXoV-qsf4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435612018413568/pu/vid/avc1/720x1280/OLETNzV2SJ9K6cs0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2087435612018413568/pu/pl/x-SJo8jHUpDbDjzl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13560,
+        "height": 582,
+        "media_key": "7_2087435617475158017",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2087435617475158017/pu/img/MZ724DLWFSCcgdWq.jpg",
+        "public_metrics": {
+          "view_count": 138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435617475158017/pu/vid/avc1/592x270/zC4sBQWrJ8GaI5ZU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435617475158017/pu/vid/avc1/790x360/NDotHWRXHDploa7Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2087435617475158017/pu/vid/avc1/1280x582/9NeYtQxz4FuedHN8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2087435617475158017/pu/pl/a4F1nDIrskbvSzKQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087435622445469696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgPo49b0AAotqG.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087435612928495616",
+            "7_2087435612018413568",
+            "7_2087435617475158017",
+            "3_2087435622445469696"
+          ],
+          "media_source_tweet_id": [
+            "2087435707614929019",
+            "2087435707614929019",
+            "2087435707614929019",
+            "2087435707614929019"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090793850147426492",
+        "created_at": "2026-08-21T13:31:13.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090793850147426492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "伪娘"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "肉棒"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2069483855787282432",
+              "start": 3,
+              "username": "yangzishixnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "3_2087435612928495616",
+              "start": 40,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "7_2087435612018413568",
+              "start": 40,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "7_2087435617475158017",
+              "start": 40,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "3_2087435622445469696",
+              "start": 40,
+              "url": "https://t.co/dyJZ3cbLHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090793850147426492",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087435612928495616"
+          },
+          {
+            "media_key": "7_2087435612018413568"
+          },
+          {
+            "media_key": "7_2087435617475158017"
+          },
+          {
+            "media_key": "3_2087435622445469696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087435707614929019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangzishixnn: 来世是个好男孩吗？\n#男娘 #伪娘 #肉棒 https://t.co/dyJZ3cbLHL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087435612928495616",
+            "7_2087435612018413568",
+            "7_2087435617475158017",
+            "3_2087435622445469696"
+          ]
+        },
+        "author_id": "2069483855787282432",
+        "conversation_id": "2087435707614929019",
+        "created_at": "2026-08-12T07:07:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087435707614929019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "肉棒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "3_2087435612928495616",
+              "start": 22,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "7_2087435612018413568",
+              "start": 22,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "7_2087435617475158017",
+              "start": 22,
+              "url": "https://t.co/dyJZ3cbLHL"
+            },
+            {
+              "display_url": "pic.x.com/dyJZ3cbLHL",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2087435707614929019/video/1",
+              "media_key": "3_2087435622445469696",
+              "start": 22,
+              "url": "https://t.co/dyJZ3cbLHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087435707614929019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087435612928495616"
+          },
+          {
+            "media_key": "7_2087435612018413568"
+          },
+          {
+            "media_key": "7_2087435617475158017"
+          },
+          {
+            "media_key": "3_2087435622445469696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2364,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来世是个好男孩吗？\n#男娘 #伪娘 #肉棒 https://t.co/dyJZ3cbLHL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090793861576868155",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1322,
+          "like_count": 1823,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T18:14:40.000Z",
+        "description": "一个简简单单的小男娘喵～身高170，全国乱跑中～立志要成为大手子/群号：1072911582/欢迎来玩喵～",
+        "id": "2069483855787282432",
+        "is_identity_verified": false,
+        "location": "泰拉大陆",
+        "most_recent_tweet_id": "2090788884477350086",
+        "name": "阳子略略略",
+        "pinned_tweet_id": "2086859385062732227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069483855787282432/1786198263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086092829332500480/TUxKoBnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 50,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "yangzishixnn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

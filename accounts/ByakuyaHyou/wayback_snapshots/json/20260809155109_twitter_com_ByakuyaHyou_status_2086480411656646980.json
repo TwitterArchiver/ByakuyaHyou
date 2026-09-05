@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2086427147544178860",
+    "created_at": "2026-08-09T15:51:09.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086480411656646980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1667423069076348928",
+          "start": 0,
+          "username": "Kan_AyaneZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086480411656646980",
+    "in_reply_to_user_id": "1667423069076348928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086427147544178860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kan_AyaneZero 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2086427147544178860",
+        "created_at": "2026-08-09T15:51:09.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086480411656646980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667423069076348928",
+              "start": 0,
+              "username": "Kan_AyaneZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086480411656646980",
+        "in_reply_to_user_id": "1667423069076348928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086427147544178860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kan_AyaneZero 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423069076348928",
+        "conversation_id": "2086427147544178860",
+        "created_at": "2026-08-09T12:19:30.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086427147544178860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086427147544178860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个人上我喵~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2086480411656646980",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1196,
+          "like_count": 1780,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│持证含糖│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "is_identity_verified": true,
+        "location": "Mars",
+        "most_recent_tweet_id": "2086427147544178860",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667423069076348928/1776014250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 544,
+          "like_count": 1112,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

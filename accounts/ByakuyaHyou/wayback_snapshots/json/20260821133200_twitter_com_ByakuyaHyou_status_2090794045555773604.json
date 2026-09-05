@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2088629181789905251",
+    "created_at": "2026-08-21T13:32:00.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090794045555773604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516035707412054023",
+          "start": 0,
+          "username": "meiakiyama23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090794045555773604",
+    "in_reply_to_user_id": "1516035707412054023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088629181789905251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiakiyama23 扩列加个QQ嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2088629139083563009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxNIs6bEAEBAex.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3954,
+        "media_key": "3_2088629146868121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxNJJ6aAAATT4q.jpg",
+        "width": 2032
+      },
+      {
+        "height": 3153,
+        "media_key": "3_2088629160189313024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxNJ7ibQAAsg1U.jpg",
+        "width": 1952
+      },
+      {
+        "height": 3416,
+        "media_key": "3_2088629170566000640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxNKiMa8AAhNTf.jpg",
+        "width": 2040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2088629181789905251",
+        "created_at": "2026-08-21T13:32:00.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090794045555773604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516035707412054023",
+              "start": 0,
+              "username": "meiakiyama23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090794045555773604",
+        "in_reply_to_user_id": "1516035707412054023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088629181789905251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiakiyama23 扩列加个QQ嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088629139083563009",
+            "3_2088629146868121600",
+            "3_2088629160189313024",
+            "3_2088629170566000640"
+          ]
+        },
+        "author_id": "1516035707412054023",
+        "conversation_id": "2088629181789905251",
+        "created_at": "2026-08-15T14:09:36.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088629181789905251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "femboy"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "拉普兰德"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ObGuQryOk",
+              "end": 52,
+              "expanded_url": "https://x.com/meiakiyama23/status/2088629181789905251/photo/1",
+              "media_key": "3_2088629139083563009",
+              "start": 29,
+              "url": "https://t.co/8ObGuQryOk"
+            },
+            {
+              "display_url": "pic.x.com/8ObGuQryOk",
+              "end": 52,
+              "expanded_url": "https://x.com/meiakiyama23/status/2088629181789905251/photo/1",
+              "media_key": "3_2088629146868121600",
+              "start": 29,
+              "url": "https://t.co/8ObGuQryOk"
+            },
+            {
+              "display_url": "pic.x.com/8ObGuQryOk",
+              "end": 52,
+              "expanded_url": "https://x.com/meiakiyama23/status/2088629181789905251/photo/1",
+              "media_key": "3_2088629160189313024",
+              "start": 29,
+              "url": "https://t.co/8ObGuQryOk"
+            },
+            {
+              "display_url": "pic.x.com/8ObGuQryOk",
+              "end": 52,
+              "expanded_url": "https://x.com/meiakiyama23/status/2088629181789905251/photo/1",
+              "media_key": "3_2088629170566000640",
+              "start": 29,
+              "url": "https://t.co/8ObGuQryOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088629181789905251",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088629139083563009"
+          },
+          {
+            "media_key": "3_2088629146868121600"
+          },
+          {
+            "media_key": "3_2088629160189313024"
+          },
+          {
+            "media_key": "3_2088629170566000640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在欢迎小德的小拉（\n#男娘 #femboy #拉普兰德 https://t.co/8ObGuQryOk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090794045555773604",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1322,
+          "like_count": 1824,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-18T12:47:47.000Z",
+        "description": "",
+        "id": "1516035707412054023",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090047520986829238",
+        "name": "akiyama_mei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516035707412054023/1754986756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924155079776436224/MhRi1LGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 404,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "meiakiyama23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

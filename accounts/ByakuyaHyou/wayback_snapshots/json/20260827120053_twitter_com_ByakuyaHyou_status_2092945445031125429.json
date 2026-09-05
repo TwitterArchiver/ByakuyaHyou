@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2092640115193782402",
+    "created_at": "2026-08-27T12:00:53.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092945445031125429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958588340120559620",
+          "start": 0,
+          "username": "mooziye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092945445031125429",
+    "in_reply_to_user_id": "1958588340120559620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092640115193782402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mooziye 人，可爱，我喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092639973367590912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqM9-9bsAAvV5d.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2092640115193782402",
+        "created_at": "2026-08-27T12:00:53.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092945445031125429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958588340120559620",
+              "start": 0,
+              "username": "mooziye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092945445031125429",
+        "in_reply_to_user_id": "1958588340120559620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092640115193782402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mooziye 人，可爱，我喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092639973367590912"
+          ]
+        },
+        "author_id": "1958588340120559620",
+        "conversation_id": "2092640115193782402",
+        "created_at": "2026-08-26T15:47:37.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092640115193782402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "伪娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "女装"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "男の娘"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "femboy"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "伪娘の日常"
+            },
+            {
+              "end": 69,
+              "start": 54,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "鸣潮"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "千咲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8olJWp8CIl",
+              "end": 101,
+              "expanded_url": "https://x.com/mooziye/status/2092640115193782402/photo/1",
+              "media_key": "3_2092639973367590912",
+              "start": 78,
+              "url": "https://t.co/8olJWp8CIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092640115193782402",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092639973367590912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1083,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也不是很重要，对吧\n\n#可爱的男孩子 #男娘 #伪娘 #女装 #男の娘 #femboy #伪娘の日常 #cosplayㅤㅤㅤㅤㅤㅤㅤ #鸣潮 #千咲 https://t.co/8olJWp8CIl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2092945445031125429",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1384,
+          "like_count": 1829,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1766
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T17:53:51.000Z",
+        "description": "记录人生",
+        "id": "1958588340120559620",
+        "is_identity_verified": false,
+        "location": "anywhere",
+        "most_recent_tweet_id": "2092640115193782402",
+        "name": "正交多枪杆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958588340120559620/1755799197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958589694608134144/o1V3K9xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 222,
+          "like_count": 6723,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "mooziye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

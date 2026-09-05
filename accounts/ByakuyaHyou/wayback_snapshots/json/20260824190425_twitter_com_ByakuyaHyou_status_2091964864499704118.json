@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2089356597751656566",
+    "created_at": "2026-08-24T19:04:25.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091964864499704118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1135137326366056449",
+          "start": 0,
+          "username": "Yuanjiejie911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091964864499704118",
+    "in_reply_to_user_id": "1135137326366056449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089356597751656566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanjiejie911 我喜欢你❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089356343849455616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7ihlxbEAA7tFU.jpg",
+        "width": 1510
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089356554625810432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7it2-bAAAUMHL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2089356597751656566",
+        "created_at": "2026-08-24T19:04:25.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091964864499704118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1135137326366056449",
+              "start": 0,
+              "username": "Yuanjiejie911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091964864499704118",
+        "in_reply_to_user_id": "1135137326366056449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089356597751656566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanjiejie911 我喜欢你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089356343849455616",
+            "3_2089356554625810432"
+          ]
+        },
+        "author_id": "1135137326366056449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2089356597751656566",
+        "created_at": "2026-08-17T14:20:05.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089356597751656566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "崩坏星穹铁道"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "火花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJZ7twDwqs",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuanjiejie911/status/2089356597751656566/photo/1",
+              "media_key": "3_2089356343849455616",
+              "start": 43,
+              "url": "https://t.co/lJZ7twDwqs"
+            },
+            {
+              "display_url": "pic.x.com/lJZ7twDwqs",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuanjiejie911/status/2089356597751656566/photo/1",
+              "media_key": "3_2089356554625810432",
+              "start": 43,
+              "url": "https://t.co/lJZ7twDwqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089356597751656566",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089356343849455616"
+          },
+          {
+            "media_key": "3_2089356554625810432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3337,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是可爱的火花花～\n\n#HonkaiStarRail  #崩坏星穹铁道  \n#火花 https://t.co/lJZ7twDwqs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2091964864499704118",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1350,
+          "like_count": 1826,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T10:53:23.000Z",
+        "description": "人类的悲欢并不相通,我只觉得他们吵闹",
+        "id": "1135137326366056449",
+        "is_identity_verified": false,
+        "location": "顺德",
+        "most_recent_tweet_id": "2089546952522555843",
+        "name": "源姐姐",
+        "pinned_tweet_id": "2089356597751656566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135137326366056449/1728273748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900148885382905857/MTLqY9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1086,
+          "like_count": 4858,
+          "listed_count": 10,
+          "media_count": 92,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "Yuanjiejie911",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

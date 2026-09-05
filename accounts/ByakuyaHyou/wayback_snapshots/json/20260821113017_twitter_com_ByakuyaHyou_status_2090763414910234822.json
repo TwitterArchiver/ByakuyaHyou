@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2056035440747229640",
+    "created_at": "2026-08-21T11:30:17.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090763414910234822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656591376174415873",
+          "start": 0,
+          "username": "buwendingyinzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090763414910234822",
+    "in_reply_to_user_id": "1656591376174415873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056035440747229640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwendingyinzi 拉普兰德可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14366,
+        "height": 640,
+        "media_key": "7_2056035421105377280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056035421105377280/pu/img/RS9TLUWwyL8yBO0D.jpg",
+        "public_metrics": {
+          "view_count": 156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056035421105377280/pu/vid/avc1/320x426/sBpnfu-dtrfU428O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056035421105377280/pu/vid/avc1/480x640/wvMh3h8G6VWOLuHP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056035421105377280/pu/pl/H6Kg5PGiEocfAMbu.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2056035440747229640",
+        "created_at": "2026-08-21T11:30:17.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090763414910234822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656591376174415873",
+              "start": 0,
+              "username": "buwendingyinzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090763414910234822",
+        "in_reply_to_user_id": "1656591376174415873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056035440747229640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwendingyinzi 拉普兰德可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056035421105377280"
+          ]
+        },
+        "author_id": "1656591376174415873",
+        "conversation_id": "2056035440747229640",
+        "created_at": "2026-05-17T15:33:43.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056035440747229640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJIWSBg2K1",
+              "end": 34,
+              "expanded_url": "https://x.com/buwendingyinzi/status/2056035440747229640/video/1",
+              "media_key": "7_2056035421105377280",
+              "start": 11,
+              "url": "https://t.co/PJIWSBg2K1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056035440747229640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2056035421105377280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1299,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么是想了100遍 https://t.co/PJIWSBg2K1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090763414910234822",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1321,
+          "like_count": 1818,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T09:25:43.000Z",
+        "description": "02 mtx 182cm 56kg女装模特 腿模 B站：不稳定因子x 不搞黄 拍腿擦边大师 偶尔cos同好互关互赞互转叫🐱❤️欢迎投喂感谢支持🚪50r 同好可直接扩好友加群",
+        "id": "1656591376174415873",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2090754421420613829",
+        "name": "不稳定因子x",
+        "pinned_tweet_id": "2052654170688360501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656591376174415873/1722112617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047842450694340609/cdgg1XHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1167,
+          "like_count": 29223,
+          "listed_count": 10,
+          "media_count": 682,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "buwendingyinzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

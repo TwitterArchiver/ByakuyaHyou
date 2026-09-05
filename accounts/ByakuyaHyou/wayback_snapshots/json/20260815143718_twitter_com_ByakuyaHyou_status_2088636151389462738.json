@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2088467614196810145",
+    "created_at": "2026-08-15T14:37:18.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088636151389462738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027635203339128832",
+          "start": 0,
+          "username": "Ecg5ye7DZj91740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088636151389462738",
+    "in_reply_to_user_id": "2027635203339128832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088467614196810145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ecg5ye7DZj91740 我喜欢你🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2088467610224795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu6OfBboAAAMok.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2088467614196810145",
+        "created_at": "2026-08-15T14:37:18.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088636151389462738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027635203339128832",
+              "start": 0,
+              "username": "Ecg5ye7DZj91740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088636151389462738",
+        "in_reply_to_user_id": "2027635203339128832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088467614196810145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ecg5ye7DZj91740 我喜欢你🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088467610224795648"
+          ]
+        },
+        "author_id": "2027635203339128832",
+        "conversation_id": "2088467614196810145",
+        "created_at": "2026-08-15T03:27:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088467614196810145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDF80BbFZs",
+              "end": 26,
+              "expanded_url": "https://x.com/Ecg5ye7DZj91740/status/2088467614196810145/photo/1",
+              "media_key": "3_2088467610224795648",
+              "start": 3,
+              "url": "https://t.co/GDF80BbFZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088467614196810145",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2088467610224795648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 950,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ww https://t.co/GDF80BbFZs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088636151389462738",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1240,
+          "like_count": 1807,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T06:41:42.000Z",
+        "description": "坐标妖都，我们结缘了呢，你说的对这里是跟xuexue共号的复活の二号，算是个男娘上推纯是小脑发力了，不定时发点扫，特摄浓度超标臭玩二游又混点考斯普雷的男娘吧嗯就这样可爱男娘dd，扩列私信， 🚪60可以的话",
+        "id": "2027635203339128832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088467614196810145",
+        "name": "xuexue日月子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027635203339128832/1782920738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028883070733172737/XsEvwzUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 125,
+          "like_count": 2009,
+          "listed_count": 7,
+          "media_count": 24,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Ecg5ye7DZj91740",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

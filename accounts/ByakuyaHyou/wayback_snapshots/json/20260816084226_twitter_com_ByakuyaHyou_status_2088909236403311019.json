@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088656749255618560"
+      ],
+      "media_source_tweet_id": [
+        "2088656962514980902"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2088909236403311019",
+    "created_at": "2026-08-16T08:42:26.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088909236403311019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796080689106108416",
+          "start": 3,
+          "username": "raindetear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v1UgRD5uRu",
+          "end": 76,
+          "expanded_url": "https://x.com/raindetear/status/2088656962514980902/photo/1",
+          "media_key": "3_2088656749255618560",
+          "start": 53,
+          "url": "https://t.co/v1UgRD5uRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088909236403311019",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088656749255618560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088656962514980902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @raindetear: 堡垒之夜和终末地联动了\n然后一堆佩丽卡表情包也出来了\n给佩丽卡当啥子整呢 https://t.co/v1UgRD5uRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088656749255618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxmP00acAA8TGr.jpg",
+        "width": 3048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088656749255618560"
+          ],
+          "media_source_tweet_id": [
+            "2088656962514980902"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2088909236403311019",
+        "created_at": "2026-08-16T08:42:26.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088909236403311019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796080689106108416",
+              "start": 3,
+              "username": "raindetear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1UgRD5uRu",
+              "end": 76,
+              "expanded_url": "https://x.com/raindetear/status/2088656962514980902/photo/1",
+              "media_key": "3_2088656749255618560",
+              "start": 53,
+              "url": "https://t.co/v1UgRD5uRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088909236403311019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088656749255618560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088656962514980902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @raindetear: 堡垒之夜和终末地联动了\n然后一堆佩丽卡表情包也出来了\n给佩丽卡当啥子整呢 https://t.co/v1UgRD5uRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088656749255618560"
+          ]
+        },
+        "author_id": "1796080689106108416",
+        "conversation_id": "2088656962514980902",
+        "created_at": "2026-08-15T15:59:59.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088656962514980902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1UgRD5uRu",
+              "end": 60,
+              "expanded_url": "https://x.com/raindetear/status/2088656962514980902/photo/1",
+              "media_key": "3_2088656749255618560",
+              "start": 37,
+              "url": "https://t.co/v1UgRD5uRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088656962514980902",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088656749255618560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 552,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "堡垒之夜和终末地联动了\n然后一堆佩丽卡表情包也出来了\n给佩丽卡当啥子整呢 https://t.co/v1UgRD5uRu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088909236403311019",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 1265,
+          "like_count": 1815,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-30T07:26:31.000Z",
+        "description": "喜欢考斯的南孩子一枚，对镜拍战神，线下见光死，bilibili@干物雨_official，其他平台同名干物雨，coser看到会回关也可以私我回，不线下不卖原味不视频只偶尔擦个边，私信评论偶尔看没回复致歉，有事可进群",
+        "id": "1796080689106108416",
+        "is_identity_verified": false,
+        "location": "sekai",
+        "most_recent_tweet_id": "2088892543316672711",
+        "name": "干物雨official",
+        "pinned_tweet_id": "2018334752508657879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796080689106108416/1765209855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043724751915614208/EqvnjQ-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 73,
+          "like_count": 3926,
+          "listed_count": 11,
+          "media_count": 583,
+          "tweet_count": 836
+        },
+        "url": "",
+        "username": "raindetear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

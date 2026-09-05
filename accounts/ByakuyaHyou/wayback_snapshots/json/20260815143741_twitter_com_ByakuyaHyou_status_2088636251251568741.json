@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2067204465548271669",
+    "created_at": "2026-08-15T14:37:41.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088636251251568741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1427273133740806147",
+          "start": 0,
+          "username": "wliuliw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088636251251568741",
+    "in_reply_to_user_id": "1427273133740806147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067204465548271669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wliuliw 我喜欢你🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2067204462742290432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAvgZ_bQAAEj15.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2067204465548271669",
+        "created_at": "2026-08-15T14:37:41.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088636251251568741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1427273133740806147",
+              "start": 0,
+              "username": "wliuliw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088636251251568741",
+        "in_reply_to_user_id": "1427273133740806147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067204465548271669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wliuliw 我喜欢你🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067204462742290432"
+          ]
+        },
+        "author_id": "1427273133740806147",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2067204465548271669",
+        "created_at": "2026-06-17T11:15:26.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067204465548271669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "cosplay"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "arknights"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "伪娘"
+            },
+            {
+              "end": 55,
+              "start": 53,
+              "tag": "W"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "维什戴尔"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "腋下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMBySSskzi",
+              "end": 89,
+              "expanded_url": "https://x.com/wliuliw/status/2067204465548271669/photo/1",
+              "media_key": "3_2067204462742290432",
+              "start": 66,
+              "url": "https://t.co/gMBySSskzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067204465548271669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2067204462742290432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 26296,
+          "like_count": 738,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "感觉很色诶有没有人懂的～头发有点炸请原谅ww\n＃明日方舟 ＃cosplay ＃arknights ＃伪娘 ＃W ＃维什戴尔 ＃腋下 https://t.co/gMBySSskzi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088636251251568741",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1240,
+          "like_count": 1808,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T14:17:04.000Z",
+        "description": "门槛50，只在推特发图",
+        "id": "1427273133740806147",
+        "is_identity_verified": false,
+        "location": "星辰大海",
+        "most_recent_tweet_id": "2088509483538604140",
+        "name": "w琉璃w",
+        "pinned_tweet_id": "1974768485529268565",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063940553063202817/CFxczCvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11024,
+          "following_count": 687,
+          "like_count": 6313,
+          "listed_count": 25,
+          "media_count": 303,
+          "tweet_count": 5025
+        },
+        "url": "",
+        "username": "wliuliw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

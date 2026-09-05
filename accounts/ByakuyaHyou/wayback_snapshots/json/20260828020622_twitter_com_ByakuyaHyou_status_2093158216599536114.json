@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2091716963336859987",
+    "created_at": "2026-08-28T02:06:22.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093158216599536114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688133843461771264",
+          "start": 0,
+          "username": "qwe2003poi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093158216599536114",
+    "in_reply_to_user_id": "1688133843461771264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091716963336859987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwe2003poi 超可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2091716941044162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdFebmaoAATpLv.jpg",
+        "width": 2560
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2091716947310505985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdFey8bcAEaAOl.jpg",
+        "width": 3840
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2091716955908755456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdFfS-aUAAsDzS.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2091716963336859987",
+        "created_at": "2026-08-28T02:06:22.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093158216599536114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688133843461771264",
+              "start": 0,
+              "username": "qwe2003poi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093158216599536114",
+        "in_reply_to_user_id": "1688133843461771264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091716963336859987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwe2003poi 超可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091716941044162560",
+            "3_2091716947310505985",
+            "3_2091716955908755456"
+          ]
+        },
+        "author_id": "1688133843461771264",
+        "conversation_id": "2091716963336859987",
+        "created_at": "2026-08-24T02:39:20.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091716963336859987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcyNeVUL1n",
+              "end": 37,
+              "expanded_url": "https://x.com/qwe2003poi/status/2091716963336859987/photo/1",
+              "media_key": "3_2091716941044162560",
+              "start": 14,
+              "url": "https://t.co/HcyNeVUL1n"
+            },
+            {
+              "display_url": "pic.x.com/HcyNeVUL1n",
+              "end": 37,
+              "expanded_url": "https://x.com/qwe2003poi/status/2091716963336859987/photo/1",
+              "media_key": "3_2091716947310505985",
+              "start": 14,
+              "url": "https://t.co/HcyNeVUL1n"
+            },
+            {
+              "display_url": "pic.x.com/HcyNeVUL1n",
+              "end": 37,
+              "expanded_url": "https://x.com/qwe2003poi/status/2091716963336859987/photo/1",
+              "media_key": "3_2091716955908755456",
+              "start": 14,
+              "url": "https://t.co/HcyNeVUL1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091716963336859987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091716941044162560"
+          },
+          {
+            "media_key": "3_2091716947310505985"
+          },
+          {
+            "media_key": "3_2091716955908755456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5144,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没有话题我们能干嘛？\n对。 https://t.co/HcyNeVUL1n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2093158216599536114",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1387,
+          "like_count": 1831,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T10:24:14.000Z",
+        "description": "♂   超级无敌懒惰业余coser｜168/50\n｜可接瓦/卡陪玩，三角洲魔丸护🚪0.05｜广东",
+        "id": "1688133843461771264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091716963336859987",
+        "name": "此米已有哈根，可以达斯了",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688133843461771264/1777843481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980097942783492096/qT6ueROT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 213,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "qwe2003poi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090396752549687296",
+        "3_2090396752906260480",
+        "3_2090396752541339648"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2090396802239676889",
+    "created_at": "2026-08-20T11:13:30.000Z",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090396802239676889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "男娘"
+        },
+        {
+          "end": 119,
+          "start": 111,
+          "tag": "cosplay"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 136,
+          "start": 126,
+          "tag": "Arknights"
+        },
+        {
+          "end": 140,
+          "start": 137,
+          "tag": "忍冬"
+        },
+        {
+          "end": 144,
+          "start": 141,
+          "tag": "女装"
+        },
+        {
+          "end": 149,
+          "start": 145,
+          "tag": "男孩子"
+        },
+        {
+          "end": 153,
+          "start": 150,
+          "tag": "喝酒"
+        },
+        {
+          "end": 157,
+          "start": 154,
+          "tag": "可爱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f8224kbgt2",
+          "end": 181,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+          "media_key": "3_2090396752549687296",
+          "start": 158,
+          "url": "https://t.co/f8224kbgt2"
+        },
+        {
+          "display_url": "pic.x.com/f8224kbgt2",
+          "end": 181,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+          "media_key": "3_2090396752906260480",
+          "start": 158,
+          "url": "https://t.co/f8224kbgt2"
+        },
+        {
+          "display_url": "pic.x.com/f8224kbgt2",
+          "end": 181,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+          "media_key": "3_2090396752541339648",
+          "start": 158,
+          "url": "https://t.co/f8224kbgt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090396802239676889",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090396752549687296"
+      },
+      {
+        "media_key": "3_2090396752906260480"
+      },
+      {
+        "media_key": "3_2090396752541339648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的任务处理得还算利索，有了一段难得的属于自己的闲暇时光。在这个挂着各种零碎商品的酒馆坐下，手里这杯加了冰的红色饮品，老板说它叫苹果乐，喝了之后能让人感到愉快欢乐，这些确实能让人暂时忘掉任务时那些恼人的风沙。\n\n#男娘 #cosplay #明日方舟 #Arknights #忍冬 #女装 #男孩子 #喝酒 #可爱 https://t.co/f8224kbgt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2090396752549687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKUxWNasAASgAl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 938,
+        "media_key": "3_2090396752906260480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKUxXibkAAYLpJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 938,
+        "media_key": "3_2090396752541339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKUxWLbUAAhAav.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090396752549687296",
+            "3_2090396752906260480",
+            "3_2090396752541339648"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2090396802239676889",
+        "created_at": "2026-08-20T11:13:30.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090396802239676889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "男娘"
+            },
+            {
+              "end": 119,
+              "start": 111,
+              "tag": "cosplay"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 136,
+              "start": 126,
+              "tag": "Arknights"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "忍冬"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "女装"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "男孩子"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "喝酒"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8224kbgt2",
+              "end": 181,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+              "media_key": "3_2090396752549687296",
+              "start": 158,
+              "url": "https://t.co/f8224kbgt2"
+            },
+            {
+              "display_url": "pic.x.com/f8224kbgt2",
+              "end": 181,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+              "media_key": "3_2090396752906260480",
+              "start": 158,
+              "url": "https://t.co/f8224kbgt2"
+            },
+            {
+              "display_url": "pic.x.com/f8224kbgt2",
+              "end": 181,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2090396802239676889/photo/1",
+              "media_key": "3_2090396752541339648",
+              "start": 158,
+              "url": "https://t.co/f8224kbgt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090396802239676889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090396752549687296"
+          },
+          {
+            "media_key": "3_2090396752906260480"
+          },
+          {
+            "media_key": "3_2090396752541339648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的任务处理得还算利索，有了一段难得的属于自己的闲暇时光。在这个挂着各种零碎商品的酒馆坐下，手里这杯加了冰的红色饮品，老板说它叫苹果乐，喝了之后能让人感到愉快欢乐，这些确实能让人暂时忘掉任务时那些恼人的风沙。\n\n#男娘 #cosplay #明日方舟 #Arknights #忍冬 #女装 #男孩子 #喝酒 #可爱 https://t.co/f8224kbgt2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090396802239676889",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 1310,
+          "like_count": 1811,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

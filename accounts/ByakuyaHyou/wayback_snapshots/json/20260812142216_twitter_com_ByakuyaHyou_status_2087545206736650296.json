@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086670223630106624",
+        "3_2086670223688798208"
+      ],
+      "media_source_tweet_id": [
+        "2086670240608645422",
+        "2086670240608645422"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2087545206736650296",
+    "created_at": "2026-08-12T14:22:16.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087545206736650296"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "明日方舟ㅤ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "德克萨斯"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "kig"
+        },
+        {
+          "end": 67,
+          "start": 58,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 78,
+          "start": 68,
+          "tag": "arknights"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911724109391872000",
+          "start": 3,
+          "username": "LinFanLumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOAaHpJNZT",
+          "end": 106,
+          "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+          "media_key": "3_2086670223630106624",
+          "start": 83,
+          "url": "https://t.co/HOAaHpJNZT"
+        },
+        {
+          "display_url": "pic.x.com/HOAaHpJNZT",
+          "end": 106,
+          "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+          "media_key": "3_2086670223688798208",
+          "start": 83,
+          "url": "https://t.co/HOAaHpJNZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087545206736650296",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086670223630106624"
+      },
+      {
+        "media_key": "3_2086670223688798208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086670240608645422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinFanLumi: 博士，穿了一整天味道很大哦，真的没有关系嘛😥😥\n#明日方舟ㅤ ＃德克萨斯 ＃kig ＃kigurumi ＃arknights ＃足控 https://t.co/HOAaHpJNZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2086670223630106624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVXg0LbgAA3w2r.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2086670223688798208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVXg0ZbEAAcTaR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086670223630106624",
+            "3_2086670223688798208"
+          ]
+        },
+        "author_id": "1911724109391872000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2086670240608645422",
+        "created_at": "2026-08-10T04:25:28.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086670240608645422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "明日方舟ㅤ"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "德克萨斯"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "kig"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "arknights"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOAaHpJNZT",
+              "end": 90,
+              "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+              "media_key": "3_2086670223630106624",
+              "start": 67,
+              "url": "https://t.co/HOAaHpJNZT"
+            },
+            {
+              "display_url": "pic.x.com/HOAaHpJNZT",
+              "end": 90,
+              "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+              "media_key": "3_2086670223688798208",
+              "start": 67,
+              "url": "https://t.co/HOAaHpJNZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086670240608645422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086670223630106624"
+          },
+          {
+            "media_key": "3_2086670223688798208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 474,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "博士，穿了一整天味道很大哦，真的没有关系嘛😥😥\n#明日方舟ㅤ ＃德克萨斯 ＃kig ＃kigurumi ＃arknights ＃足控 https://t.co/HOAaHpJNZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086670223630106624",
+            "3_2086670223688798208"
+          ],
+          "media_source_tweet_id": [
+            "2086670240608645422",
+            "2086670240608645422"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2087545206736650296",
+        "created_at": "2026-08-12T14:22:16.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087545206736650296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "明日方舟ㅤ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "德克萨斯"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "kig"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 78,
+              "start": 68,
+              "tag": "arknights"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "足控"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911724109391872000",
+              "start": 3,
+              "username": "LinFanLumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOAaHpJNZT",
+              "end": 106,
+              "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+              "media_key": "3_2086670223630106624",
+              "start": 83,
+              "url": "https://t.co/HOAaHpJNZT"
+            },
+            {
+              "display_url": "pic.x.com/HOAaHpJNZT",
+              "end": 106,
+              "expanded_url": "https://x.com/LinFanLumi/status/2086670240608645422/photo/1",
+              "media_key": "3_2086670223688798208",
+              "start": 83,
+              "url": "https://t.co/HOAaHpJNZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087545206736650296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086670223630106624"
+          },
+          {
+            "media_key": "3_2086670223688798208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086670240608645422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinFanLumi: 博士，穿了一整天味道很大哦，真的没有关系嘛😥😥\n#明日方舟ㅤ ＃德克萨斯 ＃kig ＃kigurumi ＃arknights ＃足控 https://t.co/HOAaHpJNZT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2087545206736650296",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1220,
+          "like_count": 1798,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1709
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-14T10:12:07.000Z",
+        "description": "INTJ/M/男生/不含糖/XP复杂/kig萌新/欢迎扩列/欢迎贴贴",
+        "id": "1911724109391872000",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2087192509395218553",
+        "name": "凌枫琉璃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911724109391872000/1779010289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081060324850253824/dJvU6B1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 344,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "LinFanLumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090105357943390208"
+      ],
+      "media_source_tweet_id": [
+        "2090105441397395953"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2090763481230487568",
+    "created_at": "2026-08-21T11:30:33.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090763481230487568"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "做爱"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "作战记录"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "男娘"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "男の娘"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "后入"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1197818022796251136",
+          "start": 3,
+          "username": "Ojoeyeanxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3XMzCZLaV",
+          "end": 98,
+          "expanded_url": "https://x.com/Ojoeyeanxi/status/2090105441397395953/video/1",
+          "media_key": "13_2090105357943390208",
+          "start": 75,
+          "url": "https://t.co/R3XMzCZLaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090763481230487568",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090105357943390208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090105441397395953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ojoeyeanxi: 七夕是工作日看你们怎么打炮😋\n不是吧你们还真能打炮啊😭😭带我一个好不好\n#做爱 #作战记录 #男娘 #男の娘 #后入 https://t.co/R3XMzCZLaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89536,
+        "height": 1280,
+        "media_key": "13_2090105357943390208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090105357943390208/img/PIJ0_LmzeqV3JySC.jpg",
+        "public_metrics": {
+          "view_count": 5601
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090105357943390208/vid/avc1/320x568/PBSxKRCqM0qV350z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090105357943390208/vid/avc1/480x852/8uwXFoqDqKA19bdd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090105357943390208/vid/avc1/720x1280/WHR2AYcIHdPZXR8M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090105357943390208/pl/GY0yCM-NzJEMcIu6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090105357943390208"
+          ],
+          "media_source_tweet_id": [
+            "2090105441397395953"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2090763481230487568",
+        "created_at": "2026-08-21T11:30:33.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090763481230487568"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "做爱"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "作战记录"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "男娘"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "男の娘"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "后入"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1197818022796251136",
+              "start": 3,
+              "username": "Ojoeyeanxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3XMzCZLaV",
+              "end": 98,
+              "expanded_url": "https://x.com/Ojoeyeanxi/status/2090105441397395953/video/1",
+              "media_key": "13_2090105357943390208",
+              "start": 75,
+              "url": "https://t.co/R3XMzCZLaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090763481230487568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090105357943390208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090105441397395953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ojoeyeanxi: 七夕是工作日看你们怎么打炮😋\n不是吧你们还真能打炮啊😭😭带我一个好不好\n#做爱 #作战记录 #男娘 #男の娘 #后入 https://t.co/R3XMzCZLaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090105357943390208"
+          ]
+        },
+        "author_id": "1197818022796251136",
+        "conversation_id": "2090105441397395953",
+        "created_at": "2026-08-19T15:55:44.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090105441397395953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "做爱"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "作战记录"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "男娘"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "男の娘"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "后入"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3XMzCZLaV",
+              "end": 82,
+              "expanded_url": "https://x.com/Ojoeyeanxi/status/2090105441397395953/video/1",
+              "media_key": "13_2090105357943390208",
+              "start": 59,
+              "url": "https://t.co/R3XMzCZLaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090105441397395953",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090105357943390208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 18216,
+          "like_count": 390,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "七夕是工作日看你们怎么打炮😋\n不是吧你们还真能打炮啊😭😭带我一个好不好\n#做爱 #作战记录 #男娘 #男の娘 #后入 https://t.co/R3XMzCZLaV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090763481230487568",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1321,
+          "like_count": 1819,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-22T10:04:14.000Z",
+        "description": "Re setup",
+        "id": "1197818022796251136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090737137784066215",
+        "name": "嘎嘣脆的克眼",
+        "pinned_tweet_id": "2090025414332969201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197818022796251136/1714061782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709230403381248003/qWeQKV9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 331,
+          "like_count": 7335,
+          "listed_count": 7,
+          "media_count": 18,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "Ojoeyeanxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

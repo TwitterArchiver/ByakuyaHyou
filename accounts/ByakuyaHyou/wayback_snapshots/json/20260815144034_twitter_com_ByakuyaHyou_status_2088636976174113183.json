@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2080388990126166419",
+    "created_at": "2026-08-15T14:40:34.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088636976174113183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760877178047320064",
+          "start": 0,
+          "username": "ki_lit4717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088636976174113183",
+    "in_reply_to_user_id": "1760877178047320064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080388990126166419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_lit4717 可爱，结芬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2080388967967735808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8GvnZbwAAU8mK.jpg",
+        "width": 1290
+      },
+      {
+        "height": 926,
+        "media_key": "3_2080388967959281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8GvnXawAAKbsG.jpg",
+        "width": 1274
+      },
+      {
+        "height": 1678,
+        "media_key": "3_2080388967959265280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8GvnXagAAvpq1.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2080388990126166419",
+        "created_at": "2026-08-15T14:40:34.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088636976174113183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760877178047320064",
+              "start": 0,
+              "username": "ki_lit4717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088636976174113183",
+        "in_reply_to_user_id": "1760877178047320064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080388990126166419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_lit4717 可爱，结芬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080388967967735808",
+            "3_2080388967959281664",
+            "3_2080388967959265280"
+          ]
+        },
+        "author_id": "1760877178047320064",
+        "conversation_id": "2080388990126166419",
+        "created_at": "2026-07-23T20:26:01.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080388990126166419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "娼年"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "famboy"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "伪娘"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLGjAqQOC2",
+              "end": 52,
+              "expanded_url": "https://x.com/ki_lit4717/status/2080388990126166419/photo/1",
+              "media_key": "3_2080388967967735808",
+              "start": 29,
+              "url": "https://t.co/iLGjAqQOC2"
+            },
+            {
+              "display_url": "pic.x.com/iLGjAqQOC2",
+              "end": 52,
+              "expanded_url": "https://x.com/ki_lit4717/status/2080388990126166419/photo/1",
+              "media_key": "3_2080388967959281664",
+              "start": 29,
+              "url": "https://t.co/iLGjAqQOC2"
+            },
+            {
+              "display_url": "pic.x.com/iLGjAqQOC2",
+              "end": 52,
+              "expanded_url": "https://x.com/ki_lit4717/status/2080388990126166419/photo/1",
+              "media_key": "3_2080388967959265280",
+              "start": 29,
+              "url": "https://t.co/iLGjAqQOC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080388990126166419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2080388967967735808"
+          },
+          {
+            "media_key": "3_2080388967959281664"
+          },
+          {
+            "media_key": "3_2080388967959265280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3887,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真差劲…#娼年 #男娘 #famboy #伪娘 #雌小鬼 https://t.co/iLGjAqQOC2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088636976174113183",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1243,
+          "like_count": 1808,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-23T04:00:27.000Z",
+        "description": "faze up",
+        "id": "1760877178047320064",
+        "is_identity_verified": false,
+        "location": "江蘇",
+        "most_recent_tweet_id": "2088617995132342359",
+        "name": "阿比斯",
+        "pinned_tweet_id": "2011630133166432377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760877178047320064/1770012938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088566245503410176/NcA4En2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 72,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "ki_lit4717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

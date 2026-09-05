@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2090396802239676889",
+    "created_at": "2026-08-21T03:25:27.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090641401692451286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "760853725275561984",
+          "start": 0,
+          "username": "quintonmcc199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090641401692451286",
+    "in_reply_to_user_id": "760853725275561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090473078040187083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quintonmcc199 你也可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2090396802239676889",
+        "created_at": "2026-08-21T03:25:27.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090641401692451286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "760853725275561984",
+              "start": 0,
+              "username": "quintonmcc199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090641401692451286",
+        "in_reply_to_user_id": "760853725275561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090473078040187083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quintonmcc199 你也可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760853725275561984",
+        "conversation_id": "2090396802239676889",
+        "created_at": "2026-08-20T16:16:35.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090473078040187083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090473078040187083",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090396802239676889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090641401692451286",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1318,
+          "like_count": 1814,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1746
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T15:03:58.000Z",
+        "description": "一只臭名昭著的joker  |  \n目前在苏州打螺丝 ︴\n尽可能给大家传递乐观向上的能量",
+        "id": "760853725275561984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090477640243450194",
+        "name": "茴亦澜",
+        "pinned_tweet_id": "2048443277372981633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760853725275561984/1786509401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087397842071728128/fC_3wl-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 3906,
+          "like_count": 24097,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 6973
+        },
+        "url": "",
+        "username": "quintonmcc199",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

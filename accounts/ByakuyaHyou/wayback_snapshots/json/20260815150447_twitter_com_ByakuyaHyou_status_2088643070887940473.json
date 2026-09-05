@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2050925167287869643",
+    "created_at": "2026-08-15T15:04:47.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088643070887940473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484329295304482816",
+          "start": 0,
+          "username": "loveyouAmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088643070887940473",
+    "in_reply_to_user_id": "1484329295304482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050925167287869643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveyouAmiya 我喜欢你宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050925155170623488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZZj_bboAAaeLb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2050925167287869643",
+        "created_at": "2026-08-15T15:04:47.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088643070887940473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484329295304482816",
+              "start": 0,
+              "username": "loveyouAmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088643070887940473",
+        "in_reply_to_user_id": "1484329295304482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050925167287869643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveyouAmiya 我喜欢你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050925155170623488"
+          ]
+        },
+        "author_id": "1484329295304482816",
+        "conversation_id": "2050925167287869643",
+        "created_at": "2026-05-03T13:07:18.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050925167287869643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTFkVLLHTg",
+              "end": 27,
+              "expanded_url": "https://x.com/loveyouAmiya/status/2050925167287869643/photo/1",
+              "media_key": "3_2050925155170623488",
+              "start": 4,
+              "url": "https://t.co/eTFkVLLHTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050925167287869643",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2050925155170623488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 269,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OvO https://t.co/eTFkVLLHTg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088643070887940473",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 1263,
+          "like_count": 1808,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1728
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T00:58:03.000Z",
+        "description": "Always love you Amiya",
+        "id": "1484329295304482816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088367072690799061",
+        "name": "´起司ω鯊魚｀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484329295304482816/1750576311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081637718988296192/AmQaDJMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 90,
+          "like_count": 13130,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "loveyouAmiya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

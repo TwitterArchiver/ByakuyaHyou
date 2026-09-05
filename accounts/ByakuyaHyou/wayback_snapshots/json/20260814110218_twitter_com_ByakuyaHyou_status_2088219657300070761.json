@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2088151266212065510",
+    "created_at": "2026-08-14T11:02:18.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088219657300070761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1402937393842331652",
+          "start": 0,
+          "username": "whiteta11524257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088219657300070761",
+    "in_reply_to_user_id": "1402937393842331652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088151266212065510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whiteta11524257 🌿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2088151239494385664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqafSNawAAN-K9.jpg",
+        "width": 1755
+      },
+      {
+        "height": 2433,
+        "media_key": "3_2088151254950359040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqagLyaMAAJTSg.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2088151266212065510",
+        "created_at": "2026-08-14T11:02:18.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088219657300070761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1402937393842331652",
+              "start": 0,
+              "username": "whiteta11524257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088219657300070761",
+        "in_reply_to_user_id": "1402937393842331652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088151266212065510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whiteta11524257 🌿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088151239494385664",
+            "3_2088151254950359040"
+          ]
+        },
+        "author_id": "1402937393842331652",
+        "conversation_id": "2088151266212065510",
+        "created_at": "2026-08-14T06:30:32.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088151266212065510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0E4qvJKHiz",
+              "end": 66,
+              "expanded_url": "https://x.com/whiteta11524257/status/2088151266212065510/photo/1",
+              "media_key": "3_2088151239494385664",
+              "start": 43,
+              "url": "https://t.co/0E4qvJKHiz"
+            },
+            {
+              "display_url": "pic.x.com/0E4qvJKHiz",
+              "end": 66,
+              "expanded_url": "https://x.com/whiteta11524257/status/2088151266212065510/photo/1",
+              "media_key": "3_2088151254950359040",
+              "start": 43,
+              "url": "https://t.co/0E4qvJKHiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088151266212065510",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088151239494385664"
+          },
+          {
+            "media_key": "3_2088151254950359040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #男の娘\n兄弟和魔爪比也是不落下风啊，小男娘偷偷+我，我吊大大大大大 https://t.co/0E4qvJKHiz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2088219657300070761",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1223,
+          "like_count": 1803,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1715
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-10T10:35:21.000Z",
+        "description": "普普通通的上班族",
+        "id": "1402937393842331652",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088151266212065510",
+        "name": "尾白白白白白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402937393842331652/1720562400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980415795227201536/a21AwUL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 217,
+          "like_count": 275,
+          "listed_count": 9,
+          "media_count": 100,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "whiteta11524257",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

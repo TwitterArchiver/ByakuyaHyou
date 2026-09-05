@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086425903182299136",
+        "3_2086425903337467905"
+      ],
+      "media_source_tweet_id": [
+        "2086425912237797865",
+        "2086425912237797865"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2090793861576868155",
+    "created_at": "2026-08-21T13:31:16.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090793861576868155"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "娼年"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "男娘"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2069483855787282432",
+          "start": 3,
+          "username": "yangzishixnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFGkDRXAnJ",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+          "media_key": "3_2086425903182299136",
+          "start": 40,
+          "url": "https://t.co/NFGkDRXAnJ"
+        },
+        {
+          "display_url": "pic.x.com/NFGkDRXAnJ",
+          "end": 63,
+          "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+          "media_key": "3_2086425903337467905",
+          "start": 40,
+          "url": "https://t.co/NFGkDRXAnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090793861576868155",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086425903182299136"
+      },
+      {
+        "media_key": "3_2086425903337467905"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086425912237797865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangzishixnn: 觉得自己很可爱喵～\n#娼年 #男娘 #伪娘 https://t.co/NFGkDRXAnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2086425903182299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR5TflawAAPHRg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086425903337467905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR5TgKacAEq_x7.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086425903182299136",
+            "3_2086425903337467905"
+          ],
+          "media_source_tweet_id": [
+            "2086425912237797865",
+            "2086425912237797865"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2090793861576868155",
+        "created_at": "2026-08-21T13:31:16.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090793861576868155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "娼年"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男娘"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2069483855787282432",
+              "start": 3,
+              "username": "yangzishixnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFGkDRXAnJ",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+              "media_key": "3_2086425903182299136",
+              "start": 40,
+              "url": "https://t.co/NFGkDRXAnJ"
+            },
+            {
+              "display_url": "pic.x.com/NFGkDRXAnJ",
+              "end": 63,
+              "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+              "media_key": "3_2086425903337467905",
+              "start": 40,
+              "url": "https://t.co/NFGkDRXAnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090793861576868155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086425903182299136"
+          },
+          {
+            "media_key": "3_2086425903337467905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086425912237797865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangzishixnn: 觉得自己很可爱喵～\n#娼年 #男娘 #伪娘 https://t.co/NFGkDRXAnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086425903182299136",
+            "3_2086425903337467905"
+          ]
+        },
+        "author_id": "2069483855787282432",
+        "conversation_id": "2086425912237797865",
+        "created_at": "2026-08-09T12:14:36.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086425912237797865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "娼年"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFGkDRXAnJ",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+              "media_key": "3_2086425903182299136",
+              "start": 22,
+              "url": "https://t.co/NFGkDRXAnJ"
+            },
+            {
+              "display_url": "pic.x.com/NFGkDRXAnJ",
+              "end": 45,
+              "expanded_url": "https://x.com/yangzishixnn/status/2086425912237797865/photo/1",
+              "media_key": "3_2086425903337467905",
+              "start": 22,
+              "url": "https://t.co/NFGkDRXAnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086425912237797865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086425903182299136"
+          },
+          {
+            "media_key": "3_2086425903337467905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5423,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己很可爱喵～\n#娼年 #男娘 #伪娘 https://t.co/NFGkDRXAnJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2090793873031475237",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1322,
+          "like_count": 1824,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1754
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T18:14:40.000Z",
+        "description": "一个简简单单的小男娘喵～身高170，全国乱跑中～立志要成为大手子/群号：1072911582/欢迎来玩喵～",
+        "id": "2069483855787282432",
+        "is_identity_verified": false,
+        "location": "泰拉大陆",
+        "most_recent_tweet_id": "2090788884477350086",
+        "name": "阳子略略略",
+        "pinned_tweet_id": "2086859385062732227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069483855787282432/1786198263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086092829332500480/TUxKoBnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 50,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "yangzishixnn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

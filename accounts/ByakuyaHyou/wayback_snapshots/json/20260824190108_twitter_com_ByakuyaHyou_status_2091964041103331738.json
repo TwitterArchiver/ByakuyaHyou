@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2052339510961127776",
+    "created_at": "2026-08-24T19:01:08.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091964041103331738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751071946765406208",
+          "start": 0,
+          "username": "baiye1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091964041103331738",
+    "in_reply_to_user_id": "1751071946765406208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052339510961127776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiye1202 找咱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2052339510961127776",
+        "created_at": "2026-08-24T19:01:08.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091964041103331738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751071946765406208",
+              "start": 0,
+              "username": "baiye1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091964041103331738",
+        "in_reply_to_user_id": "1751071946765406208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052339510961127776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiye1202 找咱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751071946765406208",
+        "conversation_id": "2052339510961127776",
+        "created_at": "2026-05-07T10:47:24.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052339510961127776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052339510961127776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉想找人说说话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2091964041103331738",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1346,
+          "like_count": 1826,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T02:38:14.000Z",
+        "description": "喵喵喵？",
+        "id": "1751071946765406208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090306043217670424",
+        "name": "白夜",
+        "pinned_tweet_id": "2052238321254818176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751071946765406208/1734446023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804464893732835328/KipN1z26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "baiye1202",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

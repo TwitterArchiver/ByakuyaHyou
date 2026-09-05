@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2067204465548271669",
+    "created_at": "2026-08-16T18:43:58.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089060617680519676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1427273133740806147",
+          "start": 0,
+          "username": "wliuliw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089060617680519676",
+    "in_reply_to_user_id": "1427273133740806147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089058658370179484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wliuliw 扩列！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2067204465548271669",
+        "created_at": "2026-08-16T18:43:58.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089060617680519676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1427273133740806147",
+              "start": 0,
+              "username": "wliuliw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089060617680519676",
+        "in_reply_to_user_id": "1427273133740806147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089058658370179484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wliuliw 扩列！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427273133740806147",
+        "conversation_id": "2067204465548271669",
+        "created_at": "2026-08-16T18:36:11.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089058658370179484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089058658370179484",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088636251251568741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2089060617680519676",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1275,
+          "like_count": 1821,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T14:17:04.000Z",
+        "description": "门槛50，只在推特发图",
+        "id": "1427273133740806147",
+        "is_identity_verified": false,
+        "location": "星辰大海",
+        "most_recent_tweet_id": "2089058658370179484",
+        "name": "w琉璃w",
+        "pinned_tweet_id": "1974768485529268565",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063940553063202817/CFxczCvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11026,
+          "following_count": 687,
+          "like_count": 6314,
+          "listed_count": 25,
+          "media_count": 303,
+          "tweet_count": 5026
+        },
+        "url": "",
+        "username": "wliuliw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

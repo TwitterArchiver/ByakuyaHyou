@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2085712347981885859",
+    "created_at": "2026-08-16T14:44:26.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089000337105674408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1716498300889890818",
+          "start": 0,
+          "username": "EastFu215558"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089000337105674408",
+    "in_reply_to_user_id": "1716498300889890818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088950238363176967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EastFu215558 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2085712347981885859",
+        "created_at": "2026-08-16T14:44:26.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089000337105674408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1716498300889890818",
+              "start": 0,
+              "username": "EastFu215558"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000337105674408",
+        "in_reply_to_user_id": "1716498300889890818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950238363176967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EastFu215558 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716498300889890818",
+        "conversation_id": "2085712347981885859",
+        "created_at": "2026-08-16T11:25:22.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088950238363176967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572765868425383936",
+              "start": 0,
+              "username": "ByakuyaHyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088950238363176967",
+        "in_reply_to_user_id": "1572765868425383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088909184851235196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ByakuyaHyou 在深圳来不了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2089000337105674408",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1266,
+          "like_count": 1817,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1740
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-23T16:54:30.000Z",
+        "description": "叫我Caskiryn/知岚 中文/English\n生理男心理男 萌新coser/被缚 175/53\n随缘发 梦到什么发什么\n好想玩绳子😭😭😭",
+        "id": "1716498300889890818",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2088950238363176967",
+        "name": "Caskiryn",
+        "pinned_tweet_id": "2084997764333916187",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716498300889890818/1785603971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084937292763004928/MpomgKd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 810,
+          "like_count": 2825,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "EastFu215558",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

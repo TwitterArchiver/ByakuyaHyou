@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2087693781017702646",
+    "created_at": "2026-08-24T19:05:35.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091965160693088271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760877178047320064",
+          "start": 0,
+          "username": "lv_midori05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091965160693088271",
+    "in_reply_to_user_id": "1760877178047320064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087693781017702646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lv_midori05 抱抱你哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2087693774181052416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj6bTHbMAAFsMo.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2087693781017702646",
+        "created_at": "2026-08-24T19:05:35.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091965160693088271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760877178047320064",
+              "start": 0,
+              "username": "lv_midori05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091965160693088271",
+        "in_reply_to_user_id": "1760877178047320064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087693781017702646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lv_midori05 抱抱你哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087693774181052416"
+          ]
+        },
+        "author_id": "1760877178047320064",
+        "conversation_id": "2087693781017702646",
+        "created_at": "2026-08-13T00:12:39.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087693781017702646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "薛定谔的猫"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNWD25bice",
+              "end": 47,
+              "expanded_url": "https://x.com/ki_lit4717/status/2087693781017702646/photo/1",
+              "media_key": "3_2087693774181052416",
+              "start": 24,
+              "url": "https://t.co/LNWD25bice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087693781017702646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087693774181052416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2754,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再不观测到我，我会消失的\n#薛定谔的猫 #男娘 https://t.co/LNWD25bice"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2091965160693088271",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1352,
+          "like_count": 1828,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-23T04:00:27.000Z",
+        "description": "faze up\nmtf\n早就乱七八糟了",
+        "id": "1760877178047320064",
+        "is_identity_verified": false,
+        "location": "江蘇",
+        "most_recent_tweet_id": "2091964848297152609",
+        "name": "midori🍥",
+        "pinned_tweet_id": "2087693781017702646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760877178047320064/1770012938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089692961336643584/kJZACUB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 306,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "lv_midori05",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
