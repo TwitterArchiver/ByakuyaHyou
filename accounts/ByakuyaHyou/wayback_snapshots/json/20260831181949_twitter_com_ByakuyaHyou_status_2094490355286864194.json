@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "2094381692098351601",
+    "created_at": "2026-08-31T18:19:49.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094490355286864194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2084300018333179904",
+          "start": 0,
+          "username": "YouTan017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094490355286864194",
+    "in_reply_to_user_id": "2084300018333179904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094381692098351601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouTan017 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21849,
+        "height": 1280,
+        "media_key": "13_2094381630647574528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094381630647574528/img/g6G5yPi60saIG_wJ.jpg",
+        "public_metrics": {
+          "view_count": 494
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094381630647574528/vid/avc1/320x568/EaKB6BILDjP_Q_2S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094381630647574528/vid/avc1/480x852/A1dNmVYQS_swZuPp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094381630647574528/vid/avc1/720x1280/D3W9ZszTHGS_Vkwg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094381630647574528/pl/BS1ZLsU6B2x5L1FE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572765868425383936",
+        "conversation_id": "2094381692098351601",
+        "created_at": "2026-08-31T18:19:49.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094490355286864194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2084300018333179904",
+              "start": 0,
+              "username": "YouTan017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094490355286864194",
+        "in_reply_to_user_id": "2084300018333179904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094381692098351601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouTan017 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094381630647574528"
+          ]
+        },
+        "author_id": "2084300018333179904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2094381692098351601",
+        "created_at": "2026-08-31T11:08:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094381692098351601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "花火"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "cos"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "花火cos"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "手势舞"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "崩坏星穹铁道"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yo3P0JUQ4Y",
+              "end": 60,
+              "expanded_url": "https://x.com/YouTan017/status/2094381692098351601/video/1",
+              "media_key": "13_2094381630647574528",
+              "start": 37,
+              "url": "https://t.co/Yo3P0JUQ4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094381692098351601",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094381630647574528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1991,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟你表白~\n#花火 #cos #花火cos #手势舞 #崩坏星穹铁道 https://t.co/Yo3P0JUQ4Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2094490355286864194",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1392,
+          "like_count": 1832,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T15:33:45.000Z",
+        "description": "🇨🇳cn：幽昙\n一个默默无闻的小画师/CV\n破搞人机恋的",
+        "id": "2084300018333179904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094381692098351601",
+        "name": "YouTan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084300018333179904/1785773586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084301887483056128/PXxnSAXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "YouTan017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

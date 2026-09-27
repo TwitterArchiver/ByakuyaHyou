@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1572765868425383936",
+    "conversation_id": "1841686268851421660",
+    "created_at": "2024-10-03T03:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T04:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841686268851421660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1333389623452520455",
+          "start": 3,
+          "username": "bmEwUNVRXcP5w53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841686268851421660",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841348344213586012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmEwUNVRXcP5w53: 临阵脱逃可不好啊~服装准备好了，气氛已经燥热起来了，为什么不来享受呢？还是说你实际上根本就享受不了，短小包皮阳痿废物~🖤这样可不好哦，白费了我的准备，浪费了我的时间，你打算怎么补偿呢？一边说着自己是精薄早泄贱狗，一边磕头谢罪吧~🖤但是可…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841686268851421660].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841686268851421660",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841686268851421660"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841348341923512321"
+          ]
+        },
+        "author_id": "1333389623452520455",
+        "conversation_id": "1841348344213586012",
+        "created_at": "2024-10-02T05:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T06:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841348344213586012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "女s"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r51bc7X2r6",
+              "end": 168,
+              "expanded_url": "https://x.com/bmEwUNVRXcP5w53/status/1841348344213586012/photo/1",
+              "media_key": "3_1841348341923512321",
+              "start": 145,
+              "url": "https://t.co/r51bc7X2r6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841348344213586012",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1905,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "临阵脱逃可不好啊~服装准备好了，气氛已经燥热起来了，为什么不来享受呢？还是说你实际上根本就享受不了，短小包皮阳痿废物~🖤这样可不好哦，白费了我的准备，浪费了我的时间，你打算怎么补偿呢？一边说着自己是精薄早泄贱狗，一边磕头谢罪吧~🖤但是可别把自己的■■也上贡出去哦~🖤#文援 #女s #上贡 https://t.co/r51bc7X2r6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "是依奈酱♡哦\n新晋文媛一枚哦\n本体多变\n可御可萝～可攻可受可雌小鬼～\ns与m都可以哦\n收费可以参考置顶菜单\n其他业务私聊解锁\n门牌号：1927861810（无门槛）\n(更多联系方式私聊解锁哦)\n可以随时来聊天啦(喜欢可以来打赏)\n喜欢的话点个关注转发那就更好啦\n(以前的推文可以点击 媒体 查看哦～)",
+        "id": "1572765868425383936",
+        "location": "在哪里呢～笨蛋依奈不知道哦",
+        "name": "千秋 依奈（文媛姬/互推/长期营业）",
+        "pinned_tweet_id": "1829442755996913879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822822260476116992/WkanYV2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 84,
+          "like_count": 597,
+          "listed_count": 0,
+          "tweet_count": 746
+        },
+        "username": "ByakuyaHyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T12:37:28.000Z",
+        "description": "从地狱中逃脱的情欲玩家，游荡在人间的双血统恶魔阿斯摩提菈，大部分时候为S属性，只有面对喜欢的人才会变成M。在这里等候着贱畜们来跪拜认主上贡，也欢迎客人们来交流各种变态淫乱经历。价目30元/0.5h，50元/1h。门牌号:2094108443 或者电报联系也可以。#文援",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 131,
+                "tag": "文援"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Asmodilla_Dem…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Asmodilla_Demon",
+                "start": 0,
+                "url": "https://t.co/2Ym55J7Tsq"
+              }
+            ]
+          }
+        },
+        "id": "1333389623452520455",
+        "name": "Asmodilla",
+        "pinned_tweet_id": "1836360884551323688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806892168415694848/f3-Uw54Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 113,
+          "like_count": 232,
+          "listed_count": 2,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/2Ym55J7Tsq",
+        "username": "bmEwUNVRXcP5w53",
+        "verified": false
+      }
+    ]
+  }
+}

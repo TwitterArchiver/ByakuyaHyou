@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100420683700506624"
+      ]
+    },
+    "author_id": "1572765868425383936",
+    "conversation_id": "2100420689950077141",
+    "created_at": "2026-09-17T03:04:51.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100420689950077141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6P23J7Rj2B",
+          "end": 98,
+          "expanded_url": "https://x.com/ByakuyaHyou/status/2100420689950077141/photo/1",
+          "media_key": "3_2100420683700506624",
+          "start": 75,
+          "url": "https://t.co/6P23J7Rj2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100420689950077141",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100420683700506624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最近发现一个AI工具叫做QQ，里面好多智能体，聊天都是免费的，识图能力还可以，就是推理速度有点慢，然后有点笨，可能不理解你意思，经常会重复你的输入 https://t.co/6P23J7Rj2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2100420683700506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYxe7raEAAPWZU.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100420683700506624"
+          ]
+        },
+        "author_id": "1572765868425383936",
+        "conversation_id": "2100420689950077141",
+        "created_at": "2026-09-17T03:04:51.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100420689950077141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6P23J7Rj2B",
+              "end": 98,
+              "expanded_url": "https://x.com/ByakuyaHyou/status/2100420689950077141/photo/1",
+              "media_key": "3_2100420683700506624",
+              "start": 75,
+              "url": "https://t.co/6P23J7Rj2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100420689950077141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100420683700506624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近发现一个AI工具叫做QQ，里面好多智能体，聊天都是免费的，识图能力还可以，就是推理速度有点慢，然后有点笨，可能不理解你意思，经常会重复你的输入 https://t.co/6P23J7Rj2B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-22T01:53:15.000Z",
+        "description": "心理委员，可扩列\n在自己的能力范围内，一点苦都不要吃，一点难听的话都不要听，不喜欢的人就删掉。\n人生的首要任务是规避苦痛，而非追求幸福，摒弃所有不必要的愧疚感，让自己的感受舒适，是最高准则。\n人不是老了才会死，而是随时都会死，所以在自能力范围内一定要好好爱自己，要把自己的感受放在第一位。\n宝宝@Liora4622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Liora4622"
+              }
+            ]
+          }
+        },
+        "id": "1572765868425383936",
+        "is_identity_verified": false,
+        "location": "源石内化宇宙",
+        "most_recent_tweet_id": "2100420689950077141",
+        "name": "普瑞赛斯（心理委员/温柔知心姐姐版本）",
+        "pinned_tweet_id": "1992489815213011358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572765868425383936/1779551599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056832108191252480/CzJJn-qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 1401,
+          "like_count": 1831,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "ByakuyaHyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
